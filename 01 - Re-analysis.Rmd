@@ -11,7 +11,7 @@ source("R/commons.R") # load functions that are shared across notebooks
 Use Markdown to explain your analysis. Your code goes into each chunk like below.
 
 ```{r}
-data_file_paths <- list.files("data/Feit2016/Typing/", full.names = TRUE)
+data_file_paths <- list.files("data/", full.names = TRUE)
 ```
 
 Extract data:
@@ -34,12 +34,12 @@ time_input <- aggregate(input_time~current_input, P1, sum )
 # WPM calculation
 for (i in nrow(time_input)){
   line = time_input[i,]
-word_count <- (str_length(line$current_input) - 1) / 5
-word_count
-time <-line$input_time 
-time_minute <- time / 1000 / 60 
-wpm <- word_count / time_minute   }
-wpm
+  word_count <- (str_length(line$current_input) - 1) / sapply(strsplit(as.character(P1$current_input[i]), " "), length)
+  word_count
+  time <-line$input_time 
+  time_minute <- time / 1000 / 60 
+  wpm <- word_count / time_minute   }
+  wpm
   
 ```
 

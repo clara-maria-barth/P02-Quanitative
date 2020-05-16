@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+=======
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
+>>>>>>> 19db157be492d771683f87cda1a8f3484f23ac2e

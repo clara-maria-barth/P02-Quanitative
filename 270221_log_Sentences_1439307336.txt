@@ -1,0 +1,1209 @@
+input_time	user_id	stimulus_id	input_index	iki	input	key_symbol	current_input	wpm	sd_iki	stimulus	condition	input_time_ms	uer	ke
+1439307336.454	270221	0	0	0	Shift_R	Shift_R	Tulen takaisin perjantaina.	 57.49	 134.73	Tulen takaisin perjantaina.	Sentences	0	0	0.84
+1439307336.61	270221	0	1	155	T	T	Tulen takaisin perjantaina.	 57.49	 134.73	Tulen takaisin perjantaina.	Sentences	155	0	0.84
+1439307336.828	270221	0	2	219	u	u	Tulen takaisin perjantaina.	 57.49	 134.73	Tulen takaisin perjantaina.	Sentences	374	0	0.84
+1439307336.984	270221	0	3	155	e	e	Tulen takaisin perjantaina.	 57.49	 134.73	Tulen takaisin perjantaina.	Sentences	529	0	0.84
+1439307337.514	270221	0	4	530		BackSpace	Tulen takaisin perjantaina.	 57.49	 134.73	Tulen takaisin perjantaina.	Sentences	1059	0	0.84
+1439307337.858	270221	0	5	345	l	l	Tulen takaisin perjantaina.	 57.49	 134.73	Tulen takaisin perjantaina.	Sentences	1404	0	0.84
+1439307337.951	270221	0	6	92	e	e	Tulen takaisin perjantaina.	 57.49	 134.73	Tulen takaisin perjantaina.	Sentences	1496	0	0.84
+1439307338.076	270221	0	7	125	n	n	Tulen takaisin perjantaina.	 57.49	 134.73	Tulen takaisin perjantaina.	Sentences	1621	0	0.84
+1439307338.17	270221	0	8	95	_	space	Tulen takaisin perjantaina.	 57.49	 134.73	Tulen takaisin perjantaina.	Sentences	1716	0	0.84
+1439307338.263	270221	0	9	93	t	t	Tulen takaisin perjantaina.	 57.49	 134.73	Tulen takaisin perjantaina.	Sentences	1809	0	0.84
+1439307338.388	270221	0	10	125	a	a	Tulen takaisin perjantaina.	 57.49	 134.73	Tulen takaisin perjantaina.	Sentences	1934	0	0.84
+1439307338.544	270221	0	11	155	k	k	Tulen takaisin perjantaina.	 57.49	 134.73	Tulen takaisin perjantaina.	Sentences	2089	0	0.84
+1439307338.606	270221	0	12	62	a	a	Tulen takaisin perjantaina.	 57.49	 134.73	Tulen takaisin perjantaina.	Sentences	2151	0	0.84
+1439307338.794	270221	0	13	188	i	i	Tulen takaisin perjantaina.	 57.49	 134.73	Tulen takaisin perjantaina.	Sentences	2339	0	0.84
+1439307338.95	270221	0	14	157	s	s	Tulen takaisin perjantaina.	 57.49	 134.73	Tulen takaisin perjantaina.	Sentences	2496	0	0.84
+1439307339.137	270221	0	15	187	i	i	Tulen takaisin perjantaina.	 57.49	 134.73	Tulen takaisin perjantaina.	Sentences	2683	0	0.84
+1439307339.199	270221	0	16	61	n	n	Tulen takaisin perjantaina.	 57.49	 134.73	Tulen takaisin perjantaina.	Sentences	2744	0	0.84
+1439307339.542	270221	0	17	344	_	space	Tulen takaisin perjantaina.	 57.49	 134.73	Tulen takaisin perjantaina.	Sentences	3088	0	0.84
+1439307340.104	270221	0	18	562	p	p	Tulen takaisin perjantaina.	 57.49	 134.73	Tulen takaisin perjantaina.	Sentences	3650	0	0.84
+1439307340.229	270221	0	19	125	e	e	Tulen takaisin perjantaina.	 57.49	 134.73	Tulen takaisin perjantaina.	Sentences	3775	0	0.84
+1439307340.291	270221	0	20	61	r	r	Tulen takaisin perjantaina.	 57.49	 134.73	Tulen takaisin perjantaina.	Sentences	3836	0	0.84
+1439307340.447	270221	0	21	157	j	j	Tulen takaisin perjantaina.	 57.49	 134.73	Tulen takaisin perjantaina.	Sentences	3993	0	0.84
+1439307340.541	270221	0	22	93	a	a	Tulen takaisin perjantaina.	 57.49	 134.73	Tulen takaisin perjantaina.	Sentences	4086	0	0.84
+1439307340.728	270221	0	23	187	t	t	Tulen takaisin perjantaina.	 57.49	 134.73	Tulen takaisin perjantaina.	Sentences	4273	0	0.84
+1439307341.165	270221	0	24	437		BackSpace	Tulen takaisin perjantaina.	 57.49	 134.73	Tulen takaisin perjantaina.	Sentences	4710	0	0.84
+1439307341.383	270221	0	25	218	n	n	Tulen takaisin perjantaina.	 57.49	 134.73	Tulen takaisin perjantaina.	Sentences	4928	0	0.84
+1439307341.446	270221	0	26	64	t	t	Tulen takaisin perjantaina.	 57.49	 134.73	Tulen takaisin perjantaina.	Sentences	4992	0	0.84
+1439307341.508	270221	0	27	61	a	a	Tulen takaisin perjantaina.	 57.49	 134.73	Tulen takaisin perjantaina.	Sentences	5053	0	0.84
+1439307341.57	270221	0	28	62	i	i	Tulen takaisin perjantaina.	 57.49	 134.73	Tulen takaisin perjantaina.	Sentences	5115	0	0.84
+1439307341.633	270221	0	29	63	n	n	Tulen takaisin perjantaina.	 57.49	 134.73	Tulen takaisin perjantaina.	Sentences	5178	0	0.84
+1439307341.695	270221	0	30	62	a	a	Tulen takaisin perjantaina.	 57.49	 134.73	Tulen takaisin perjantaina.	Sentences	5240	0	0.84
+1439307341.882	270221	0	31	187	.	period	Tulen takaisin perjantaina.	 57.49	 134.73	Tulen takaisin perjantaina.	Sentences	5427	0	0.84
+1439307343.13	270221	1	0	0	Shift_R	Shift_R	Aioin osallistua	 91.60	  56.24	Aioin osallistua	Sentences	0	0	0.94
+1439307343.38	270221	1	1	250	A	A	Aioin osallistua	 91.60	  56.24	Aioin osallistua	Sentences	250	0	0.94
+1439307343.567	270221	1	2	186	i	i	Aioin osallistua	 91.60	  56.24	Aioin osallistua	Sentences	436	0	0.94
+1439307343.754	270221	1	3	187	o	o	Aioin osallistua	 91.60	  56.24	Aioin osallistua	Sentences	623	0	0.94
+1439307343.817	270221	1	4	63	i	i	Aioin osallistua	 91.60	  56.24	Aioin osallistua	Sentences	686	0	0.94
+1439307344.004	270221	1	5	187	n	n	Aioin osallistua	 91.60	  56.24	Aioin osallistua	Sentences	873	0	0.94
+1439307344.129	270221	1	6	125	_	space	Aioin osallistua	 91.60	  56.24	Aioin osallistua	Sentences	998	0	0.94
+1439307344.254	270221	1	7	125	o	o	Aioin osallistua	 91.60	  56.24	Aioin osallistua	Sentences	1123	0	0.94
+1439307344.316	270221	1	8	62	s	s	Aioin osallistua	 91.60	  56.24	Aioin osallistua	Sentences	1185	0	0.94
+1439307344.41	270221	1	9	94	a	a	Aioin osallistua	 91.60	  56.24	Aioin osallistua	Sentences	1279	0	0.94
+1439307344.534	270221	1	10	124	l	l	Aioin osallistua	 91.60	  56.24	Aioin osallistua	Sentences	1403	0	0.94
+1439307344.659	270221	1	11	125	l	l	Aioin osallistua	 91.60	  56.24	Aioin osallistua	Sentences	1528	0	0.94
+1439307344.753	270221	1	12	94	i	i	Aioin osallistua	 91.60	  56.24	Aioin osallistua	Sentences	1622	0	0.94
+1439307344.784	270221	1	13	31	s	s	Aioin osallistua	 91.60	  56.24	Aioin osallistua	Sentences	1653	0	0.94
+1439307344.878	270221	1	14	94	t	t	Aioin osallistua	 91.60	  56.24	Aioin osallistua	Sentences	1747	0	0.94
+1439307345.002	270221	1	15	124	u	u	Aioin osallistua	 91.60	  56.24	Aioin osallistua	Sentences	1871	0	0.94
+1439307345.096	270221	1	16	94	a	a	Aioin osallistua	 91.60	  56.24	Aioin osallistua	Sentences	1965	0	0.94
+1439307346.282	270221	2	0	0	Shift_R	Shift_R	Tarvitsetko sen tänään?	 79.11	  52.38	Tarvitsetko sen tänään?	Sentences	0	0	0.92
+1439307346.469	270221	2	1	187	T	T	Tarvitsetko sen tänään?	 79.11	  52.38	Tarvitsetko sen tänään?	Sentences	187	0	0.92
+1439307346.625	270221	2	2	155	a	a	Tarvitsetko sen tänään?	 79.11	  52.38	Tarvitsetko sen tänään?	Sentences	342	0	0.92
+1439307346.687	270221	2	3	62	r	r	Tarvitsetko sen tänään?	 79.11	  52.38	Tarvitsetko sen tänään?	Sentences	404	0	0.92
+1439307346.906	270221	2	4	219	v	v	Tarvitsetko sen tänään?	 79.11	  52.38	Tarvitsetko sen tänään?	Sentences	623	0	0.92
+1439307346.999	270221	2	5	94	i	i	Tarvitsetko sen tänään?	 79.11	  52.38	Tarvitsetko sen tänään?	Sentences	717	0	0.92
+1439307347.124	270221	2	6	125	t	t	Tarvitsetko sen tänään?	 79.11	  52.38	Tarvitsetko sen tänään?	Sentences	842	0	0.92
+1439307347.28	270221	2	7	155	s	s	Tarvitsetko sen tänään?	 79.11	  52.38	Tarvitsetko sen tänään?	Sentences	997	0	0.92
+1439307347.342	270221	2	8	62	e	e	Tarvitsetko sen tänään?	 79.11	  52.38	Tarvitsetko sen tänään?	Sentences	1059	0	0.92
+1439307347.53	270221	2	9	188	t	t	Tarvitsetko sen tänään?	 79.11	  52.38	Tarvitsetko sen tänään?	Sentences	1247	0	0.92
+1439307347.686	270221	2	10	157	k	k	Tarvitsetko sen tänään?	 79.11	  52.38	Tarvitsetko sen tänään?	Sentences	1404	0	0.92
+1439307347.748	270221	2	11	61	o	o	Tarvitsetko sen tänään?	 79.11	  52.38	Tarvitsetko sen tänään?	Sentences	1465	0	0.92
+1439307347.873	270221	2	12	125	_	space	Tarvitsetko sen tänään?	 79.11	  52.38	Tarvitsetko sen tänään?	Sentences	1590	0	0.92
+1439307348.06	270221	2	13	187	s	s	Tarvitsetko sen tänään?	 79.11	  52.38	Tarvitsetko sen tänään?	Sentences	1777	0	0.92
+1439307348.154	270221	2	14	94	e	e	Tarvitsetko sen tänään?	 79.11	  52.38	Tarvitsetko sen tänään?	Sentences	1871	0	0.92
+1439307348.31	270221	2	15	156	n	n	Tarvitsetko sen tänään?	 79.11	  52.38	Tarvitsetko sen tänään?	Sentences	2027	0	0.92
+1439307348.403	270221	2	16	94	_	space	Tarvitsetko sen tänään?	 79.11	  52.38	Tarvitsetko sen tänään?	Sentences	2121	0	0.92
+1439307348.466	270221	2	17	63	t	t	Tarvitsetko sen tänään?	 79.11	  52.38	Tarvitsetko sen tänään?	Sentences	2184	0	0.92
+1439307348.559	270221	2	18	92	ä	adiaeresis	Tarvitsetko sen tänään?	 79.11	  52.38	Tarvitsetko sen tänään?	Sentences	2276	0	0.92
+1439307348.778	270221	2	19	220	n	n	Tarvitsetko sen tänään?	 79.11	  52.38	Tarvitsetko sen tänään?	Sentences	2496	0	0.92
+1439307348.902	270221	2	20	123	ä	adiaeresis	Tarvitsetko sen tänään?	 79.11	  52.38	Tarvitsetko sen tänään?	Sentences	2619	0	0.92
+1439307349.058	270221	2	21	157	ä	adiaeresis	Tarvitsetko sen tänään?	 79.11	  52.38	Tarvitsetko sen tänään?	Sentences	2776	0	0.92
+1439307349.214	270221	2	22	155	n	n	Tarvitsetko sen tänään?	 79.11	  52.38	Tarvitsetko sen tänään?	Sentences	2931	0	0.92
+1439307349.433	270221	2	23	220	Shift_R	Shift_R	Tarvitsetko sen tänään?	 79.11	  52.38	Tarvitsetko sen tänään?	Sentences	3151	0	0.92
+1439307349.62	270221	2	24	186	?	question	Tarvitsetko sen tänään?	 79.11	  52.38	Tarvitsetko sen tänään?	Sentences	3337	0	0.92
+1439307350.806	270221	3	0	0	Shift_R	Shift_R	Voitko auttaa minua?	 93.71	  50.48	Voitko auttaa minua?	Sentences	0	0	0.91
+1439307351.055	270221	3	1	249	V	V	Voitko auttaa minua?	 93.71	  50.48	Voitko auttaa minua?	Sentences	249	0	0.91
+1439307351.242	270221	3	2	187	o	o	Voitko auttaa minua?	 93.71	  50.48	Voitko auttaa minua?	Sentences	436	0	0.91
+1439307351.305	270221	3	3	63	i	i	Voitko auttaa minua?	 93.71	  50.48	Voitko auttaa minua?	Sentences	499	0	0.91
+1439307351.398	270221	3	4	93	t	t	Voitko auttaa minua?	 93.71	  50.48	Voitko auttaa minua?	Sentences	592	0	0.91
+1439307351.523	270221	3	5	125	k	k	Voitko auttaa minua?	 93.71	  50.48	Voitko auttaa minua?	Sentences	717	0	0.91
+1439307351.554	270221	3	6	30	o	o	Voitko auttaa minua?	 93.71	  50.48	Voitko auttaa minua?	Sentences	747	0	0.91
+1439307351.648	270221	3	7	95	_	space	Voitko auttaa minua?	 93.71	  50.48	Voitko auttaa minua?	Sentences	842	0	0.91
+1439307351.71	270221	3	8	62	a	a	Voitko auttaa minua?	 93.71	  50.48	Voitko auttaa minua?	Sentences	904	0	0.91
+1439307351.804	270221	3	9	93	u	u	Voitko auttaa minua?	 93.71	  50.48	Voitko auttaa minua?	Sentences	997	0	0.91
+1439307351.929	270221	3	10	125	t	t	Voitko auttaa minua?	 93.71	  50.48	Voitko auttaa minua?	Sentences	1122	0	0.91
+1439307352.085	270221	3	11	157	t	t	Voitko auttaa minua?	 93.71	  50.48	Voitko auttaa minua?	Sentences	1279	0	0.91
+1439307352.147	270221	3	12	62	a	a	Voitko auttaa minua?	 93.71	  50.48	Voitko auttaa minua?	Sentences	1341	0	0.91
+1439307352.303	270221	3	13	155	a	a	Voitko auttaa minua?	 93.71	  50.48	Voitko auttaa minua?	Sentences	1496	0	0.91
+1439307352.428	270221	3	14	125	_	space	Voitko auttaa minua?	 93.71	  50.48	Voitko auttaa minua?	Sentences	1621	0	0.91
+1439307352.553	270221	3	15	125	m	m	Voitko auttaa minua?	 93.71	  50.48	Voitko auttaa minua?	Sentences	1746	0	0.91
+1439307352.646	270221	3	16	93	i	i	Voitko auttaa minua?	 93.71	  50.48	Voitko auttaa minua?	Sentences	1839	0	0.91
+1439307352.74	270221	3	17	95	n	n	Voitko auttaa minua?	 93.71	  50.48	Voitko auttaa minua?	Sentences	1934	0	0.91
+1439307352.802	270221	3	18	62	u	u	Voitko auttaa minua?	 93.71	  50.48	Voitko auttaa minua?	Sentences	1996	0	0.91
+1439307352.927	270221	3	19	125	a	a	Voitko auttaa minua?	 93.71	  50.48	Voitko auttaa minua?	Sentences	2121	0	0.91
+1439307353.083	270221	3	20	155	Shift_R	Shift_R	Voitko auttaa minua?	 93.71	  50.48	Voitko auttaa minua?	Sentences	2276	0	0.91
+1439307353.239	270221	3	21	157	?	question	Voitko auttaa minua?	 93.71	  50.48	Voitko auttaa minua?	Sentences	2433	0	0.91
+1439307354.3	270221	4	0	0	Shift_R	Shift_R	Tuo lienee oikea vastaus.	 74.46	 131.57	Tuo lienee oikea vastaus.	Sentences	0	0	0.96
+1439307354.487	270221	4	1	187	T	T	Tuo lienee oikea vastaus.	 74.46	 131.57	Tuo lienee oikea vastaus.	Sentences	187	0	0.96
+1439307354.674	270221	4	2	187	u	u	Tuo lienee oikea vastaus.	 74.46	 131.57	Tuo lienee oikea vastaus.	Sentences	374	0	0.96
+1439307354.737	270221	4	3	63	o	o	Tuo lienee oikea vastaus.	 74.46	 131.57	Tuo lienee oikea vastaus.	Sentences	437	0	0.96
+1439307354.83	270221	4	4	92	_	space	Tuo lienee oikea vastaus.	 74.46	 131.57	Tuo lienee oikea vastaus.	Sentences	529	0	0.96
+1439307354.893	270221	4	5	63	l	l	Tuo lienee oikea vastaus.	 74.46	 131.57	Tuo lienee oikea vastaus.	Sentences	592	0	0.96
+1439307354.986	270221	4	6	94	i	i	Tuo lienee oikea vastaus.	 74.46	 131.57	Tuo lienee oikea vastaus.	Sentences	686	0	0.96
+1439307355.08	270221	4	7	93	e	e	Tuo lienee oikea vastaus.	 74.46	 131.57	Tuo lienee oikea vastaus.	Sentences	779	0	0.96
+1439307355.236	270221	4	8	157	n	n	Tuo lienee oikea vastaus.	 74.46	 131.57	Tuo lienee oikea vastaus.	Sentences	936	0	0.96
+1439307355.361	270221	4	9	125	e	e	Tuo lienee oikea vastaus.	 74.46	 131.57	Tuo lienee oikea vastaus.	Sentences	1061	0	0.96
+1439307355.486	270221	4	10	125	e	e	Tuo lienee oikea vastaus.	 74.46	 131.57	Tuo lienee oikea vastaus.	Sentences	1186	0	0.96
+1439307355.579	270221	4	11	93	_	space	Tuo lienee oikea vastaus.	 74.46	 131.57	Tuo lienee oikea vastaus.	Sentences	1279	0	0.96
+1439307355.735	270221	4	12	155	o	o	Tuo lienee oikea vastaus.	 74.46	 131.57	Tuo lienee oikea vastaus.	Sentences	1434	0	0.96
+1439307355.798	270221	4	13	64	i	i	Tuo lienee oikea vastaus.	 74.46	 131.57	Tuo lienee oikea vastaus.	Sentences	1498	0	0.96
+1439307355.954	270221	4	14	156	k	k	Tuo lienee oikea vastaus.	 74.46	 131.57	Tuo lienee oikea vastaus.	Sentences	1654	0	0.96
+1439307356.016	270221	4	15	62	e	e	Tuo lienee oikea vastaus.	 74.46	 131.57	Tuo lienee oikea vastaus.	Sentences	1716	0	0.96
+1439307356.172	270221	4	16	155	a	a	Tuo lienee oikea vastaus.	 74.46	 131.57	Tuo lienee oikea vastaus.	Sentences	1871	0	0.96
+1439307356.671	270221	4	17	500	_	space	Tuo lienee oikea vastaus.	 74.46	 131.57	Tuo lienee oikea vastaus.	Sentences	2371	0	0.96
+1439307356.827	270221	4	18	155	v	v	Tuo lienee oikea vastaus.	 74.46	 131.57	Tuo lienee oikea vastaus.	Sentences	2526	0	0.96
+1439307357.015	270221	4	19	189	a	a	Tuo lienee oikea vastaus.	 74.46	 131.57	Tuo lienee oikea vastaus.	Sentences	2715	0	0.96
+1439307357.077	270221	4	20	61	s	s	Tuo lienee oikea vastaus.	 74.46	 131.57	Tuo lienee oikea vastaus.	Sentences	2776	0	0.96
+1439307357.202	270221	4	21	125	t	t	Tuo lienee oikea vastaus.	 74.46	 131.57	Tuo lienee oikea vastaus.	Sentences	2901	0	0.96
+1439307357.264	270221	4	22	62	a	a	Tuo lienee oikea vastaus.	 74.46	 131.57	Tuo lienee oikea vastaus.	Sentences	2963	0	0.96
+1439307357.451	270221	4	23	188	u	u	Tuo lienee oikea vastaus.	 74.46	 131.57	Tuo lienee oikea vastaus.	Sentences	3151	0	0.96
+1439307357.545	270221	4	24	94	s	s	Tuo lienee oikea vastaus.	 74.46	 131.57	Tuo lienee oikea vastaus.	Sentences	3245	0	0.96
+1439307358.169	270221	4	25	623	.	period	Tuo lienee oikea vastaus.	 74.46	 131.57	Tuo lienee oikea vastaus.	Sentences	3868	0	0.96
+1439307359.105	270221	5	0	0	Shift_R	Shift_R	Mikä on vialla?	 85.45	  40.28	Mikä on vialla?	Sentences	0	0	0.88
+1439307359.323	270221	5	1	217	M	M	Mikä on vialla?	 85.45	  40.28	Mikä on vialla?	Sentences	217	0	0.88
+1439307359.511	270221	5	2	188	i	i	Mikä on vialla?	 85.45	  40.28	Mikä on vialla?	Sentences	405	0	0.88
+1439307359.667	270221	5	3	157	k	k	Mikä on vialla?	 85.45	  40.28	Mikä on vialla?	Sentences	562	0	0.88
+1439307359.729	270221	5	4	62	ä	adiaeresis	Mikä on vialla?	 85.45	  40.28	Mikä on vialla?	Sentences	624	0	0.88
+1439307359.854	270221	5	5	125	_	space	Mikä on vialla?	 85.45	  40.28	Mikä on vialla?	Sentences	749	0	0.88
+1439307359.947	270221	5	6	93	o	o	Mikä on vialla?	 85.45	  40.28	Mikä on vialla?	Sentences	842	0	0.88
+1439307360.041	270221	5	7	93	n	n	Mikä on vialla?	 85.45	  40.28	Mikä on vialla?	Sentences	935	0	0.88
+1439307360.135	270221	5	8	94	_	space	Mikä on vialla?	 85.45	  40.28	Mikä on vialla?	Sentences	1029	0	0.88
+1439307360.259	270221	5	9	125	v	v	Mikä on vialla?	 85.45	  40.28	Mikä on vialla?	Sentences	1154	0	0.88
+1439307360.353	270221	5	10	93	i	i	Mikä on vialla?	 85.45	  40.28	Mikä on vialla?	Sentences	1247	0	0.88
+1439307360.447	270221	5	11	95	a	a	Mikä on vialla?	 85.45	  40.28	Mikä on vialla?	Sentences	1342	0	0.88
+1439307360.571	270221	5	12	124	l	l	Mikä on vialla?	 85.45	  40.28	Mikä on vialla?	Sentences	1466	0	0.88
+1439307360.696	270221	5	13	125	l	l	Mikä on vialla?	 85.45	  40.28	Mikä on vialla?	Sentences	1591	0	0.88
+1439307360.79	270221	5	14	93	a	a	Mikä on vialla?	 85.45	  40.28	Mikä on vialla?	Sentences	1684	0	0.88
+1439307360.946	270221	5	15	157	Shift_R	Shift_R	Mikä on vialla?	 85.45	  40.28	Mikä on vialla?	Sentences	1841	0	0.88
+1439307361.071	270221	5	16	125	?	question	Mikä on vialla?	 85.45	  40.28	Mikä on vialla?	Sentences	1966	0	0.88
+1439307362.007	270221	6	0	0	Shift_R	Shift_R	Voin paklata aikaisemmin.	 67.40	  98.14	Voin paklata aikaisemmin.	Sentences	0	0	0.83
+1439307362.225	270221	6	1	217	V	V	Voin paklata aikaisemmin.	 67.40	  98.14	Voin paklata aikaisemmin.	Sentences	217	0	0.83
+1439307362.381	270221	6	2	157	o	o	Voin paklata aikaisemmin.	 67.40	  98.14	Voin paklata aikaisemmin.	Sentences	374	0	0.83
+1439307362.443	270221	6	3	62	i	i	Voin paklata aikaisemmin.	 67.40	  98.14	Voin paklata aikaisemmin.	Sentences	436	0	0.83
+1439307362.631	270221	6	4	188	n	n	Voin paklata aikaisemmin.	 67.40	  98.14	Voin paklata aikaisemmin.	Sentences	624	0	0.83
+1439307362.693	270221	6	5	62	_	space	Voin paklata aikaisemmin.	 67.40	  98.14	Voin paklata aikaisemmin.	Sentences	686	0	0.83
+1439307362.849	270221	6	6	156	p	p	Voin paklata aikaisemmin.	 67.40	  98.14	Voin paklata aikaisemmin.	Sentences	842	0	0.83
+1439307362.943	270221	6	7	94	a	a	Voin paklata aikaisemmin.	 67.40	  98.14	Voin paklata aikaisemmin.	Sentences	936	0	0.83
+1439307363.13	270221	6	8	187	a	a	Voin paklata aikaisemmin.	 67.40	  98.14	Voin paklata aikaisemmin.	Sentences	1123	0	0.83
+1439307363.223	270221	6	9	93	t	t	Voin paklata aikaisemmin.	 67.40	  98.14	Voin paklata aikaisemmin.	Sentences	1216	0	0.83
+1439307363.535	270221	6	10	312		BackSpace	Voin paklata aikaisemmin.	 67.40	  98.14	Voin paklata aikaisemmin.	Sentences	1528	0	0.83
+1439307363.66	270221	6	11	125		BackSpace	Voin paklata aikaisemmin.	 67.40	  98.14	Voin paklata aikaisemmin.	Sentences	1653	0	0.83
+1439307363.879	270221	6	12	218	k	k	Voin paklata aikaisemmin.	 67.40	  98.14	Voin paklata aikaisemmin.	Sentences	1871	0	0.83
+1439307363.879	270221	6	13	0	l	l	Voin paklata aikaisemmin.	 67.40	  98.14	Voin paklata aikaisemmin.	Sentences	1871	0	0.83
+1439307363.941	270221	6	14	63	a	a	Voin paklata aikaisemmin.	 67.40	  98.14	Voin paklata aikaisemmin.	Sentences	1934	0	0.83
+1439307364.097	270221	6	15	155	t	t	Voin paklata aikaisemmin.	 67.40	  98.14	Voin paklata aikaisemmin.	Sentences	2089	0	0.83
+1439307364.159	270221	6	16	62	a	a	Voin paklata aikaisemmin.	 67.40	  98.14	Voin paklata aikaisemmin.	Sentences	2151	0	0.83
+1439307364.596	270221	6	17	437	_	space	Voin paklata aikaisemmin.	 67.40	  98.14	Voin paklata aikaisemmin.	Sentences	2588	0	0.83
+1439307364.815	270221	6	18	220	a	a	Voin paklata aikaisemmin.	 67.40	  98.14	Voin paklata aikaisemmin.	Sentences	2808	0	0.83
+1439307364.939	270221	6	19	123	i	i	Voin paklata aikaisemmin.	 67.40	  98.14	Voin paklata aikaisemmin.	Sentences	2931	0	0.83
+1439307365.127	270221	6	20	189	k	k	Voin paklata aikaisemmin.	 67.40	  98.14	Voin paklata aikaisemmin.	Sentences	3120	0	0.83
+1439307365.22	270221	6	21	93	a	a	Voin paklata aikaisemmin.	 67.40	  98.14	Voin paklata aikaisemmin.	Sentences	3213	0	0.83
+1439307365.345	270221	6	22	125	i	i	Voin paklata aikaisemmin.	 67.40	  98.14	Voin paklata aikaisemmin.	Sentences	3338	0	0.83
+1439307365.407	270221	6	23	62	s	s	Voin paklata aikaisemmin.	 67.40	  98.14	Voin paklata aikaisemmin.	Sentences	3400	0	0.83
+1439307365.47	270221	6	24	63	e	e	Voin paklata aikaisemmin.	 67.40	  98.14	Voin paklata aikaisemmin.	Sentences	3463	0	0.83
+1439307365.563	270221	6	25	92	m	m	Voin paklata aikaisemmin.	 67.40	  98.14	Voin paklata aikaisemmin.	Sentences	3555	0	0.83
+1439307365.782	270221	6	26	220	m	m	Voin paklata aikaisemmin.	 67.40	  98.14	Voin paklata aikaisemmin.	Sentences	3775	0	0.83
+1439307365.813	270221	6	27	30	i	i	Voin paklata aikaisemmin.	 67.40	  98.14	Voin paklata aikaisemmin.	Sentences	3805	0	0.83
+1439307365.907	270221	6	28	95	n	n	Voin paklata aikaisemmin.	 67.40	  98.14	Voin paklata aikaisemmin.	Sentences	3900	0	0.83
+1439307366.281	270221	6	29	373	.	period	Voin paklata aikaisemmin.	 67.40	  98.14	Voin paklata aikaisemmin.	Sentences	4273	0	0.83
+1439307367.279	270221	7	0	0	Shift_R	Shift_R	Ei ollut edes lähwllä.	 72.77	  83.88	Ei ollut edes lähwllä.	Sentences	0	0	0.96
+1439307367.498	270221	7	1	218	E	E	Ei ollut edes lähwllä.	 72.77	  83.88	Ei ollut edes lähwllä.	Sentences	218	0	0.96
+1439307367.779	270221	7	2	282	i	i	Ei ollut edes lähwllä.	 72.77	  83.88	Ei ollut edes lähwllä.	Sentences	500	0	0.96
+1439307367.903	270221	7	3	124	_	space	Ei ollut edes lähwllä.	 72.77	  83.88	Ei ollut edes lähwllä.	Sentences	624	0	0.96
+1439307367.966	270221	7	4	63	o	o	Ei ollut edes lähwllä.	 72.77	  83.88	Ei ollut edes lähwllä.	Sentences	687	0	0.96
+1439307368.153	270221	7	5	187	l	l	Ei ollut edes lähwllä.	 72.77	  83.88	Ei ollut edes lähwllä.	Sentences	874	0	0.96
+1439307368.309	270221	7	6	155	l	l	Ei ollut edes lähwllä.	 72.77	  83.88	Ei ollut edes lähwllä.	Sentences	1029	0	0.96
+1439307368.371	270221	7	7	63	u	u	Ei ollut edes lähwllä.	 72.77	  83.88	Ei ollut edes lähwllä.	Sentences	1092	0	0.96
+1439307368.496	270221	7	8	125	t	t	Ei ollut edes lähwllä.	 72.77	  83.88	Ei ollut edes lähwllä.	Sentences	1217	0	0.96
+1439307368.527	270221	7	9	30	_	space	Ei ollut edes lähwllä.	 72.77	  83.88	Ei ollut edes lähwllä.	Sentences	1247	0	0.96
+1439307368.683	270221	7	10	157	e	e	Ei ollut edes lähwllä.	 72.77	  83.88	Ei ollut edes lähwllä.	Sentences	1404	0	0.96
+1439307368.871	270221	7	11	188	d	d	Ei ollut edes lähwllä.	 72.77	  83.88	Ei ollut edes lähwllä.	Sentences	1592	0	0.96
+1439307369.027	270221	7	12	155	e	e	Ei ollut edes lähwllä.	 72.77	  83.88	Ei ollut edes lähwllä.	Sentences	1747	0	0.96
+1439307369.214	270221	7	13	187	s	s	Ei ollut edes lähwllä.	 72.77	  83.88	Ei ollut edes lähwllä.	Sentences	1934	0	0.96
+1439307369.307	270221	7	14	93	_	space	Ei ollut edes lähwllä.	 72.77	  83.88	Ei ollut edes lähwllä.	Sentences	2027	0	0.96
+1439307369.526	270221	7	15	219	l	l	Ei ollut edes lähwllä.	 72.77	  83.88	Ei ollut edes lähwllä.	Sentences	2246	0	0.96
+1439307369.588	270221	7	16	63	ä	adiaeresis	Ei ollut edes lähwllä.	 72.77	  83.88	Ei ollut edes lähwllä.	Sentences	2309	0	0.96
+1439307369.963	270221	7	17	375	h	h	Ei ollut edes lähwllä.	 72.77	  83.88	Ei ollut edes lähwllä.	Sentences	2684	0	0.96
+1439307370.15	270221	7	18	187	w	w	Ei ollut edes lähwllä.	 72.77	  83.88	Ei ollut edes lähwllä.	Sentences	2871	0	0.96
+1439307370.306	270221	7	19	155	l	l	Ei ollut edes lähwllä.	 72.77	  83.88	Ei ollut edes lähwllä.	Sentences	3026	0	0.96
+1439307370.462	270221	7	20	156	l	l	Ei ollut edes lähwllä.	 72.77	  83.88	Ei ollut edes lähwllä.	Sentences	3182	0	0.96
+1439307370.493	270221	7	21	31	ä	adiaeresis	Ei ollut edes lähwllä.	 72.77	  83.88	Ei ollut edes lähwllä.	Sentences	3213	0	0.96
+1439307370.743	270221	7	22	250	.	period	Ei ollut edes lähwllä.	 72.77	  83.88	Ei ollut edes lähwllä.	Sentences	3463	0	0.96
+1439307371.835	270221	8	0	0	Shift_R	Shift_R	Onko se ohi?	 64.11	  80.32	Onko se ohi?	Sentences	0	0	0.86
+1439307372.084	270221	8	1	249	O	O	Onko se ohi?	 64.11	  80.32	Onko se ohi?	Sentences	249	0	0.86
+1439307372.334	270221	8	2	250	n	n	Onko se ohi?	 64.11	  80.32	Onko se ohi?	Sentences	499	0	0.86
+1439307372.396	270221	8	3	61	k	k	Onko se ohi?	 64.11	  80.32	Onko se ohi?	Sentences	560	0	0.86
+1439307372.583	270221	8	4	187	o	o	Onko se ohi?	 64.11	  80.32	Onko se ohi?	Sentences	747	0	0.86
+1439307372.677	270221	8	5	95	_	space	Onko se ohi?	 64.11	  80.32	Onko se ohi?	Sentences	842	0	0.86
+1439307372.833	270221	8	6	155	s	s	Onko se ohi?	 64.11	  80.32	Onko se ohi?	Sentences	997	0	0.86
+1439307372.927	270221	8	7	95	e	e	Onko se ohi?	 64.11	  80.32	Onko se ohi?	Sentences	1092	0	0.86
+1439307372.989	270221	8	8	62	_	space	Onko se ohi?	 64.11	  80.32	Onko se ohi?	Sentences	1154	0	0.86
+1439307373.145	270221	8	9	155	o	o	Onko se ohi?	 64.11	  80.32	Onko se ohi?	Sentences	1309	0	0.86
+1439307373.301	270221	8	10	157	h	h	Onko se ohi?	 64.11	  80.32	Onko se ohi?	Sentences	1466	0	0.86
+1439307373.363	270221	8	11	61	i	i	Onko se ohi?	 64.11	  80.32	Onko se ohi?	Sentences	1527	0	0.86
+1439307373.613	270221	8	12	250	Shift_R	Shift_R	Onko se ohi?	 64.11	  80.32	Onko se ohi?	Sentences	1777	0	0.86
+1439307373.894	270221	8	13	282	?	question	Onko se ohi?	 64.11	  80.32	Onko se ohi?	Sentences	2059	0	0.86
+1439307375.048	270221	9	0	0	Shift_R	Shift_R	Oletko paikalla tänään?	 71.72	  74.89	Oletko paikalla tänään?	Sentences	0	0	0.92
+1439307375.298	270221	9	1	250	O	O	Oletko paikalla tänään?	 71.72	  74.89	Oletko paikalla tänään?	Sentences	250	0	0.92
+1439307375.485	270221	9	2	186	l	l	Oletko paikalla tänään?	 71.72	  74.89	Oletko paikalla tänään?	Sentences	436	0	0.92
+1439307375.61	270221	9	3	125	e	e	Oletko paikalla tänään?	 71.72	  74.89	Oletko paikalla tänään?	Sentences	561	0	0.92
+1439307375.641	270221	9	4	31	t	t	Oletko paikalla tänään?	 71.72	  74.89	Oletko paikalla tänään?	Sentences	592	0	0.92
+1439307375.766	270221	9	5	125	k	k	Oletko paikalla tänään?	 71.72	  74.89	Oletko paikalla tänään?	Sentences	717	0	0.92
+1439307375.828	270221	9	6	62	o	o	Oletko paikalla tänään?	 71.72	  74.89	Oletko paikalla tänään?	Sentences	779	0	0.92
+1439307375.953	270221	9	7	125	_	space	Oletko paikalla tänään?	 71.72	  74.89	Oletko paikalla tänään?	Sentences	904	0	0.92
+1439307376.015	270221	9	8	63	p	p	Oletko paikalla tänään?	 71.72	  74.89	Oletko paikalla tänään?	Sentences	967	0	0.92
+1439307376.14	270221	9	9	125	a	a	Oletko paikalla tänään?	 71.72	  74.89	Oletko paikalla tänään?	Sentences	1092	0	0.92
+1439307376.265	270221	9	10	125	i	i	Oletko paikalla tänään?	 71.72	  74.89	Oletko paikalla tänään?	Sentences	1217	0	0.92
+1439307376.483	270221	9	11	217	k	k	Oletko paikalla tänään?	 71.72	  74.89	Oletko paikalla tänään?	Sentences	1434	0	0.92
+1439307376.639	270221	9	12	156	a	a	Oletko paikalla tänään?	 71.72	  74.89	Oletko paikalla tänään?	Sentences	1590	0	0.92
+1439307376.764	270221	9	13	125	l	l	Oletko paikalla tänään?	 71.72	  74.89	Oletko paikalla tänään?	Sentences	1715	0	0.92
+1439307376.951	270221	9	14	187	l	l	Oletko paikalla tänään?	 71.72	  74.89	Oletko paikalla tänään?	Sentences	1902	0	0.92
+1439307377.076	270221	9	15	125	a	a	Oletko paikalla tänään?	 71.72	  74.89	Oletko paikalla tänään?	Sentences	2027	0	0.92
+1439307377.201	270221	9	16	125	_	space	Oletko paikalla tänään?	 71.72	  74.89	Oletko paikalla tänään?	Sentences	2152	0	0.92
+1439307377.607	270221	9	17	407	t	t	Oletko paikalla tänään?	 71.72	  74.89	Oletko paikalla tänään?	Sentences	2559	0	0.92
+1439307377.7	270221	9	18	92	ä	adiaeresis	Oletko paikalla tänään?	 71.72	  74.89	Oletko paikalla tänään?	Sentences	2651	0	0.92
+1439307377.887	270221	9	19	187	n	n	Oletko paikalla tänään?	 71.72	  74.89	Oletko paikalla tänään?	Sentences	2838	0	0.92
+1439307378.043	270221	9	20	156	ä	adiaeresis	Oletko paikalla tänään?	 71.72	  74.89	Oletko paikalla tänään?	Sentences	2994	0	0.92
+1439307378.199	270221	9	21	156	ä	adiaeresis	Oletko paikalla tänään?	 71.72	  74.89	Oletko paikalla tänään?	Sentences	3150	0	0.92
+1439307378.324	270221	9	22	125	n	n	Oletko paikalla tänään?	 71.72	  74.89	Oletko paikalla tänään?	Sentences	3275	0	0.92
+1439307378.543	270221	9	23	219	Shift_R	Shift_R	Oletko paikalla tänään?	 71.72	  74.89	Oletko paikalla tänään?	Sentences	3494	0	0.92
+1439307378.73	270221	9	24	187	?	question	Oletko paikalla tänään?	 71.72	  74.89	Oletko paikalla tänään?	Sentences	3681	0	0.92
+1439307379.697	270221	10	0	0	Shift_R	Shift_R	Olen tulossa.	 78.22	  73.58	Olen tulossa.	Sentences	0	0	0.93
+1439307379.853	270221	10	1	155	O	O	Olen tulossa.	 78.22	  73.58	Olen tulossa.	Sentences	155	0	0.93
+1439307380.04	270221	10	2	187	l	l	Olen tulossa.	 78.22	  73.58	Olen tulossa.	Sentences	342	0	0.93
+1439307380.134	270221	10	3	95	e	e	Olen tulossa.	 78.22	  73.58	Olen tulossa.	Sentences	437	0	0.93
+1439307380.321	270221	10	4	187	n	n	Olen tulossa.	 78.22	  73.58	Olen tulossa.	Sentences	624	0	0.93
+1439307380.633	270221	10	5	311	_	space	Olen tulossa.	 78.22	  73.58	Olen tulossa.	Sentences	935	0	0.93
+1439307380.727	270221	10	6	94	t	t	Olen tulossa.	 78.22	  73.58	Olen tulossa.	Sentences	1029	0	0.93
+1439307380.914	270221	10	7	188	u	u	Olen tulossa.	 78.22	  73.58	Olen tulossa.	Sentences	1217	0	0.93
+1439307380.976	270221	10	8	62	l	l	Olen tulossa.	 78.22	  73.58	Olen tulossa.	Sentences	1279	0	0.93
+1439307381.132	270221	10	9	155	o	o	Olen tulossa.	 78.22	  73.58	Olen tulossa.	Sentences	1434	0	0.93
+1439307381.226	270221	10	10	95	s	s	Olen tulossa.	 78.22	  73.58	Olen tulossa.	Sentences	1529	0	0.93
+1439307381.413	270221	10	11	187	s	s	Olen tulossa.	 78.22	  73.58	Olen tulossa.	Sentences	1716	0	0.93
+1439307381.444	270221	10	12	30	a	a	Olen tulossa.	 78.22	  73.58	Olen tulossa.	Sentences	1746	0	0.93
+1439307381.538	270221	10	13	95	.	period	Olen tulossa.	 78.22	  73.58	Olen tulossa.	Sentences	1841	0	0.93
+1439307382.474	270221	11	0	0	Shift_R	Shift_R	Tuletko kanssamme lounalle?	 77.52	  57.66	Tuletko kanssamme lounalle?	Sentences	0	0	0.93
+1439307382.661	270221	11	1	187	T	T	Tuletko kanssamme lounalle?	 77.52	  57.66	Tuletko kanssamme lounalle?	Sentences	187	0	0.93
+1439307382.879	270221	11	2	217	u	u	Tuletko kanssamme lounalle?	 77.52	  57.66	Tuletko kanssamme lounalle?	Sentences	404	0	0.93
+1439307382.942	270221	11	3	63	l	l	Tuletko kanssamme lounalle?	 77.52	  57.66	Tuletko kanssamme lounalle?	Sentences	467	0	0.93
+1439307383.098	270221	11	4	157	e	e	Tuletko kanssamme lounalle?	 77.52	  57.66	Tuletko kanssamme lounalle?	Sentences	624	0	0.93
+1439307383.16	270221	11	5	62	t	t	Tuletko kanssamme lounalle?	 77.52	  57.66	Tuletko kanssamme lounalle?	Sentences	686	0	0.93
+1439307383.347	270221	11	6	186	k	k	Tuletko kanssamme lounalle?	 77.52	  57.66	Tuletko kanssamme lounalle?	Sentences	872	0	0.93
+1439307383.41	270221	11	7	64	o	o	Tuletko kanssamme lounalle?	 77.52	  57.66	Tuletko kanssamme lounalle?	Sentences	936	0	0.93
+1439307383.535	270221	11	8	125	_	space	Tuletko kanssamme lounalle?	 77.52	  57.66	Tuletko kanssamme lounalle?	Sentences	1061	0	0.93
+1439307383.659	270221	11	9	123	k	k	Tuletko kanssamme lounalle?	 77.52	  57.66	Tuletko kanssamme lounalle?	Sentences	1184	0	0.93
+1439307383.722	270221	11	10	63	a	a	Tuletko kanssamme lounalle?	 77.52	  57.66	Tuletko kanssamme lounalle?	Sentences	1247	0	0.93
+1439307383.878	270221	11	11	157	n	n	Tuletko kanssamme lounalle?	 77.52	  57.66	Tuletko kanssamme lounalle?	Sentences	1404	0	0.93
+1439307383.971	270221	11	12	92	s	s	Tuletko kanssamme lounalle?	 77.52	  57.66	Tuletko kanssamme lounalle?	Sentences	1496	0	0.93
+1439307384.159	270221	11	13	188	s	s	Tuletko kanssamme lounalle?	 77.52	  57.66	Tuletko kanssamme lounalle?	Sentences	1684	0	0.93
+1439307384.19	270221	11	14	32	a	a	Tuletko kanssamme lounalle?	 77.52	  57.66	Tuletko kanssamme lounalle?	Sentences	1716	0	0.93
+1439307384.315	270221	11	15	125	m	m	Tuletko kanssamme lounalle?	 77.52	  57.66	Tuletko kanssamme lounalle?	Sentences	1841	0	0.93
+1439307384.502	270221	11	16	187	m	m	Tuletko kanssamme lounalle?	 77.52	  57.66	Tuletko kanssamme lounalle?	Sentences	2028	0	0.93
+1439307384.72	270221	11	17	218	e	e	Tuletko kanssamme lounalle?	 77.52	  57.66	Tuletko kanssamme lounalle?	Sentences	2246	0	0.93
+1439307384.814	270221	11	18	93	_	space	Tuletko kanssamme lounalle?	 77.52	  57.66	Tuletko kanssamme lounalle?	Sentences	2339	0	0.93
+1439307385.032	270221	11	19	219	l	l	Tuletko kanssamme lounalle?	 77.52	  57.66	Tuletko kanssamme lounalle?	Sentences	2558	0	0.93
+1439307385.219	270221	11	20	187	o	o	Tuletko kanssamme lounalle?	 77.52	  57.66	Tuletko kanssamme lounalle?	Sentences	2745	0	0.93
+1439307385.313	270221	11	21	93	u	u	Tuletko kanssamme lounalle?	 77.52	  57.66	Tuletko kanssamme lounalle?	Sentences	2838	0	0.93
+1439307385.5	270221	11	22	188	n	n	Tuletko kanssamme lounalle?	 77.52	  57.66	Tuletko kanssamme lounalle?	Sentences	3026	0	0.93
+1439307385.656	270221	11	23	155	a	a	Tuletko kanssamme lounalle?	 77.52	  57.66	Tuletko kanssamme lounalle?	Sentences	3181	0	0.93
+1439307385.812	270221	11	24	157	l	l	Tuletko kanssamme lounalle?	 77.52	  57.66	Tuletko kanssamme lounalle?	Sentences	3338	0	0.93
+1439307385.937	270221	11	25	125	l	l	Tuletko kanssamme lounalle?	 77.52	  57.66	Tuletko kanssamme lounalle?	Sentences	3463	0	0.93
+1439307386.062	270221	11	26	125	e	e	Tuletko kanssamme lounalle?	 77.52	  57.66	Tuletko kanssamme lounalle?	Sentences	3588	0	0.93
+1439307386.311	270221	11	27	249	Shift_R	Shift_R	Tuletko kanssamme lounalle?	 77.52	  57.66	Tuletko kanssamme lounalle?	Sentences	3837	0	0.93
+1439307386.499	270221	11	28	188	?	question	Tuletko kanssamme lounalle?	 77.52	  57.66	Tuletko kanssamme lounalle?	Sentences	4025	0	0.93
+1439307387.653	270221	12	0	0	Shift_R	Shift_R	Kuinka pian tarvitset sen?	 85.89	  58.37	Kuinka pian tarvitset sen?	Sentences	0	0	0.93
+1439307387.965	270221	12	1	311	K	K	Kuinka pian tarvitset sen?	 85.89	  58.37	Kuinka pian tarvitset sen?	Sentences	311	0	0.93
+1439307388.152	270221	12	2	187	u	u	Kuinka pian tarvitset sen?	 85.89	  58.37	Kuinka pian tarvitset sen?	Sentences	498	0	0.93
+1439307388.215	270221	12	3	63	i	i	Kuinka pian tarvitset sen?	 85.89	  58.37	Kuinka pian tarvitset sen?	Sentences	561	0	0.93
+1439307388.371	270221	12	4	156	n	n	Kuinka pian tarvitset sen?	 85.89	  58.37	Kuinka pian tarvitset sen?	Sentences	717	0	0.93
+1439307388.402	270221	12	5	31	k	k	Kuinka pian tarvitset sen?	 85.89	  58.37	Kuinka pian tarvitset sen?	Sentences	748	0	0.93
+1439307388.527	270221	12	6	125	a	a	Kuinka pian tarvitset sen?	 85.89	  58.37	Kuinka pian tarvitset sen?	Sentences	873	0	0.93
+1439307388.62	270221	12	7	93	_	space	Kuinka pian tarvitset sen?	 85.89	  58.37	Kuinka pian tarvitset sen?	Sentences	966	0	0.93
+1439307388.714	270221	12	8	94	p	p	Kuinka pian tarvitset sen?	 85.89	  58.37	Kuinka pian tarvitset sen?	Sentences	1060	0	0.93
+1439307388.807	270221	12	9	93	i	i	Kuinka pian tarvitset sen?	 85.89	  58.37	Kuinka pian tarvitset sen?	Sentences	1153	0	0.93
+1439307388.901	270221	12	10	94	a	a	Kuinka pian tarvitset sen?	 85.89	  58.37	Kuinka pian tarvitset sen?	Sentences	1247	0	0.93
+1439307389.026	270221	12	11	125	n	n	Kuinka pian tarvitset sen?	 85.89	  58.37	Kuinka pian tarvitset sen?	Sentences	1372	0	0.93
+1439307389.119	270221	12	12	93	_	space	Kuinka pian tarvitset sen?	 85.89	  58.37	Kuinka pian tarvitset sen?	Sentences	1465	0	0.93
+1439307389.244	270221	12	13	125	t	t	Kuinka pian tarvitset sen?	 85.89	  58.37	Kuinka pian tarvitset sen?	Sentences	1590	0	0.93
+1439307389.307	270221	12	14	63	a	a	Kuinka pian tarvitset sen?	 85.89	  58.37	Kuinka pian tarvitset sen?	Sentences	1653	0	0.93
+1439307389.431	270221	12	15	124	r	r	Kuinka pian tarvitset sen?	 85.89	  58.37	Kuinka pian tarvitset sen?	Sentences	1777	0	0.93
+1439307389.619	270221	12	16	188	v	v	Kuinka pian tarvitset sen?	 85.89	  58.37	Kuinka pian tarvitset sen?	Sentences	1965	0	0.93
+1439307389.743	270221	12	17	124	i	i	Kuinka pian tarvitset sen?	 85.89	  58.37	Kuinka pian tarvitset sen?	Sentences	2089	0	0.93
+1439307389.868	270221	12	18	125	t	t	Kuinka pian tarvitset sen?	 85.89	  58.37	Kuinka pian tarvitset sen?	Sentences	2214	0	0.93
+1439307390.024	270221	12	19	156	s	s	Kuinka pian tarvitset sen?	 85.89	  58.37	Kuinka pian tarvitset sen?	Sentences	2370	0	0.93
+1439307390.087	270221	12	20	63	e	e	Kuinka pian tarvitset sen?	 85.89	  58.37	Kuinka pian tarvitset sen?	Sentences	2433	0	0.93
+1439307390.305	270221	12	21	218	t	t	Kuinka pian tarvitset sen?	 85.89	  58.37	Kuinka pian tarvitset sen?	Sentences	2651	0	0.93
+1439307390.399	270221	12	22	94	_	space	Kuinka pian tarvitset sen?	 85.89	  58.37	Kuinka pian tarvitset sen?	Sentences	2745	0	0.93
+1439307390.555	270221	12	23	156	s	s	Kuinka pian tarvitset sen?	 85.89	  58.37	Kuinka pian tarvitset sen?	Sentences	2901	0	0.93
+1439307390.648	270221	12	24	93	e	e	Kuinka pian tarvitset sen?	 85.89	  58.37	Kuinka pian tarvitset sen?	Sentences	2994	0	0.93
+1439307390.835	270221	12	25	187	n	n	Kuinka pian tarvitset sen?	 85.89	  58.37	Kuinka pian tarvitset sen?	Sentences	3181	0	0.93
+1439307391.023	270221	12	26	188	Shift_R	Shift_R	Kuinka pian tarvitset sen?	 85.89	  58.37	Kuinka pian tarvitset sen?	Sentences	3369	0	0.93
+1439307391.147	270221	12	27	124	?	question	Kuinka pian tarvitset sen?	 85.89	  58.37	Kuinka pian tarvitset sen?	Sentences	3493	0	0.93
+1439307392.146	270221	13	0	0	Shift_R	Shift_R	Nähdään kolmannella.	 83.06	  56.77	Nähdään kolmannella.	Sentences	0	0	0.95
+1439307392.395	270221	13	1	249	N	N	Nähdään kolmannella.	 83.06	  56.77	Nähdään kolmannella.	Sentences	249	0	0.95
+1439307392.583	270221	13	2	188	ä	adiaeresis	Nähdään kolmannella.	 83.06	  56.77	Nähdään kolmannella.	Sentences	437	0	0.95
+1439307392.676	270221	13	3	93	h	h	Nähdään kolmannella.	 83.06	  56.77	Nähdään kolmannella.	Sentences	530	0	0.95
+1439307392.926	270221	13	4	250	d	d	Nähdään kolmannella.	 83.06	  56.77	Nähdään kolmannella.	Sentences	780	0	0.95
+1439307393.051	270221	13	5	125	ä	adiaeresis	Nähdään kolmannella.	 83.06	  56.77	Nähdään kolmannella.	Sentences	905	0	0.95
+1439307393.175	270221	13	6	124	ä	adiaeresis	Nähdään kolmannella.	 83.06	  56.77	Nähdään kolmannella.	Sentences	1029	0	0.95
+1439307393.331	270221	13	7	156	n	n	Nähdään kolmannella.	 83.06	  56.77	Nähdään kolmannella.	Sentences	1185	0	0.95
+1439307393.456	270221	13	8	125	_	space	Nähdään kolmannella.	 83.06	  56.77	Nähdään kolmannella.	Sentences	1310	0	0.95
+1439307393.581	270221	13	9	125	k	k	Nähdään kolmannella.	 83.06	  56.77	Nähdään kolmannella.	Sentences	1435	0	0.95
+1439307393.643	270221	13	10	61	o	o	Nähdään kolmannella.	 83.06	  56.77	Nähdään kolmannella.	Sentences	1496	0	0.95
+1439307393.799	270221	13	11	157	l	l	Nähdään kolmannella.	 83.06	  56.77	Nähdään kolmannella.	Sentences	1653	0	0.95
+1439307393.862	270221	13	12	63	m	m	Nähdään kolmannella.	 83.06	  56.77	Nähdään kolmannella.	Sentences	1716	0	0.95
+1439307393.955	270221	13	13	93	a	a	Nähdään kolmannella.	 83.06	  56.77	Nähdään kolmannella.	Sentences	1809	0	0.95
+1439307394.08	270221	13	14	125	n	n	Nähdään kolmannella.	 83.06	  56.77	Nähdään kolmannella.	Sentences	1934	0	0.95
+1439307394.174	270221	13	15	94	n	n	Nähdään kolmannella.	 83.06	  56.77	Nähdään kolmannella.	Sentences	2028	0	0.95
+1439307394.299	270221	13	16	125	e	e	Nähdään kolmannella.	 83.06	  56.77	Nähdään kolmannella.	Sentences	2153	0	0.95
+1439307394.423	270221	13	17	124	l	l	Nähdään kolmannella.	 83.06	  56.77	Nähdään kolmannella.	Sentences	2277	0	0.95
+1439307394.548	270221	13	18	125	l	l	Nähdään kolmannella.	 83.06	  56.77	Nähdään kolmannella.	Sentences	2402	0	0.95
+1439307394.642	270221	13	19	94	a	a	Nähdään kolmannella.	 83.06	  56.77	Nähdään kolmannella.	Sentences	2496	0	0.95
+1439307394.891	270221	13	20	249	.	period	Nähdään kolmannella.	 83.06	  56.77	Nähdään kolmannella.	Sentences	2745	0	0.95
+1439307395.827	270221	14	0	0	Shift_R	Shift_R	Kokeilen uudestaan.	 72.90	 107.28	Kokeilen uudestaan.	Sentences	0	0	0.95
+1439307396.046	270221	14	1	219	K	K	Kokeilen uudestaan.	 72.90	 107.28	Kokeilen uudestaan.	Sentences	219	0	0.95
+1439307396.202	270221	14	2	156	o	o	Kokeilen uudestaan.	 72.90	 107.28	Kokeilen uudestaan.	Sentences	375	0	0.95
+1439307396.295	270221	14	3	93	k	k	Kokeilen uudestaan.	 72.90	 107.28	Kokeilen uudestaan.	Sentences	468	0	0.95
+1439307396.42	270221	14	4	125	e	e	Kokeilen uudestaan.	 72.90	 107.28	Kokeilen uudestaan.	Sentences	593	0	0.95
+1439307396.545	270221	14	5	125	i	i	Kokeilen uudestaan.	 72.90	 107.28	Kokeilen uudestaan.	Sentences	718	0	0.95
+1439307396.701	270221	14	6	156	l	l	Kokeilen uudestaan.	 72.90	 107.28	Kokeilen uudestaan.	Sentences	874	0	0.95
+1439307396.826	270221	14	7	125	e	e	Kokeilen uudestaan.	 72.90	 107.28	Kokeilen uudestaan.	Sentences	999	0	0.95
+1439307396.951	270221	14	8	125	n	n	Kokeilen uudestaan.	 72.90	 107.28	Kokeilen uudestaan.	Sentences	1124	0	0.95
+1439307397.044	270221	14	9	93	_	space	Kokeilen uudestaan.	 72.90	 107.28	Kokeilen uudestaan.	Sentences	1217	0	0.95
+1439307397.169	270221	14	10	125	u	u	Kokeilen uudestaan.	 72.90	 107.28	Kokeilen uudestaan.	Sentences	1342	0	0.95
+1439307397.294	270221	14	11	125	u	u	Kokeilen uudestaan.	 72.90	 107.28	Kokeilen uudestaan.	Sentences	1467	0	0.95
+1439307397.387	270221	14	12	93	d	d	Kokeilen uudestaan.	 72.90	 107.28	Kokeilen uudestaan.	Sentences	1560	0	0.95
+1439307397.45	270221	14	13	63	e	e	Kokeilen uudestaan.	 72.90	 107.28	Kokeilen uudestaan.	Sentences	1623	0	0.95
+1439307397.668	270221	14	14	218	s	s	Kokeilen uudestaan.	 72.90	 107.28	Kokeilen uudestaan.	Sentences	1841	0	0.95
+1439307397.731	270221	14	15	63	t	t	Kokeilen uudestaan.	 72.90	 107.28	Kokeilen uudestaan.	Sentences	1904	0	0.95
+1439307397.793	270221	14	16	62	a	a	Kokeilen uudestaan.	 72.90	 107.28	Kokeilen uudestaan.	Sentences	1966	0	0.95
+1439307398.074	270221	14	17	280	a	a	Kokeilen uudestaan.	 72.90	 107.28	Kokeilen uudestaan.	Sentences	2246	0	0.95
+1439307398.261	270221	14	18	188	n	n	Kokeilen uudestaan.	 72.90	 107.28	Kokeilen uudestaan.	Sentences	2434	0	0.95
+1439307398.791	270221	14	19	529	.	period	Kokeilen uudestaan.	 72.90	 107.28	Kokeilen uudestaan.	Sentences	2963	0	0.95
+1439307400.507	270221	15	0	0	Shift_R	Shift_R	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	0	0	0.93
+1439307400.695	270221	15	1	187	V	V	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	187	0	0.93
+1439307400.882	270221	15	2	188	o	o	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	375	0	0.93
+1439307400.944	270221	15	3	62	i	i	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	437	0	0.93
+1439307401.131	270221	15	4	187	m	m	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	624	0	0.93
+1439307401.287	270221	15	5	155	m	m	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	779	0	0.93
+1439307401.381	270221	15	6	95	e	e	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	874	0	0.93
+1439307401.443	270221	15	7	62	_	space	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	936	0	0.93
+1439307401.537	270221	15	8	93	j	j	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	1029	0	0.93
+1439307401.724	270221	15	9	188	u	u	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	1217	0	0.93
+1439307401.787	270221	15	10	62	o	o	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	1279	0	0.93
+1439307401.88	270221	15	11	94	d	d	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	1373	0	0.93
+1439307401.943	270221	15	12	63	a	a	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	1436	0	0.93
+1439307402.067	270221	15	13	123	_	space	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	1559	0	0.93
+1439307402.348	270221	15	14	282	v	v	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	1841	0	0.93
+1439307402.442	270221	15	15	93	i	i	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	1934	0	0.93
+1439307402.598	270221	15	16	157	i	i	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	2091	0	0.93
+1439307402.754	270221	15	17	155	n	n	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	2246	0	0.93
+1439307402.785	270221	15	18	32	i	i	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	2278	0	0.93
+1439307403.003	270221	15	19	218	ä	adiaeresis	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	2496	0	0.93
+1439307403.128	270221	15	20	125	_	space	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	2621	0	0.93
+1439307403.284	270221	15	21	155	j	j	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	2776	0	0.93
+1439307403.378	270221	15	22	95	a	a	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	2871	0	0.93
+1439307403.44	270221	15	23	62	_	space	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	2933	0	0.93
+1439307403.721	270221	15	24	280	j	j	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	3213	0	0.93
+1439307403.815	270221	15	25	95	a	a	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	3308	0	0.93
+1439307403.939	270221	15	26	123	k	k	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	3431	0	0.93
+1439307404.064	270221	15	27	125	a	a	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	3556	0	0.93
+1439307404.251	270221	15	28	187	a	a	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	3743	0	0.93
+1439307404.345	270221	15	29	95	_	space	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	3838	0	0.93
+1439307404.657	270221	15	30	312	k	k	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	4150	0	0.93
+1439307404.782	270221	15	31	125	u	u	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	4275	0	0.93
+1439307405.031	270221	15	32	248	l	l	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	4523	0	0.93
+1439307405.687	270221	15	33	657		BackSpace	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	5180	0	0.93
+1439307405.967	270221	15	34	280	u	u	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	5460	0	0.93
+1439307406.155	270221	15	35	188	l	l	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	5648	0	0.93
+1439307406.217	270221	15	36	62	u	u	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	5710	0	0.93
+1439307406.404	270221	15	37	187	m	m	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	5897	0	0.93
+1439307406.498	270221	15	38	93	i	i	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	5990	0	0.93
+1439307406.623	270221	15	39	125	s	s	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	6115	0	0.93
+1439307406.716	270221	15	40	94	i	i	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	6209	0	0.93
+1439307406.81	270221	15	41	93	a	a	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	6302	0	0.93
+1439307407.153	270221	15	42	344	.	period	Voimme juoda viiniä ja jakaa kuulumisia.	 70.42	 109.21	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	6646	0	0.93
+1439307408.245	270221	16	0	0	Shift_R	Shift_R	Voitko jo paremmin?	 66.56	 100.10	Voitko jo paremmin?	Sentences	0	0	0.79
+1439307408.463	270221	16	1	218	V	V	Voitko jo paremmin?	 66.56	 100.10	Voitko jo paremmin?	Sentences	218	0	0.79
+1439307408.682	270221	16	2	219	o	o	Voitko jo paremmin?	 66.56	 100.10	Voitko jo paremmin?	Sentences	437	0	0.79
+1439307408.744	270221	16	3	62	i	i	Voitko jo paremmin?	 66.56	 100.10	Voitko jo paremmin?	Sentences	499	0	0.79
+1439307408.9	270221	16	4	156	t	t	Voitko jo paremmin?	 66.56	 100.10	Voitko jo paremmin?	Sentences	655	0	0.79
+1439307409.056	270221	16	5	156	k	k	Voitko jo paremmin?	 66.56	 100.10	Voitko jo paremmin?	Sentences	811	0	0.79
+1439307409.087	270221	16	6	31	o	o	Voitko jo paremmin?	 66.56	 100.10	Voitko jo paremmin?	Sentences	842	0	0.79
+1439307409.181	270221	16	7	94	_	space	Voitko jo paremmin?	 66.56	 100.10	Voitko jo paremmin?	Sentences	936	0	0.79
+1439307409.306	270221	16	8	125	j	j	Voitko jo paremmin?	 66.56	 100.10	Voitko jo paremmin?	Sentences	1061	0	0.79
+1439307409.337	270221	16	9	31	o	o	Voitko jo paremmin?	 66.56	 100.10	Voitko jo paremmin?	Sentences	1092	0	0.79
+1439307409.493	270221	16	10	156	_	space	Voitko jo paremmin?	 66.56	 100.10	Voitko jo paremmin?	Sentences	1248	0	0.79
+1439307409.587	270221	16	11	94	p	p	Voitko jo paremmin?	 66.56	 100.10	Voitko jo paremmin?	Sentences	1342	0	0.79
+1439307409.68	270221	16	12	93	a	a	Voitko jo paremmin?	 66.56	 100.10	Voitko jo paremmin?	Sentences	1435	0	0.79
+1439307409.774	270221	16	13	94	r	r	Voitko jo paremmin?	 66.56	 100.10	Voitko jo paremmin?	Sentences	1529	0	0.79
+1439307409.836	270221	16	14	62	e	e	Voitko jo paremmin?	 66.56	 100.10	Voitko jo paremmin?	Sentences	1591	0	0.79
+1439307409.961	270221	16	15	125	m	m	Voitko jo paremmin?	 66.56	 100.10	Voitko jo paremmin?	Sentences	1716	0	0.79
+1439307410.117	270221	16	16	156	m	m	Voitko jo paremmin?	 66.56	 100.10	Voitko jo paremmin?	Sentences	1872	0	0.79
+1439307410.179	270221	16	17	62	i	i	Voitko jo paremmin?	 66.56	 100.10	Voitko jo paremmin?	Sentences	1934	0	0.79
+1439307410.304	270221	16	18	125	n	n	Voitko jo paremmin?	 66.56	 100.10	Voitko jo paremmin?	Sentences	2059	0	0.79
+1439307410.491	270221	16	19	187	Shift_R	Shift_R	Voitko jo paremmin?	 66.56	 100.10	Voitko jo paremmin?	Sentences	2246	0	0.79
+1439307410.647	270221	16	20	156	=	equal	Voitko jo paremmin?	 66.56	 100.10	Voitko jo paremmin?	Sentences	2402	0	0.79
+1439307411.178	270221	16	21	531		BackSpace	Voitko jo paremmin?	 66.56	 100.10	Voitko jo paremmin?	Sentences	2933	0	0.79
+1439307411.334	270221	16	22	156	Shift_R	Shift_R	Voitko jo paremmin?	 66.56	 100.10	Voitko jo paremmin?	Sentences	3089	0	0.79
+1439307411.49	270221	16	23	156	?	question	Voitko jo paremmin?	 66.56	 100.10	Voitko jo paremmin?	Sentences	3245	0	0.79
+1439307412.426	270221	17	0	0	Shift_R	Shift_R	Oikein hyvää matkaa!	 80.34	  45.36	Oikein hyvää matkaa!	Sentences	0	0	0.91
+1439307412.675	270221	17	1	248	O	O	Oikein hyvää matkaa!	 80.34	  45.36	Oikein hyvää matkaa!	Sentences	248	0	0.91
+1439307412.863	270221	17	2	188	i	i	Oikein hyvää matkaa!	 80.34	  45.36	Oikein hyvää matkaa!	Sentences	436	0	0.91
+1439307412.987	270221	17	3	124	k	k	Oikein hyvää matkaa!	 80.34	  45.36	Oikein hyvää matkaa!	Sentences	560	0	0.91
+1439307413.081	270221	17	4	94	e	e	Oikein hyvää matkaa!	 80.34	  45.36	Oikein hyvää matkaa!	Sentences	654	0	0.91
+1439307413.206	270221	17	5	125	i	i	Oikein hyvää matkaa!	 80.34	  45.36	Oikein hyvää matkaa!	Sentences	779	0	0.91
+1439307413.268	270221	17	6	62	n	n	Oikein hyvää matkaa!	 80.34	  45.36	Oikein hyvää matkaa!	Sentences	841	0	0.91
+1439307413.362	270221	17	7	94	_	space	Oikein hyvää matkaa!	 80.34	  45.36	Oikein hyvää matkaa!	Sentences	935	0	0.91
+1439307413.487	270221	17	8	125	h	h	Oikein hyvää matkaa!	 80.34	  45.36	Oikein hyvää matkaa!	Sentences	1060	0	0.91
+1439307413.611	270221	17	9	124	y	y	Oikein hyvää matkaa!	 80.34	  45.36	Oikein hyvää matkaa!	Sentences	1184	0	0.91
+1439307413.767	270221	17	10	156	v	v	Oikein hyvää matkaa!	 80.34	  45.36	Oikein hyvää matkaa!	Sentences	1340	0	0.91
+1439307413.861	270221	17	11	94	ä	adiaeresis	Oikein hyvää matkaa!	 80.34	  45.36	Oikein hyvää matkaa!	Sentences	1434	0	0.91
+1439307414.017	270221	17	12	156	ä	adiaeresis	Oikein hyvää matkaa!	 80.34	  45.36	Oikein hyvää matkaa!	Sentences	1590	0	0.91
+1439307414.142	270221	17	13	125	_	space	Oikein hyvää matkaa!	 80.34	  45.36	Oikein hyvää matkaa!	Sentences	1715	0	0.91
+1439307414.235	270221	17	14	93	m	m	Oikein hyvää matkaa!	 80.34	  45.36	Oikein hyvää matkaa!	Sentences	1808	0	0.91
+1439307414.298	270221	17	15	63	a	a	Oikein hyvää matkaa!	 80.34	  45.36	Oikein hyvää matkaa!	Sentences	1871	0	0.91
+1439307414.423	270221	17	16	125	t	t	Oikein hyvää matkaa!	 80.34	  45.36	Oikein hyvää matkaa!	Sentences	1996	0	0.91
+1439307414.61	270221	17	17	187	k	k	Oikein hyvää matkaa!	 80.34	  45.36	Oikein hyvää matkaa!	Sentences	2183	0	0.91
+1439307414.766	270221	17	18	156	a	a	Oikein hyvää matkaa!	 80.34	  45.36	Oikein hyvää matkaa!	Sentences	2339	0	0.91
+1439307414.922	270221	17	19	156	a	a	Oikein hyvää matkaa!	 80.34	  45.36	Oikein hyvää matkaa!	Sentences	2495	0	0.91
+1439307415.078	270221	17	20	156	Shift_R	Shift_R	Oikein hyvää matkaa!	 80.34	  45.36	Oikein hyvää matkaa!	Sentences	2651	0	0.91
+1439307415.265	270221	17	21	187	!	exclam	Oikein hyvää matkaa!	 80.34	  45.36	Oikein hyvää matkaa!	Sentences	2838	0	0.91
+1439307417.231	270221	18	0	0	Shift_R	Shift_R	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	0	0	0.98
+1439307417.48	270221	18	1	249	M	M	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	249	0	0.98
+1439307417.667	270221	18	2	187	e	e	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	436	0	0.98
+1439307417.761	270221	18	3	93	i	i	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	529	0	0.98
+1439307417.855	270221	18	4	95	d	d	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	624	0	0.98
+1439307417.979	270221	18	5	124	ä	adiaeresis	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	748	0	0.98
+1439307418.135	270221	18	6	156	_	space	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	904	0	0.98
+1439307418.198	270221	18	7	63	n	n	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	967	0	0.98
+1439307418.323	270221	18	8	125	t	t	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	1092	0	0.98
+1439307418.447	270221	18	9	124	ä	adiaeresis	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	1216	0	0.98
+1439307418.51	270221	18	10	63	t	t	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	1279	0	0.98
+1439307418.697	270221	18	11	187	y	y	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	1466	0	0.98
+1439307418.853	270221	18	12	155	t	t	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	1621	0	0.98
+1439307419.04	270221	18	13	188	y	y	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	1809	0	0.98
+1439307419.165	270221	18	14	125	y	y	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	1934	0	0.98
+1439307419.321	270221	18	15	156	_	space	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	2090	0	0.98
+1439307419.508	270221	18	16	186	j	j	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	2276	0	0.98
+1439307419.664	270221	18	17	157	u	u	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	2433	0	0.98
+1439307419.789	270221	18	18	125	t	t	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	2558	0	0.98
+1439307419.82	270221	18	19	30	e	e	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	2588	0	0.98
+1439307419.976	270221	18	20	157	l	l	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	2745	0	0.98
+1439307420.101	270221	18	21	125	l	l	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	2870	0	0.98
+1439307420.226	270221	18	22	125	a	a	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	2995	0	0.98
+1439307420.288	270221	18	23	62	_	space	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	3057	0	0.98
+1439307420.507	270221	18	24	219	t	t	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	3276	0	0.98
+1439307420.6	270221	18	25	92	ä	adiaeresis	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	3368	0	0.98
+1439307420.725	270221	18	26	125	s	s	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	3493	0	0.98
+1439307420.85	270221	18	27	125	t	t	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	3618	0	0.98
+1439307421.068	270221	18	28	219	ä	adiaeresis	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	3837	0	0.98
+1439307421.193	270221	18	29	125	_	space	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	3962	0	0.98
+1439307421.318	270221	18	30	125	k	k	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	4087	0	0.98
+1439307421.505	270221	18	31	187	u	u	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	4274	0	0.98
+1439307421.661	270221	18	32	156	u	u	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	4430	0	0.98
+1439307421.755	270221	18	33	94	k	k	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	4524	0	0.98
+1439307421.911	270221	18	34	156	a	a	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	4680	0	0.98
+1439307421.973	270221	18	35	62	u	u	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	4742	0	0.98
+1439307422.098	270221	18	36	125	d	d	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	4867	0	0.98
+1439307422.16	270221	18	37	62	e	e	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	4929	0	0.98
+1439307422.347	270221	18	38	186	s	s	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	5115	0	0.98
+1439307422.441	270221	18	39	95	t	t	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	5210	0	0.98
+1439307422.503	270221	18	40	62	a	a	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	5272	0	0.98
+1439307422.722	270221	18	41	218	.	period	Meidä ntätytyy jutella tästä kuukaudesta.	 87.43	  51.39	Meidä ntätytyy jutella tästä kuukaudesta.	Sentences	5490	0	0.98
+1439307423.876	270221	19	0	0	Shift_R	Shift_R	Kuinka niin?	 70.55	  78.87	Kuinka niin?	Sentences	0	0	0.86
+1439307424.095	270221	19	1	219	K	K	Kuinka niin?	 70.55	  78.87	Kuinka niin?	Sentences	219	0	0.86
+1439307424.282	270221	19	2	187	u	u	Kuinka niin?	 70.55	  78.87	Kuinka niin?	Sentences	406	0	0.86
+1439307424.344	270221	19	3	62	i	i	Kuinka niin?	 70.55	  78.87	Kuinka niin?	Sentences	468	0	0.86
+1439307424.5	270221	19	4	156	n	n	Kuinka niin?	 70.55	  78.87	Kuinka niin?	Sentences	624	0	0.86
+1439307424.563	270221	19	5	63	k	k	Kuinka niin?	 70.55	  78.87	Kuinka niin?	Sentences	687	0	0.86
+1439307424.625	270221	19	6	62	a	a	Kuinka niin?	 70.55	  78.87	Kuinka niin?	Sentences	749	0	0.86
+1439307424.719	270221	19	7	94	_	space	Kuinka niin?	 70.55	  78.87	Kuinka niin?	Sentences	843	0	0.86
+1439307424.812	270221	19	8	93	n	n	Kuinka niin?	 70.55	  78.87	Kuinka niin?	Sentences	936	0	0.86
+1439307424.937	270221	19	9	125	i	i	Kuinka niin?	 70.55	  78.87	Kuinka niin?	Sentences	1061	0	0.86
+1439307425.093	270221	19	10	156	i	i	Kuinka niin?	 70.55	  78.87	Kuinka niin?	Sentences	1217	0	0.86
+1439307425.187	270221	19	11	94	n	n	Kuinka niin?	 70.55	  78.87	Kuinka niin?	Sentences	1311	0	0.86
+1439307425.436	270221	19	12	249	Shift_R	Shift_R	Kuinka niin?	 70.55	  78.87	Kuinka niin?	Sentences	1560	0	0.86
+1439307425.748	270221	19	13	311	?	question	Kuinka niin?	 70.55	  78.87	Kuinka niin?	Sentences	1871	0	0.86
+1439307426.778	270221	20	0	0	Shift_R	Shift_R	Nähdään pian!	 47.12	 113.59	Nähdään pian!	Sentences	0	0	0.65
+1439307426.996	270221	20	1	217	N	N	Nähdään pian!	 47.12	 113.59	Nähdään pian!	Sentences	217	0	0.65
+1439307427.152	270221	20	2	156	ä	adiaeresis	Nähdään pian!	 47.12	 113.59	Nähdään pian!	Sentences	373	0	0.65
+1439307427.277	270221	20	3	125	h	h	Nähdään pian!	 47.12	 113.59	Nähdään pian!	Sentences	498	0	0.65
+1439307427.495	270221	20	4	218	d	d	Nähdään pian!	 47.12	 113.59	Nähdään pian!	Sentences	716	0	0.65
+1439307427.62	270221	20	5	125	ä	adiaeresis	Nähdään pian!	 47.12	 113.59	Nähdään pian!	Sentences	841	0	0.65
+1439307427.776	270221	20	6	156	ä	adiaeresis	Nähdään pian!	 47.12	 113.59	Nähdään pian!	Sentences	997	0	0.65
+1439307427.963	270221	20	7	187	n	n	Nähdään pian!	 47.12	 113.59	Nähdään pian!	Sentences	1184	0	0.65
+1439307428.088	270221	20	8	125	_	space	Nähdään pian!	 47.12	 113.59	Nähdään pian!	Sentences	1309	0	0.65
+1439307428.213	270221	20	9	125	p	p	Nähdään pian!	 47.12	 113.59	Nähdään pian!	Sentences	1434	0	0.65
+1439307428.307	270221	20	10	94	i	i	Nähdään pian!	 47.12	 113.59	Nähdään pian!	Sentences	1528	0	0.65
+1439307428.4	270221	20	11	93	a	a	Nähdään pian!	 47.12	 113.59	Nähdään pian!	Sentences	1621	0	0.65
+1439307428.525	270221	20	12	125	n	n	Nähdään pian!	 47.12	 113.59	Nähdään pian!	Sentences	1746	0	0.65
+1439307428.525	270221	20	13	0	_	space	Nähdään pian!	 47.12	 113.59	Nähdään pian!	Sentences	1746	0	0.65
+1439307428.712	270221	20	14	187	Shift_R	Shift_R	Nähdään pian!	 47.12	 113.59	Nähdään pian!	Sentences	1933	0	0.65
+1439307428.775	270221	20	15	63	!	exclam	Nähdään pian!	 47.12	 113.59	Nähdään pian!	Sentences	1996	0	0.65
+1439307429.367	270221	20	16	592		BackSpace	Nähdään pian!	 47.12	 113.59	Nähdään pian!	Sentences	2588	0	0.65
+1439307429.492	270221	20	17	125		BackSpace	Nähdään pian!	 47.12	 113.59	Nähdään pian!	Sentences	2713	0	0.65
+1439307429.679	270221	20	18	187	Shift_R	Shift_R	Nähdään pian!	 47.12	 113.59	Nähdään pian!	Sentences	2900	0	0.65
+1439307429.835	270221	20	19	156	!	exclam	Nähdään pian!	 47.12	 113.59	Nähdään pian!	Sentences	3056	0	0.65
+1439307430.834	270221	21	0	0	Shift_R	Shift_R	Onko hän valmis vielä?	 69.65	  90.23	Onko hän valmis vielä?	Sentences	0	0	0.92
+1439307431.239	270221	21	1	404	O	O	Onko hän valmis vielä?	 69.65	  90.23	Onko hän valmis vielä?	Sentences	404	0	0.92
+1439307431.458	270221	21	2	219	n	n	Onko hän valmis vielä?	 69.65	  90.23	Onko hän valmis vielä?	Sentences	623	0	0.92
+1439307431.551	270221	21	3	94	k	k	Onko hän valmis vielä?	 69.65	  90.23	Onko hän valmis vielä?	Sentences	717	0	0.92
+1439307431.676	270221	21	4	125	o	o	Onko hän valmis vielä?	 69.65	  90.23	Onko hän valmis vielä?	Sentences	842	0	0.92
+1439307431.801	270221	21	5	125	_	space	Onko hän valmis vielä?	 69.65	  90.23	Onko hän valmis vielä?	Sentences	967	0	0.92
+1439307431.926	270221	21	6	125	h	h	Onko hän valmis vielä?	 69.65	  90.23	Onko hän valmis vielä?	Sentences	1092	0	0.92
+1439307432.082	270221	21	7	155	ä	adiaeresis	Onko hän valmis vielä?	 69.65	  90.23	Onko hän valmis vielä?	Sentences	1247	0	0.92
+1439307432.238	270221	21	8	156	n	n	Onko hän valmis vielä?	 69.65	  90.23	Onko hän valmis vielä?	Sentences	1403	0	0.92
+1439307432.394	270221	21	9	156	_	space	Onko hän valmis vielä?	 69.65	  90.23	Onko hän valmis vielä?	Sentences	1559	0	0.92
+1439307432.643	270221	21	10	249	v	v	Onko hän valmis vielä?	 69.65	  90.23	Onko hän valmis vielä?	Sentences	1808	0	0.92
+1439307432.768	270221	21	11	125	a	a	Onko hän valmis vielä?	 69.65	  90.23	Onko hän valmis vielä?	Sentences	1933	0	0.92
+1439307432.893	270221	21	12	125	l	l	Onko hän valmis vielä?	 69.65	  90.23	Onko hän valmis vielä?	Sentences	2058	0	0.92
+1439307433.049	270221	21	13	156	m	m	Onko hän valmis vielä?	 69.65	  90.23	Onko hän valmis vielä?	Sentences	2214	0	0.92
+1439307433.111	270221	21	14	62	i	i	Onko hän valmis vielä?	 69.65	  90.23	Onko hän valmis vielä?	Sentences	2276	0	0.92
+1439307433.205	270221	21	15	94	s	s	Onko hän valmis vielä?	 69.65	  90.23	Onko hän valmis vielä?	Sentences	2370	0	0.92
+1439307433.299	270221	21	16	94	_	space	Onko hän valmis vielä?	 69.65	  90.23	Onko hän valmis vielä?	Sentences	2464	0	0.92
+1439307433.486	270221	21	17	187	v	v	Onko hän valmis vielä?	 69.65	  90.23	Onko hän valmis vielä?	Sentences	2651	0	0.92
+1439307433.548	270221	21	18	62	i	i	Onko hän valmis vielä?	 69.65	  90.23	Onko hän valmis vielä?	Sentences	2713	0	0.92
+1439307433.704	270221	21	19	156	e	e	Onko hän valmis vielä?	 69.65	  90.23	Onko hän valmis vielä?	Sentences	2869	0	0.92
+1439307433.891	270221	21	20	187	l	l	Onko hän valmis vielä?	 69.65	  90.23	Onko hän valmis vielä?	Sentences	3056	0	0.92
+1439307433.891	270221	21	21	0	ä	adiaeresis	Onko hän valmis vielä?	 69.65	  90.23	Onko hän valmis vielä?	Sentences	3056	0	0.92
+1439307434.297	270221	21	22	406	Shift_R	Shift_R	Onko hän valmis vielä?	 69.65	  90.23	Onko hän valmis vielä?	Sentences	3462	0	0.92
+1439307434.453	270221	21	23	156	?	question	Onko hän valmis vielä?	 69.65	  90.23	Onko hän valmis vielä?	Sentences	3618	0	0.92
+1439307435.701	270221	22	0	0	Shift_R	Shift_R	Toivon että voit jo paremmin.	 86.15	  81.65	Toivon että voit jo paremmin.	Sentences	0	0	0.97
+1439307436.013	270221	22	1	312	T	T	Toivon että voit jo paremmin.	 86.15	  81.65	Toivon että voit jo paremmin.	Sentences	312	0	0.97
+1439307436.263	270221	22	2	250	o	o	Toivon että voit jo paremmin.	 86.15	  81.65	Toivon että voit jo paremmin.	Sentences	562	0	0.97
+1439307436.356	270221	22	3	92	i	i	Toivon että voit jo paremmin.	 86.15	  81.65	Toivon että voit jo paremmin.	Sentences	654	0	0.97
+1439307436.45	270221	22	4	95	v	v	Toivon että voit jo paremmin.	 86.15	  81.65	Toivon että voit jo paremmin.	Sentences	749	0	0.97
+1439307436.575	270221	22	5	125	o	o	Toivon että voit jo paremmin.	 86.15	  81.65	Toivon että voit jo paremmin.	Sentences	874	0	0.97
+1439307436.668	270221	22	6	93	n	n	Toivon että voit jo paremmin.	 86.15	  81.65	Toivon että voit jo paremmin.	Sentences	967	0	0.97
+1439307436.793	270221	22	7	125	_	space	Toivon että voit jo paremmin.	 86.15	  81.65	Toivon että voit jo paremmin.	Sentences	1092	0	0.97
+1439307437.011	270221	22	8	217	e	e	Toivon että voit jo paremmin.	 86.15	  81.65	Toivon että voit jo paremmin.	Sentences	1309	0	0.97
+1439307437.167	270221	22	9	157	t	t	Toivon että voit jo paremmin.	 86.15	  81.65	Toivon että voit jo paremmin.	Sentences	1466	0	0.97
+1439307437.323	270221	22	10	155	t	t	Toivon että voit jo paremmin.	 86.15	  81.65	Toivon että voit jo paremmin.	Sentences	1621	0	0.97
+1439307437.386	270221	22	11	63	ä	adiaeresis	Toivon että voit jo paremmin.	 86.15	  81.65	Toivon että voit jo paremmin.	Sentences	1684	0	0.97
+1439307437.511	270221	22	12	125	_	space	Toivon että voit jo paremmin.	 86.15	  81.65	Toivon että voit jo paremmin.	Sentences	1809	0	0.97
+1439307437.604	270221	22	13	94	v	v	Toivon että voit jo paremmin.	 86.15	  81.65	Toivon että voit jo paremmin.	Sentences	1903	0	0.97
+1439307437.698	270221	22	14	93	o	o	Toivon että voit jo paremmin.	 86.15	  81.65	Toivon että voit jo paremmin.	Sentences	1996	0	0.97
+1439307437.791	270221	22	15	93	i	i	Toivon että voit jo paremmin.	 86.15	  81.65	Toivon että voit jo paremmin.	Sentences	2089	0	0.97
+1439307437.885	270221	22	16	95	t	t	Toivon että voit jo paremmin.	 86.15	  81.65	Toivon että voit jo paremmin.	Sentences	2184	0	0.97
+1439307437.979	270221	22	17	94	_	space	Toivon että voit jo paremmin.	 86.15	  81.65	Toivon että voit jo paremmin.	Sentences	2278	0	0.97
+1439307438.103	270221	22	18	123	j	j	Toivon että voit jo paremmin.	 86.15	  81.65	Toivon että voit jo paremmin.	Sentences	2401	0	0.97
+1439307438.166	270221	22	19	63	o	o	Toivon että voit jo paremmin.	 86.15	  81.65	Toivon että voit jo paremmin.	Sentences	2464	0	0.97
+1439307438.291	270221	22	20	125	_	space	Toivon että voit jo paremmin.	 86.15	  81.65	Toivon että voit jo paremmin.	Sentences	2589	0	0.97
+1439307438.415	270221	22	21	124	p	p	Toivon että voit jo paremmin.	 86.15	  81.65	Toivon että voit jo paremmin.	Sentences	2713	0	0.97
+1439307438.509	270221	22	22	95	a	a	Toivon että voit jo paremmin.	 86.15	  81.65	Toivon että voit jo paremmin.	Sentences	2808	0	0.97
+1439307438.571	270221	22	23	62	r	r	Toivon että voit jo paremmin.	 86.15	  81.65	Toivon että voit jo paremmin.	Sentences	2870	0	0.97
+1439307438.665	270221	22	24	93	e	e	Toivon että voit jo paremmin.	 86.15	  81.65	Toivon että voit jo paremmin.	Sentences	2963	0	0.97
+1439307438.821	270221	22	25	157	m	m	Toivon että voit jo paremmin.	 86.15	  81.65	Toivon että voit jo paremmin.	Sentences	3120	0	0.97
+1439307439.008	270221	22	26	186	m	m	Toivon että voit jo paremmin.	 86.15	  81.65	Toivon että voit jo paremmin.	Sentences	3306	0	0.97
+1439307439.071	270221	22	27	64	i	i	Toivon että voit jo paremmin.	 86.15	  81.65	Toivon että voit jo paremmin.	Sentences	3370	0	0.97
+1439307439.164	270221	22	28	93	n	n	Toivon että voit jo paremmin.	 86.15	  81.65	Toivon että voit jo paremmin.	Sentences	3463	0	0.97
+1439307439.601	270221	22	29	437	.	period	Toivon että voit jo paremmin.	 86.15	  81.65	Toivon että voit jo paremmin.	Sentences	3900	0	0.97
+1439307440.662	270221	23	0	0	Shift_R	Shift_R	Soita huomenna, jos pystyt.	 69.96	 101.83	Soita huomenna, jos pystyt.	Sentences	0	0	0.90
+1439307440.818	270221	23	1	156	S	S	Soita huomenna, jos pystyt.	 69.96	 101.83	Soita huomenna, jos pystyt.	Sentences	156	0	0.90
+1439307441.005	270221	23	2	187	o	o	Soita huomenna, jos pystyt.	 69.96	 101.83	Soita huomenna, jos pystyt.	Sentences	343	0	0.90
+1439307441.067	270221	23	3	61	i	i	Soita huomenna, jos pystyt.	 69.96	 101.83	Soita huomenna, jos pystyt.	Sentences	404	0	0.90
+1439307441.13	270221	23	4	64	t	t	Soita huomenna, jos pystyt.	 69.96	 101.83	Soita huomenna, jos pystyt.	Sentences	468	0	0.90
+1439307441.192	270221	23	5	61	a	a	Soita huomenna, jos pystyt.	 69.96	 101.83	Soita huomenna, jos pystyt.	Sentences	529	0	0.90
+1439307441.286	270221	23	6	95	_	space	Soita huomenna, jos pystyt.	 69.96	 101.83	Soita huomenna, jos pystyt.	Sentences	624	0	0.90
+1439307441.473	270221	23	7	187	h	h	Soita huomenna, jos pystyt.	 69.96	 101.83	Soita huomenna, jos pystyt.	Sentences	811	0	0.90
+1439307441.629	270221	23	8	156	u	u	Soita huomenna, jos pystyt.	 69.96	 101.83	Soita huomenna, jos pystyt.	Sentences	967	0	0.90
+1439307441.691	270221	23	9	62	o	o	Soita huomenna, jos pystyt.	 69.96	 101.83	Soita huomenna, jos pystyt.	Sentences	1029	0	0.90
+1439307441.847	270221	23	10	155	m	m	Soita huomenna, jos pystyt.	 69.96	 101.83	Soita huomenna, jos pystyt.	Sentences	1184	0	0.90
+1439307441.941	270221	23	11	95	e	e	Soita huomenna, jos pystyt.	 69.96	 101.83	Soita huomenna, jos pystyt.	Sentences	1279	0	0.90
+1439307442.066	270221	23	12	125	n	n	Soita huomenna, jos pystyt.	 69.96	 101.83	Soita huomenna, jos pystyt.	Sentences	1404	0	0.90
+1439307442.191	270221	23	13	125	n	n	Soita huomenna, jos pystyt.	 69.96	 101.83	Soita huomenna, jos pystyt.	Sentences	1529	0	0.90
+1439307442.315	270221	23	14	124	a	a	Soita huomenna, jos pystyt.	 69.96	 101.83	Soita huomenna, jos pystyt.	Sentences	1653	0	0.90
+1439307442.471	270221	23	15	156	,	comma	Soita huomenna, jos pystyt.	 69.96	 101.83	Soita huomenna, jos pystyt.	Sentences	1809	0	0.90
+1439307442.721	270221	23	16	250	_	space	Soita huomenna, jos pystyt.	 69.96	 101.83	Soita huomenna, jos pystyt.	Sentences	2059	0	0.90
+1439307442.908	270221	23	17	187	j	j	Soita huomenna, jos pystyt.	 69.96	 101.83	Soita huomenna, jos pystyt.	Sentences	2246	0	0.90
+1439307442.971	270221	23	18	63	o	o	Soita huomenna, jos pystyt.	 69.96	 101.83	Soita huomenna, jos pystyt.	Sentences	2309	0	0.90
+1439307443.095	270221	23	19	124	s	s	Soita huomenna, jos pystyt.	 69.96	 101.83	Soita huomenna, jos pystyt.	Sentences	2433	0	0.90
+1439307443.22	270221	23	20	125	a	a	Soita huomenna, jos pystyt.	 69.96	 101.83	Soita huomenna, jos pystyt.	Sentences	2558	0	0.90
+1439307443.595	270221	23	21	375		BackSpace	Soita huomenna, jos pystyt.	 69.96	 101.83	Soita huomenna, jos pystyt.	Sentences	2933	0	0.90
+1439307443.751	270221	23	22	155	_	space	Soita huomenna, jos pystyt.	 69.96	 101.83	Soita huomenna, jos pystyt.	Sentences	3088	0	0.90
+1439307443.969	270221	23	23	219	p	p	Soita huomenna, jos pystyt.	 69.96	 101.83	Soita huomenna, jos pystyt.	Sentences	3307	0	0.90
+1439307444.219	270221	23	24	250	y	y	Soita huomenna, jos pystyt.	 69.96	 101.83	Soita huomenna, jos pystyt.	Sentences	3557	0	0.90
+1439307444.312	270221	23	25	93	s	s	Soita huomenna, jos pystyt.	 69.96	 101.83	Soita huomenna, jos pystyt.	Sentences	3650	0	0.90
+1439307444.437	270221	23	26	125	t	t	Soita huomenna, jos pystyt.	 69.96	 101.83	Soita huomenna, jos pystyt.	Sentences	3775	0	0.90
+1439307444.468	270221	23	27	30	y	y	Soita huomenna, jos pystyt.	 69.96	 101.83	Soita huomenna, jos pystyt.	Sentences	3805	0	0.90
+1439307444.593	270221	23	28	125	t	t	Soita huomenna, jos pystyt.	 69.96	 101.83	Soita huomenna, jos pystyt.	Sentences	3930	0	0.90
+1439307445.123	270221	23	29	530	.	period	Soita huomenna, jos pystyt.	 69.96	 101.83	Soita huomenna, jos pystyt.	Sentences	4460	0	0.90
+1439307446.278	270221	24	0	0	Shift_R	Shift_R	Pitääkö meidän jutella?	 72.35	  57.45	Pitääkö meidän jutella?	Sentences	0	0	0.85
+1439307446.465	270221	24	1	186	P	P	Pitääkö meidän jutella?	 72.35	  57.45	Pitääkö meidän jutella?	Sentences	186	0	0.85
+1439307446.683	270221	24	2	218	i	i	Pitääkö meidän jutella?	 72.35	  57.45	Pitääkö meidän jutella?	Sentences	404	0	0.85
+1439307446.839	270221	24	3	156	t	t	Pitääkö meidän jutella?	 72.35	  57.45	Pitääkö meidän jutella?	Sentences	560	0	0.85
+1439307446.964	270221	24	4	125	ä	adiaeresis	Pitääkö meidän jutella?	 72.35	  57.45	Pitääkö meidän jutella?	Sentences	685	0	0.85
+1439307447.12	270221	24	5	156	ä	adiaeresis	Pitääkö meidän jutella?	 72.35	  57.45	Pitääkö meidän jutella?	Sentences	841	0	0.85
+1439307447.276	270221	24	6	156	k	k	Pitääkö meidän jutella?	 72.35	  57.45	Pitääkö meidän jutella?	Sentences	997	0	0.85
+1439307447.37	270221	24	7	94	ö	odiaeresis	Pitääkö meidän jutella?	 72.35	  57.45	Pitääkö meidän jutella?	Sentences	1091	0	0.85
+1439307447.463	270221	24	8	93	_	space	Pitääkö meidän jutella?	 72.35	  57.45	Pitääkö meidän jutella?	Sentences	1184	0	0.85
+1439307447.588	270221	24	9	125	m	m	Pitääkö meidän jutella?	 72.35	  57.45	Pitääkö meidän jutella?	Sentences	1309	0	0.85
+1439307447.744	270221	24	10	156	e	e	Pitääkö meidän jutella?	 72.35	  57.45	Pitääkö meidän jutella?	Sentences	1465	0	0.85
+1439307447.838	270221	24	11	94	i	i	Pitääkö meidän jutella?	 72.35	  57.45	Pitääkö meidän jutella?	Sentences	1559	0	0.85
+1439307447.963	270221	24	12	125	d	d	Pitääkö meidän jutella?	 72.35	  57.45	Pitääkö meidän jutella?	Sentences	1684	0	0.85
+1439307448.056	270221	24	13	93	ä	adiaeresis	Pitääkö meidän jutella?	 72.35	  57.45	Pitääkö meidän jutella?	Sentences	1777	0	0.85
+1439307448.275	270221	24	14	219	n	n	Pitääkö meidän jutella?	 72.35	  57.45	Pitääkö meidän jutella?	Sentences	1996	0	0.85
+1439307448.399	270221	24	15	124	_	space	Pitääkö meidän jutella?	 72.35	  57.45	Pitääkö meidän jutella?	Sentences	2120	0	0.85
+1439307448.524	270221	24	16	125	j	j	Pitääkö meidän jutella?	 72.35	  57.45	Pitääkö meidän jutella?	Sentences	2245	0	0.85
+1439307448.68	270221	24	17	156	u	u	Pitääkö meidän jutella?	 72.35	  57.45	Pitääkö meidän jutella?	Sentences	2401	0	0.85
+1439307448.774	270221	24	18	94	t	t	Pitääkö meidän jutella?	 72.35	  57.45	Pitääkö meidän jutella?	Sentences	2495	0	0.85
+1439307448.836	270221	24	19	62	e	e	Pitääkö meidän jutella?	 72.35	  57.45	Pitääkö meidän jutella?	Sentences	2557	0	0.85
+1439307448.992	270221	24	20	156	l	l	Pitääkö meidän jutella?	 72.35	  57.45	Pitääkö meidän jutella?	Sentences	2713	0	0.85
+1439307449.148	270221	24	21	156	l	l	Pitääkö meidän jutella?	 72.35	  57.45	Pitääkö meidän jutella?	Sentences	2869	0	0.85
+1439307449.211	270221	24	22	63	a	a	Pitääkö meidän jutella?	 72.35	  57.45	Pitääkö meidän jutella?	Sentences	2932	0	0.85
+1439307449.335	270221	24	23	124	_	space	Pitääkö meidän jutella?	 72.35	  57.45	Pitääkö meidän jutella?	Sentences	3056	0	0.85
+1439307449.679	270221	24	24	344		BackSpace	Pitääkö meidän jutella?	 72.35	  57.45	Pitääkö meidän jutella?	Sentences	3400	0	0.85
+1439307449.803	270221	24	25	124	Shift_R	Shift_R	Pitääkö meidän jutella?	 72.35	  57.45	Pitääkö meidän jutella?	Sentences	3524	0	0.85
+1439307449.928	270221	24	26	125	?	question	Pitääkö meidän jutella?	 72.35	  57.45	Pitääkö meidän jutella?	Sentences	3649	0	0.85
+1439307451.925	270221	25	0	0	Shift_R	Shift_R	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	0	0	0.97
+1439307452.206	270221	25	1	281	T	T	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	281	0	0.97
+1439307452.393	270221	25	2	186	o	o	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	467	0	0.97
+1439307452.487	270221	25	3	95	i	i	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	562	0	0.97
+1439307452.549	270221	25	4	62	v	v	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	624	0	0.97
+1439307452.674	270221	25	5	125	o	o	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	749	0	0.97
+1439307452.799	270221	25	6	125	t	t	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	874	0	0.97
+1439307452.892	270221	25	7	93	t	t	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	967	0	0.97
+1439307453.017	270221	25	8	125	a	a	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	1092	0	0.97
+1439307453.235	270221	25	9	217	v	v	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	1309	0	0.97
+1439307453.391	270221	25	10	157	a	a	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	1466	0	0.97
+1439307453.454	270221	25	11	63	s	s	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	1529	0	0.97
+1439307453.547	270221	25	12	92	t	t	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	1621	0	0.97
+1439307453.735	270221	25	13	188	i	i	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	1809	0	0.97
+1439307453.828	270221	25	14	94	_	space	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	1903	0	0.97
+1439307454.015	270221	25	15	187	t	t	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	2090	0	0.97
+1439307454.078	270221	25	16	63	e	e	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	2153	0	0.97
+1439307454.234	270221	25	17	156	i	i	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	2309	0	0.97
+1439307454.421	270221	25	18	187	l	l	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	2496	0	0.97
+1439307454.546	270221	25	19	125	l	l	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	2621	0	0.97
+1439307454.639	270221	25	20	92	e	e	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	2713	0	0.97
+1439307454.702	270221	25	21	63	_	space	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	2776	0	0.97
+1439307454.92	270221	25	22	219	k	k	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	2995	0	0.97
+1439307455.139	270221	25	23	218	u	u	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	3213	0	0.97
+1439307455.263	270221	25	24	125	u	u	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	3338	0	0.97
+1439307455.419	270221	25	25	155	l	l	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	3493	0	0.97
+1439307455.544	270221	25	26	125	u	u	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	3618	0	0.97
+1439307455.7	270221	25	27	157	u	u	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	3775	0	0.97
+1439307455.856	270221	25	28	155	_	space	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	3930	0	0.97
+1439307455.95	270221	25	29	95	h	h	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	4025	0	0.97
+1439307456.075	270221	25	30	125	y	y	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	4150	0	0.97
+1439307456.168	270221	25	31	93	v	v	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	4243	0	0.97
+1439307456.293	270221	25	32	125	ä	adiaeresis	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	4368	0	0.97
+1439307456.449	270221	25	33	155	ä	adiaeresis	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	4523	0	0.97
+1439307456.605	270221	25	34	157	.	period	Toivottavasti teille kuuluu hyvää.	 84.62	  52.06	Toivottavasti teille kuuluu hyvää.	Sentences	4680	0	0.97
+1439307457.759	270221	26	0	0	Shift_R	Shift_R	Kiitos, hyvää työtä.	 52.96	 168.60	Kiitos, hyvää työtä.	Sentences	0	0	0.95
+1439307458.04	270221	26	1	280	K	K	Kiitos, hyvää työtä.	 52.96	 168.60	Kiitos, hyvää työtä.	Sentences	280	0	0.95
+1439307458.227	270221	26	2	187	i	i	Kiitos, hyvää työtä.	 52.96	 168.60	Kiitos, hyvää työtä.	Sentences	467	0	0.95
+1439307458.352	270221	26	3	125	i	i	Kiitos, hyvää työtä.	 52.96	 168.60	Kiitos, hyvää työtä.	Sentences	592	0	0.95
+1439307458.477	270221	26	4	125	t	t	Kiitos, hyvää työtä.	 52.96	 168.60	Kiitos, hyvää työtä.	Sentences	717	0	0.95
+1439307458.571	270221	26	5	95	o	o	Kiitos, hyvää työtä.	 52.96	 168.60	Kiitos, hyvää työtä.	Sentences	812	0	0.95
+1439307458.695	270221	26	6	123	s	s	Kiitos, hyvää työtä.	 52.96	 168.60	Kiitos, hyvää työtä.	Sentences	935	0	0.95
+1439307458.851	270221	26	7	157	,	comma	Kiitos, hyvää työtä.	 52.96	 168.60	Kiitos, hyvää työtä.	Sentences	1092	0	0.95
+1439307459.007	270221	26	8	155	_	space	Kiitos, hyvää työtä.	 52.96	 168.60	Kiitos, hyvää työtä.	Sentences	1247	0	0.95
+1439307459.475	270221	26	9	468	h	h	Kiitos, hyvää työtä.	 52.96	 168.60	Kiitos, hyvää työtä.	Sentences	1715	0	0.95
+1439307459.663	270221	26	10	189	y	y	Kiitos, hyvää työtä.	 52.96	 168.60	Kiitos, hyvää työtä.	Sentences	1904	0	0.95
+1439307459.819	270221	26	11	155	v	v	Kiitos, hyvää työtä.	 52.96	 168.60	Kiitos, hyvää työtä.	Sentences	2059	0	0.95
+1439307459.943	270221	26	12	125	ä	adiaeresis	Kiitos, hyvää työtä.	 52.96	 168.60	Kiitos, hyvää työtä.	Sentences	2184	0	0.95
+1439307460.068	270221	26	13	125	ä	adiaeresis	Kiitos, hyvää työtä.	 52.96	 168.60	Kiitos, hyvää työtä.	Sentences	2309	0	0.95
+1439307460.224	270221	26	14	155	_	space	Kiitos, hyvää työtä.	 52.96	 168.60	Kiitos, hyvää työtä.	Sentences	2464	0	0.95
+1439307460.474	270221	26	15	250	t	t	Kiitos, hyvää työtä.	 52.96	 168.60	Kiitos, hyvää työtä.	Sentences	2714	0	0.95
+1439307460.63	270221	26	16	157	y	y	Kiitos, hyvää työtä.	 52.96	 168.60	Kiitos, hyvää työtä.	Sentences	2871	0	0.95
+1439307461.004	270221	26	17	373	ö	odiaeresis	Kiitos, hyvää työtä.	 52.96	 168.60	Kiitos, hyvää työtä.	Sentences	3244	0	0.95
+1439307461.129	270221	26	18	125	t	t	Kiitos, hyvää työtä.	 52.96	 168.60	Kiitos, hyvää työtä.	Sentences	3369	0	0.95
+1439307461.254	270221	26	19	125	ä	adiaeresis	Kiitos, hyvää työtä.	 52.96	 168.60	Kiitos, hyvää työtä.	Sentences	3494	0	0.95
+1439307462.065	270221	26	20	811	.	period	Kiitos, hyvää työtä.	 52.96	 168.60	Kiitos, hyvää työtä.	Sentences	4305	0	0.95
+1439307463.344	270221	27	0	0	Shift_R	Shift_R	Saimmeko omamme takaisin?	 80.99	  90.41	Saimmeko omamme takaisin?	Sentences	0	0	0.93
+1439307463.563	270221	27	1	218	S	S	Saimmeko omamme takaisin?	 80.99	  90.41	Saimmeko omamme takaisin?	Sentences	218	0	0.93
+1439307464.062	270221	27	2	499	a	a	Saimmeko omamme takaisin?	 80.99	  90.41	Saimmeko omamme takaisin?	Sentences	717	0	0.93
+1439307464.218	270221	27	3	156	i	i	Saimmeko omamme takaisin?	 80.99	  90.41	Saimmeko omamme takaisin?	Sentences	873	0	0.93
+1439307464.405	270221	27	4	187	m	m	Saimmeko omamme takaisin?	 80.99	  90.41	Saimmeko omamme takaisin?	Sentences	1060	0	0.93
+1439307464.561	270221	27	5	157	m	m	Saimmeko omamme takaisin?	 80.99	  90.41	Saimmeko omamme takaisin?	Sentences	1217	0	0.93
+1439307464.655	270221	27	6	93	e	e	Saimmeko omamme takaisin?	 80.99	  90.41	Saimmeko omamme takaisin?	Sentences	1310	0	0.93
+1439307464.779	270221	27	7	124	k	k	Saimmeko omamme takaisin?	 80.99	  90.41	Saimmeko omamme takaisin?	Sentences	1434	0	0.93
+1439307464.779	270221	27	8	0	o	o	Saimmeko omamme takaisin?	 80.99	  90.41	Saimmeko omamme takaisin?	Sentences	1434	0	0.93
+1439307464.904	270221	27	9	125	_	space	Saimmeko omamme takaisin?	 80.99	  90.41	Saimmeko omamme takaisin?	Sentences	1559	0	0.93
+1439307465.029	270221	27	10	125	o	o	Saimmeko omamme takaisin?	 80.99	  90.41	Saimmeko omamme takaisin?	Sentences	1684	0	0.93
+1439307465.091	270221	27	11	62	m	m	Saimmeko omamme takaisin?	 80.99	  90.41	Saimmeko omamme takaisin?	Sentences	1746	0	0.93
+1439307465.247	270221	27	12	156	a	a	Saimmeko omamme takaisin?	 80.99	  90.41	Saimmeko omamme takaisin?	Sentences	1902	0	0.93
+1439307465.341	270221	27	13	94	m	m	Saimmeko omamme takaisin?	 80.99	  90.41	Saimmeko omamme takaisin?	Sentences	1996	0	0.93
+1439307465.466	270221	27	14	125	m	m	Saimmeko omamme takaisin?	 80.99	  90.41	Saimmeko omamme takaisin?	Sentences	2121	0	0.93
+1439307465.559	270221	27	15	93	e	e	Saimmeko omamme takaisin?	 80.99	  90.41	Saimmeko omamme takaisin?	Sentences	2214	0	0.93
+1439307465.653	270221	27	16	95	_	space	Saimmeko omamme takaisin?	 80.99	  90.41	Saimmeko omamme takaisin?	Sentences	2309	0	0.93
+1439307465.871	270221	27	17	217	t	t	Saimmeko omamme takaisin?	 80.99	  90.41	Saimmeko omamme takaisin?	Sentences	2526	0	0.93
+1439307465.903	270221	27	18	33	a	a	Saimmeko omamme takaisin?	 80.99	  90.41	Saimmeko omamme takaisin?	Sentences	2559	0	0.93
+1439307466.027	270221	27	19	123	k	k	Saimmeko omamme takaisin?	 80.99	  90.41	Saimmeko omamme takaisin?	Sentences	2682	0	0.93
+1439307466.152	270221	27	20	125	a	a	Saimmeko omamme takaisin?	 80.99	  90.41	Saimmeko omamme takaisin?	Sentences	2807	0	0.93
+1439307466.246	270221	27	21	94	i	i	Saimmeko omamme takaisin?	 80.99	  90.41	Saimmeko omamme takaisin?	Sentences	2901	0	0.93
+1439307466.339	270221	27	22	93	s	s	Saimmeko omamme takaisin?	 80.99	  90.41	Saimmeko omamme takaisin?	Sentences	2994	0	0.93
+1439307466.433	270221	27	23	94	i	i	Saimmeko omamme takaisin?	 80.99	  90.41	Saimmeko omamme takaisin?	Sentences	3088	0	0.93
+1439307466.495	270221	27	24	62	n	n	Saimmeko omamme takaisin?	 80.99	  90.41	Saimmeko omamme takaisin?	Sentences	3150	0	0.93
+1439307466.745	270221	27	25	250	Shift_R	Shift_R	Saimmeko omamme takaisin?	 80.99	  90.41	Saimmeko omamme takaisin?	Sentences	3400	0	0.93
+1439307466.901	270221	27	26	156	?	question	Saimmeko omamme takaisin?	 80.99	  90.41	Saimmeko omamme takaisin?	Sentences	3556	0	0.93
+1439307468.555	270221	28	0	0	Shift_R	Shift_R	Torstai sopii minulle paremmin.	 85.49	  60.18	Torstai sopii minulle paremmin.	Sentences	0	0	0.97
+1439307468.773	270221	28	1	217	T	T	Torstai sopii minulle paremmin.	 85.49	  60.18	Torstai sopii minulle paremmin.	Sentences	217	0	0.97
+1439307468.991	270221	28	2	218	o	o	Torstai sopii minulle paremmin.	 85.49	  60.18	Torstai sopii minulle paremmin.	Sentences	435	0	0.97
+1439307469.116	270221	28	3	125	r	r	Torstai sopii minulle paremmin.	 85.49	  60.18	Torstai sopii minulle paremmin.	Sentences	560	0	0.97
+1439307469.272	270221	28	4	157	s	s	Torstai sopii minulle paremmin.	 85.49	  60.18	Torstai sopii minulle paremmin.	Sentences	717	0	0.97
+1439307469.366	270221	28	5	93	t	t	Torstai sopii minulle paremmin.	 85.49	  60.18	Torstai sopii minulle paremmin.	Sentences	810	0	0.97
+1439307469.428	270221	28	6	62	a	a	Torstai sopii minulle paremmin.	 85.49	  60.18	Torstai sopii minulle paremmin.	Sentences	872	0	0.97
+1439307469.584	270221	28	7	157	i	i	Torstai sopii minulle paremmin.	 85.49	  60.18	Torstai sopii minulle paremmin.	Sentences	1029	0	0.97
+1439307469.834	270221	28	8	250	_	space	Torstai sopii minulle paremmin.	 85.49	  60.18	Torstai sopii minulle paremmin.	Sentences	1279	0	0.97
+1439307470.021	270221	28	9	186	s	s	Torstai sopii minulle paremmin.	 85.49	  60.18	Torstai sopii minulle paremmin.	Sentences	1465	0	0.97
+1439307470.24	270221	28	10	219	o	o	Torstai sopii minulle paremmin.	 85.49	  60.18	Torstai sopii minulle paremmin.	Sentences	1684	0	0.97
+1439307470.302	270221	28	11	62	p	p	Torstai sopii minulle paremmin.	 85.49	  60.18	Torstai sopii minulle paremmin.	Sentences	1746	0	0.97
+1439307470.489	270221	28	12	188	i	i	Torstai sopii minulle paremmin.	 85.49	  60.18	Torstai sopii minulle paremmin.	Sentences	1934	0	0.97
+1439307470.614	270221	28	13	125	i	i	Torstai sopii minulle paremmin.	 85.49	  60.18	Torstai sopii minulle paremmin.	Sentences	2059	0	0.97
+1439307470.739	270221	28	14	125	_	space	Torstai sopii minulle paremmin.	 85.49	  60.18	Torstai sopii minulle paremmin.	Sentences	2184	0	0.97
+1439307470.832	270221	28	15	92	m	m	Torstai sopii minulle paremmin.	 85.49	  60.18	Torstai sopii minulle paremmin.	Sentences	2276	0	0.97
+1439307470.957	270221	28	16	125	i	i	Torstai sopii minulle paremmin.	 85.49	  60.18	Torstai sopii minulle paremmin.	Sentences	2401	0	0.97
+1439307471.176	270221	28	17	220	n	n	Torstai sopii minulle paremmin.	 85.49	  60.18	Torstai sopii minulle paremmin.	Sentences	2621	0	0.97
+1439307471.238	270221	28	18	61	u	u	Torstai sopii minulle paremmin.	 85.49	  60.18	Torstai sopii minulle paremmin.	Sentences	2682	0	0.97
+1439307471.425	270221	28	19	187	l	l	Torstai sopii minulle paremmin.	 85.49	  60.18	Torstai sopii minulle paremmin.	Sentences	2869	0	0.97
+1439307471.581	270221	28	20	157	l	l	Torstai sopii minulle paremmin.	 85.49	  60.18	Torstai sopii minulle paremmin.	Sentences	3026	0	0.97
+1439307471.644	270221	28	21	62	e	e	Torstai sopii minulle paremmin.	 85.49	  60.18	Torstai sopii minulle paremmin.	Sentences	3088	0	0.97
+1439307471.737	270221	28	22	93	_	space	Torstai sopii minulle paremmin.	 85.49	  60.18	Torstai sopii minulle paremmin.	Sentences	3181	0	0.97
+1439307471.8	270221	28	23	63	p	p	Torstai sopii minulle paremmin.	 85.49	  60.18	Torstai sopii minulle paremmin.	Sentences	3244	0	0.97
+1439307471.893	270221	28	24	93	a	a	Torstai sopii minulle paremmin.	 85.49	  60.18	Torstai sopii minulle paremmin.	Sentences	3337	0	0.97
+1439307471.956	270221	28	25	64	r	r	Torstai sopii minulle paremmin.	 85.49	  60.18	Torstai sopii minulle paremmin.	Sentences	3401	0	0.97
+1439307472.049	270221	28	26	92	e	e	Torstai sopii minulle paremmin.	 85.49	  60.18	Torstai sopii minulle paremmin.	Sentences	3493	0	0.97
+1439307472.205	270221	28	27	156	m	m	Torstai sopii minulle paremmin.	 85.49	  60.18	Torstai sopii minulle paremmin.	Sentences	3649	0	0.97
+1439307472.392	270221	28	28	187	m	m	Torstai sopii minulle paremmin.	 85.49	  60.18	Torstai sopii minulle paremmin.	Sentences	3836	0	0.97
+1439307472.455	270221	28	29	63	i	i	Torstai sopii minulle paremmin.	 85.49	  60.18	Torstai sopii minulle paremmin.	Sentences	3899	0	0.97
+1439307472.548	270221	28	30	94	n	n	Torstai sopii minulle paremmin.	 85.49	  60.18	Torstai sopii minulle paremmin.	Sentences	3993	0	0.97
+1439307472.767	270221	28	31	218	.	period	Torstai sopii minulle paremmin.	 85.49	  60.18	Torstai sopii minulle paremmin.	Sentences	4211	0	0.97
+1439307473.952	270221	29	0	0	Shift_R	Shift_R	Lähetin sen hänelle.	 88.03	  56.55	Lähetin sen hänelle.	Sentences	0	0	0.95
+1439307474.14	270221	29	1	188	L	L	Lähetin sen hänelle.	 88.03	  56.55	Lähetin sen hänelle.	Sentences	188	0	0.95
+1439307474.296	270221	29	2	156	ä	adiaeresis	Lähetin sen hänelle.	 88.03	  56.55	Lähetin sen hänelle.	Sentences	344	0	0.95
+1439307474.608	270221	29	3	312	h	h	Lähetin sen hänelle.	 88.03	  56.55	Lähetin sen hänelle.	Sentences	656	0	0.95
+1439307474.701	270221	29	4	93	e	e	Lähetin sen hänelle.	 88.03	  56.55	Lähetin sen hänelle.	Sentences	749	0	0.95
+1439307474.795	270221	29	5	94	t	t	Lähetin sen hänelle.	 88.03	  56.55	Lähetin sen hänelle.	Sentences	843	0	0.95
+1439307474.888	270221	29	6	93	i	i	Lähetin sen hänelle.	 88.03	  56.55	Lähetin sen hänelle.	Sentences	936	0	0.95
+1439307474.951	270221	29	7	63	n	n	Lähetin sen hänelle.	 88.03	  56.55	Lähetin sen hänelle.	Sentences	999	0	0.95
+1439307475.076	270221	29	8	125	_	space	Lähetin sen hänelle.	 88.03	  56.55	Lähetin sen hänelle.	Sentences	1124	0	0.95
+1439307475.2	270221	29	9	124	s	s	Lähetin sen hänelle.	 88.03	  56.55	Lähetin sen hänelle.	Sentences	1248	0	0.95
+1439307475.263	270221	29	10	63	e	e	Lähetin sen hänelle.	 88.03	  56.55	Lähetin sen hänelle.	Sentences	1311	0	0.95
+1439307475.388	270221	29	11	125	n	n	Lähetin sen hänelle.	 88.03	  56.55	Lähetin sen hänelle.	Sentences	1436	0	0.95
+1439307475.481	270221	29	12	93	_	space	Lähetin sen hänelle.	 88.03	  56.55	Lähetin sen hänelle.	Sentences	1529	0	0.95
+1439307475.575	270221	29	13	94	h	h	Lähetin sen hänelle.	 88.03	  56.55	Lähetin sen hänelle.	Sentences	1623	0	0.95
+1439307475.731	270221	29	14	156	ä	adiaeresis	Lähetin sen hänelle.	 88.03	  56.55	Lähetin sen hänelle.	Sentences	1779	0	0.95
+1439307475.918	270221	29	15	187	n	n	Lähetin sen hänelle.	 88.03	  56.55	Lähetin sen hänelle.	Sentences	1966	0	0.95
+1439307476.012	270221	29	16	94	e	e	Lähetin sen hänelle.	 88.03	  56.55	Lähetin sen hänelle.	Sentences	2060	0	0.95
+1439307476.168	270221	29	17	156	l	l	Lähetin sen hänelle.	 88.03	  56.55	Lähetin sen hänelle.	Sentences	2216	0	0.95
+1439307476.324	270221	29	18	155	l	l	Lähetin sen hänelle.	 88.03	  56.55	Lähetin sen hänelle.	Sentences	2371	0	0.95
+1439307476.417	270221	29	19	94	e	e	Lähetin sen hänelle.	 88.03	  56.55	Lähetin sen hänelle.	Sentences	2465	0	0.95
+1439307476.542	270221	29	20	125	.	period	Lähetin sen hänelle.	 88.03	  56.55	Lähetin sen hänelle.	Sentences	2590	0	0.95
+1439307477.759	270221	30	0	0	Shift_R	Shift_R	Kiitos huolenpidostasi.	 69.95	 101.55	Kiitos huolenpidostasi.	Sentences	0	0	0.96
+1439307477.977	270221	30	1	217	K	K	Kiitos huolenpidostasi.	 69.95	 101.55	Kiitos huolenpidostasi.	Sentences	217	0	0.96
+1439307478.196	270221	30	2	220	i	i	Kiitos huolenpidostasi.	 69.95	 101.55	Kiitos huolenpidostasi.	Sentences	437	0	0.96
+1439307478.32	270221	30	3	123	i	i	Kiitos huolenpidostasi.	 69.95	 101.55	Kiitos huolenpidostasi.	Sentences	560	0	0.96
+1439307478.445	270221	30	4	125	t	t	Kiitos huolenpidostasi.	 69.95	 101.55	Kiitos huolenpidostasi.	Sentences	685	0	0.96
+1439307478.539	270221	30	5	94	o	o	Kiitos huolenpidostasi.	 69.95	 101.55	Kiitos huolenpidostasi.	Sentences	779	0	0.96
+1439307478.664	270221	30	6	125	s	s	Kiitos huolenpidostasi.	 69.95	 101.55	Kiitos huolenpidostasi.	Sentences	904	0	0.96
+1439307478.726	270221	30	7	63	_	space	Kiitos huolenpidostasi.	 69.95	 101.55	Kiitos huolenpidostasi.	Sentences	967	0	0.96
+1439307478.944	270221	30	8	217	h	h	Kiitos huolenpidostasi.	 69.95	 101.55	Kiitos huolenpidostasi.	Sentences	1184	0	0.96
+1439307479.163	270221	30	9	220	u	u	Kiitos huolenpidostasi.	 69.95	 101.55	Kiitos huolenpidostasi.	Sentences	1404	0	0.96
+1439307479.194	270221	30	10	30	o	o	Kiitos huolenpidostasi.	 69.95	 101.55	Kiitos huolenpidostasi.	Sentences	1434	0	0.96
+1439307479.381	270221	30	11	187	l	l	Kiitos huolenpidostasi.	 69.95	 101.55	Kiitos huolenpidostasi.	Sentences	1621	0	0.96
+1439307479.912	270221	30	12	531	e	e	Kiitos huolenpidostasi.	 69.95	 101.55	Kiitos huolenpidostasi.	Sentences	2152	0	0.96
+1439307480.036	270221	30	13	124	n	n	Kiitos huolenpidostasi.	 69.95	 101.55	Kiitos huolenpidostasi.	Sentences	2276	0	0.96
+1439307480.255	270221	30	14	220	p	p	Kiitos huolenpidostasi.	 69.95	 101.55	Kiitos huolenpidostasi.	Sentences	2496	0	0.96
+1439307480.38	270221	30	15	125	i	i	Kiitos huolenpidostasi.	 69.95	 101.55	Kiitos huolenpidostasi.	Sentences	2621	0	0.96
+1439307480.66	270221	30	16	280	d	d	Kiitos huolenpidostasi.	 69.95	 101.55	Kiitos huolenpidostasi.	Sentences	2901	0	0.96
+1439307480.785	270221	30	17	125	o	o	Kiitos huolenpidostasi.	 69.95	 101.55	Kiitos huolenpidostasi.	Sentences	3026	0	0.96
+1439307480.879	270221	30	18	93	s	s	Kiitos huolenpidostasi.	 69.95	 101.55	Kiitos huolenpidostasi.	Sentences	3119	0	0.96
+1439307480.972	270221	30	19	93	t	t	Kiitos huolenpidostasi.	 69.95	 101.55	Kiitos huolenpidostasi.	Sentences	3212	0	0.96
+1439307481.035	270221	30	20	64	a	a	Kiitos huolenpidostasi.	 69.95	 101.55	Kiitos huolenpidostasi.	Sentences	3276	0	0.96
+1439307481.191	270221	30	21	155	s	s	Kiitos huolenpidostasi.	 69.95	 101.55	Kiitos huolenpidostasi.	Sentences	3431	0	0.96
+1439307481.347	270221	30	22	156	i	i	Kiitos huolenpidostasi.	 69.95	 101.55	Kiitos huolenpidostasi.	Sentences	3587	0	0.96
+1439307481.534	270221	30	23	187	.	period	Kiitos huolenpidostasi.	 69.95	 101.55	Kiitos huolenpidostasi.	Sentences	3774	0	0.96
+1439307482.626	270221	31	0	0	Shift_R	Shift_R	Missä olet?	 66.30	  54.55	Missä olet?	Sentences	0	0	0.85
+1439307482.813	270221	31	1	187	M	M	Missä olet?	 66.30	  54.55	Missä olet?	Sentences	187	0	0.85
+1439307483	270221	31	2	187	i	i	Missä olet?	 66.30	  54.55	Missä olet?	Sentences	374	0	0.85
+1439307483.125	270221	31	3	125	s	s	Missä olet?	 66.30	  54.55	Missä olet?	Sentences	499	0	0.85
+1439307483.312	270221	31	4	187	s	s	Missä olet?	 66.30	  54.55	Missä olet?	Sentences	686	0	0.85
+1439307483.437	270221	31	5	125	ä	adiaeresis	Missä olet?	 66.30	  54.55	Missä olet?	Sentences	811	0	0.85
+1439307483.593	270221	31	6	156	_	space	Missä olet?	 66.30	  54.55	Missä olet?	Sentences	967	0	0.85
+1439307483.718	270221	31	7	125	o	o	Missä olet?	 66.30	  54.55	Missä olet?	Sentences	1092	0	0.85
+1439307483.874	270221	31	8	156	l	l	Missä olet?	 66.30	  54.55	Missä olet?	Sentences	1248	0	0.85
+1439307483.936	270221	31	9	62	e	e	Missä olet?	 66.30	  54.55	Missä olet?	Sentences	1310	0	0.85
+1439307483.999	270221	31	10	63	t	t	Missä olet?	 66.30	  54.55	Missä olet?	Sentences	1373	0	0.85
+1439307484.186	270221	31	11	187	Shift_R	Shift_R	Missä olet?	 66.30	  54.55	Missä olet?	Sentences	1560	0	0.85
+1439307484.436	270221	31	12	250	?	question	Missä olet?	 66.30	  54.55	Missä olet?	Sentences	1810	0	0.85
+1439307486.027	270221	32	0	0	Shift_R	Shift_R	Minkälainen tunnelma?	 76.17	  56.46	Minkälainen tunnelma?	Sentences	0	0	0.84
+1439307486.245	270221	32	1	217	M	M	Minkälainen tunnelma?	 76.17	  56.46	Minkälainen tunnelma?	Sentences	217	0	0.84
+1439307486.432	270221	32	2	187	i	i	Minkälainen tunnelma?	 76.17	  56.46	Minkälainen tunnelma?	Sentences	404	0	0.84
+1439307486.588	270221	32	3	157	n	n	Minkälainen tunnelma?	 76.17	  56.46	Minkälainen tunnelma?	Sentences	561	0	0.84
+1439307486.651	270221	32	4	63	k	k	Minkälainen tunnelma?	 76.17	  56.46	Minkälainen tunnelma?	Sentences	624	0	0.84
+1439307486.869	270221	32	5	218	ä	adiaeresis	Minkälainen tunnelma?	 76.17	  56.46	Minkälainen tunnelma?	Sentences	842	0	0.84
+1439307487.056	270221	32	6	187	l	l	Minkälainen tunnelma?	 76.17	  56.46	Minkälainen tunnelma?	Sentences	1029	0	0.84
+1439307487.15	270221	32	7	94	a	a	Minkälainen tunnelma?	 76.17	  56.46	Minkälainen tunnelma?	Sentences	1123	0	0.84
+1439307487.275	270221	32	8	125	i	i	Minkälainen tunnelma?	 76.17	  56.46	Minkälainen tunnelma?	Sentences	1248	0	0.84
+1439307487.337	270221	32	9	61	n	n	Minkälainen tunnelma?	 76.17	  56.46	Minkälainen tunnelma?	Sentences	1309	0	0.84
+1439307487.462	270221	32	10	125	e	e	Minkälainen tunnelma?	 76.17	  56.46	Minkälainen tunnelma?	Sentences	1434	0	0.84
+1439307487.556	270221	32	11	95	n	n	Minkälainen tunnelma?	 76.17	  56.46	Minkälainen tunnelma?	Sentences	1529	0	0.84
+1439307487.68	270221	32	12	124	_	space	Minkälainen tunnelma?	 76.17	  56.46	Minkälainen tunnelma?	Sentences	1653	0	0.84
+1439307487.743	270221	32	13	63	t	t	Minkälainen tunnelma?	 76.17	  56.46	Minkälainen tunnelma?	Sentences	1716	0	0.84
+1439307487.868	270221	32	14	125	u	u	Minkälainen tunnelma?	 76.17	  56.46	Minkälainen tunnelma?	Sentences	1841	0	0.84
+1439307487.961	270221	32	15	93	n	n	Minkälainen tunnelma?	 76.17	  56.46	Minkälainen tunnelma?	Sentences	1934	0	0.84
+1439307488.117	270221	32	16	156	n	n	Minkälainen tunnelma?	 76.17	  56.46	Minkälainen tunnelma?	Sentences	2090	0	0.84
+1439307488.242	270221	32	17	125	e	e	Minkälainen tunnelma?	 76.17	  56.46	Minkälainen tunnelma?	Sentences	2215	0	0.84
+1439307488.336	270221	32	18	94	l	l	Minkälainen tunnelma?	 76.17	  56.46	Minkälainen tunnelma?	Sentences	2309	0	0.84
+1439307488.398	270221	32	19	62	m	m	Minkälainen tunnelma?	 76.17	  56.46	Minkälainen tunnelma?	Sentences	2371	0	0.84
+1439307488.492	270221	32	20	94	a	a	Minkälainen tunnelma?	 76.17	  56.46	Minkälainen tunnelma?	Sentences	2465	0	0.84
+1439307488.648	270221	32	21	156	_	space	Minkälainen tunnelma?	 76.17	  56.46	Minkälainen tunnelma?	Sentences	2621	0	0.84
+1439307488.928	270221	32	22	280		BackSpace	Minkälainen tunnelma?	 76.17	  56.46	Minkälainen tunnelma?	Sentences	2901	0	0.84
+1439307489.084	270221	32	23	156	Shift_R	Shift_R	Minkälainen tunnelma?	 76.17	  56.46	Minkälainen tunnelma?	Sentences	3057	0	0.84
+1439307489.178	270221	32	24	94	?	question	Minkälainen tunnelma?	 76.17	  56.46	Minkälainen tunnelma?	Sentences	3151	0	0.84
+1439307490.27	270221	33	0	0	Shift_R	Shift_R	Se olisi hienoa.	 83.60	  51.91	Se olisi hienoa.	Sentences	0	0	0.94
+1439307490.426	270221	33	1	156	S	S	Se olisi hienoa.	 83.60	  51.91	Se olisi hienoa.	Sentences	156	0	0.94
+1439307490.676	270221	33	2	250	e	e	Se olisi hienoa.	 83.60	  51.91	Se olisi hienoa.	Sentences	406	0	0.94
+1439307490.863	270221	33	3	186	_	space	Se olisi hienoa.	 83.60	  51.91	Se olisi hienoa.	Sentences	592	0	0.94
+1439307490.988	270221	33	4	125	o	o	Se olisi hienoa.	 83.60	  51.91	Se olisi hienoa.	Sentences	717	0	0.94
+1439307491.144	270221	33	5	157	l	l	Se olisi hienoa.	 83.60	  51.91	Se olisi hienoa.	Sentences	874	0	0.94
+1439307491.206	270221	33	6	62	i	i	Se olisi hienoa.	 83.60	  51.91	Se olisi hienoa.	Sentences	936	0	0.94
+1439307491.3	270221	33	7	93	s	s	Se olisi hienoa.	 83.60	  51.91	Se olisi hienoa.	Sentences	1029	0	0.94
+1439307491.424	270221	33	8	125	i	i	Se olisi hienoa.	 83.60	  51.91	Se olisi hienoa.	Sentences	1154	0	0.94
+1439307491.518	270221	33	9	93	_	space	Se olisi hienoa.	 83.60	  51.91	Se olisi hienoa.	Sentences	1247	0	0.94
+1439307491.705	270221	33	10	187	h	h	Se olisi hienoa.	 83.60	  51.91	Se olisi hienoa.	Sentences	1434	0	0.94
+1439307491.768	270221	33	11	63	i	i	Se olisi hienoa.	 83.60	  51.91	Se olisi hienoa.	Sentences	1497	0	0.94
+1439307491.955	270221	33	12	187	e	e	Se olisi hienoa.	 83.60	  51.91	Se olisi hienoa.	Sentences	1684	0	0.94
+1439307492.048	270221	33	13	94	n	n	Se olisi hienoa.	 83.60	  51.91	Se olisi hienoa.	Sentences	1778	0	0.94
+1439307492.142	270221	33	14	93	o	o	Se olisi hienoa.	 83.60	  51.91	Se olisi hienoa.	Sentences	1871	0	0.94
+1439307492.298	270221	33	15	157	a	a	Se olisi hienoa.	 83.60	  51.91	Se olisi hienoa.	Sentences	2028	0	0.94
+1439307492.423	270221	33	16	125	.	period	Se olisi hienoa.	 83.60	  51.91	Se olisi hienoa.	Sentences	2153	0	0.94
+1439307493.484	270221	34	0	0	Shift_R	Shift_R	Mitä sinä kuulet?	 74.19	  80.15	Mitä sinä kuulet?	Sentences	0	0	0.89
+1439307493.702	270221	34	1	217	M	M	Mitä sinä kuulet?	 74.19	  80.15	Mitä sinä kuulet?	Sentences	217	0	0.89
+1439307493.858	270221	34	2	157	i	i	Mitä sinä kuulet?	 74.19	  80.15	Mitä sinä kuulet?	Sentences	374	0	0.89
+1439307493.983	270221	34	3	125	t	t	Mitä sinä kuulet?	 74.19	  80.15	Mitä sinä kuulet?	Sentences	499	0	0.89
+1439307494.076	270221	34	4	93	ä	adiaeresis	Mitä sinä kuulet?	 74.19	  80.15	Mitä sinä kuulet?	Sentences	592	0	0.89
+1439307494.482	270221	34	5	406	_	space	Mitä sinä kuulet?	 74.19	  80.15	Mitä sinä kuulet?	Sentences	998	0	0.89
+1439307494.607	270221	34	6	125	s	s	Mitä sinä kuulet?	 74.19	  80.15	Mitä sinä kuulet?	Sentences	1123	0	0.89
+1439307494.763	270221	34	7	156	i	i	Mitä sinä kuulet?	 74.19	  80.15	Mitä sinä kuulet?	Sentences	1279	0	0.89
+1439307494.825	270221	34	8	62	n	n	Mitä sinä kuulet?	 74.19	  80.15	Mitä sinä kuulet?	Sentences	1341	0	0.89
+1439307494.981	270221	34	9	155	ä	adiaeresis	Mitä sinä kuulet?	 74.19	  80.15	Mitä sinä kuulet?	Sentences	1496	0	0.89
+1439307495.137	270221	34	10	157	_	space	Mitä sinä kuulet?	 74.19	  80.15	Mitä sinä kuulet?	Sentences	1653	0	0.89
+1439307495.262	270221	34	11	125	k	k	Mitä sinä kuulet?	 74.19	  80.15	Mitä sinä kuulet?	Sentences	1778	0	0.89
+1439307495.387	270221	34	12	125	u	u	Mitä sinä kuulet?	 74.19	  80.15	Mitä sinä kuulet?	Sentences	1903	0	0.89
+1439307495.574	270221	34	13	186	u	u	Mitä sinä kuulet?	 74.19	  80.15	Mitä sinä kuulet?	Sentences	2089	0	0.89
+1439307495.605	270221	34	14	32	l	l	Mitä sinä kuulet?	 74.19	  80.15	Mitä sinä kuulet?	Sentences	2121	0	0.89
+1439307495.668	270221	34	15	63	e	e	Mitä sinä kuulet?	 74.19	  80.15	Mitä sinä kuulet?	Sentences	2184	0	0.89
+1439307495.761	270221	34	16	92	t	t	Mitä sinä kuulet?	 74.19	  80.15	Mitä sinä kuulet?	Sentences	2276	0	0.89
+1439307495.917	270221	34	17	157	Shift_R	Shift_R	Mitä sinä kuulet?	 74.19	  80.15	Mitä sinä kuulet?	Sentences	2433	0	0.89
+1439307496.073	270221	34	18	155	?	question	Mitä sinä kuulet?	 74.19	  80.15	Mitä sinä kuulet?	Sentences	2588	0	0.89
+1439307497.259	270221	35	0	0	Shift_R	Shift_R	Tapahtuiko tuo?	 84.17	  55.91	Tapahtuiko tuo?	Sentences	0	0	0.88
+1439307497.508	270221	35	1	248	T	T	Tapahtuiko tuo?	 84.17	  55.91	Tapahtuiko tuo?	Sentences	248	0	0.88
+1439307497.696	270221	35	2	189	a	a	Tapahtuiko tuo?	 84.17	  55.91	Tapahtuiko tuo?	Sentences	437	0	0.88
+1439307497.789	270221	35	3	92	p	p	Tapahtuiko tuo?	 84.17	  55.91	Tapahtuiko tuo?	Sentences	529	0	0.88
+1439307497.914	270221	35	4	125	a	a	Tapahtuiko tuo?	 84.17	  55.91	Tapahtuiko tuo?	Sentences	654	0	0.88
+1439307498.008	270221	35	5	94	h	h	Tapahtuiko tuo?	 84.17	  55.91	Tapahtuiko tuo?	Sentences	748	0	0.88
+1439307498.132	270221	35	6	124	t	t	Tapahtuiko tuo?	 84.17	  55.91	Tapahtuiko tuo?	Sentences	872	0	0.88
+1439307498.226	270221	35	7	95	u	u	Tapahtuiko tuo?	 84.17	  55.91	Tapahtuiko tuo?	Sentences	967	0	0.88
+1439307498.32	270221	35	8	93	i	i	Tapahtuiko tuo?	 84.17	  55.91	Tapahtuiko tuo?	Sentences	1060	0	0.88
+1439307498.476	270221	35	9	157	k	k	Tapahtuiko tuo?	 84.17	  55.91	Tapahtuiko tuo?	Sentences	1217	0	0.88
+1439307498.538	270221	35	10	62	o	o	Tapahtuiko tuo?	 84.17	  55.91	Tapahtuiko tuo?	Sentences	1279	0	0.88
+1439307498.663	270221	35	11	125	_	space	Tapahtuiko tuo?	 84.17	  55.91	Tapahtuiko tuo?	Sentences	1404	0	0.88
+1439307498.756	270221	35	12	92	t	t	Tapahtuiko tuo?	 84.17	  55.91	Tapahtuiko tuo?	Sentences	1496	0	0.88
+1439307498.85	270221	35	13	94	u	u	Tapahtuiko tuo?	 84.17	  55.91	Tapahtuiko tuo?	Sentences	1590	0	0.88
+1439307498.881	270221	35	14	31	o	o	Tapahtuiko tuo?	 84.17	  55.91	Tapahtuiko tuo?	Sentences	1621	0	0.88
+1439307499.068	270221	35	15	188	Shift_R	Shift_R	Tapahtuiko tuo?	 84.17	  55.91	Tapahtuiko tuo?	Sentences	1809	0	0.88
+1439307499.256	270221	35	16	187	?	question	Tapahtuiko tuo?	 84.17	  55.91	Tapahtuiko tuo?	Sentences	1996	0	0.88
+1439307500.348	270221	36	0	0	Shift_R	Shift_R	Kuinka voit?	 83.02	  60.02	Kuinka voit?	Sentences	0	0	0.86
+1439307500.597	270221	36	1	248	K	K	Kuinka voit?	 83.02	  60.02	Kuinka voit?	Sentences	248	0	0.86
+1439307500.784	270221	36	2	187	u	u	Kuinka voit?	 83.02	  60.02	Kuinka voit?	Sentences	435	0	0.86
+1439307500.847	270221	36	3	63	i	i	Kuinka voit?	 83.02	  60.02	Kuinka voit?	Sentences	498	0	0.86
+1439307501.003	270221	36	4	156	n	n	Kuinka voit?	 83.02	  60.02	Kuinka voit?	Sentences	654	0	0.86
+1439307501.034	270221	36	5	31	k	k	Kuinka voit?	 83.02	  60.02	Kuinka voit?	Sentences	685	0	0.86
+1439307501.128	270221	36	6	94	a	a	Kuinka voit?	 83.02	  60.02	Kuinka voit?	Sentences	779	0	0.86
+1439307501.221	270221	36	7	93	_	space	Kuinka voit?	 83.02	  60.02	Kuinka voit?	Sentences	872	0	0.86
+1439307501.377	270221	36	8	157	v	v	Kuinka voit?	 83.02	  60.02	Kuinka voit?	Sentences	1029	0	0.86
+1439307501.44	270221	36	9	63	o	o	Kuinka voit?	 83.02	  60.02	Kuinka voit?	Sentences	1092	0	0.86
+1439307501.533	270221	36	10	92	i	i	Kuinka voit?	 83.02	  60.02	Kuinka voit?	Sentences	1184	0	0.86
+1439307501.627	270221	36	11	95	t	t	Kuinka voit?	 83.02	  60.02	Kuinka voit?	Sentences	1279	0	0.86
+1439307501.783	270221	36	12	155	Shift_R	Shift_R	Kuinka voit?	 83.02	  60.02	Kuinka voit?	Sentences	1434	0	0.86
+1439307501.939	270221	36	13	156	?	question	Kuinka voit?	 83.02	  60.02	Kuinka voit?	Sentences	1590	0	0.86
+1439307503.249	270221	37	0	0	Shift_R	Shift_R	Kunhan pelleilen kanssasi!	 85.86	  46.40	Kunhan pelleilen kanssasi!	Sentences	0	0	0.93
+1439307503.436	270221	37	1	187	K	K	Kunhan pelleilen kanssasi!	 85.86	  46.40	Kunhan pelleilen kanssasi!	Sentences	187	0	0.93
+1439307503.624	270221	37	2	188	u	u	Kunhan pelleilen kanssasi!	 85.86	  46.40	Kunhan pelleilen kanssasi!	Sentences	375	0	0.93
+1439307503.811	270221	37	3	187	n	n	Kunhan pelleilen kanssasi!	 85.86	  46.40	Kunhan pelleilen kanssasi!	Sentences	562	0	0.93
+1439307503.967	270221	37	4	155	h	h	Kunhan pelleilen kanssasi!	 85.86	  46.40	Kunhan pelleilen kanssasi!	Sentences	717	0	0.93
+1439307504.092	270221	37	5	125	a	a	Kunhan pelleilen kanssasi!	 85.86	  46.40	Kunhan pelleilen kanssasi!	Sentences	842	0	0.93
+1439307504.185	270221	37	6	93	n	n	Kunhan pelleilen kanssasi!	 85.86	  46.40	Kunhan pelleilen kanssasi!	Sentences	935	0	0.93
+1439307504.31	270221	37	7	125	_	space	Kunhan pelleilen kanssasi!	 85.86	  46.40	Kunhan pelleilen kanssasi!	Sentences	1060	0	0.93
+1439307504.435	270221	37	8	125	p	p	Kunhan pelleilen kanssasi!	 85.86	  46.40	Kunhan pelleilen kanssasi!	Sentences	1185	0	0.93
+1439307504.56	270221	37	9	125	e	e	Kunhan pelleilen kanssasi!	 85.86	  46.40	Kunhan pelleilen kanssasi!	Sentences	1310	0	0.93
+1439307504.653	270221	37	10	94	l	l	Kunhan pelleilen kanssasi!	 85.86	  46.40	Kunhan pelleilen kanssasi!	Sentences	1404	0	0.93
+1439307504.809	270221	37	11	155	l	l	Kunhan pelleilen kanssasi!	 85.86	  46.40	Kunhan pelleilen kanssasi!	Sentences	1559	0	0.93
+1439307504.903	270221	37	12	95	e	e	Kunhan pelleilen kanssasi!	 85.86	  46.40	Kunhan pelleilen kanssasi!	Sentences	1654	0	0.93
+1439307504.996	270221	37	13	92	i	i	Kunhan pelleilen kanssasi!	 85.86	  46.40	Kunhan pelleilen kanssasi!	Sentences	1746	0	0.93
+1439307505.152	270221	37	14	156	l	l	Kunhan pelleilen kanssasi!	 85.86	  46.40	Kunhan pelleilen kanssasi!	Sentences	1902	0	0.93
+1439307505.246	270221	37	15	94	e	e	Kunhan pelleilen kanssasi!	 85.86	  46.40	Kunhan pelleilen kanssasi!	Sentences	1996	0	0.93
+1439307505.371	270221	37	16	125	n	n	Kunhan pelleilen kanssasi!	 85.86	  46.40	Kunhan pelleilen kanssasi!	Sentences	2121	0	0.93
+1439307505.464	270221	37	17	93	_	space	Kunhan pelleilen kanssasi!	 85.86	  46.40	Kunhan pelleilen kanssasi!	Sentences	2214	0	0.93
+1439307505.589	270221	37	18	125	k	k	Kunhan pelleilen kanssasi!	 85.86	  46.40	Kunhan pelleilen kanssasi!	Sentences	2339	0	0.93
+1439307505.652	270221	37	19	63	a	a	Kunhan pelleilen kanssasi!	 85.86	  46.40	Kunhan pelleilen kanssasi!	Sentences	2402	0	0.93
+1439307505.776	270221	37	20	124	n	n	Kunhan pelleilen kanssasi!	 85.86	  46.40	Kunhan pelleilen kanssasi!	Sentences	2526	0	0.93
+1439307505.87	270221	37	21	94	s	s	Kunhan pelleilen kanssasi!	 85.86	  46.40	Kunhan pelleilen kanssasi!	Sentences	2620	0	0.93
+1439307506.057	270221	37	22	187	s	s	Kunhan pelleilen kanssasi!	 85.86	  46.40	Kunhan pelleilen kanssasi!	Sentences	2807	0	0.93
+1439307506.088	270221	37	23	31	a	a	Kunhan pelleilen kanssasi!	 85.86	  46.40	Kunhan pelleilen kanssasi!	Sentences	2838	0	0.93
+1439307506.244	270221	37	24	156	s	s	Kunhan pelleilen kanssasi!	 85.86	  46.40	Kunhan pelleilen kanssasi!	Sentences	2994	0	0.93
+1439307506.4	270221	37	25	157	i	i	Kunhan pelleilen kanssasi!	 85.86	  46.40	Kunhan pelleilen kanssasi!	Sentences	3151	0	0.93
+1439307506.65	270221	37	26	250	Shift_R	Shift_R	Kunhan pelleilen kanssasi!	 85.86	  46.40	Kunhan pelleilen kanssasi!	Sentences	3401	0	0.93
+1439307506.744	270221	37	27	93	!	exclam	Kunhan pelleilen kanssasi!	 85.86	  46.40	Kunhan pelleilen kanssasi!	Sentences	3494	0	0.93
+1439307507.867	270221	38	0	0	Shift_R	Shift_R	Käyttäydytkö lapsellisesti?	 60.99	  81.32	Käyttäydytkö lapsellisesti?	Sentences	0	0	0.87
+1439307508.21	270221	38	1	342	K	K	Käyttäydytkö lapsellisesti?	 60.99	  81.32	Käyttäydytkö lapsellisesti?	Sentences	342	0	0.87
+1439307508.428	270221	38	2	218	ä	adiaeresis	Käyttäydytkö lapsellisesti?	 60.99	  81.32	Käyttäydytkö lapsellisesti?	Sentences	560	0	0.87
+1439307508.553	270221	38	3	125	y	y	Käyttäydytkö lapsellisesti?	 60.99	  81.32	Käyttäydytkö lapsellisesti?	Sentences	685	0	0.87
+1439307508.74	270221	38	4	187	t	t	Käyttäydytkö lapsellisesti?	 60.99	  81.32	Käyttäydytkö lapsellisesti?	Sentences	872	0	0.87
+1439307508.928	270221	38	5	188	ä	adiaeresis	Käyttäydytkö lapsellisesti?	 60.99	  81.32	Käyttäydytkö lapsellisesti?	Sentences	1060	0	0.87
+1439307509.271	270221	38	6	343		BackSpace	Käyttäydytkö lapsellisesti?	 60.99	  81.32	Käyttäydytkö lapsellisesti?	Sentences	1403	0	0.87
+1439307509.427	270221	38	7	156	t	t	Käyttäydytkö lapsellisesti?	 60.99	  81.32	Käyttäydytkö lapsellisesti?	Sentences	1559	0	0.87
+1439307509.52	270221	38	8	93	ä	adiaeresis	Käyttäydytkö lapsellisesti?	 60.99	  81.32	Käyttäydytkö lapsellisesti?	Sentences	1652	0	0.87
+1439307509.676	270221	38	9	157	y	y	Käyttäydytkö lapsellisesti?	 60.99	  81.32	Käyttäydytkö lapsellisesti?	Sentences	1809	0	0.87
+1439307510.02	270221	38	10	343	d	d	Käyttäydytkö lapsellisesti?	 60.99	  81.32	Käyttäydytkö lapsellisesti?	Sentences	2152	0	0.87
+1439307510.269	270221	38	11	249	y	y	Käyttäydytkö lapsellisesti?	 60.99	  81.32	Käyttäydytkö lapsellisesti?	Sentences	2401	0	0.87
+1439307510.456	270221	38	12	187	t	t	Käyttäydytkö lapsellisesti?	 60.99	  81.32	Käyttäydytkö lapsellisesti?	Sentences	2588	0	0.87
+1439307510.644	270221	38	13	188	k	k	Käyttäydytkö lapsellisesti?	 60.99	  81.32	Käyttäydytkö lapsellisesti?	Sentences	2776	0	0.87
+1439307510.706	270221	38	14	62	ö	odiaeresis	Käyttäydytkö lapsellisesti?	 60.99	  81.32	Käyttäydytkö lapsellisesti?	Sentences	2838	0	0.87
+1439307510.831	270221	38	15	125	_	space	Käyttäydytkö lapsellisesti?	 60.99	  81.32	Käyttäydytkö lapsellisesti?	Sentences	2963	0	0.87
+1439307511.08	270221	38	16	249	l	l	Käyttäydytkö lapsellisesti?	 60.99	  81.32	Käyttäydytkö lapsellisesti?	Sentences	3212	0	0.87
+1439307511.205	270221	38	17	125	a	a	Käyttäydytkö lapsellisesti?	 60.99	  81.32	Käyttäydytkö lapsellisesti?	Sentences	3337	0	0.87
+1439307511.33	270221	38	18	125	p	p	Käyttäydytkö lapsellisesti?	 60.99	  81.32	Käyttäydytkö lapsellisesti?	Sentences	3462	0	0.87
+1439307511.455	270221	38	19	125	s	s	Käyttäydytkö lapsellisesti?	 60.99	  81.32	Käyttäydytkö lapsellisesti?	Sentences	3587	0	0.87
+1439307511.548	270221	38	20	93	e	e	Käyttäydytkö lapsellisesti?	 60.99	  81.32	Käyttäydytkö lapsellisesti?	Sentences	3680	0	0.87
+1439307511.673	270221	38	21	125	l	l	Käyttäydytkö lapsellisesti?	 60.99	  81.32	Käyttäydytkö lapsellisesti?	Sentences	3805	0	0.87
+1439307511.829	270221	38	22	156	l	l	Käyttäydytkö lapsellisesti?	 60.99	  81.32	Käyttäydytkö lapsellisesti?	Sentences	3961	0	0.87
+1439307511.923	270221	38	23	94	i	i	Käyttäydytkö lapsellisesti?	 60.99	  81.32	Käyttäydytkö lapsellisesti?	Sentences	4055	0	0.87
+1439307511.985	270221	38	24	62	s	s	Käyttäydytkö lapsellisesti?	 60.99	  81.32	Käyttäydytkö lapsellisesti?	Sentences	4117	0	0.87
+1439307512.079	270221	38	25	94	e	e	Käyttäydytkö lapsellisesti?	 60.99	  81.32	Käyttäydytkö lapsellisesti?	Sentences	4211	0	0.87
+1439307512.204	270221	38	26	125	s	s	Käyttäydytkö lapsellisesti?	 60.99	  81.32	Käyttäydytkö lapsellisesti?	Sentences	4336	0	0.87
+1439307512.297	270221	38	27	93	t	t	Käyttäydytkö lapsellisesti?	 60.99	  81.32	Käyttäydytkö lapsellisesti?	Sentences	4429	0	0.87
+1439307512.453	270221	38	28	156	i	i	Käyttäydytkö lapsellisesti?	 60.99	  81.32	Käyttäydytkö lapsellisesti?	Sentences	4585	0	0.87
+1439307512.703	270221	38	29	250	Shift_R	Shift_R	Käyttäydytkö lapsellisesti?	 60.99	  81.32	Käyttäydytkö lapsellisesti?	Sentences	4835	0	0.87
+1439307512.984	270221	38	30	281	?	question	Käyttäydytkö lapsellisesti?	 60.99	  81.32	Käyttäydytkö lapsellisesti?	Sentences	5116	0	0.87
+1439307514.076	270221	39	0	0	Shift_R	Shift_R	Mikä tämä on?	 62.39	  94.53	Mikä tämä on?	Sentences	0	0	0.87
+1439307514.294	270221	39	1	217	M	M	Mikä tämä on?	 62.39	  94.53	Mikä tämä on?	Sentences	217	0	0.87
+1439307514.481	270221	39	2	187	i	i	Mikä tämä on?	 62.39	  94.53	Mikä tämä on?	Sentences	404	0	0.87
+1439307514.668	270221	39	3	188	k	k	Mikä tämä on?	 62.39	  94.53	Mikä tämä on?	Sentences	592	0	0.87
+1439307514.7	270221	39	4	32	ä	adiaeresis	Mikä tämä on?	 62.39	  94.53	Mikä tämä on?	Sentences	624	0	0.87
+1439307514.918	270221	39	5	218	_	space	Mikä tämä on?	 62.39	  94.53	Mikä tämä on?	Sentences	842	0	0.87
+1439307515.043	270221	39	6	125	t	t	Mikä tämä on?	 62.39	  94.53	Mikä tämä on?	Sentences	967	0	0.87
+1439307515.168	270221	39	7	125	ä	adiaeresis	Mikä tämä on?	 62.39	  94.53	Mikä tämä on?	Sentences	1092	0	0.87
+1439307515.355	270221	39	8	187	m	m	Mikä tämä on?	 62.39	  94.53	Mikä tämä on?	Sentences	1279	0	0.87
+1439307515.386	270221	39	9	30	ä	adiaeresis	Mikä tämä on?	 62.39	  94.53	Mikä tämä on?	Sentences	1309	0	0.87
+1439307515.76	270221	39	10	375	_	space	Mikä tämä on?	 62.39	  94.53	Mikä tämä on?	Sentences	1684	0	0.87
+1439307515.854	270221	39	11	94	o	o	Mikä tämä on?	 62.39	  94.53	Mikä tämä on?	Sentences	1778	0	0.87
+1439307515.916	270221	39	12	61	n	n	Mikä tämä on?	 62.39	  94.53	Mikä tämä on?	Sentences	1839	0	0.87
+1439307516.135	270221	39	13	220	Shift_R	Shift_R	Mikä tämä on?	 62.39	  94.53	Mikä tämä on?	Sentences	2059	0	0.87
+1439307516.384	270221	39	14	249	?	question	Mikä tämä on?	 62.39	  94.53	Mikä tämä on?	Sentences	2308	0	0.87
+1439307517.913	270221	40	0	0	Shift_R	Shift_R	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	0	0	0.79
+1439307518.132	270221	40	1	218	K	K	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	218	0	0.79
+1439307518.537	270221	40	2	405		BackSpace	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	623	0	0.79
+1439307518.693	270221	40	3	156	Shift_R	Shift_R	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	779	0	0.79
+1439307518.849	270221	40	4	156	L	L	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	935	0	0.79
+1439307519.005	270221	40	5	157	'	quoteright	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	1092	0	0.79
+1439307519.442	270221	40	6	436		BackSpace	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	1528	0	0.79
+1439307519.66	270221	40	7	218	ä	adiaeresis	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	1746	0	0.79
+1439307520.191	270221	40	8	531	h	h	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	2277	0	0.79
+1439307520.316	270221	40	9	125	e	e	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	2402	0	0.79
+1439307520.628	270221	40	10	312	t	t	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	2714	0	0.79
+1439307520.784	270221	40	11	156	t	t	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	2870	0	0.79
+1439307520.877	270221	40	12	93	ä	adiaeresis	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	2963	0	0.79
+1439307520.971	270221	40	13	94	i	i	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	3057	0	0.79
+1439307521.096	270221	40	14	125	s	s	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	3182	0	0.79
+1439307521.189	270221	40	15	93	t	t	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	3275	0	0.79
+1439307521.314	270221	40	16	125	i	i	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	3400	0	0.79
+1439307521.532	270221	40	17	218	k	k	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	3618	0	0.79
+1439307522.281	270221	40	18	749	ö	odiaeresis	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	4367	0	0.79
+1439307522.437	270221	40	19	156	_	space	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	4523	0	0.79
+1439307522.593	270221	40	20	156	m	m	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	4679	0	0.79
+1439307522.687	270221	40	21	94	i	i	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	4773	0	0.79
+1439307522.812	270221	40	22	125	n	n	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	4898	0	0.79
+1439307522.905	270221	40	23	93	u	u	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	4991	0	0.79
+1439307523.092	270221	40	24	187	l	l	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	5178	0	0.79
+1439307523.248	270221	40	25	156	l	l	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	5334	0	0.79
+1439307523.28	270221	40	26	32	e	e	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	5366	0	0.79
+1439307523.373	270221	40	27	93	_	space	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	5459	0	0.79
+1439307523.56	270221	40	28	187	s	s	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	5646	0	0.79
+1439307523.623	270221	40	29	63	ä	adiaeresis	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	5709	0	0.79
+1439307523.841	270221	40	30	218	h	h	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	5927	0	0.79
+1439307524.06	270221	40	31	219	k	k	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	6146	0	0.79
+1439307524.153	270221	40	32	94	ö	odiaeresis	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	6240	0	0.79
+1439307524.621	270221	40	33	467		BackSpace	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	6707	0	0.79
+1439307525.214	270221	40	34	593	ö	odiaeresis	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	7300	0	0.79
+1439307525.432	270221	40	35	218	p	p	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	7518	0	0.79
+1439307525.464	270221	40	36	32	o	o	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	7550	0	0.79
+1439307525.588	270221	40	37	124	s	s	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	7674	0	0.79
+1439307525.651	270221	40	38	63	t	t	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	7737	0	0.79
+1439307525.776	270221	40	39	125	i	i	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	7862	0	0.79
+1439307525.9	270221	40	40	124	a	a	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	7986	0	0.79
+1439307526.025	270221	40	41	125	Shift_R	Shift_R	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	8111	0	0.79
+1439307526.212	270221	40	42	187	?	question	Lähettäistikö minulle sähköpostia?	 47.72	 154.72	Lähettäistikö minulle sähköpostia?	Sentences	8298	0	0.79
+1439307527.866	270221	41	0	0	Shift_R	Shift_R	Hyvää lomaa sinullekin.	 79.09	  67.70	Hyvää lomaa sinullekin.	Sentences	0	0	0.96
+1439307528.147	270221	41	1	281	H	H	Hyvää lomaa sinullekin.	 79.09	  67.70	Hyvää lomaa sinullekin.	Sentences	281	0	0.96
+1439307528.365	270221	41	2	218	y	y	Hyvää lomaa sinullekin.	 79.09	  67.70	Hyvää lomaa sinullekin.	Sentences	499	0	0.96
+1439307528.49	270221	41	3	125	v	v	Hyvää lomaa sinullekin.	 79.09	  67.70	Hyvää lomaa sinullekin.	Sentences	624	0	0.96
+1439307528.646	270221	41	4	155	ä	adiaeresis	Hyvää lomaa sinullekin.	 79.09	  67.70	Hyvää lomaa sinullekin.	Sentences	779	0	0.96
+1439307528.802	270221	41	5	157	ä	adiaeresis	Hyvää lomaa sinullekin.	 79.09	  67.70	Hyvää lomaa sinullekin.	Sentences	936	0	0.96
+1439307528.927	270221	41	6	125	_	space	Hyvää lomaa sinullekin.	 79.09	  67.70	Hyvää lomaa sinullekin.	Sentences	1061	0	0.96
+1439307529.02	270221	41	7	93	l	l	Hyvää lomaa sinullekin.	 79.09	  67.70	Hyvää lomaa sinullekin.	Sentences	1154	0	0.96
+1439307529.208	270221	41	8	188	o	o	Hyvää lomaa sinullekin.	 79.09	  67.70	Hyvää lomaa sinullekin.	Sentences	1342	0	0.96
+1439307529.239	270221	41	9	31	m	m	Hyvää lomaa sinullekin.	 79.09	  67.70	Hyvää lomaa sinullekin.	Sentences	1373	0	0.96
+1439307529.364	270221	41	10	125	a	a	Hyvää lomaa sinullekin.	 79.09	  67.70	Hyvää lomaa sinullekin.	Sentences	1498	0	0.96
+1439307529.551	270221	41	11	187	a	a	Hyvää lomaa sinullekin.	 79.09	  67.70	Hyvää lomaa sinullekin.	Sentences	1685	0	0.96
+1439307529.644	270221	41	12	93	_	space	Hyvää lomaa sinullekin.	 79.09	  67.70	Hyvää lomaa sinullekin.	Sentences	1778	0	0.96
+1439307529.8	270221	41	13	156	s	s	Hyvää lomaa sinullekin.	 79.09	  67.70	Hyvää lomaa sinullekin.	Sentences	1934	0	0.96
+1439307529.894	270221	41	14	94	i	i	Hyvää lomaa sinullekin.	 79.09	  67.70	Hyvää lomaa sinullekin.	Sentences	2028	0	0.96
+1439307530.05	270221	41	15	156	n	n	Hyvää lomaa sinullekin.	 79.09	  67.70	Hyvää lomaa sinullekin.	Sentences	2184	0	0.96
+1439307530.112	270221	41	16	62	u	u	Hyvää lomaa sinullekin.	 79.09	  67.70	Hyvää lomaa sinullekin.	Sentences	2246	0	0.96
+1439307530.331	270221	41	17	219	l	l	Hyvää lomaa sinullekin.	 79.09	  67.70	Hyvää lomaa sinullekin.	Sentences	2465	0	0.96
+1439307530.487	270221	41	18	156	l	l	Hyvää lomaa sinullekin.	 79.09	  67.70	Hyvää lomaa sinullekin.	Sentences	2621	0	0.96
+1439307530.58	270221	41	19	92	e	e	Hyvää lomaa sinullekin.	 79.09	  67.70	Hyvää lomaa sinullekin.	Sentences	2713	0	0.96
+1439307530.705	270221	41	20	125	k	k	Hyvää lomaa sinullekin.	 79.09	  67.70	Hyvää lomaa sinullekin.	Sentences	2838	0	0.96
+1439307530.83	270221	41	21	125	i	i	Hyvää lomaa sinullekin.	 79.09	  67.70	Hyvää lomaa sinullekin.	Sentences	2963	0	0.96
+1439307530.892	270221	41	22	63	n	n	Hyvää lomaa sinullekin.	 79.09	  67.70	Hyvää lomaa sinullekin.	Sentences	3026	0	0.96
+1439307531.204	270221	41	23	312	.	period	Hyvää lomaa sinullekin.	 79.09	  67.70	Hyvää lomaa sinullekin.	Sentences	3338	0	0.96
+1439307532.546	270221	42	0	0	Shift_R	Shift_R	Voitko auttaa?	 44.66	  76.60	Voitko auttaa?	Sentences	0	0	0.64
+1439307532.764	270221	42	1	217	V	V	Voitko auttaa?	 44.66	  76.60	Voitko auttaa?	Sentences	217	0	0.64
+1439307532.952	270221	42	2	188	i	i	Voitko auttaa?	 44.66	  76.60	Voitko auttaa?	Sentences	405	0	0.64
+1439307532.952	270221	42	3	0	o	o	Voitko auttaa?	 44.66	  76.60	Voitko auttaa?	Sentences	405	0	0.64
+1439307533.326	270221	42	4	374	t	t	Voitko auttaa?	 44.66	  76.60	Voitko auttaa?	Sentences	779	0	0.64
+1439307533.638	270221	42	5	313		BackSpace	Voitko auttaa?	 44.66	  76.60	Voitko auttaa?	Sentences	1092	0	0.64
+1439307533.794	270221	42	6	155		BackSpace	Voitko auttaa?	 44.66	  76.60	Voitko auttaa?	Sentences	1247	0	0.64
+1439307533.919	270221	42	7	125		BackSpace	Voitko auttaa?	 44.66	  76.60	Voitko auttaa?	Sentences	1372	0	0.64
+1439307534.106	270221	42	8	187	o	o	Voitko auttaa?	 44.66	  76.60	Voitko auttaa?	Sentences	1559	0	0.64
+1439307534.2	270221	42	9	95	i	i	Voitko auttaa?	 44.66	  76.60	Voitko auttaa?	Sentences	1654	0	0.64
+1439307534.324	270221	42	10	123	t	t	Voitko auttaa?	 44.66	  76.60	Voitko auttaa?	Sentences	1777	0	0.64
+1439307534.449	270221	42	11	125	k	k	Voitko auttaa?	 44.66	  76.60	Voitko auttaa?	Sentences	1902	0	0.64
+1439307534.512	270221	42	12	64	o	o	Voitko auttaa?	 44.66	  76.60	Voitko auttaa?	Sentences	1966	0	0.64
+1439307534.668	270221	42	13	155	_	space	Voitko auttaa?	 44.66	  76.60	Voitko auttaa?	Sentences	2121	0	0.64
+1439307534.855	270221	42	14	188	a	a	Voitko auttaa?	 44.66	  76.60	Voitko auttaa?	Sentences	2309	0	0.64
+1439307534.98	270221	42	15	125	u	u	Voitko auttaa?	 44.66	  76.60	Voitko auttaa?	Sentences	2434	0	0.64
+1439307535.167	270221	42	16	187	t	t	Voitko auttaa?	 44.66	  76.60	Voitko auttaa?	Sentences	2621	0	0.64
+1439307535.323	270221	42	17	155	t	t	Voitko auttaa?	 44.66	  76.60	Voitko auttaa?	Sentences	2776	0	0.64
+1439307535.385	270221	42	18	62	a	a	Voitko auttaa?	 44.66	  76.60	Voitko auttaa?	Sentences	2838	0	0.64
+1439307535.572	270221	42	19	188	a	a	Voitko auttaa?	 44.66	  76.60	Voitko auttaa?	Sentences	3026	0	0.64
+1439307535.822	270221	42	20	250	Shift_R	Shift_R	Voitko auttaa?	 44.66	  76.60	Voitko auttaa?	Sentences	3276	0	0.64
+1439307536.04	270221	42	21	217	?	question	Voitko auttaa?	 44.66	  76.60	Voitko auttaa?	Sentences	3493	0	0.64
+1439307537.569	270221	43	0	0	Shift_R	Shift_R	Luulen tämän olevan hyvä.	 58.42	 101.05	Luulen tämän olevan hyvä.	Sentences	0	0	0.89
+1439307537.756	270221	43	1	187	L	L	Luulen tämän olevan hyvä.	 58.42	 101.05	Luulen tämän olevan hyvä.	Sentences	187	0	0.89
+1439307538.006	270221	43	2	250	u	u	Luulen tämän olevan hyvä.	 58.42	 101.05	Luulen tämän olevan hyvä.	Sentences	437	0	0.89
+1439307538.131	270221	43	3	125	u	u	Luulen tämän olevan hyvä.	 58.42	 101.05	Luulen tämän olevan hyvä.	Sentences	562	0	0.89
+1439307538.256	270221	43	4	125	l	l	Luulen tämän olevan hyvä.	 58.42	 101.05	Luulen tämän olevan hyvä.	Sentences	687	0	0.89
+1439307538.443	270221	43	5	187	e	e	Luulen tämän olevan hyvä.	 58.42	 101.05	Luulen tämän olevan hyvä.	Sentences	874	0	0.89
+1439307538.536	270221	43	6	93	n	n	Luulen tämän olevan hyvä.	 58.42	 101.05	Luulen tämän olevan hyvä.	Sentences	967	0	0.89
+1439307538.63	270221	43	7	94	_	space	Luulen tämän olevan hyvä.	 58.42	 101.05	Luulen tämän olevan hyvä.	Sentences	1061	0	0.89
+1439307538.724	270221	43	8	93	t	t	Luulen tämän olevan hyvä.	 58.42	 101.05	Luulen tämän olevan hyvä.	Sentences	1154	0	0.89
+1439307538.817	270221	43	9	93	ä	adiaeresis	Luulen tämän olevan hyvä.	 58.42	 101.05	Luulen tämän olevan hyvä.	Sentences	1247	0	0.89
+1439307538.973	270221	43	10	157	m	m	Luulen tämän olevan hyvä.	 58.42	 101.05	Luulen tämän olevan hyvä.	Sentences	1404	0	0.89
+1439307539.067	270221	43	11	93	ä	adiaeresis	Luulen tämän olevan hyvä.	 58.42	 101.05	Luulen tämän olevan hyvä.	Sentences	1497	0	0.89
+1439307539.379	270221	43	12	312	_	space	Luulen tämän olevan hyvä.	 58.42	 101.05	Luulen tämän olevan hyvä.	Sentences	1809	0	0.89
+1439307539.691	270221	43	13	312		BackSpace	Luulen tämän olevan hyvä.	 58.42	 101.05	Luulen tämän olevan hyvä.	Sentences	2121	0	0.89
+1439307539.909	270221	43	14	218	n	n	Luulen tämän olevan hyvä.	 58.42	 101.05	Luulen tämän olevan hyvä.	Sentences	2339	0	0.89
+1439307540.034	270221	43	15	125	_	space	Luulen tämän olevan hyvä.	 58.42	 101.05	Luulen tämän olevan hyvä.	Sentences	2464	0	0.89
+1439307540.377	270221	43	16	344	o	o	Luulen tämän olevan hyvä.	 58.42	 101.05	Luulen tämän olevan hyvä.	Sentences	2808	0	0.89
+1439307540.564	270221	43	17	186	l	l	Luulen tämän olevan hyvä.	 58.42	 101.05	Luulen tämän olevan hyvä.	Sentences	2994	0	0.89
+1439307540.658	270221	43	18	94	e	e	Luulen tämän olevan hyvä.	 58.42	 101.05	Luulen tämän olevan hyvä.	Sentences	3088	0	0.89
+1439307540.876	270221	43	19	218	v	v	Luulen tämän olevan hyvä.	 58.42	 101.05	Luulen tämän olevan hyvä.	Sentences	3306	0	0.89
+1439307541.064	270221	43	20	188	a	a	Luulen tämän olevan hyvä.	 58.42	 101.05	Luulen tämän olevan hyvä.	Sentences	3494	0	0.89
+1439307541.188	270221	43	21	124	n	n	Luulen tämän olevan hyvä.	 58.42	 101.05	Luulen tämän olevan hyvä.	Sentences	3618	0	0.89
+1439307541.313	270221	43	22	125	_	space	Luulen tämän olevan hyvä.	 58.42	 101.05	Luulen tämän olevan hyvä.	Sentences	3743	0	0.89
+1439307541.75	270221	43	23	437	h	h	Luulen tämän olevan hyvä.	 58.42	 101.05	Luulen tämän olevan hyvä.	Sentences	4180	0	0.89
+1439307541.906	270221	43	24	156	y	y	Luulen tämän olevan hyvä.	 58.42	 101.05	Luulen tämän olevan hyvä.	Sentences	4336	0	0.89
+1439307541.968	270221	43	25	62	v	v	Luulen tämän olevan hyvä.	 58.42	 101.05	Luulen tämän olevan hyvä.	Sentences	4398	0	0.89
+1439307542.093	270221	43	26	125	ä	adiaeresis	Luulen tämän olevan hyvä.	 58.42	 101.05	Luulen tämän olevan hyvä.	Sentences	4523	0	0.89
+1439307542.499	270221	43	27	407	.	period	Luulen tämän olevan hyvä.	 58.42	 101.05	Luulen tämän olevan hyvä.	Sentences	4930	0	0.89
+1439307543.528	270221	44	0	0	Shift_R	Shift_R	Ota mitä vain voit.	 94.86	  62.79	Ota mitä vain voit.	Sentences	0	0	0.95
+1439307543.809	270221	44	1	280	O	O	Ota mitä vain voit.	 94.86	  62.79	Ota mitä vain voit.	Sentences	280	0	0.95
+1439307544.028	270221	44	2	220	t	t	Ota mitä vain voit.	 94.86	  62.79	Ota mitä vain voit.	Sentences	500	0	0.95
+1439307544.059	270221	44	3	30	a	a	Ota mitä vain voit.	 94.86	  62.79	Ota mitä vain voit.	Sentences	530	0	0.95
+1439307544.152	270221	44	4	93	_	space	Ota mitä vain voit.	 94.86	  62.79	Ota mitä vain voit.	Sentences	623	0	0.95
+1439307544.277	270221	44	5	125	m	m	Ota mitä vain voit.	 94.86	  62.79	Ota mitä vain voit.	Sentences	748	0	0.95
+1439307544.34	270221	44	6	63	i	i	Ota mitä vain voit.	 94.86	  62.79	Ota mitä vain voit.	Sentences	811	0	0.95
+1439307544.433	270221	44	7	93	t	t	Ota mitä vain voit.	 94.86	  62.79	Ota mitä vain voit.	Sentences	904	0	0.95
+1439307544.527	270221	44	8	94	ä	adiaeresis	Ota mitä vain voit.	 94.86	  62.79	Ota mitä vain voit.	Sentences	998	0	0.95
+1439307544.62	270221	44	9	93	_	space	Ota mitä vain voit.	 94.86	  62.79	Ota mitä vain voit.	Sentences	1091	0	0.95
+1439307544.808	270221	44	10	188	v	v	Ota mitä vain voit.	 94.86	  62.79	Ota mitä vain voit.	Sentences	1279	0	0.95
+1439307544.901	270221	44	11	93	a	a	Ota mitä vain voit.	 94.86	  62.79	Ota mitä vain voit.	Sentences	1372	0	0.95
+1439307545.026	270221	44	12	125	i	i	Ota mitä vain voit.	 94.86	  62.79	Ota mitä vain voit.	Sentences	1497	0	0.95
+1439307545.088	270221	44	13	62	n	n	Ota mitä vain voit.	 94.86	  62.79	Ota mitä vain voit.	Sentences	1559	0	0.95
+1439307545.182	270221	44	14	94	_	space	Ota mitä vain voit.	 94.86	  62.79	Ota mitä vain voit.	Sentences	1653	0	0.95
+1439307545.307	270221	44	15	125	v	v	Ota mitä vain voit.	 94.86	  62.79	Ota mitä vain voit.	Sentences	1778	0	0.95
+1439307545.4	270221	44	16	93	o	o	Ota mitä vain voit.	 94.86	  62.79	Ota mitä vain voit.	Sentences	1871	0	0.95
+1439307545.494	270221	44	17	94	i	i	Ota mitä vain voit.	 94.86	  62.79	Ota mitä vain voit.	Sentences	1965	0	0.95
+1439307545.588	270221	44	18	94	t	t	Ota mitä vain voit.	 94.86	  62.79	Ota mitä vain voit.	Sentences	2059	0	0.95
+1439307545.806	270221	44	19	218	.	period	Ota mitä vain voit.	 94.86	  62.79	Ota mitä vain voit.	Sentences	2277	0	0.95
+1439307546.898	270221	45	0	0	Shift_R	Shift_R	Pidä minut ajan tasalla.	 67.55	  63.86	Pidä minut ajan tasalla.	Sentences	0	0	0.89
+1439307547.116	270221	45	1	217	P	P	Pidä minut ajan tasalla.	 67.55	  63.86	Pidä minut ajan tasalla.	Sentences	217	0	0.89
+1439307547.335	270221	45	2	220	i	i	Pidä minut ajan tasalla.	 67.55	  63.86	Pidä minut ajan tasalla.	Sentences	437	0	0.89
+1439307547.46	270221	45	3	125	d	d	Pidä minut ajan tasalla.	 67.55	  63.86	Pidä minut ajan tasalla.	Sentences	562	0	0.89
+1439307547.553	270221	45	4	92	ä	adiaeresis	Pidä minut ajan tasalla.	 67.55	  63.86	Pidä minut ajan tasalla.	Sentences	654	0	0.89
+1439307547.678	270221	45	5	125	_	space	Pidä minut ajan tasalla.	 67.55	  63.86	Pidä minut ajan tasalla.	Sentences	779	0	0.89
+1439307547.772	270221	45	6	95	m	m	Pidä minut ajan tasalla.	 67.55	  63.86	Pidä minut ajan tasalla.	Sentences	874	0	0.89
+1439307547.959	270221	45	7	187	i	i	Pidä minut ajan tasalla.	 67.55	  63.86	Pidä minut ajan tasalla.	Sentences	1061	0	0.89
+1439307548.146	270221	45	8	186	n	n	Pidä minut ajan tasalla.	 67.55	  63.86	Pidä minut ajan tasalla.	Sentences	1247	0	0.89
+1439307548.24	270221	45	9	95	u	u	Pidä minut ajan tasalla.	 67.55	  63.86	Pidä minut ajan tasalla.	Sentences	1342	0	0.89
+1439307548.489	270221	45	10	249	t	t	Pidä minut ajan tasalla.	 67.55	  63.86	Pidä minut ajan tasalla.	Sentences	1591	0	0.89
+1439307548.614	270221	45	11	125	_	space	Pidä minut ajan tasalla.	 67.55	  63.86	Pidä minut ajan tasalla.	Sentences	1716	0	0.89
+1439307548.801	270221	45	12	187	a	a	Pidä minut ajan tasalla.	 67.55	  63.86	Pidä minut ajan tasalla.	Sentences	1903	0	0.89
+1439307548.988	270221	45	13	186	j	j	Pidä minut ajan tasalla.	 67.55	  63.86	Pidä minut ajan tasalla.	Sentences	2089	0	0.89
+1439307549.082	270221	45	14	95	a	a	Pidä minut ajan tasalla.	 67.55	  63.86	Pidä minut ajan tasalla.	Sentences	2184	0	0.89
+1439307549.176	270221	45	15	94	n	n	Pidä minut ajan tasalla.	 67.55	  63.86	Pidä minut ajan tasalla.	Sentences	2278	0	0.89
+1439307549.3	270221	45	16	123	_	space	Pidä minut ajan tasalla.	 67.55	  63.86	Pidä minut ajan tasalla.	Sentences	2401	0	0.89
+1439307549.488	270221	45	17	188	t	t	Pidä minut ajan tasalla.	 67.55	  63.86	Pidä minut ajan tasalla.	Sentences	2589	0	0.89
+1439307549.581	270221	45	18	94	a	a	Pidä minut ajan tasalla.	 67.55	  63.86	Pidä minut ajan tasalla.	Sentences	2683	0	0.89
+1439307549.8	270221	45	19	218	s	s	Pidä minut ajan tasalla.	 67.55	  63.86	Pidä minut ajan tasalla.	Sentences	2901	0	0.89
+1439307549.924	270221	45	20	125	a	a	Pidä minut ajan tasalla.	 67.55	  63.86	Pidä minut ajan tasalla.	Sentences	3026	0	0.89
+1439307550.143	270221	45	21	218	l	l	Pidä minut ajan tasalla.	 67.55	  63.86	Pidä minut ajan tasalla.	Sentences	3244	0	0.89
+1439307550.268	270221	45	22	125	a	a	Pidä minut ajan tasalla.	 67.55	  63.86	Pidä minut ajan tasalla.	Sentences	3369	0	0.89
+1439307550.611	270221	45	23	344		BackSpace	Pidä minut ajan tasalla.	 67.55	  63.86	Pidä minut ajan tasalla.	Sentences	3713	0	0.89
+1439307550.798	270221	45	24	187	l	l	Pidä minut ajan tasalla.	 67.55	  63.86	Pidä minut ajan tasalla.	Sentences	3900	0	0.89
+1439307550.892	270221	45	25	93	a	a	Pidä minut ajan tasalla.	 67.55	  63.86	Pidä minut ajan tasalla.	Sentences	3993	0	0.89
+1439307550.985	270221	45	26	93	.	period	Pidä minut ajan tasalla.	 67.55	  63.86	Pidä minut ajan tasalla.	Sentences	4086	0	0.89
+1439307552.405	270221	46	0	0	Shift_R	Shift_R	Onneksi olkoon.	 78.03	  63.54	Onneksi olkoon.	Sentences	0	0	0.94
+1439307552.623	270221	46	1	217	O	O	Onneksi olkoon.	 78.03	  63.54	Onneksi olkoon.	Sentences	217	0	0.94
+1439307552.873	270221	46	2	250	n	n	Onneksi olkoon.	 78.03	  63.54	Onneksi olkoon.	Sentences	467	0	0.94
+1439307552.998	270221	46	3	125	n	n	Onneksi olkoon.	 78.03	  63.54	Onneksi olkoon.	Sentences	592	0	0.94
+1439307553.091	270221	46	4	94	e	e	Onneksi olkoon.	 78.03	  63.54	Onneksi olkoon.	Sentences	686	0	0.94
+1439307553.216	270221	46	5	125	k	k	Onneksi olkoon.	 78.03	  63.54	Onneksi olkoon.	Sentences	811	0	0.94
+1439307553.31	270221	46	6	93	s	s	Onneksi olkoon.	 78.03	  63.54	Onneksi olkoon.	Sentences	904	0	0.94
+1439307553.434	270221	46	7	125	i	i	Onneksi olkoon.	 78.03	  63.54	Onneksi olkoon.	Sentences	1029	0	0.94
+1439307553.559	270221	46	8	125	_	space	Onneksi olkoon.	 78.03	  63.54	Onneksi olkoon.	Sentences	1154	0	0.94
+1439307553.653	270221	46	9	94	o	o	Onneksi olkoon.	 78.03	  63.54	Onneksi olkoon.	Sentences	1248	0	0.94
+1439307553.809	270221	46	10	156	l	l	Onneksi olkoon.	 78.03	  63.54	Onneksi olkoon.	Sentences	1404	0	0.94
+1439307553.902	270221	46	11	92	k	k	Onneksi olkoon.	 78.03	  63.54	Onneksi olkoon.	Sentences	1496	0	0.94
+1439307554.027	270221	46	12	125	o	o	Onneksi olkoon.	 78.03	  63.54	Onneksi olkoon.	Sentences	1621	0	0.94
+1439307554.214	270221	46	13	188	o	o	Onneksi olkoon.	 78.03	  63.54	Onneksi olkoon.	Sentences	1809	0	0.94
+1439307554.277	270221	46	14	62	n	n	Onneksi olkoon.	 78.03	  63.54	Onneksi olkoon.	Sentences	1871	0	0.94
+1439307554.558	270221	46	15	282	.	period	Onneksi olkoon.	 78.03	  63.54	Onneksi olkoon.	Sentences	2153	0	0.94
+1439307555.681	270221	47	0	0	Shift_R	Shift_R	Kävelen juuri sisään.	 69.30	  84.81	Kävelen juuri sisään.	Sentences	0	0	0.88
+1439307555.899	270221	47	1	217	K	K	Kävelen juuri sisään.	 69.30	  84.81	Kävelen juuri sisään.	Sentences	217	0	0.88
+1439307556.024	270221	47	2	125	ä	adiaeresis	Kävelen juuri sisään.	 69.30	  84.81	Kävelen juuri sisään.	Sentences	342	0	0.88
+1439307556.211	270221	47	3	187	v	v	Kävelen juuri sisään.	 69.30	  84.81	Kävelen juuri sisään.	Sentences	529	0	0.88
+1439307556.305	270221	47	4	95	e	e	Kävelen juuri sisään.	 69.30	  84.81	Kävelen juuri sisään.	Sentences	624	0	0.88
+1439307556.43	270221	47	5	125	l	l	Kävelen juuri sisään.	 69.30	  84.81	Kävelen juuri sisään.	Sentences	749	0	0.88
+1439307556.523	270221	47	6	93	e	e	Kävelen juuri sisään.	 69.30	  84.81	Kävelen juuri sisään.	Sentences	842	0	0.88
+1439307556.648	270221	47	7	125	n	n	Kävelen juuri sisään.	 69.30	  84.81	Kävelen juuri sisään.	Sentences	967	0	0.88
+1439307556.742	270221	47	8	94	_	space	Kävelen juuri sisään.	 69.30	  84.81	Kävelen juuri sisään.	Sentences	1061	0	0.88
+1439307556.866	270221	47	9	123	j	j	Kävelen juuri sisään.	 69.30	  84.81	Kävelen juuri sisään.	Sentences	1184	0	0.88
+1439307557.022	270221	47	10	157	u	u	Kävelen juuri sisään.	 69.30	  84.81	Kävelen juuri sisään.	Sentences	1341	0	0.88
+1439307557.147	270221	47	11	125	u	u	Kävelen juuri sisään.	 69.30	  84.81	Kävelen juuri sisään.	Sentences	1466	0	0.88
+1439307557.272	270221	47	12	125	r	r	Kävelen juuri sisään.	 69.30	  84.81	Kävelen juuri sisään.	Sentences	1591	0	0.88
+1439307557.366	270221	47	13	93	i	i	Kävelen juuri sisään.	 69.30	  84.81	Kävelen juuri sisään.	Sentences	1684	0	0.88
+1439307557.459	270221	47	14	94	_	space	Kävelen juuri sisään.	 69.30	  84.81	Kävelen juuri sisään.	Sentences	1778	0	0.88
+1439307557.584	270221	47	15	125	s	s	Kävelen juuri sisään.	 69.30	  84.81	Kävelen juuri sisään.	Sentences	1903	0	0.88
+1439307557.709	270221	47	16	125	i	i	Kävelen juuri sisään.	 69.30	  84.81	Kävelen juuri sisään.	Sentences	2028	0	0.88
+1439307557.834	270221	47	17	125	s	s	Kävelen juuri sisään.	 69.30	  84.81	Kävelen juuri sisään.	Sentences	2153	0	0.88
+1439307558.021	270221	47	18	186	ä	adiaeresis	Kävelen juuri sisään.	 69.30	  84.81	Kävelen juuri sisään.	Sentences	2339	0	0.88
+1439307558.177	270221	47	19	157	ä	adiaeresis	Kävelen juuri sisään.	 69.30	  84.81	Kävelen juuri sisään.	Sentences	2496	0	0.88
+1439307558.426	270221	47	20	249	n	n	Kävelen juuri sisään.	 69.30	  84.81	Kävelen juuri sisään.	Sentences	2745	0	0.88
+1439307558.645	270221	47	21	218	.	period	Kävelen juuri sisään.	 69.30	  84.81	Kävelen juuri sisään.	Sentences	2963	0	0.88
+1439307558.676	270221	47	22	32	-	minus	Kävelen juuri sisään.	 69.30	  84.81	Kävelen juuri sisään.	Sentences	2995	0	0.88
+1439307559.144	270221	47	23	468		BackSpace	Kävelen juuri sisään.	 69.30	  84.81	Kävelen juuri sisään.	Sentences	3463	0	0.88
+1439307560.361	270221	48	0	0	Shift_R	Shift_R	Tämä näyttää hyvältä.	 64.12	  77.69	Tämä näyttää hyvältä.	Sentences	0	0	0.95
+1439307560.548	270221	48	1	187	T	T	Tämä näyttää hyvältä.	 64.12	  77.69	Tämä näyttää hyvältä.	Sentences	187	0	0.95
+1439307560.766	270221	48	2	217	ä	adiaeresis	Tämä näyttää hyvältä.	 64.12	  77.69	Tämä näyttää hyvältä.	Sentences	404	0	0.95
+1439307560.922	270221	48	3	156	m	m	Tämä näyttää hyvältä.	 64.12	  77.69	Tämä näyttää hyvältä.	Sentences	560	0	0.95
+1439307561.047	270221	48	4	125	ä	adiaeresis	Tämä näyttää hyvältä.	 64.12	  77.69	Tämä näyttää hyvältä.	Sentences	685	0	0.95
+1439307561.172	270221	48	5	125	_	space	Tämä näyttää hyvältä.	 64.12	  77.69	Tämä näyttää hyvältä.	Sentences	810	0	0.95
+1439307561.484	270221	48	6	312	n	n	Tämä näyttää hyvältä.	 64.12	  77.69	Tämä näyttää hyvältä.	Sentences	1122	0	0.95
+1439307561.64	270221	48	7	157	ä	adiaeresis	Tämä näyttää hyvältä.	 64.12	  77.69	Tämä näyttää hyvältä.	Sentences	1279	0	0.95
+1439307561.765	270221	48	8	125	y	y	Tämä näyttää hyvältä.	 64.12	  77.69	Tämä näyttää hyvältä.	Sentences	1404	0	0.95
+1439307561.921	270221	48	9	155	t	t	Tämä näyttää hyvältä.	 64.12	  77.69	Tämä näyttää hyvältä.	Sentences	1559	0	0.95
+1439307562.077	270221	48	10	156	t	t	Tämä näyttää hyvältä.	 64.12	  77.69	Tämä näyttää hyvältä.	Sentences	1715	0	0.95
+1439307562.326	270221	48	11	249	ä	adiaeresis	Tämä näyttää hyvältä.	 64.12	  77.69	Tämä näyttää hyvältä.	Sentences	1964	0	0.95
+1439307562.482	270221	48	12	157	ä	adiaeresis	Tämä näyttää hyvältä.	 64.12	  77.69	Tämä näyttää hyvältä.	Sentences	2121	0	0.95
+1439307562.607	270221	48	13	125	_	space	Tämä näyttää hyvältä.	 64.12	  77.69	Tämä näyttää hyvältä.	Sentences	2246	0	0.95
+1439307562.763	270221	48	14	155	h	h	Tämä näyttää hyvältä.	 64.12	  77.69	Tämä näyttää hyvältä.	Sentences	2401	0	0.95
+1439307562.919	270221	48	15	156	y	y	Tämä näyttää hyvältä.	 64.12	  77.69	Tämä näyttää hyvältä.	Sentences	2557	0	0.95
+1439307563.044	270221	48	16	125	v	v	Tämä näyttää hyvältä.	 64.12	  77.69	Tämä näyttää hyvältä.	Sentences	2682	0	0.95
+1439307563.262	270221	48	17	219	ä	adiaeresis	Tämä näyttää hyvältä.	 64.12	  77.69	Tämä näyttää hyvältä.	Sentences	2901	0	0.95
+1439307563.387	270221	48	18	125	l	l	Tämä näyttää hyvältä.	 64.12	  77.69	Tämä näyttää hyvältä.	Sentences	3026	0	0.95
+1439307563.574	270221	48	19	186	t	t	Tämä näyttää hyvältä.	 64.12	  77.69	Tämä näyttää hyvältä.	Sentences	3212	0	0.95
+1439307563.668	270221	48	20	94	ä	adiaeresis	Tämä näyttää hyvältä.	 64.12	  77.69	Tämä näyttää hyvältä.	Sentences	3306	0	0.95
+1439307564.105	270221	48	21	437	.	period	Tämä näyttää hyvältä.	 64.12	  77.69	Tämä näyttää hyvältä.	Sentences	3743	0	0.95
+1439307565.29	270221	49	0	0	Shift_R	Shift_R	Ymmärstikö sinä tämän?	 68.46	  58.75	Ymmärstikö sinä tämän?	Sentences	0	0	0.92
+1439307565.509	270221	49	1	219	Y	Y	Ymmärstikö sinä tämän?	 68.46	  58.75	Ymmärstikö sinä tämän?	Sentences	219	0	0.92
+1439307565.758	270221	49	2	248	m	m	Ymmärstikö sinä tämän?	 68.46	  58.75	Ymmärstikö sinä tämän?	Sentences	467	0	0.92
+1439307565.914	270221	49	3	157	m	m	Ymmärstikö sinä tämän?	 68.46	  58.75	Ymmärstikö sinä tämän?	Sentences	624	0	0.92
+1439307566.039	270221	49	4	125	ä	adiaeresis	Ymmärstikö sinä tämän?	 68.46	  58.75	Ymmärstikö sinä tämän?	Sentences	749	0	0.92
+1439307566.195	270221	49	5	155	r	r	Ymmärstikö sinä tämän?	 68.46	  58.75	Ymmärstikö sinä tämän?	Sentences	904	0	0.92
+1439307566.382	270221	49	6	188	s	s	Ymmärstikö sinä tämän?	 68.46	  58.75	Ymmärstikö sinä tämän?	Sentences	1092	0	0.92
+1439307566.445	270221	49	7	62	t	t	Ymmärstikö sinä tämän?	 68.46	  58.75	Ymmärstikö sinä tämän?	Sentences	1154	0	0.92
+1439307566.601	270221	49	8	157	i	i	Ymmärstikö sinä tämän?	 68.46	  58.75	Ymmärstikö sinä tämän?	Sentences	1311	0	0.92
+1439307566.85	270221	49	9	248	k	k	Ymmärstikö sinä tämän?	 68.46	  58.75	Ymmärstikö sinä tämän?	Sentences	1559	0	0.92
+1439307566.913	270221	49	10	64	ö	odiaeresis	Ymmärstikö sinä tämän?	 68.46	  58.75	Ymmärstikö sinä tämän?	Sentences	1623	0	0.92
+1439307567.069	270221	49	11	156	_	space	Ymmärstikö sinä tämän?	 68.46	  58.75	Ymmärstikö sinä tämän?	Sentences	1779	0	0.92
+1439307567.318	270221	49	12	249	s	s	Ymmärstikö sinä tämän?	 68.46	  58.75	Ymmärstikö sinä tämän?	Sentences	2028	0	0.92
+1439307567.443	270221	49	13	125	i	i	Ymmärstikö sinä tämän?	 68.46	  58.75	Ymmärstikö sinä tämän?	Sentences	2153	0	0.92
+1439307567.537	270221	49	14	93	n	n	Ymmärstikö sinä tämän?	 68.46	  58.75	Ymmärstikö sinä tämän?	Sentences	2246	0	0.92
+1439307567.693	270221	49	15	157	ä	adiaeresis	Ymmärstikö sinä tämän?	 68.46	  58.75	Ymmärstikö sinä tämän?	Sentences	2403	0	0.92
+1439307567.786	270221	49	16	93	_	space	Ymmärstikö sinä tämän?	 68.46	  58.75	Ymmärstikö sinä tämän?	Sentences	2496	0	0.92
+1439307567.942	270221	49	17	155	t	t	Ymmärstikö sinä tämän?	 68.46	  58.75	Ymmärstikö sinä tämän?	Sentences	2651	0	0.92
+1439307568.067	270221	49	18	125	ä	adiaeresis	Ymmärstikö sinä tämän?	 68.46	  58.75	Ymmärstikö sinä tämän?	Sentences	2776	0	0.92
+1439307568.223	270221	49	19	157	m	m	Ymmärstikö sinä tämän?	 68.46	  58.75	Ymmärstikö sinä tämän?	Sentences	2933	0	0.92
+1439307568.317	270221	49	20	93	ä	adiaeresis	Ymmärstikö sinä tämän?	 68.46	  58.75	Ymmärstikö sinä tämän?	Sentences	3026	0	0.92
+1439307568.504	270221	49	21	187	n	n	Ymmärstikö sinä tämän?	 68.46	  58.75	Ymmärstikö sinä tämän?	Sentences	3213	0	0.92
+1439307568.754	270221	49	22	250	Shift_R	Shift_R	Ymmärstikö sinä tämän?	 68.46	  58.75	Ymmärstikö sinä tämän?	Sentences	3463	0	0.92
+1439307568.972	270221	49	23	218	?	question	Ymmärstikö sinä tämän?	 68.46	  58.75	Ymmärstikö sinä tämän?	Sentences	3681	0	0.92
