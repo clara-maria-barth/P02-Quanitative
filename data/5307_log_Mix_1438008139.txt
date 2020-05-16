@@ -1,0 +1,1537 @@
+input_time	user_id	stimulus_id	input_index	iki	input	key_symbol	current_input	wpm	sd_iki	stimulus	condition	input_time_ms	uer	ke
+1438008139.468	5307	0	0	0	Shift_L	Shift_L	Pitääkö meidän zydfzz jutella?	 60.60	 204.60	Pitääkö meidän zydfzz jutella?	Mix	0	0	0.94
+1438008139.624	5307	0	1	156	P	P	Pitääkö meidän zydfzz jutella?	 60.60	 204.60	Pitääkö meidän zydfzz jutella?	Mix	156	0	0.94
+1438008139.874	5307	0	2	250	i	i	Pitääkö meidän zydfzz jutella?	 60.60	 204.60	Pitääkö meidän zydfzz jutella?	Mix	406	0	0.94
+1438008140.03	5307	0	3	156	t	t	Pitääkö meidän zydfzz jutella?	 60.60	 204.60	Pitääkö meidän zydfzz jutella?	Mix	562	0	0.94
+1438008140.123	5307	0	4	92	ä	adiaeresis	Pitääkö meidän zydfzz jutella?	 60.60	 204.60	Pitääkö meidän zydfzz jutella?	Mix	654	0	0.94
+1438008140.31	5307	0	5	188	ä	adiaeresis	Pitääkö meidän zydfzz jutella?	 60.60	 204.60	Pitääkö meidän zydfzz jutella?	Mix	842	0	0.94
+1438008140.466	5307	0	6	156	k	k	Pitääkö meidän zydfzz jutella?	 60.60	 204.60	Pitääkö meidän zydfzz jutella?	Mix	998	0	0.94
+1438008140.56	5307	0	7	94	ö	odiaeresis	Pitääkö meidän zydfzz jutella?	 60.60	 204.60	Pitääkö meidän zydfzz jutella?	Mix	1092	0	0.94
+1438008140.622	5307	0	8	62	_	space	Pitääkö meidän zydfzz jutella?	 60.60	 204.60	Pitääkö meidän zydfzz jutella?	Mix	1154	0	0.94
+1438008140.778	5307	0	9	156	m	m	Pitääkö meidän zydfzz jutella?	 60.60	 204.60	Pitääkö meidän zydfzz jutella?	Mix	1310	0	0.94
+1438008140.903	5307	0	10	125	e	e	Pitääkö meidän zydfzz jutella?	 60.60	 204.60	Pitääkö meidän zydfzz jutella?	Mix	1435	0	0.94
+1438008140.903	5307	0	11	0	i	i	Pitääkö meidän zydfzz jutella?	 60.60	 204.60	Pitääkö meidän zydfzz jutella?	Mix	1435	0	0.94
+1438008141.56	5307	0	12	657	d	d	Pitääkö meidän zydfzz jutella?	 60.60	 204.60	Pitääkö meidän zydfzz jutella?	Mix	2092	0	0.94
+1438008141.623	5307	0	13	62	ä	adiaeresis	Pitääkö meidän zydfzz jutella?	 60.60	 204.60	Pitääkö meidän zydfzz jutella?	Mix	2154	0	0.94
+1438008141.716	5307	0	14	94	n	n	Pitääkö meidän zydfzz jutella?	 60.60	 204.60	Pitääkö meidän zydfzz jutella?	Mix	2248	0	0.94
+1438008141.81	5307	0	15	94	_	space	Pitääkö meidän zydfzz jutella?	 60.60	 204.60	Pitääkö meidän zydfzz jutella?	Mix	2342	0	0.94
+1438008142.091	5307	0	16	281	z	z	Pitääkö meidän zydfzz jutella?	 60.60	 204.60	Pitääkö meidän zydfzz jutella?	Mix	2623	0	0.94
+1438008142.247	5307	0	17	156	y	y	Pitääkö meidän zydfzz jutella?	 60.60	 204.60	Pitääkö meidän zydfzz jutella?	Mix	2779	0	0.94
+1438008142.403	5307	0	18	156	d	d	Pitääkö meidän zydfzz jutella?	 60.60	 204.60	Pitääkö meidän zydfzz jutella?	Mix	2935	0	0.94
+1438008142.652	5307	0	19	249	f	f	Pitääkö meidän zydfzz jutella?	 60.60	 204.60	Pitääkö meidän zydfzz jutella?	Mix	3184	0	0.94
+1438008142.902	5307	0	20	250	z	z	Pitääkö meidän zydfzz jutella?	 60.60	 204.60	Pitääkö meidän zydfzz jutella?	Mix	3434	0	0.94
+1438008143.058	5307	0	21	156	z	z	Pitääkö meidän zydfzz jutella?	 60.60	 204.60	Pitääkö meidän zydfzz jutella?	Mix	3590	0	0.94
+1438008143.183	5307	0	22	125	_	space	Pitääkö meidän zydfzz jutella?	 60.60	 204.60	Pitääkö meidän zydfzz jutella?	Mix	3715	0	0.94
+1438008144.275	5307	0	23	1092	j	j	Pitääkö meidän zydfzz jutella?	 60.60	 204.60	Pitääkö meidän zydfzz jutella?	Mix	4807	0	0.94
+1438008144.4	5307	0	24	125	u	u	Pitääkö meidän zydfzz jutella?	 60.60	 204.60	Pitääkö meidän zydfzz jutella?	Mix	4932	0	0.94
+1438008144.493	5307	0	25	93	t	t	Pitääkö meidän zydfzz jutella?	 60.60	 204.60	Pitääkö meidän zydfzz jutella?	Mix	5025	0	0.94
+1438008144.556	5307	0	26	63	e	e	Pitääkö meidän zydfzz jutella?	 60.60	 204.60	Pitääkö meidän zydfzz jutella?	Mix	5088	0	0.94
+1438008144.649	5307	0	27	92	l	l	Pitääkö meidän zydfzz jutella?	 60.60	 204.60	Pitääkö meidän zydfzz jutella?	Mix	5180	0	0.94
+1438008144.774	5307	0	28	125	l	l	Pitääkö meidän zydfzz jutella?	 60.60	 204.60	Pitääkö meidän zydfzz jutella?	Mix	5305	0	0.94
+1438008144.868	5307	0	29	95	a	a	Pitääkö meidän zydfzz jutella?	 60.60	 204.60	Pitääkö meidän zydfzz jutella?	Mix	5400	0	0.94
+1438008145.148	5307	0	30	280	Shift_L	Shift_L	Pitääkö meidän zydfzz jutella?	 60.60	 204.60	Pitääkö meidän zydfzz jutella?	Mix	5680	0	0.94
+1438008145.211	5307	0	31	63	?	question	Pitääkö meidän zydfzz jutella?	 60.60	 204.60	Pitääkö meidän zydfzz jutella?	Mix	5743	0	0.94
+1438008146.491	5307	1	0	0	Shift_L	Shift_L	Kiitos vwmbqq huolenpidostasi.	 59.01	 119.64	Kiitos vwmbqq huolenpidostasi.	Mix	0	0	0.97
+1438008146.928	5307	1	1	437	K	K	Kiitos vwmbqq huolenpidostasi.	 59.01	 119.64	Kiitos vwmbqq huolenpidostasi.	Mix	437	0	0.97
+1438008147.209	5307	1	2	281	i	i	Kiitos vwmbqq huolenpidostasi.	 59.01	 119.64	Kiitos vwmbqq huolenpidostasi.	Mix	718	0	0.97
+1438008147.677	5307	1	3	468	i	i	Kiitos vwmbqq huolenpidostasi.	 59.01	 119.64	Kiitos vwmbqq huolenpidostasi.	Mix	1186	0	0.97
+1438008147.801	5307	1	4	124	t	t	Kiitos vwmbqq huolenpidostasi.	 59.01	 119.64	Kiitos vwmbqq huolenpidostasi.	Mix	1310	0	0.97
+1438008147.926	5307	1	5	125	o	o	Kiitos vwmbqq huolenpidostasi.	 59.01	 119.64	Kiitos vwmbqq huolenpidostasi.	Mix	1435	0	0.97
+1438008148.425	5307	1	6	499	s	s	Kiitos vwmbqq huolenpidostasi.	 59.01	 119.64	Kiitos vwmbqq huolenpidostasi.	Mix	1934	0	0.97
+1438008148.519	5307	1	7	94	_	space	Kiitos vwmbqq huolenpidostasi.	 59.01	 119.64	Kiitos vwmbqq huolenpidostasi.	Mix	2028	0	0.97
+1438008148.862	5307	1	8	343	v	v	Kiitos vwmbqq huolenpidostasi.	 59.01	 119.64	Kiitos vwmbqq huolenpidostasi.	Mix	2371	0	0.97
+1438008149.081	5307	1	9	219	w	w	Kiitos vwmbqq huolenpidostasi.	 59.01	 119.64	Kiitos vwmbqq huolenpidostasi.	Mix	2590	0	0.97
+1438008149.268	5307	1	10	186	m	m	Kiitos vwmbqq huolenpidostasi.	 59.01	 119.64	Kiitos vwmbqq huolenpidostasi.	Mix	2776	0	0.97
+1438008149.611	5307	1	11	344	b	b	Kiitos vwmbqq huolenpidostasi.	 59.01	 119.64	Kiitos vwmbqq huolenpidostasi.	Mix	3120	0	0.97
+1438008149.861	5307	1	12	250	q	q	Kiitos vwmbqq huolenpidostasi.	 59.01	 119.64	Kiitos vwmbqq huolenpidostasi.	Mix	3370	0	0.97
+1438008150.048	5307	1	13	187	q	q	Kiitos vwmbqq huolenpidostasi.	 59.01	 119.64	Kiitos vwmbqq huolenpidostasi.	Mix	3557	0	0.97
+1438008150.173	5307	1	14	125	_	space	Kiitos vwmbqq huolenpidostasi.	 59.01	 119.64	Kiitos vwmbqq huolenpidostasi.	Mix	3682	0	0.97
+1438008150.485	5307	1	15	311	h	h	Kiitos vwmbqq huolenpidostasi.	 59.01	 119.64	Kiitos vwmbqq huolenpidostasi.	Mix	3993	0	0.97
+1438008150.641	5307	1	16	157	u	u	Kiitos vwmbqq huolenpidostasi.	 59.01	 119.64	Kiitos vwmbqq huolenpidostasi.	Mix	4150	0	0.97
+1438008150.734	5307	1	17	93	o	o	Kiitos vwmbqq huolenpidostasi.	 59.01	 119.64	Kiitos vwmbqq huolenpidostasi.	Mix	4243	0	0.97
+1438008150.89	5307	1	18	156	l	l	Kiitos vwmbqq huolenpidostasi.	 59.01	 119.64	Kiitos vwmbqq huolenpidostasi.	Mix	4399	0	0.97
+1438008150.953	5307	1	19	63	e	e	Kiitos vwmbqq huolenpidostasi.	 59.01	 119.64	Kiitos vwmbqq huolenpidostasi.	Mix	4462	0	0.97
+1438008151.046	5307	1	20	93	n	n	Kiitos vwmbqq huolenpidostasi.	 59.01	 119.64	Kiitos vwmbqq huolenpidostasi.	Mix	4555	0	0.97
+1438008151.233	5307	1	21	187	p	p	Kiitos vwmbqq huolenpidostasi.	 59.01	 119.64	Kiitos vwmbqq huolenpidostasi.	Mix	4742	0	0.97
+1438008151.327	5307	1	22	93	i	i	Kiitos vwmbqq huolenpidostasi.	 59.01	 119.64	Kiitos vwmbqq huolenpidostasi.	Mix	4835	0	0.97
+1438008151.421	5307	1	23	95	d	d	Kiitos vwmbqq huolenpidostasi.	 59.01	 119.64	Kiitos vwmbqq huolenpidostasi.	Mix	4930	0	0.97
+1438008151.577	5307	1	24	155	o	o	Kiitos vwmbqq huolenpidostasi.	 59.01	 119.64	Kiitos vwmbqq huolenpidostasi.	Mix	5085	0	0.97
+1438008151.701	5307	1	25	125	s	s	Kiitos vwmbqq huolenpidostasi.	 59.01	 119.64	Kiitos vwmbqq huolenpidostasi.	Mix	5210	0	0.97
+1438008151.795	5307	1	26	94	t	t	Kiitos vwmbqq huolenpidostasi.	 59.01	 119.64	Kiitos vwmbqq huolenpidostasi.	Mix	5304	0	0.97
+1438008151.92	5307	1	27	125	a	a	Kiitos vwmbqq huolenpidostasi.	 59.01	 119.64	Kiitos vwmbqq huolenpidostasi.	Mix	5429	0	0.97
+1438008152.013	5307	1	28	93	s	s	Kiitos vwmbqq huolenpidostasi.	 59.01	 119.64	Kiitos vwmbqq huolenpidostasi.	Mix	5522	0	0.97
+1438008152.169	5307	1	29	155	i	i	Kiitos vwmbqq huolenpidostasi.	 59.01	 119.64	Kiitos vwmbqq huolenpidostasi.	Mix	5677	0	0.97
+1438008152.388	5307	1	30	220	.	period	Kiitos vwmbqq huolenpidostasi.	 59.01	 119.64	Kiitos vwmbqq huolenpidostasi.	Mix	5897	0	0.97
+1438008155.165	5307	2	0	0	Shift_L	Shift_L	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	0	0	0.94
+1438008155.289	5307	2	1	124	K	K	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	124	0	0.94
+1438008155.539	5307	2	2	250	u	u	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	374	0	0.94
+1438008155.601	5307	2	3	62	n	n	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	436	0	0.94
+1438008155.82	5307	2	4	218	h	h	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	654	0	0.94
+1438008155.913	5307	2	5	94	a	a	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	748	0	0.94
+1438008156.007	5307	2	6	94	n	n	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	842	0	0.94
+1438008156.101	5307	2	7	94	_	space	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	936	0	0.94
+1438008156.319	5307	2	8	218	p	p	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	1154	0	0.94
+1438008156.444	5307	2	9	125	e	e	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	1279	0	0.94
+1438008156.537	5307	2	10	92	l	l	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	1371	0	0.94
+1438008156.693	5307	2	11	157	l	l	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	1528	0	0.94
+1438008156.787	5307	2	12	93	e	e	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	1621	0	0.94
+1438008156.912	5307	2	13	125	i	i	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	1746	0	0.94
+1438008156.974	5307	2	14	63	l	l	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	1809	0	0.94
+1438008157.099	5307	2	15	125	e	e	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	1934	0	0.94
+1438008157.224	5307	2	16	125	n	n	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	2059	0	0.94
+1438008157.317	5307	2	17	92	_	space	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	2151	0	0.94
+1438008157.567	5307	2	18	250	g	g	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	2401	0	0.94
+1438008157.817	5307	2	19	250	v	v	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	2651	0	0.94
+1438008158.035	5307	2	20	219	j	j	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	2870	0	0.94
+1438008158.409	5307	2	21	373	b	b	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	3243	0	0.94
+1438008158.565	5307	2	22	157	h	h	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	3400	0	0.94
+1438008158.784	5307	2	23	218	j	j	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	3618	0	0.94
+1438008158.877	5307	2	24	94	_	space	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	3712	0	0.94
+1438008159.033	5307	2	25	156	k	k	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	3868	0	0.94
+1438008159.127	5307	2	26	94	a	a	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	3962	0	0.94
+1438008159.221	5307	2	27	93	n	n	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	4055	0	0.94
+1438008159.345	5307	2	28	125	s	s	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	4180	0	0.94
+1438008159.47	5307	2	29	125	s	s	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	4305	0	0.94
+1438008159.533	5307	2	30	63	a	a	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	4368	0	0.94
+1438008159.72	5307	2	31	187	s	s	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	4555	0	0.94
+1438008159.845	5307	2	32	125	i	i	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	4680	0	0.94
+1438008160.032	5307	2	33	187	Shift_L	Shift_L	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	4867	0	0.94
+1438008160.531	5307	2	34	498	!	exclam	Kunhan pelleilen gvjbhj kanssasi!	 71.58	  91.64	Kunhan pelleilen gvjbhj kanssasi!	Mix	5365	0	0.94
+1438008162.902	5307	3	0	0	Shift_L	Shift_L	Kuinka ohswet voit?	 44.67	 297.26	Kuinka ohswet voit?	Mix	0	0	0.90
+1438008163.433	5307	3	1	531	K	K	Kuinka ohswet voit?	 44.67	 297.26	Kuinka ohswet voit?	Mix	531	0	0.90
+1438008163.838	5307	3	2	405	u	u	Kuinka ohswet voit?	 44.67	 297.26	Kuinka ohswet voit?	Mix	936	0	0.90
+1438008163.901	5307	3	3	63	i	i	Kuinka ohswet voit?	 44.67	 297.26	Kuinka ohswet voit?	Mix	999	0	0.90
+1438008164.119	5307	3	4	218	n	n	Kuinka ohswet voit?	 44.67	 297.26	Kuinka ohswet voit?	Mix	1217	0	0.90
+1438008164.181	5307	3	5	62	k	k	Kuinka ohswet voit?	 44.67	 297.26	Kuinka ohswet voit?	Mix	1279	0	0.90
+1438008164.244	5307	3	6	63	a	a	Kuinka ohswet voit?	 44.67	 297.26	Kuinka ohswet voit?	Mix	1342	0	0.90
+1438008164.369	5307	3	7	125	_	space	Kuinka ohswet voit?	 44.67	 297.26	Kuinka ohswet voit?	Mix	1467	0	0.90
+1438008164.525	5307	3	8	156	o	o	Kuinka ohswet voit?	 44.67	 297.26	Kuinka ohswet voit?	Mix	1623	0	0.90
+1438008164.587	5307	3	9	61	h	h	Kuinka ohswet voit?	 44.67	 297.26	Kuinka ohswet voit?	Mix	1684	0	0.90
+1438008165.18	5307	3	10	594	s	s	Kuinka ohswet voit?	 44.67	 297.26	Kuinka ohswet voit?	Mix	2278	0	0.90
+1438008165.398	5307	3	11	218	w	w	Kuinka ohswet voit?	 44.67	 297.26	Kuinka ohswet voit?	Mix	2496	0	0.90
+1438008165.585	5307	3	12	187	e	e	Kuinka ohswet voit?	 44.67	 297.26	Kuinka ohswet voit?	Mix	2683	0	0.90
+1438008166.896	5307	3	13	1310	t	t	Kuinka ohswet voit?	 44.67	 297.26	Kuinka ohswet voit?	Mix	3993	0	0.90
+1438008166.958	5307	3	14	62	_	space	Kuinka ohswet voit?	 44.67	 297.26	Kuinka ohswet voit?	Mix	4055	0	0.90
+1438008167.239	5307	3	15	282	v	v	Kuinka ohswet voit?	 44.67	 297.26	Kuinka ohswet voit?	Mix	4337	0	0.90
+1438008167.333	5307	3	16	93	o	o	Kuinka ohswet voit?	 44.67	 297.26	Kuinka ohswet voit?	Mix	4430	0	0.90
+1438008167.364	5307	3	17	32	i	i	Kuinka ohswet voit?	 44.67	 297.26	Kuinka ohswet voit?	Mix	4462	0	0.90
+1438008167.489	5307	3	18	125	t	t	Kuinka ohswet voit?	 44.67	 297.26	Kuinka ohswet voit?	Mix	4587	0	0.90
+1438008167.676	5307	3	19	187	Shift_L	Shift_L	Kuinka ohswet voit?	 44.67	 297.26	Kuinka ohswet voit?	Mix	4774	0	0.90
+1438008167.738	5307	3	20	61	?	question	Kuinka ohswet voit?	 44.67	 297.26	Kuinka ohswet voit?	Mix	4835	0	0.90
+1438008169.673	5307	4	0	0	Shift_L	Shift_L	Missä evvphq olet?	 67.44	 123.69	Missä evvphq olet?	Mix	0	0	0.90
+1438008170.297	5307	4	1	623	M	M	Missä evvphq olet?	 67.44	 123.69	Missä evvphq olet?	Mix	623	0	0.90
+1438008170.546	5307	4	2	249	i	i	Missä evvphq olet?	 67.44	 123.69	Missä evvphq olet?	Mix	872	0	0.90
+1438008170.671	5307	4	3	125	s	s	Missä evvphq olet?	 67.44	 123.69	Missä evvphq olet?	Mix	997	0	0.90
+1438008170.827	5307	4	4	156	s	s	Missä evvphq olet?	 67.44	 123.69	Missä evvphq olet?	Mix	1153	0	0.90
+1438008170.889	5307	4	5	62	ä	adiaeresis	Missä evvphq olet?	 67.44	 123.69	Missä evvphq olet?	Mix	1215	0	0.90
+1438008171.014	5307	4	6	125	_	space	Missä evvphq olet?	 67.44	 123.69	Missä evvphq olet?	Mix	1340	0	0.90
+1438008171.139	5307	4	7	125	e	e	Missä evvphq olet?	 67.44	 123.69	Missä evvphq olet?	Mix	1465	0	0.90
+1438008171.264	5307	4	8	125	v	v	Missä evvphq olet?	 67.44	 123.69	Missä evvphq olet?	Mix	1590	0	0.90
+1438008171.42	5307	4	9	156	v	v	Missä evvphq olet?	 67.44	 123.69	Missä evvphq olet?	Mix	1746	0	0.90
+1438008171.607	5307	4	10	188	p	p	Missä evvphq olet?	 67.44	 123.69	Missä evvphq olet?	Mix	1934	0	0.90
+1438008171.763	5307	4	11	155	h	h	Missä evvphq olet?	 67.44	 123.69	Missä evvphq olet?	Mix	2089	0	0.90
+1438008171.888	5307	4	12	125	q	q	Missä evvphq olet?	 67.44	 123.69	Missä evvphq olet?	Mix	2214	0	0.90
+1438008171.981	5307	4	13	93	_	space	Missä evvphq olet?	 67.44	 123.69	Missä evvphq olet?	Mix	2307	0	0.90
+1438008172.169	5307	4	14	188	o	o	Missä evvphq olet?	 67.44	 123.69	Missä evvphq olet?	Mix	2495	0	0.90
+1438008172.325	5307	4	15	156	l	l	Missä evvphq olet?	 67.44	 123.69	Missä evvphq olet?	Mix	2651	0	0.90
+1438008172.418	5307	4	16	93	e	e	Missä evvphq olet?	 67.44	 123.69	Missä evvphq olet?	Mix	2744	0	0.90
+1438008172.481	5307	4	17	63	t	t	Missä evvphq olet?	 67.44	 123.69	Missä evvphq olet?	Mix	2807	0	0.90
+1438008172.668	5307	4	18	187	Shift_L	Shift_L	Missä evvphq olet?	 67.44	 123.69	Missä evvphq olet?	Mix	2994	0	0.90
+1438008172.699	5307	4	19	31	?	question	Missä evvphq olet?	 67.44	 123.69	Missä evvphq olet?	Mix	3025	0	0.90
+1438008175.445	5307	5	0	0	Shift_L	Shift_L	Pidä minut oahpnh ajan tasalla!	 77.09	  68.62	Pidä minut oahpnh ajan tasalla!	Mix	0	0	0.94
+1438008175.538	5307	5	1	93	P	P	Pidä minut oahpnh ajan tasalla!	 77.09	  68.62	Pidä minut oahpnh ajan tasalla!	Mix	93	0	0.94
+1438008175.809	5307	5	2	271	i	i	Pidä minut oahpnh ajan tasalla!	 77.09	  68.62	Pidä minut oahpnh ajan tasalla!	Mix	364	0	0.94
+1438008175.903	5307	5	3	94	d	d	Pidä minut oahpnh ajan tasalla!	 77.09	  68.62	Pidä minut oahpnh ajan tasalla!	Mix	458	0	0.94
+1438008175.997	5307	5	4	94	ä	adiaeresis	Pidä minut oahpnh ajan tasalla!	 77.09	  68.62	Pidä minut oahpnh ajan tasalla!	Mix	552	0	0.94
+1438008176.121	5307	5	5	124	_	space	Pidä minut oahpnh ajan tasalla!	 77.09	  68.62	Pidä minut oahpnh ajan tasalla!	Mix	676	0	0.94
+1438008176.215	5307	5	6	93	m	m	Pidä minut oahpnh ajan tasalla!	 77.09	  68.62	Pidä minut oahpnh ajan tasalla!	Mix	769	0	0.94
+1438008176.371	5307	5	7	157	i	i	Pidä minut oahpnh ajan tasalla!	 77.09	  68.62	Pidä minut oahpnh ajan tasalla!	Mix	926	0	0.94
+1438008176.558	5307	5	8	187	n	n	Pidä minut oahpnh ajan tasalla!	 77.09	  68.62	Pidä minut oahpnh ajan tasalla!	Mix	1113	0	0.94
+1438008176.652	5307	5	9	94	u	u	Pidä minut oahpnh ajan tasalla!	 77.09	  68.62	Pidä minut oahpnh ajan tasalla!	Mix	1207	0	0.94
+1438008176.777	5307	5	10	125	t	t	Pidä minut oahpnh ajan tasalla!	 77.09	  68.62	Pidä minut oahpnh ajan tasalla!	Mix	1332	0	0.94
+1438008176.839	5307	5	11	62	_	space	Pidä minut oahpnh ajan tasalla!	 77.09	  68.62	Pidä minut oahpnh ajan tasalla!	Mix	1394	0	0.94
+1438008177.057	5307	5	12	217	o	o	Pidä minut oahpnh ajan tasalla!	 77.09	  68.62	Pidä minut oahpnh ajan tasalla!	Mix	1611	0	0.94
+1438008177.182	5307	5	13	125	a	a	Pidä minut oahpnh ajan tasalla!	 77.09	  68.62	Pidä minut oahpnh ajan tasalla!	Mix	1736	0	0.94
+1438008177.307	5307	5	14	125	h	h	Pidä minut oahpnh ajan tasalla!	 77.09	  68.62	Pidä minut oahpnh ajan tasalla!	Mix	1861	0	0.94
+1438008177.557	5307	5	15	250	p	p	Pidä minut oahpnh ajan tasalla!	 77.09	  68.62	Pidä minut oahpnh ajan tasalla!	Mix	2111	0	0.94
+1438008177.775	5307	5	16	219	n	n	Pidä minut oahpnh ajan tasalla!	 77.09	  68.62	Pidä minut oahpnh ajan tasalla!	Mix	2330	0	0.94
+1438008178.087	5307	5	17	311	h	h	Pidä minut oahpnh ajan tasalla!	 77.09	  68.62	Pidä minut oahpnh ajan tasalla!	Mix	2641	0	0.94
+1438008178.368	5307	5	18	282	_	space	Pidä minut oahpnh ajan tasalla!	 77.09	  68.62	Pidä minut oahpnh ajan tasalla!	Mix	2923	0	0.94
+1438008178.617	5307	5	19	249	a	a	Pidä minut oahpnh ajan tasalla!	 77.09	  68.62	Pidä minut oahpnh ajan tasalla!	Mix	3172	0	0.94
+1438008178.711	5307	5	20	94	j	j	Pidä minut oahpnh ajan tasalla!	 77.09	  68.62	Pidä minut oahpnh ajan tasalla!	Mix	3266	0	0.94
+1438008178.805	5307	5	21	94	a	a	Pidä minut oahpnh ajan tasalla!	 77.09	  68.62	Pidä minut oahpnh ajan tasalla!	Mix	3360	0	0.94
+1438008178.898	5307	5	22	93	n	n	Pidä minut oahpnh ajan tasalla!	 77.09	  68.62	Pidä minut oahpnh ajan tasalla!	Mix	3453	0	0.94
+1438008178.992	5307	5	23	94	_	space	Pidä minut oahpnh ajan tasalla!	 77.09	  68.62	Pidä minut oahpnh ajan tasalla!	Mix	3547	0	0.94
+1438008179.148	5307	5	24	156	t	t	Pidä minut oahpnh ajan tasalla!	 77.09	  68.62	Pidä minut oahpnh ajan tasalla!	Mix	3703	0	0.94
+1438008179.21	5307	5	25	62	a	a	Pidä minut oahpnh ajan tasalla!	 77.09	  68.62	Pidä minut oahpnh ajan tasalla!	Mix	3765	0	0.94
+1438008179.397	5307	5	26	187	s	s	Pidä minut oahpnh ajan tasalla!	 77.09	  68.62	Pidä minut oahpnh ajan tasalla!	Mix	3952	0	0.94
+1438008179.491	5307	5	27	94	a	a	Pidä minut oahpnh ajan tasalla!	 77.09	  68.62	Pidä minut oahpnh ajan tasalla!	Mix	4046	0	0.94
+1438008179.585	5307	5	28	94	l	l	Pidä minut oahpnh ajan tasalla!	 77.09	  68.62	Pidä minut oahpnh ajan tasalla!	Mix	4140	0	0.94
+1438008179.741	5307	5	29	156	l	l	Pidä minut oahpnh ajan tasalla!	 77.09	  68.62	Pidä minut oahpnh ajan tasalla!	Mix	4296	0	0.94
+1438008179.865	5307	5	30	124	a	a	Pidä minut oahpnh ajan tasalla!	 77.09	  68.62	Pidä minut oahpnh ajan tasalla!	Mix	4420	0	0.94
+1438008180.021	5307	5	31	155	Shift_R	Shift_R	Pidä minut oahpnh ajan tasalla!	 77.09	  68.62	Pidä minut oahpnh ajan tasalla!	Mix	4575	0	0.94
+1438008180.115	5307	5	32	95	!	exclam	Pidä minut oahpnh ajan tasalla!	 77.09	  68.62	Pidä minut oahpnh ajan tasalla!	Mix	4670	0	0.94
+1438008182.268	5307	6	0	0	Shift_L	Shift_L	Kiitos, jvhslb hyvää työtä.	 73.00	  83.87	Kiitos, jvhslb hyvää työtä.	Mix	0	0	0.96
+1438008182.424	5307	6	1	156	K	K	Kiitos, jvhslb hyvää työtä.	 73.00	  83.87	Kiitos, jvhslb hyvää työtä.	Mix	156	0	0.96
+1438008182.705	5307	6	2	281	i	i	Kiitos, jvhslb hyvää työtä.	 73.00	  83.87	Kiitos, jvhslb hyvää työtä.	Mix	437	0	0.96
+1438008182.861	5307	6	3	156	i	i	Kiitos, jvhslb hyvää työtä.	 73.00	  83.87	Kiitos, jvhslb hyvää työtä.	Mix	593	0	0.96
+1438008182.954	5307	6	4	93	t	t	Kiitos, jvhslb hyvää työtä.	 73.00	  83.87	Kiitos, jvhslb hyvää työtä.	Mix	686	0	0.96
+1438008183.048	5307	6	5	94	o	o	Kiitos, jvhslb hyvää työtä.	 73.00	  83.87	Kiitos, jvhslb hyvää työtä.	Mix	780	0	0.96
+1438008183.173	5307	6	6	125	s	s	Kiitos, jvhslb hyvää työtä.	 73.00	  83.87	Kiitos, jvhslb hyvää työtä.	Mix	905	0	0.96
+1438008183.297	5307	6	7	124	,	comma	Kiitos, jvhslb hyvää työtä.	 73.00	  83.87	Kiitos, jvhslb hyvää työtä.	Mix	1029	0	0.96
+1438008183.422	5307	6	8	125	_	space	Kiitos, jvhslb hyvää työtä.	 73.00	  83.87	Kiitos, jvhslb hyvää työtä.	Mix	1154	0	0.96
+1438008183.609	5307	6	9	187	j	j	Kiitos, jvhslb hyvää työtä.	 73.00	  83.87	Kiitos, jvhslb hyvää työtä.	Mix	1341	0	0.96
+1438008183.765	5307	6	10	156	v	v	Kiitos, jvhslb hyvää työtä.	 73.00	  83.87	Kiitos, jvhslb hyvää työtä.	Mix	1497	0	0.96
+1438008183.921	5307	6	11	156	h	h	Kiitos, jvhslb hyvää työtä.	 73.00	  83.87	Kiitos, jvhslb hyvää työtä.	Mix	1653	0	0.96
+1438008184.233	5307	6	12	312	s	s	Kiitos, jvhslb hyvää työtä.	 73.00	  83.87	Kiitos, jvhslb hyvää työtä.	Mix	1965	0	0.96
+1438008184.452	5307	6	13	219	l	l	Kiitos, jvhslb hyvää työtä.	 73.00	  83.87	Kiitos, jvhslb hyvää työtä.	Mix	2184	0	0.96
+1438008184.733	5307	6	14	281	b	b	Kiitos, jvhslb hyvää työtä.	 73.00	  83.87	Kiitos, jvhslb hyvää työtä.	Mix	2465	0	0.96
+1438008184.826	5307	6	15	93	_	space	Kiitos, jvhslb hyvää työtä.	 73.00	  83.87	Kiitos, jvhslb hyvää työtä.	Mix	2558	0	0.96
+1438008185.045	5307	6	16	219	h	h	Kiitos, jvhslb hyvää työtä.	 73.00	  83.87	Kiitos, jvhslb hyvää työtä.	Mix	2777	0	0.96
+1438008185.232	5307	6	17	187	y	y	Kiitos, jvhslb hyvää työtä.	 73.00	  83.87	Kiitos, jvhslb hyvää työtä.	Mix	2964	0	0.96
+1438008185.325	5307	6	18	93	v	v	Kiitos, jvhslb hyvää työtä.	 73.00	  83.87	Kiitos, jvhslb hyvää työtä.	Mix	3057	0	0.96
+1438008185.388	5307	6	19	63	ä	adiaeresis	Kiitos, jvhslb hyvää työtä.	 73.00	  83.87	Kiitos, jvhslb hyvää työtä.	Mix	3120	0	0.96
+1438008185.544	5307	6	20	156	ä	adiaeresis	Kiitos, jvhslb hyvää työtä.	 73.00	  83.87	Kiitos, jvhslb hyvää työtä.	Mix	3276	0	0.96
+1438008185.637	5307	6	21	93	_	space	Kiitos, jvhslb hyvää työtä.	 73.00	  83.87	Kiitos, jvhslb hyvää työtä.	Mix	3369	0	0.96
+1438008185.793	5307	6	22	156	t	t	Kiitos, jvhslb hyvää työtä.	 73.00	  83.87	Kiitos, jvhslb hyvää työtä.	Mix	3525	0	0.96
+1438008185.887	5307	6	23	94	y	y	Kiitos, jvhslb hyvää työtä.	 73.00	  83.87	Kiitos, jvhslb hyvää työtä.	Mix	3619	0	0.96
+1438008185.918	5307	6	24	31	ö	odiaeresis	Kiitos, jvhslb hyvää työtä.	 73.00	  83.87	Kiitos, jvhslb hyvää työtä.	Mix	3650	0	0.96
+1438008186.043	5307	6	25	125	t	t	Kiitos, jvhslb hyvää työtä.	 73.00	  83.87	Kiitos, jvhslb hyvää työtä.	Mix	3775	0	0.96
+1438008186.137	5307	6	26	94	ä	adiaeresis	Kiitos, jvhslb hyvää työtä.	 73.00	  83.87	Kiitos, jvhslb hyvää työtä.	Mix	3869	0	0.96
+1438008186.542	5307	6	27	405	.	period	Kiitos, jvhslb hyvää työtä.	 73.00	  83.87	Kiitos, jvhslb hyvää työtä.	Mix	4274	0	0.96
+1438008187.946	5307	7	0	0	Shift_L	Shift_L	Hyvää lomaa qalpag sinullekin.	 66.00	 173.16	Hyvää lomaa qalpag sinullekin.	Mix	0	0	0.97
+1438008188.04	5307	7	1	93	H	H	Hyvää lomaa qalpag sinullekin.	 66.00	 173.16	Hyvää lomaa qalpag sinullekin.	Mix	93	0	0.97
+1438008188.227	5307	7	2	187	y	y	Hyvää lomaa qalpag sinullekin.	 66.00	 173.16	Hyvää lomaa qalpag sinullekin.	Mix	280	0	0.97
+1438008188.352	5307	7	3	125	v	v	Hyvää lomaa qalpag sinullekin.	 66.00	 173.16	Hyvää lomaa qalpag sinullekin.	Mix	405	0	0.97
+1438008188.414	5307	7	4	62	ä	adiaeresis	Hyvää lomaa qalpag sinullekin.	 66.00	 173.16	Hyvää lomaa qalpag sinullekin.	Mix	467	0	0.97
+1438008188.57	5307	7	5	156	ä	adiaeresis	Hyvää lomaa qalpag sinullekin.	 66.00	 173.16	Hyvää lomaa qalpag sinullekin.	Mix	623	0	0.97
+1438008188.664	5307	7	6	94	_	space	Hyvää lomaa qalpag sinullekin.	 66.00	 173.16	Hyvää lomaa qalpag sinullekin.	Mix	717	0	0.97
+1438008188.757	5307	7	7	93	l	l	Hyvää lomaa qalpag sinullekin.	 66.00	 173.16	Hyvää lomaa qalpag sinullekin.	Mix	810	0	0.97
+1438008188.945	5307	7	8	188	o	o	Hyvää lomaa qalpag sinullekin.	 66.00	 173.16	Hyvää lomaa qalpag sinullekin.	Mix	998	0	0.97
+1438008189.007	5307	7	9	62	m	m	Hyvää lomaa qalpag sinullekin.	 66.00	 173.16	Hyvää lomaa qalpag sinullekin.	Mix	1060	0	0.97
+1438008189.069	5307	7	10	62	a	a	Hyvää lomaa qalpag sinullekin.	 66.00	 173.16	Hyvää lomaa qalpag sinullekin.	Mix	1122	0	0.97
+1438008189.257	5307	7	11	188	a	a	Hyvää lomaa qalpag sinullekin.	 66.00	 173.16	Hyvää lomaa qalpag sinullekin.	Mix	1310	0	0.97
+1438008189.319	5307	7	12	62	_	space	Hyvää lomaa qalpag sinullekin.	 66.00	 173.16	Hyvää lomaa qalpag sinullekin.	Mix	1372	0	0.97
+1438008189.6	5307	7	13	281	q	q	Hyvää lomaa qalpag sinullekin.	 66.00	 173.16	Hyvää lomaa qalpag sinullekin.	Mix	1653	0	0.97
+1438008190.099	5307	7	14	499	a	a	Hyvää lomaa qalpag sinullekin.	 66.00	 173.16	Hyvää lomaa qalpag sinullekin.	Mix	2152	0	0.97
+1438008190.193	5307	7	15	94	l	l	Hyvää lomaa qalpag sinullekin.	 66.00	 173.16	Hyvää lomaa qalpag sinullekin.	Mix	2246	0	0.97
+1438008191.129	5307	7	16	936	p	p	Hyvää lomaa qalpag sinullekin.	 66.00	 173.16	Hyvää lomaa qalpag sinullekin.	Mix	3182	0	0.97
+1438008191.472	5307	7	17	343	a	a	Hyvää lomaa qalpag sinullekin.	 66.00	 173.16	Hyvää lomaa qalpag sinullekin.	Mix	3525	0	0.97
+1438008191.565	5307	7	18	93	g	g	Hyvää lomaa qalpag sinullekin.	 66.00	 173.16	Hyvää lomaa qalpag sinullekin.	Mix	3618	0	0.97
+1438008191.753	5307	7	19	188	_	space	Hyvää lomaa qalpag sinullekin.	 66.00	 173.16	Hyvää lomaa qalpag sinullekin.	Mix	3806	0	0.97
+1438008191.94	5307	7	20	187	s	s	Hyvää lomaa qalpag sinullekin.	 66.00	 173.16	Hyvää lomaa qalpag sinullekin.	Mix	3993	0	0.97
+1438008192.003	5307	7	21	63	i	i	Hyvää lomaa qalpag sinullekin.	 66.00	 173.16	Hyvää lomaa qalpag sinullekin.	Mix	4056	0	0.97
+1438008192.097	5307	7	22	94	n	n	Hyvää lomaa qalpag sinullekin.	 66.00	 173.16	Hyvää lomaa qalpag sinullekin.	Mix	4150	0	0.97
+1438008192.222	5307	7	23	125	u	u	Hyvää lomaa qalpag sinullekin.	 66.00	 173.16	Hyvää lomaa qalpag sinullekin.	Mix	4275	0	0.97
+1438008192.44	5307	7	24	218	l	l	Hyvää lomaa qalpag sinullekin.	 66.00	 173.16	Hyvää lomaa qalpag sinullekin.	Mix	4493	0	0.97
+1438008192.565	5307	7	25	125	l	l	Hyvää lomaa qalpag sinullekin.	 66.00	 173.16	Hyvää lomaa qalpag sinullekin.	Mix	4618	0	0.97
+1438008192.658	5307	7	26	93	e	e	Hyvää lomaa qalpag sinullekin.	 66.00	 173.16	Hyvää lomaa qalpag sinullekin.	Mix	4711	0	0.97
+1438008192.752	5307	7	27	94	k	k	Hyvää lomaa qalpag sinullekin.	 66.00	 173.16	Hyvää lomaa qalpag sinullekin.	Mix	4805	0	0.97
+1438008192.908	5307	7	28	156	i	i	Hyvää lomaa qalpag sinullekin.	 66.00	 173.16	Hyvää lomaa qalpag sinullekin.	Mix	4961	0	0.97
+1438008192.97	5307	7	29	62	n	n	Hyvää lomaa qalpag sinullekin.	 66.00	 173.16	Hyvää lomaa qalpag sinullekin.	Mix	5023	0	0.97
+1438008193.22	5307	7	30	250	.	period	Hyvää lomaa qalpag sinullekin.	 66.00	 173.16	Hyvää lomaa qalpag sinullekin.	Mix	5273	0	0.97
+1438008195.186	5307	8	0	0	Shift_L	Shift_L	Voin palata lctddy aikaisemmin.	 73.50	 108.60	Voin palata lctddy aikaisemmin.	Mix	0	0	0.97
+1438008195.654	5307	8	1	467	V	V	Voin palata lctddy aikaisemmin.	 73.50	 108.60	Voin palata lctddy aikaisemmin.	Mix	467	0	0.97
+1438008195.903	5307	8	2	250	o	o	Voin palata lctddy aikaisemmin.	 73.50	 108.60	Voin palata lctddy aikaisemmin.	Mix	717	0	0.97
+1438008195.934	5307	8	3	30	i	i	Voin palata lctddy aikaisemmin.	 73.50	 108.60	Voin palata lctddy aikaisemmin.	Mix	747	0	0.97
+1438008195.997	5307	8	4	63	n	n	Voin palata lctddy aikaisemmin.	 73.50	 108.60	Voin palata lctddy aikaisemmin.	Mix	810	0	0.97
+1438008196.122	5307	8	5	125	_	space	Voin palata lctddy aikaisemmin.	 73.50	 108.60	Voin palata lctddy aikaisemmin.	Mix	935	0	0.97
+1438008196.309	5307	8	6	187	p	p	Voin palata lctddy aikaisemmin.	 73.50	 108.60	Voin palata lctddy aikaisemmin.	Mix	1122	0	0.97
+1438008196.402	5307	8	7	93	a	a	Voin palata lctddy aikaisemmin.	 73.50	 108.60	Voin palata lctddy aikaisemmin.	Mix	1215	0	0.97
+1438008196.527	5307	8	8	125	l	l	Voin palata lctddy aikaisemmin.	 73.50	 108.60	Voin palata lctddy aikaisemmin.	Mix	1340	0	0.97
+1438008196.621	5307	8	9	94	a	a	Voin palata lctddy aikaisemmin.	 73.50	 108.60	Voin palata lctddy aikaisemmin.	Mix	1434	0	0.97
+1438008196.714	5307	8	10	93	t	t	Voin palata lctddy aikaisemmin.	 73.50	 108.60	Voin palata lctddy aikaisemmin.	Mix	1527	0	0.97
+1438008196.839	5307	8	11	125	a	a	Voin palata lctddy aikaisemmin.	 73.50	 108.60	Voin palata lctddy aikaisemmin.	Mix	1652	0	0.97
+1438008196.933	5307	8	12	94	_	space	Voin palata lctddy aikaisemmin.	 73.50	 108.60	Voin palata lctddy aikaisemmin.	Mix	1746	0	0.97
+1438008197.214	5307	8	13	281	l	l	Voin palata lctddy aikaisemmin.	 73.50	 108.60	Voin palata lctddy aikaisemmin.	Mix	2027	0	0.97
+1438008197.307	5307	8	14	93	c	c	Voin palata lctddy aikaisemmin.	 73.50	 108.60	Voin palata lctddy aikaisemmin.	Mix	2120	0	0.97
+1438008197.588	5307	8	15	281	t	t	Voin palata lctddy aikaisemmin.	 73.50	 108.60	Voin palata lctddy aikaisemmin.	Mix	2401	0	0.97
+1438008197.838	5307	8	16	250	d	d	Voin palata lctddy aikaisemmin.	 73.50	 108.60	Voin palata lctddy aikaisemmin.	Mix	2651	0	0.97
+1438008197.994	5307	8	17	156	d	d	Voin palata lctddy aikaisemmin.	 73.50	 108.60	Voin palata lctddy aikaisemmin.	Mix	2807	0	0.97
+1438008198.087	5307	8	18	93	y	y	Voin palata lctddy aikaisemmin.	 73.50	 108.60	Voin palata lctddy aikaisemmin.	Mix	2900	0	0.97
+1438008198.181	5307	8	19	94	_	space	Voin palata lctddy aikaisemmin.	 73.50	 108.60	Voin palata lctddy aikaisemmin.	Mix	2994	0	0.97
+1438008198.68	5307	8	20	499	a	a	Voin palata lctddy aikaisemmin.	 73.50	 108.60	Voin palata lctddy aikaisemmin.	Mix	3493	0	0.97
+1438008198.774	5307	8	21	94	i	i	Voin palata lctddy aikaisemmin.	 73.50	 108.60	Voin palata lctddy aikaisemmin.	Mix	3587	0	0.97
+1438008198.992	5307	8	22	218	k	k	Voin palata lctddy aikaisemmin.	 73.50	 108.60	Voin palata lctddy aikaisemmin.	Mix	3805	0	0.97
+1438008199.086	5307	8	23	94	a	a	Voin palata lctddy aikaisemmin.	 73.50	 108.60	Voin palata lctddy aikaisemmin.	Mix	3899	0	0.97
+1438008199.21	5307	8	24	124	i	i	Voin palata lctddy aikaisemmin.	 73.50	 108.60	Voin palata lctddy aikaisemmin.	Mix	4023	0	0.97
+1438008199.335	5307	8	25	125	s	s	Voin palata lctddy aikaisemmin.	 73.50	 108.60	Voin palata lctddy aikaisemmin.	Mix	4148	0	0.97
+1438008199.398	5307	8	26	63	e	e	Voin palata lctddy aikaisemmin.	 73.50	 108.60	Voin palata lctddy aikaisemmin.	Mix	4211	0	0.97
+1438008199.522	5307	8	27	124	m	m	Voin palata lctddy aikaisemmin.	 73.50	 108.60	Voin palata lctddy aikaisemmin.	Mix	4335	0	0.97
+1438008199.678	5307	8	28	156	m	m	Voin palata lctddy aikaisemmin.	 73.50	 108.60	Voin palata lctddy aikaisemmin.	Mix	4491	0	0.97
+1438008199.772	5307	8	29	94	i	i	Voin palata lctddy aikaisemmin.	 73.50	 108.60	Voin palata lctddy aikaisemmin.	Mix	4585	0	0.97
+1438008199.866	5307	8	30	94	n	n	Voin palata lctddy aikaisemmin.	 73.50	 108.60	Voin palata lctddy aikaisemmin.	Mix	4679	0	0.97
+1438008200.084	5307	8	31	219	.	period	Voin palata lctddy aikaisemmin.	 73.50	 108.60	Voin palata lctddy aikaisemmin.	Mix	4898	0	0.97
+1438008201.925	5307	9	0	0	Shift_L	Shift_L	Oletko paikalla zjjrwa tänään?	 76.40	  84.84	Oletko paikalla zjjrwa tänään?	Mix	0	0	0.94
+1438008202.05	5307	9	1	125	O	O	Oletko paikalla zjjrwa tänään?	 76.40	  84.84	Oletko paikalla zjjrwa tänään?	Mix	125	0	0.94
+1438008202.299	5307	9	2	249	l	l	Oletko paikalla zjjrwa tänään?	 76.40	  84.84	Oletko paikalla zjjrwa tänään?	Mix	374	0	0.94
+1438008202.424	5307	9	3	125	e	e	Oletko paikalla zjjrwa tänään?	 76.40	  84.84	Oletko paikalla zjjrwa tänään?	Mix	499	0	0.94
+1438008202.486	5307	9	4	62	t	t	Oletko paikalla zjjrwa tänään?	 76.40	  84.84	Oletko paikalla zjjrwa tänään?	Mix	561	0	0.94
+1438008202.611	5307	9	5	125	k	k	Oletko paikalla zjjrwa tänään?	 76.40	  84.84	Oletko paikalla zjjrwa tänään?	Mix	686	0	0.94
+1438008202.642	5307	9	6	31	o	o	Oletko paikalla zjjrwa tänään?	 76.40	  84.84	Oletko paikalla zjjrwa tänään?	Mix	717	0	0.94
+1438008202.767	5307	9	7	125	_	space	Oletko paikalla zjjrwa tänään?	 76.40	  84.84	Oletko paikalla zjjrwa tänään?	Mix	842	0	0.94
+1438008202.923	5307	9	8	156	p	p	Oletko paikalla zjjrwa tänään?	 76.40	  84.84	Oletko paikalla zjjrwa tänään?	Mix	998	0	0.94
+1438008202.986	5307	9	9	63	a	a	Oletko paikalla zjjrwa tänään?	 76.40	  84.84	Oletko paikalla zjjrwa tänään?	Mix	1061	0	0.94
+1438008203.11	5307	9	10	123	i	i	Oletko paikalla zjjrwa tänään?	 76.40	  84.84	Oletko paikalla zjjrwa tänään?	Mix	1184	0	0.94
+1438008203.298	5307	9	11	189	k	k	Oletko paikalla zjjrwa tänään?	 76.40	  84.84	Oletko paikalla zjjrwa tänään?	Mix	1373	0	0.94
+1438008203.391	5307	9	12	93	a	a	Oletko paikalla zjjrwa tänään?	 76.40	  84.84	Oletko paikalla zjjrwa tänään?	Mix	1466	0	0.94
+1438008203.485	5307	9	13	93	l	l	Oletko paikalla zjjrwa tänään?	 76.40	  84.84	Oletko paikalla zjjrwa tänään?	Mix	1559	0	0.94
+1438008203.641	5307	9	14	157	l	l	Oletko paikalla zjjrwa tänään?	 76.40	  84.84	Oletko paikalla zjjrwa tänään?	Mix	1716	0	0.94
+1438008203.672	5307	9	15	30	a	a	Oletko paikalla zjjrwa tänään?	 76.40	  84.84	Oletko paikalla zjjrwa tänään?	Mix	1746	0	0.94
+1438008203.797	5307	9	16	125	_	space	Oletko paikalla zjjrwa tänään?	 76.40	  84.84	Oletko paikalla zjjrwa tänään?	Mix	1871	0	0.94
+1438008204.265	5307	9	17	469	z	z	Oletko paikalla zjjrwa tänään?	 76.40	  84.84	Oletko paikalla zjjrwa tänään?	Mix	2340	0	0.94
+1438008204.452	5307	9	18	186	j	j	Oletko paikalla zjjrwa tänään?	 76.40	  84.84	Oletko paikalla zjjrwa tänään?	Mix	2526	0	0.94
+1438008204.608	5307	9	19	157	j	j	Oletko paikalla zjjrwa tänään?	 76.40	  84.84	Oletko paikalla zjjrwa tänään?	Mix	2683	0	0.94
+1438008204.826	5307	9	20	218	r	r	Oletko paikalla zjjrwa tänään?	 76.40	  84.84	Oletko paikalla zjjrwa tänään?	Mix	2901	0	0.94
+1438008205.045	5307	9	21	219	w	w	Oletko paikalla zjjrwa tänään?	 76.40	  84.84	Oletko paikalla zjjrwa tänään?	Mix	3120	0	0.94
+1438008205.326	5307	9	22	281	a	a	Oletko paikalla zjjrwa tänään?	 76.40	  84.84	Oletko paikalla zjjrwa tänään?	Mix	3401	0	0.94
+1438008205.45	5307	9	23	124	_	space	Oletko paikalla zjjrwa tänään?	 76.40	  84.84	Oletko paikalla zjjrwa tänään?	Mix	3525	0	0.94
+1438008205.669	5307	9	24	218	t	t	Oletko paikalla zjjrwa tänään?	 76.40	  84.84	Oletko paikalla zjjrwa tänään?	Mix	3743	0	0.94
+1438008205.794	5307	9	25	125	ä	adiaeresis	Oletko paikalla zjjrwa tänään?	 76.40	  84.84	Oletko paikalla zjjrwa tänään?	Mix	3868	0	0.94
+1438008205.887	5307	9	26	94	n	n	Oletko paikalla zjjrwa tänään?	 76.40	  84.84	Oletko paikalla zjjrwa tänään?	Mix	3962	0	0.94
+1438008205.981	5307	9	27	93	ä	adiaeresis	Oletko paikalla zjjrwa tänään?	 76.40	  84.84	Oletko paikalla zjjrwa tänään?	Mix	4055	0	0.94
+1438008206.137	5307	9	28	157	ä	adiaeresis	Oletko paikalla zjjrwa tänään?	 76.40	  84.84	Oletko paikalla zjjrwa tänään?	Mix	4212	0	0.94
+1438008206.199	5307	9	29	61	n	n	Oletko paikalla zjjrwa tänään?	 76.40	  84.84	Oletko paikalla zjjrwa tänään?	Mix	4273	0	0.94
+1438008206.355	5307	9	30	157	Shift_L	Shift_L	Oletko paikalla zjjrwa tänään?	 76.40	  84.84	Oletko paikalla zjjrwa tänään?	Mix	4430	0	0.94
+1438008206.48	5307	9	31	125	?	question	Oletko paikalla zjjrwa tänään?	 76.40	  84.84	Oletko paikalla zjjrwa tänään?	Mix	4555	0	0.94
+1438008207.946	5307	10	0	0	Shift_L	Shift_L	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	0	0	0.92
+1438008208.102	5307	10	1	155	T	T	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	155	0	0.92
+1438008208.29	5307	10	2	188	u	u	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	343	0	0.92
+1438008208.352	5307	10	3	62	l	l	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	405	0	0.92
+1438008208.414	5307	10	4	62	e	e	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	467	0	0.92
+1438008208.539	5307	10	5	125	n	n	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	592	0	0.92
+1438008208.633	5307	10	6	94	_	space	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	686	0	0.92
+1438008208.758	5307	10	7	125	t	t	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	811	0	0.92
+1438008208.82	5307	10	8	62	a	a	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	873	0	0.92
+1438008208.976	5307	10	9	156	k	k	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	1029	0	0.92
+1438008209.163	5307	10	10	188	a	a	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	1217	0	0.92
+1438008209.35	5307	10	11	186	i	i	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	1403	0	0.92
+1438008209.475	5307	10	12	125	s	s	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	1528	0	0.92
+1438008209.6	5307	10	13	125	i	i	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	1653	0	0.92
+1438008209.631	5307	10	14	31	n	n	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	1684	0	0.92
+1438008209.787	5307	10	15	156	_	space	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	1840	0	0.92
+1438008209.912	5307	10	16	125	w	w	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	1965	0	0.92
+1438008209.974	5307	10	17	62	e	e	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	2027	0	0.92
+1438008210.38	5307	10	18	407	q	q	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	2434	0	0.92
+1438008210.598	5307	10	19	217	p	p	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	2651	0	0.92
+1438008210.754	5307	10	20	156	p	p	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	2807	0	0.92
+1438008210.848	5307	10	21	94	e	e	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	2901	0	0.92
+1438008210.973	5307	10	22	125	_	space	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	3026	0	0.92
+1438008211.472	5307	10	23	499	e	e	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	3525	0	0.92
+1438008212.065	5307	10	24	593		BackSpace	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	4118	0	0.92
+1438008212.502	5307	10	25	437	p	p	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	4555	0	0.92
+1438008212.658	5307	10	26	156	e	e	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	4711	0	0.92
+1438008212.72	5307	10	27	62	r	r	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	4773	0	0.92
+1438008212.876	5307	10	28	156	j	j	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	4929	0	0.92
+1438008212.97	5307	10	29	94	a	a	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	5023	0	0.92
+1438008213.094	5307	10	30	125	n	n	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	5148	0	0.92
+1438008213.188	5307	10	31	93	t	t	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	5241	0	0.92
+1438008213.313	5307	10	32	125	i	i	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	5366	0	0.92
+1438008213.5	5307	10	33	187	n	n	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	5553	0	0.92
+1438008214.093	5307	10	34	593	a	a	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	6146	0	0.92
+1438008214.342	5307	10	35	249	.	period	Tulen takaisin weqppe perjantina.	 60.05	 145.10	Tulen takaisin weqppe perjantina.	Mix	6395	0	0.92
+1438008215.778	5307	11	0	0	Shift_L	Shift_L	Olen hyohcy tulossa.	 68.32	  92.41	Olen hyohcy tulossa.	Mix	0	0	0.95
+1438008215.996	5307	11	1	217	O	O	Olen hyohcy tulossa.	 68.32	  92.41	Olen hyohcy tulossa.	Mix	217	0	0.95
+1438008216.277	5307	11	2	281	l	l	Olen hyohcy tulossa.	 68.32	  92.41	Olen hyohcy tulossa.	Mix	498	0	0.95
+1438008216.37	5307	11	3	93	e	e	Olen hyohcy tulossa.	 68.32	  92.41	Olen hyohcy tulossa.	Mix	591	0	0.95
+1438008216.495	5307	11	4	125	n	n	Olen hyohcy tulossa.	 68.32	  92.41	Olen hyohcy tulossa.	Mix	716	0	0.95
+1438008216.62	5307	11	5	125	_	space	Olen hyohcy tulossa.	 68.32	  92.41	Olen hyohcy tulossa.	Mix	841	0	0.95
+1438008216.776	5307	11	6	156	h	h	Olen hyohcy tulossa.	 68.32	  92.41	Olen hyohcy tulossa.	Mix	997	0	0.95
+1438008217.026	5307	11	7	250	y	y	Olen hyohcy tulossa.	 68.32	  92.41	Olen hyohcy tulossa.	Mix	1247	0	0.95
+1438008217.119	5307	11	8	93	o	o	Olen hyohcy tulossa.	 68.32	  92.41	Olen hyohcy tulossa.	Mix	1340	0	0.95
+1438008217.369	5307	11	9	250	h	h	Olen hyohcy tulossa.	 68.32	  92.41	Olen hyohcy tulossa.	Mix	1590	0	0.95
+1438008217.774	5307	11	10	405	c	c	Olen hyohcy tulossa.	 68.32	  92.41	Olen hyohcy tulossa.	Mix	1995	0	0.95
+1438008217.868	5307	11	11	94	y	y	Olen hyohcy tulossa.	 68.32	  92.41	Olen hyohcy tulossa.	Mix	2089	0	0.95
+1438008218.024	5307	11	12	156	_	space	Olen hyohcy tulossa.	 68.32	  92.41	Olen hyohcy tulossa.	Mix	2245	0	0.95
+1438008218.305	5307	11	13	281	t	t	Olen hyohcy tulossa.	 68.32	  92.41	Olen hyohcy tulossa.	Mix	2526	0	0.95
+1438008218.43	5307	11	14	125	u	u	Olen hyohcy tulossa.	 68.32	  92.41	Olen hyohcy tulossa.	Mix	2651	0	0.95
+1438008218.492	5307	11	15	62	l	l	Olen hyohcy tulossa.	 68.32	  92.41	Olen hyohcy tulossa.	Mix	2713	0	0.95
+1438008218.679	5307	11	16	187	o	o	Olen hyohcy tulossa.	 68.32	  92.41	Olen hyohcy tulossa.	Mix	2900	0	0.95
+1438008218.71	5307	11	17	31	s	s	Olen hyohcy tulossa.	 68.32	  92.41	Olen hyohcy tulossa.	Mix	2931	0	0.95
+1438008218.898	5307	11	18	188	s	s	Olen hyohcy tulossa.	 68.32	  92.41	Olen hyohcy tulossa.	Mix	3119	0	0.95
+1438008218.96	5307	11	19	62	a	a	Olen hyohcy tulossa.	 68.32	  92.41	Olen hyohcy tulossa.	Mix	3181	0	0.95
+1438008219.116	5307	11	20	156	.	period	Olen hyohcy tulossa.	 68.32	  92.41	Olen hyohcy tulossa.	Mix	3337	0	0.95
+1438008221.456	5307	12	0	0	Shift_L	Shift_L	Ymmärsitkö pshego sinä tämän?	 79.79	  66.45	Ymmärsitkö pshego sinä tämän?	Mix	0	0	0.94
+1438008221.612	5307	12	1	155	Y	Y	Ymmärsitkö pshego sinä tämän?	 79.79	  66.45	Ymmärsitkö pshego sinä tämän?	Mix	155	0	0.94
+1438008221.955	5307	12	2	343	m	m	Ymmärsitkö pshego sinä tämän?	 79.79	  66.45	Ymmärsitkö pshego sinä tämän?	Mix	498	0	0.94
+1438008222.142	5307	12	3	187	m	m	Ymmärsitkö pshego sinä tämän?	 79.79	  66.45	Ymmärsitkö pshego sinä tämän?	Mix	685	0	0.94
+1438008222.236	5307	12	4	94	ä	adiaeresis	Ymmärsitkö pshego sinä tämän?	 79.79	  66.45	Ymmärsitkö pshego sinä tämän?	Mix	779	0	0.94
+1438008222.454	5307	12	5	218	r	r	Ymmärsitkö pshego sinä tämän?	 79.79	  66.45	Ymmärsitkö pshego sinä tämän?	Mix	997	0	0.94
+1438008222.735	5307	12	6	281	s	s	Ymmärsitkö pshego sinä tämän?	 79.79	  66.45	Ymmärsitkö pshego sinä tämän?	Mix	1278	0	0.94
+1438008222.86	5307	12	7	125	i	i	Ymmärsitkö pshego sinä tämän?	 79.79	  66.45	Ymmärsitkö pshego sinä tämän?	Mix	1403	0	0.94
+1438008222.985	5307	12	8	125	t	t	Ymmärsitkö pshego sinä tämän?	 79.79	  66.45	Ymmärsitkö pshego sinä tämän?	Mix	1528	0	0.94
+1438008223.078	5307	12	9	93	k	k	Ymmärsitkö pshego sinä tämän?	 79.79	  66.45	Ymmärsitkö pshego sinä tämän?	Mix	1621	0	0.94
+1438008223.141	5307	12	10	63	ö	odiaeresis	Ymmärsitkö pshego sinä tämän?	 79.79	  66.45	Ymmärsitkö pshego sinä tämän?	Mix	1684	0	0.94
+1438008223.266	5307	12	11	125	_	space	Ymmärsitkö pshego sinä tämän?	 79.79	  66.45	Ymmärsitkö pshego sinä tämän?	Mix	1809	0	0.94
+1438008223.39	5307	12	12	125	p	p	Ymmärsitkö pshego sinä tämän?	 79.79	  66.45	Ymmärsitkö pshego sinä tämän?	Mix	1934	0	0.94
+1438008223.484	5307	12	13	93	s	s	Ymmärsitkö pshego sinä tämän?	 79.79	  66.45	Ymmärsitkö pshego sinä tämän?	Mix	2027	0	0.94
+1438008223.64	5307	12	14	157	h	h	Ymmärsitkö pshego sinä tämän?	 79.79	  66.45	Ymmärsitkö pshego sinä tämän?	Mix	2184	0	0.94
+1438008223.765	5307	12	15	125	e	e	Ymmärsitkö pshego sinä tämän?	 79.79	  66.45	Ymmärsitkö pshego sinä tämän?	Mix	2309	0	0.94
+1438008223.952	5307	12	16	186	g	g	Ymmärsitkö pshego sinä tämän?	 79.79	  66.45	Ymmärsitkö pshego sinä tämän?	Mix	2495	0	0.94
+1438008224.046	5307	12	17	94	o	o	Ymmärsitkö pshego sinä tämän?	 79.79	  66.45	Ymmärsitkö pshego sinä tämän?	Mix	2589	0	0.94
+1438008224.139	5307	12	18	93	_	space	Ymmärsitkö pshego sinä tämän?	 79.79	  66.45	Ymmärsitkö pshego sinä tämän?	Mix	2682	0	0.94
+1438008224.42	5307	12	19	281	s	s	Ymmärsitkö pshego sinä tämän?	 79.79	  66.45	Ymmärsitkö pshego sinä tämän?	Mix	2963	0	0.94
+1438008224.514	5307	12	20	94	i	i	Ymmärsitkö pshego sinä tämän?	 79.79	  66.45	Ymmärsitkö pshego sinä tämän?	Mix	3057	0	0.94
+1438008224.607	5307	12	21	94	n	n	Ymmärsitkö pshego sinä tämän?	 79.79	  66.45	Ymmärsitkö pshego sinä tämän?	Mix	3151	0	0.94
+1438008224.701	5307	12	22	93	ä	adiaeresis	Ymmärsitkö pshego sinä tämän?	 79.79	  66.45	Ymmärsitkö pshego sinä tämän?	Mix	3244	0	0.94
+1438008224.857	5307	12	23	157	_	space	Ymmärsitkö pshego sinä tämän?	 79.79	  66.45	Ymmärsitkö pshego sinä tämän?	Mix	3401	0	0.94
+1438008224.919	5307	12	24	61	t	t	Ymmärsitkö pshego sinä tämän?	 79.79	  66.45	Ymmärsitkö pshego sinä tämän?	Mix	3462	0	0.94
+1438008225.075	5307	12	25	156	ä	adiaeresis	Ymmärsitkö pshego sinä tämän?	 79.79	  66.45	Ymmärsitkö pshego sinä tämän?	Mix	3618	0	0.94
+1438008225.169	5307	12	26	94	m	m	Ymmärsitkö pshego sinä tämän?	 79.79	  66.45	Ymmärsitkö pshego sinä tämän?	Mix	3712	0	0.94
+1438008225.262	5307	12	27	93	ä	adiaeresis	Ymmärsitkö pshego sinä tämän?	 79.79	  66.45	Ymmärsitkö pshego sinä tämän?	Mix	3805	0	0.94
+1438008225.418	5307	12	28	156	n	n	Ymmärsitkö pshego sinä tämän?	 79.79	  66.45	Ymmärsitkö pshego sinä tämän?	Mix	3961	0	0.94
+1438008225.543	5307	12	29	125	Shift_L	Shift_L	Ymmärsitkö pshego sinä tämän?	 79.79	  66.45	Ymmärsitkö pshego sinä tämän?	Mix	4086	0	0.94
+1438008225.668	5307	12	30	125	?	question	Ymmärsitkö pshego sinä tämän?	 79.79	  66.45	Ymmärsitkö pshego sinä tämän?	Mix	4211	0	0.94
+1438008227.79	5307	13	0	0	Shift_R	Shift_R	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	0	0	0.83
+1438008227.914	5307	13	1	124	T	T	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	124	0	0.83
+1438008228.226	5307	13	2	312	a	a	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	436	0	0.83
+1438008228.289	5307	13	3	63	r	r	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	499	0	0.83
+1438008228.57	5307	13	4	280	v	v	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	779	0	0.83
+1438008228.663	5307	13	5	94	i	i	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	873	0	0.83
+1438008228.788	5307	13	6	125	t	t	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	998	0	0.83
+1438008229.006	5307	13	7	218	s	s	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	1216	0	0.83
+1438008229.069	5307	13	8	63	e	e	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	1279	0	0.83
+1438008229.318	5307	13	9	249	t	t	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	1528	0	0.83
+1438008229.412	5307	13	10	93	k	k	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	1621	0	0.83
+1438008229.474	5307	13	11	63	o	o	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	1684	0	0.83
+1438008229.599	5307	13	12	125	_	space	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	1809	0	0.83
+1438008230.442	5307	13	13	842	x	x	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	2651	0	0.83
+1438008230.566	5307	13	14	125	z	z	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	2776	0	0.83
+1438008232.095	5307	13	15	1529		BackSpace	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	4305	0	0.83
+1438008232.282	5307	13	16	187		BackSpace	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	4492	0	0.83
+1438008232.438	5307	13	17	156	x	x	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	4648	0	0.83
+1438008233.343	5307	13	18	904	w	w	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	5552	0	0.83
+1438008234.123	5307	13	19	780	z	z	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	6332	0	0.83
+1438008235.215	5307	13	20	1092	y	y	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	7424	0	0.83
+1438008235.496	5307	13	21	282	z	z	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	7706	0	0.83
+1438008235.714	5307	13	22	218	_	space	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	7924	0	0.83
+1438008236.026	5307	13	23	312	s	s	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	8236	0	0.83
+1438008236.214	5307	13	24	188	n	n	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	8424	0	0.83
+1438008236.245	5307	13	25	30	e	e	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	8454	0	0.83
+1438008236.307	5307	13	26	62	_	space	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	8516	0	0.83
+1438008236.9	5307	13	27	594	t	t	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	9110	0	0.83
+1438008237.025	5307	13	28	125	ä	adiaeresis	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	9235	0	0.83
+1438008237.118	5307	13	29	93	n	n	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	9328	0	0.83
+1438008237.243	5307	13	30	125	ä	adiaeresis	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	9453	0	0.83
+1438008237.399	5307	13	31	155	ä	adiaeresis	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	9608	0	0.83
+1438008237.462	5307	13	32	63	n	n	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	9671	0	0.83
+1438008237.711	5307	13	33	250	Shift_L	Shift_L	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	9921	0	0.83
+1438008237.805	5307	13	34	94	?	question	Tarvitsetko xwzyz sne tänään?	 33.55	 344.11	Tarvitsetko xwzyz sne tänään?	Mix	10015	0	0.83
+1438008241.487	5307	14	0	0	Shift_R	Shift_R	Voitko yadgnv auttaa?	 48.36	 158.21	Voitko yadgnv auttaa?	Mix	0	0	0.91
+1438008241.612	5307	14	1	125	V	V	Voitko yadgnv auttaa?	 48.36	 158.21	Voitko yadgnv auttaa?	Mix	125	0	0.91
+1438008242.018	5307	14	2	405	o	o	Voitko yadgnv auttaa?	 48.36	 158.21	Voitko yadgnv auttaa?	Mix	530	0	0.91
+1438008242.111	5307	14	3	94	i	i	Voitko yadgnv auttaa?	 48.36	 158.21	Voitko yadgnv auttaa?	Mix	624	0	0.91
+1438008242.798	5307	14	4	687	t	t	Voitko yadgnv auttaa?	 48.36	 158.21	Voitko yadgnv auttaa?	Mix	1311	0	0.91
+1438008242.891	5307	14	5	93	k	k	Voitko yadgnv auttaa?	 48.36	 158.21	Voitko yadgnv auttaa?	Mix	1404	0	0.91
+1438008242.954	5307	14	6	63	o	o	Voitko yadgnv auttaa?	 48.36	 158.21	Voitko yadgnv auttaa?	Mix	1467	0	0.91
+1438008243.079	5307	14	7	125	_	space	Voitko yadgnv auttaa?	 48.36	 158.21	Voitko yadgnv auttaa?	Mix	1592	0	0.91
+1438008243.391	5307	14	8	312	y	y	Voitko yadgnv auttaa?	 48.36	 158.21	Voitko yadgnv auttaa?	Mix	1904	0	0.91
+1438008243.515	5307	14	9	124	a	a	Voitko yadgnv auttaa?	 48.36	 158.21	Voitko yadgnv auttaa?	Mix	2028	0	0.91
+1438008243.609	5307	14	10	93	d	d	Voitko yadgnv auttaa?	 48.36	 158.21	Voitko yadgnv auttaa?	Mix	2121	0	0.91
+1438008243.89	5307	14	11	282	g	g	Voitko yadgnv auttaa?	 48.36	 158.21	Voitko yadgnv auttaa?	Mix	2403	0	0.91
+1438008244.204	5307	14	12	314	n	n	Voitko yadgnv auttaa?	 48.36	 158.21	Voitko yadgnv auttaa?	Mix	2717	0	0.91
+1438008244.609	5307	14	13	404	v	v	Voitko yadgnv auttaa?	 48.36	 158.21	Voitko yadgnv auttaa?	Mix	3121	0	0.91
+1438008245.077	5307	14	14	468	_	space	Voitko yadgnv auttaa?	 48.36	 158.21	Voitko yadgnv auttaa?	Mix	3589	0	0.91
+1438008245.265	5307	14	15	189	a	a	Voitko yadgnv auttaa?	 48.36	 158.21	Voitko yadgnv auttaa?	Mix	3778	0	0.91
+1438008245.39	5307	14	16	125	u	u	Voitko yadgnv auttaa?	 48.36	 158.21	Voitko yadgnv auttaa?	Mix	3903	0	0.91
+1438008245.483	5307	14	17	93	t	t	Voitko yadgnv auttaa?	 48.36	 158.21	Voitko yadgnv auttaa?	Mix	3996	0	0.91
+1438008245.67	5307	14	18	187	t	t	Voitko yadgnv auttaa?	 48.36	 158.21	Voitko yadgnv auttaa?	Mix	4183	0	0.91
+1438008245.733	5307	14	19	63	a	a	Voitko yadgnv auttaa?	 48.36	 158.21	Voitko yadgnv auttaa?	Mix	4246	0	0.91
+1438008245.92	5307	14	20	187	a	a	Voitko yadgnv auttaa?	 48.36	 158.21	Voitko yadgnv auttaa?	Mix	4433	0	0.91
+1438008246.17	5307	14	21	250	Shift_L	Shift_L	Voitko yadgnv auttaa?	 48.36	 158.21	Voitko yadgnv auttaa?	Mix	4683	0	0.91
+1438008246.45	5307	14	22	280	?	question	Voitko yadgnv auttaa?	 48.36	 158.21	Voitko yadgnv auttaa?	Mix	4963	0	0.91
+1438008248.478	5307	15	0	0	Shift_L	Shift_L	Onko hän xldns valmis vielä?	 74.18	 128.63	Onko hän xldns valmis vielä?	Mix	0	0	0.93
+1438008248.603	5307	15	1	125	O	O	Onko hän xldns valmis vielä?	 74.18	 128.63	Onko hän xldns valmis vielä?	Mix	125	0	0.93
+1438008248.915	5307	15	2	312	n	n	Onko hän xldns valmis vielä?	 74.18	 128.63	Onko hän xldns valmis vielä?	Mix	437	0	0.93
+1438008248.946	5307	15	3	31	k	k	Onko hän xldns valmis vielä?	 74.18	 128.63	Onko hän xldns valmis vielä?	Mix	468	0	0.93
+1438008249.009	5307	15	4	63	o	o	Onko hän xldns valmis vielä?	 74.18	 128.63	Onko hän xldns valmis vielä?	Mix	531	0	0.93
+1438008249.102	5307	15	5	93	_	space	Onko hän xldns valmis vielä?	 74.18	 128.63	Onko hän xldns valmis vielä?	Mix	624	0	0.93
+1438008249.321	5307	15	6	219	h	h	Onko hän xldns valmis vielä?	 74.18	 128.63	Onko hän xldns valmis vielä?	Mix	843	0	0.93
+1438008249.446	5307	15	7	125	ä	adiaeresis	Onko hän xldns valmis vielä?	 74.18	 128.63	Onko hän xldns valmis vielä?	Mix	968	0	0.93
+1438008249.539	5307	15	8	93	n	n	Onko hän xldns valmis vielä?	 74.18	 128.63	Onko hän xldns valmis vielä?	Mix	1061	0	0.93
+1438008249.664	5307	15	9	125	_	space	Onko hän xldns valmis vielä?	 74.18	 128.63	Onko hän xldns valmis vielä?	Mix	1186	0	0.93
+1438008249.851	5307	15	10	187	x	x	Onko hän xldns valmis vielä?	 74.18	 128.63	Onko hän xldns valmis vielä?	Mix	1373	0	0.93
+1438008249.945	5307	15	11	94	l	l	Onko hän xldns valmis vielä?	 74.18	 128.63	Onko hän xldns valmis vielä?	Mix	1467	0	0.93
+1438008250.288	5307	15	12	343	d	d	Onko hän xldns valmis vielä?	 74.18	 128.63	Onko hän xldns valmis vielä?	Mix	1810	0	0.93
+1438008250.382	5307	15	13	94	n	n	Onko hän xldns valmis vielä?	 74.18	 128.63	Onko hän xldns valmis vielä?	Mix	1904	0	0.93
+1438008250.538	5307	15	14	156	s	s	Onko hän xldns valmis vielä?	 74.18	 128.63	Onko hän xldns valmis vielä?	Mix	2060	0	0.93
+1438008250.631	5307	15	15	93	_	space	Onko hän xldns valmis vielä?	 74.18	 128.63	Onko hän xldns valmis vielä?	Mix	2153	0	0.93
+1438008251.286	5307	15	16	655	v	v	Onko hän xldns valmis vielä?	 74.18	 128.63	Onko hän xldns valmis vielä?	Mix	2808	0	0.93
+1438008251.349	5307	15	17	63	a	a	Onko hän xldns valmis vielä?	 74.18	 128.63	Onko hän xldns valmis vielä?	Mix	2871	0	0.93
+1438008251.38	5307	15	18	31	l	l	Onko hän xldns valmis vielä?	 74.18	 128.63	Onko hän xldns valmis vielä?	Mix	2902	0	0.93
+1438008251.474	5307	15	19	94	m	m	Onko hän xldns valmis vielä?	 74.18	 128.63	Onko hän xldns valmis vielä?	Mix	2996	0	0.93
+1438008251.63	5307	15	20	156	i	i	Onko hän xldns valmis vielä?	 74.18	 128.63	Onko hän xldns valmis vielä?	Mix	3152	0	0.93
+1438008251.973	5307	15	21	343	s	s	Onko hän xldns valmis vielä?	 74.18	 128.63	Onko hän xldns valmis vielä?	Mix	3495	0	0.93
+1438008252.035	5307	15	22	62	_	space	Onko hän xldns valmis vielä?	 74.18	 128.63	Onko hän xldns valmis vielä?	Mix	3557	0	0.93
+1438008252.254	5307	15	23	219	v	v	Onko hän xldns valmis vielä?	 74.18	 128.63	Onko hän xldns valmis vielä?	Mix	3776	0	0.93
+1438008252.316	5307	15	24	62	i	i	Onko hän xldns valmis vielä?	 74.18	 128.63	Onko hän xldns valmis vielä?	Mix	3838	0	0.93
+1438008252.441	5307	15	25	125	e	e	Onko hän xldns valmis vielä?	 74.18	 128.63	Onko hän xldns valmis vielä?	Mix	3963	0	0.93
+1438008252.503	5307	15	26	62	l	l	Onko hän xldns valmis vielä?	 74.18	 128.63	Onko hän xldns valmis vielä?	Mix	4025	0	0.93
+1438008252.566	5307	15	27	63	ä	adiaeresis	Onko hän xldns valmis vielä?	 74.18	 128.63	Onko hän xldns valmis vielä?	Mix	4088	0	0.93
+1438008252.722	5307	15	28	155	Shift_L	Shift_L	Onko hän xldns valmis vielä?	 74.18	 128.63	Onko hän xldns valmis vielä?	Mix	4243	0	0.93
+1438008252.846	5307	15	29	125	?	question	Onko hän xldns valmis vielä?	 74.18	 128.63	Onko hän xldns valmis vielä?	Mix	4368	0	0.93
+1438008256.278	5307	16	0	0	Shift_L	Shift_L	Kävelen juuri opdkfey sisään.	 67.74	 178.07	Kävelen juuri opdkfey sisään.	Mix	0	0	0.97
+1438008256.403	5307	16	1	125	K	K	Kävelen juuri opdkfey sisään.	 67.74	 178.07	Kävelen juuri opdkfey sisään.	Mix	125	0	0.97
+1438008256.684	5307	16	2	280	ä	adiaeresis	Kävelen juuri opdkfey sisään.	 67.74	 178.07	Kävelen juuri opdkfey sisään.	Mix	405	0	0.97
+1438008256.965	5307	16	3	281	v	v	Kävelen juuri opdkfey sisään.	 67.74	 178.07	Kävelen juuri opdkfey sisään.	Mix	686	0	0.97
+1438008257.058	5307	16	4	93	e	e	Kävelen juuri opdkfey sisään.	 67.74	 178.07	Kävelen juuri opdkfey sisään.	Mix	779	0	0.97
+1438008257.152	5307	16	5	94	l	l	Kävelen juuri opdkfey sisään.	 67.74	 178.07	Kävelen juuri opdkfey sisään.	Mix	873	0	0.97
+1438008257.277	5307	16	6	125	e	e	Kävelen juuri opdkfey sisään.	 67.74	 178.07	Kävelen juuri opdkfey sisään.	Mix	998	0	0.97
+1438008257.37	5307	16	7	93	n	n	Kävelen juuri opdkfey sisään.	 67.74	 178.07	Kävelen juuri opdkfey sisään.	Mix	1091	0	0.97
+1438008257.464	5307	16	8	94	_	space	Kävelen juuri opdkfey sisään.	 67.74	 178.07	Kävelen juuri opdkfey sisään.	Mix	1185	0	0.97
+1438008257.62	5307	16	9	156	j	j	Kävelen juuri opdkfey sisään.	 67.74	 178.07	Kävelen juuri opdkfey sisään.	Mix	1341	0	0.97
+1438008257.807	5307	16	10	187	u	u	Kävelen juuri opdkfey sisään.	 67.74	 178.07	Kävelen juuri opdkfey sisään.	Mix	1528	0	0.97
+1438008257.932	5307	16	11	125	u	u	Kävelen juuri opdkfey sisään.	 67.74	 178.07	Kävelen juuri opdkfey sisään.	Mix	1653	0	0.97
+1438008258.026	5307	16	12	94	r	r	Kävelen juuri opdkfey sisään.	 67.74	 178.07	Kävelen juuri opdkfey sisään.	Mix	1747	0	0.97
+1438008258.15	5307	16	13	124	i	i	Kävelen juuri opdkfey sisään.	 67.74	 178.07	Kävelen juuri opdkfey sisään.	Mix	1871	0	0.97
+1438008258.244	5307	16	14	94	_	space	Kävelen juuri opdkfey sisään.	 67.74	 178.07	Kävelen juuri opdkfey sisään.	Mix	1965	0	0.97
+1438008258.431	5307	16	15	187	o	o	Kävelen juuri opdkfey sisään.	 67.74	 178.07	Kävelen juuri opdkfey sisään.	Mix	2152	0	0.97
+1438008258.431	5307	16	16	0	p	p	Kävelen juuri opdkfey sisään.	 67.74	 178.07	Kävelen juuri opdkfey sisään.	Mix	2152	0	0.97
+1438008258.556	5307	16	17	125	d	d	Kävelen juuri opdkfey sisään.	 67.74	 178.07	Kävelen juuri opdkfey sisään.	Mix	2277	0	0.97
+1438008259.554	5307	16	18	998	k	k	Kävelen juuri opdkfey sisään.	 67.74	 178.07	Kävelen juuri opdkfey sisään.	Mix	3275	0	0.97
+1438008259.96	5307	16	19	406	f	f	Kävelen juuri opdkfey sisään.	 67.74	 178.07	Kävelen juuri opdkfey sisään.	Mix	3681	0	0.97
+1438008260.022	5307	16	20	62	e	e	Kävelen juuri opdkfey sisään.	 67.74	 178.07	Kävelen juuri opdkfey sisään.	Mix	3743	0	0.97
+1438008260.178	5307	16	21	156	y	y	Kävelen juuri opdkfey sisään.	 67.74	 178.07	Kävelen juuri opdkfey sisään.	Mix	3899	0	0.97
+1438008260.334	5307	16	22	156	_	space	Kävelen juuri opdkfey sisään.	 67.74	 178.07	Kävelen juuri opdkfey sisään.	Mix	4055	0	0.97
+1438008260.522	5307	16	23	188	s	s	Kävelen juuri opdkfey sisään.	 67.74	 178.07	Kävelen juuri opdkfey sisään.	Mix	4243	0	0.97
+1438008260.615	5307	16	24	93	i	i	Kävelen juuri opdkfey sisään.	 67.74	 178.07	Kävelen juuri opdkfey sisään.	Mix	4336	0	0.97
+1438008260.74	5307	16	25	125	s	s	Kävelen juuri opdkfey sisään.	 67.74	 178.07	Kävelen juuri opdkfey sisään.	Mix	4461	0	0.97
+1438008260.802	5307	16	26	62	ä	adiaeresis	Kävelen juuri opdkfey sisään.	 67.74	 178.07	Kävelen juuri opdkfey sisään.	Mix	4523	0	0.97
+1438008260.958	5307	16	27	156	ä	adiaeresis	Kävelen juuri opdkfey sisään.	 67.74	 178.07	Kävelen juuri opdkfey sisään.	Mix	4679	0	0.97
+1438008261.021	5307	16	28	63	n	n	Kävelen juuri opdkfey sisään.	 67.74	 178.07	Kävelen juuri opdkfey sisään.	Mix	4742	0	0.97
+1438008261.239	5307	16	29	218	.	period	Kävelen juuri opdkfey sisään.	 67.74	 178.07	Kävelen juuri opdkfey sisään.	Mix	4960	0	0.97
+1438008262.893	5307	17	0	0	Shift_L	Shift_L	Mikä on varawz vilalla?	 47.54	 183.66	Mikä on varawz vilalla?	Mix	0	0	0.92
+1438008263.018	5307	17	1	125	M	M	Mikä on varawz vilalla?	 47.54	 183.66	Mikä on varawz vilalla?	Mix	125	0	0.92
+1438008263.267	5307	17	2	249	i	i	Mikä on varawz vilalla?	 47.54	 183.66	Mikä on varawz vilalla?	Mix	374	0	0.92
+1438008263.454	5307	17	3	187	k	k	Mikä on varawz vilalla?	 47.54	 183.66	Mikä on varawz vilalla?	Mix	561	0	0.92
+1438008263.517	5307	17	4	63	ä	adiaeresis	Mikä on varawz vilalla?	 47.54	 183.66	Mikä on varawz vilalla?	Mix	624	0	0.92
+1438008263.642	5307	17	5	125	_	space	Mikä on varawz vilalla?	 47.54	 183.66	Mikä on varawz vilalla?	Mix	749	0	0.92
+1438008264.047	5307	17	6	405	o	o	Mikä on varawz vilalla?	 47.54	 183.66	Mikä on varawz vilalla?	Mix	1154	0	0.92
+1438008264.11	5307	17	7	63	n	n	Mikä on varawz vilalla?	 47.54	 183.66	Mikä on varawz vilalla?	Mix	1217	0	0.92
+1438008264.203	5307	17	8	93	_	space	Mikä on varawz vilalla?	 47.54	 183.66	Mikä on varawz vilalla?	Mix	1310	0	0.92
+1438008264.359	5307	17	9	156	v	v	Mikä on varawz vilalla?	 47.54	 183.66	Mikä on varawz vilalla?	Mix	1466	0	0.92
+1438008264.453	5307	17	10	94	a	a	Mikä on varawz vilalla?	 47.54	 183.66	Mikä on varawz vilalla?	Mix	1560	0	0.92
+1438008264.671	5307	17	11	218	r	r	Mikä on varawz vilalla?	 47.54	 183.66	Mikä on varawz vilalla?	Mix	1778	0	0.92
+1438008264.734	5307	17	12	63	a	a	Mikä on varawz vilalla?	 47.54	 183.66	Mikä on varawz vilalla?	Mix	1841	0	0.92
+1438008265.014	5307	17	13	280	w	w	Mikä on varawz vilalla?	 47.54	 183.66	Mikä on varawz vilalla?	Mix	2121	0	0.92
+1438008265.638	5307	17	14	624	z	z	Mikä on varawz vilalla?	 47.54	 183.66	Mikä on varawz vilalla?	Mix	2745	0	0.92
+1438008265.982	5307	17	15	344	_	space	Mikä on varawz vilalla?	 47.54	 183.66	Mikä on varawz vilalla?	Mix	3089	0	0.92
+1438008266.231	5307	17	16	249	v	v	Mikä on varawz vilalla?	 47.54	 183.66	Mikä on varawz vilalla?	Mix	3338	0	0.92
+1438008266.356	5307	17	17	125	i	i	Mikä on varawz vilalla?	 47.54	 183.66	Mikä on varawz vilalla?	Mix	3463	0	0.92
+1438008266.543	5307	17	18	187	l	l	Mikä on varawz vilalla?	 47.54	 183.66	Mikä on varawz vilalla?	Mix	3650	0	0.92
+1438008267.354	5307	17	19	811	a	a	Mikä on varawz vilalla?	 47.54	 183.66	Mikä on varawz vilalla?	Mix	4461	0	0.92
+1438008267.729	5307	17	20	375	l	l	Mikä on varawz vilalla?	 47.54	 183.66	Mikä on varawz vilalla?	Mix	4836	0	0.92
+1438008267.916	5307	17	21	187	l	l	Mikä on varawz vilalla?	 47.54	 183.66	Mikä on varawz vilalla?	Mix	5023	0	0.92
+1438008268.01	5307	17	22	94	a	a	Mikä on varawz vilalla?	 47.54	 183.66	Mikä on varawz vilalla?	Mix	5117	0	0.92
+1438008268.353	5307	17	23	343	Shift_L	Shift_L	Mikä on varawz vilalla?	 47.54	 183.66	Mikä on varawz vilalla?	Mix	5460	0	0.92
+1438008268.446	5307	17	24	93	?	question	Mikä on varawz vilalla?	 47.54	 183.66	Mikä on varawz vilalla?	Mix	5553	0	0.92
+1438008270.63	5307	18	0	0	Shift_R	Shift_R	Tapahtuiko nwmxxf tuo?	 60.74	  96.36	Tapahtuiko nwmxxf tuo?	Mix	0	0	0.92
+1438008270.818	5307	18	1	187	T	T	Tapahtuiko nwmxxf tuo?	 60.74	  96.36	Tapahtuiko nwmxxf tuo?	Mix	187	0	0.92
+1438008271.223	5307	18	2	405	a	a	Tapahtuiko nwmxxf tuo?	 60.74	  96.36	Tapahtuiko nwmxxf tuo?	Mix	592	0	0.92
+1438008271.317	5307	18	3	94	p	p	Tapahtuiko nwmxxf tuo?	 60.74	  96.36	Tapahtuiko nwmxxf tuo?	Mix	686	0	0.92
+1438008271.473	5307	18	4	156	a	a	Tapahtuiko nwmxxf tuo?	 60.74	  96.36	Tapahtuiko nwmxxf tuo?	Mix	842	0	0.92
+1438008271.66	5307	18	5	187	h	h	Tapahtuiko nwmxxf tuo?	 60.74	  96.36	Tapahtuiko nwmxxf tuo?	Mix	1029	0	0.92
+1438008271.972	5307	18	6	312	t	t	Tapahtuiko nwmxxf tuo?	 60.74	  96.36	Tapahtuiko nwmxxf tuo?	Mix	1341	0	0.92
+1438008272.066	5307	18	7	94	u	u	Tapahtuiko nwmxxf tuo?	 60.74	  96.36	Tapahtuiko nwmxxf tuo?	Mix	1435	0	0.92
+1438008272.159	5307	18	8	93	i	i	Tapahtuiko nwmxxf tuo?	 60.74	  96.36	Tapahtuiko nwmxxf tuo?	Mix	1528	0	0.92
+1438008272.409	5307	18	9	250	k	k	Tapahtuiko nwmxxf tuo?	 60.74	  96.36	Tapahtuiko nwmxxf tuo?	Mix	1778	0	0.92
+1438008272.44	5307	18	10	31	o	o	Tapahtuiko nwmxxf tuo?	 60.74	  96.36	Tapahtuiko nwmxxf tuo?	Mix	1809	0	0.92
+1438008272.565	5307	18	11	125	_	space	Tapahtuiko nwmxxf tuo?	 60.74	  96.36	Tapahtuiko nwmxxf tuo?	Mix	1934	0	0.92
+1438008272.752	5307	18	12	187	n	n	Tapahtuiko nwmxxf tuo?	 60.74	  96.36	Tapahtuiko nwmxxf tuo?	Mix	2121	0	0.92
+1438008272.97	5307	18	13	218	w	w	Tapahtuiko nwmxxf tuo?	 60.74	  96.36	Tapahtuiko nwmxxf tuo?	Mix	2339	0	0.92
+1438008273.126	5307	18	14	156	m	m	Tapahtuiko nwmxxf tuo?	 60.74	  96.36	Tapahtuiko nwmxxf tuo?	Mix	2495	0	0.92
+1438008273.501	5307	18	15	375	x	x	Tapahtuiko nwmxxf tuo?	 60.74	  96.36	Tapahtuiko nwmxxf tuo?	Mix	2870	0	0.92
+1438008273.75	5307	18	16	249	x	x	Tapahtuiko nwmxxf tuo?	 60.74	  96.36	Tapahtuiko nwmxxf tuo?	Mix	3119	0	0.92
+1438008273.875	5307	18	17	125	f	f	Tapahtuiko nwmxxf tuo?	 60.74	  96.36	Tapahtuiko nwmxxf tuo?	Mix	3244	0	0.92
+1438008274.031	5307	18	18	156	_	space	Tapahtuiko nwmxxf tuo?	 60.74	  96.36	Tapahtuiko nwmxxf tuo?	Mix	3400	0	0.92
+1438008274.312	5307	18	19	281	t	t	Tapahtuiko nwmxxf tuo?	 60.74	  96.36	Tapahtuiko nwmxxf tuo?	Mix	3681	0	0.92
+1438008274.406	5307	18	20	94	u	u	Tapahtuiko nwmxxf tuo?	 60.74	  96.36	Tapahtuiko nwmxxf tuo?	Mix	3775	0	0.92
+1438008274.468	5307	18	21	62	o	o	Tapahtuiko nwmxxf tuo?	 60.74	  96.36	Tapahtuiko nwmxxf tuo?	Mix	3837	0	0.92
+1438008274.655	5307	18	22	187	Shift_L	Shift_L	Tapahtuiko nwmxxf tuo?	 60.74	  96.36	Tapahtuiko nwmxxf tuo?	Mix	4024	0	0.92
+1438008274.78	5307	18	23	125	?	question	Tapahtuiko nwmxxf tuo?	 60.74	  96.36	Tapahtuiko nwmxxf tuo?	Mix	4149	0	0.92
+1438008276.621	5307	19	0	0	Shift_R	Shift_R	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	0	0	0.97
+1438008276.777	5307	19	1	155	S	S	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	155	0	0.97
+1438008277.214	5307	19	2	437	o	o	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	592	0	0.97
+1438008277.245	5307	19	3	31	i	i	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	623	0	0.97
+1438008277.37	5307	19	4	125	t	t	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	748	0	0.97
+1438008277.432	5307	19	5	62	a	a	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	810	0	0.97
+1438008277.557	5307	19	6	125	_	space	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	935	0	0.97
+1438008277.713	5307	19	7	157	h	h	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	1092	0	0.97
+1438008277.806	5307	19	8	92	u	u	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	1184	0	0.97
+1438008277.838	5307	19	9	33	o	o	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	1217	0	0.97
+1438008278.025	5307	19	10	187	m	m	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	1404	0	0.97
+1438008278.15	5307	19	11	125	e	e	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	1529	0	0.97
+1438008278.243	5307	19	12	92	n	n	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	1621	0	0.97
+1438008278.368	5307	19	13	125	n	n	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	1746	0	0.97
+1438008278.495	5307	19	14	127	a	a	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	1873	0	0.97
+1438008278.62	5307	19	15	125	,	comma	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	1998	0	0.97
+1438008278.713	5307	19	16	94	_	space	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	2092	0	0.97
+1438008278.932	5307	19	17	218	v	v	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	2310	0	0.97
+1438008279.181	5307	19	18	249	r	r	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	2559	0	0.97
+1438008279.306	5307	19	19	125	u	u	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	2684	0	0.97
+1438008279.462	5307	19	20	156	t	t	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	2840	0	0.97
+1438008279.493	5307	19	21	31	a	a	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	2871	0	0.97
+1438008279.68	5307	19	22	188	a	a	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	3059	0	0.97
+1438008279.774	5307	19	23	93	_	space	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	3152	0	0.97
+1438008279.992	5307	19	24	219	j	j	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	3371	0	0.97
+1438008280.055	5307	19	25	63	o	o	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	3434	0	0.97
+1438008280.117	5307	19	26	62	s	s	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	3496	0	0.97
+1438008280.18	5307	19	27	63	_	space	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	3559	0	0.97
+1438008280.585	5307	19	28	404	p	p	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	3963	0	0.97
+1438008280.71	5307	19	29	125	y	y	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	4088	0	0.97
+1438008280.835	5307	19	30	125	s	s	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	4213	0	0.97
+1438008280.928	5307	19	31	93	t	t	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	4306	0	0.97
+1438008281.084	5307	19	32	157	y	y	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	4463	0	0.97
+1438008281.147	5307	19	33	63	t	t	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	4526	0	0.97
+1438008281.334	5307	19	34	187	.	period	Soita huomenna, vrutaa jos pystyt.	 84.02	  90.14	Soita huomenna, vrutaa jos pystyt.	Mix	4713	0	0.97
+1438008282.863	5307	20	0	0	Shift_R	Shift_R	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	0	0	0.97
+1438008282.956	5307	20	1	93	T	T	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	93	0	0.97
+1438008283.549	5307	20	2	593	v	v	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	686	0	0.97
+1438008284.704	5307	20	3	1155	o	o	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	1841	0	0.97
+1438008284.797	5307	20	4	93	i	i	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	1934	0	0.97
+1438008285.578	5307	20	5	781	v	v	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	2715	0	0.97
+1438008285.672	5307	20	6	94	o	o	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	2809	0	0.97
+1438008285.797	5307	20	7	125	t	t	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	2934	0	0.97
+1438008285.953	5307	20	8	156	t	t	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	3090	0	0.97
+1438008285.984	5307	20	9	31	a	a	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	3121	0	0.97
+1438008286.202	5307	20	10	217	v	v	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	3338	0	0.97
+1438008286.265	5307	20	11	64	a	a	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	3402	0	0.97
+1438008286.296	5307	20	12	31	s	s	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	3433	0	0.97
+1438008286.421	5307	20	13	125	t	t	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	3558	0	0.97
+1438008286.514	5307	20	14	93	i	i	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	3651	0	0.97
+1438008286.639	5307	20	15	125	_	space	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	3776	0	0.97
+1438008286.857	5307	20	16	218	t	t	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	3994	0	0.97
+1438008286.92	5307	20	17	63	e	e	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	4057	0	0.97
+1438008286.982	5307	20	18	62	i	i	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	4119	0	0.97
+1438008287.045	5307	20	19	63	l	l	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	4182	0	0.97
+1438008287.232	5307	20	20	187	l	l	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	4369	0	0.97
+1438008287.294	5307	20	21	61	e	e	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	4430	0	0.97
+1438008287.357	5307	20	22	64	_	space	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	4494	0	0.97
+1438008287.575	5307	20	23	218	h	h	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	4712	0	0.97
+1438008289.166	5307	20	24	1590	u	u	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	6302	0	0.97
+1438008289.322	5307	20	25	157	u	u	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	6459	0	0.97
+1438008289.416	5307	20	26	93	l	l	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	6552	0	0.97
+1438008289.541	5307	20	27	125	u	u	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	6677	0	0.97
+1438008289.665	5307	20	28	125	u	u	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	6802	0	0.97
+1438008289.759	5307	20	29	94	_	space	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	6896	0	0.97
+1438008289.884	5307	20	30	125	h	h	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	7021	0	0.97
+1438008290.071	5307	20	31	187	y	y	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	7208	0	0.97
+1438008290.133	5307	20	32	61	v	v	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	7269	0	0.97
+1438008290.196	5307	20	33	64	ä	adiaeresis	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	7333	0	0.97
+1438008290.352	5307	20	34	156	ä	adiaeresis	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	7489	0	0.97
+1438008290.601	5307	20	35	249	.	period	Tvoivottavasti teille huuluu hyvää.	 52.73	 327.19	Tvoivottavasti teille huuluu hyvää.	Mix	7738	0	0.97
+1438008292.723	5307	21	0	0	Shift_L	Shift_L	Onko se aekbru ohi?	 69.95	  78.11	Onko se aekbru ohi?	Mix	0	0	0.90
+1438008292.879	5307	21	1	155	O	O	Onko se aekbru ohi?	 69.95	  78.11	Onko se aekbru ohi?	Mix	155	0	0.90
+1438008293.191	5307	21	2	312	n	n	Onko se aekbru ohi?	 69.95	  78.11	Onko se aekbru ohi?	Mix	467	0	0.90
+1438008293.222	5307	21	3	31	k	k	Onko se aekbru ohi?	 69.95	  78.11	Onko se aekbru ohi?	Mix	498	0	0.90
+1438008293.285	5307	21	4	64	o	o	Onko se aekbru ohi?	 69.95	  78.11	Onko se aekbru ohi?	Mix	562	0	0.90
+1438008293.441	5307	21	5	155	_	space	Onko se aekbru ohi?	 69.95	  78.11	Onko se aekbru ohi?	Mix	717	0	0.90
+1438008293.659	5307	21	6	218	s	s	Onko se aekbru ohi?	 69.95	  78.11	Onko se aekbru ohi?	Mix	935	0	0.90
+1438008293.721	5307	21	7	62	e	e	Onko se aekbru ohi?	 69.95	  78.11	Onko se aekbru ohi?	Mix	997	0	0.90
+1438008293.846	5307	21	8	125	_	space	Onko se aekbru ohi?	 69.95	  78.11	Onko se aekbru ohi?	Mix	1122	0	0.90
+1438008294.127	5307	21	9	282	a	a	Onko se aekbru ohi?	 69.95	  78.11	Onko se aekbru ohi?	Mix	1404	0	0.90
+1438008294.221	5307	21	10	93	e	e	Onko se aekbru ohi?	 69.95	  78.11	Onko se aekbru ohi?	Mix	1497	0	0.90
+1438008294.345	5307	21	11	124	k	k	Onko se aekbru ohi?	 69.95	  78.11	Onko se aekbru ohi?	Mix	1621	0	0.90
+1438008294.626	5307	21	12	281	b	b	Onko se aekbru ohi?	 69.95	  78.11	Onko se aekbru ohi?	Mix	1902	0	0.90
+1438008294.845	5307	21	13	219	r	r	Onko se aekbru ohi?	 69.95	  78.11	Onko se aekbru ohi?	Mix	2121	0	0.90
+1438008294.969	5307	21	14	125	u	u	Onko se aekbru ohi?	 69.95	  78.11	Onko se aekbru ohi?	Mix	2246	0	0.90
+1438008295.094	5307	21	15	125	_	space	Onko se aekbru ohi?	 69.95	  78.11	Onko se aekbru ohi?	Mix	2371	0	0.90
+1438008295.25	5307	21	16	155	o	o	Onko se aekbru ohi?	 69.95	  78.11	Onko se aekbru ohi?	Mix	2526	0	0.90
+1438008295.437	5307	21	17	187	h	h	Onko se aekbru ohi?	 69.95	  78.11	Onko se aekbru ohi?	Mix	2713	0	0.90
+1438008295.5	5307	21	18	63	i	i	Onko se aekbru ohi?	 69.95	  78.11	Onko se aekbru ohi?	Mix	2776	0	0.90
+1438008295.687	5307	21	19	187	Shift_L	Shift_L	Onko se aekbru ohi?	 69.95	  78.11	Onko se aekbru ohi?	Mix	2963	0	0.90
+1438008295.812	5307	21	20	125	?	question	Onko se aekbru ohi?	 69.95	  78.11	Onko se aekbru ohi?	Mix	3088	0	0.90
+1438008297.621	5307	22	0	0	Shift_L	Shift_L	Oikein hyvää psdrwk matkaa!	 73.00	  72.91	Oikein hyvää psdrwk matkaa!	Mix	0	0	0.93
+1438008297.777	5307	22	1	155	O	O	Oikein hyvää psdrwk matkaa!	 73.00	  72.91	Oikein hyvää psdrwk matkaa!	Mix	155	0	0.93
+1438008298.058	5307	22	2	282	i	i	Oikein hyvää psdrwk matkaa!	 73.00	  72.91	Oikein hyvää psdrwk matkaa!	Mix	437	0	0.93
+1438008298.308	5307	22	3	250	k	k	Oikein hyvää psdrwk matkaa!	 73.00	  72.91	Oikein hyvää psdrwk matkaa!	Mix	687	0	0.93
+1438008298.464	5307	22	4	155	e	e	Oikein hyvää psdrwk matkaa!	 73.00	  72.91	Oikein hyvää psdrwk matkaa!	Mix	842	0	0.93
+1438008298.526	5307	22	5	62	i	i	Oikein hyvää psdrwk matkaa!	 73.00	  72.91	Oikein hyvää psdrwk matkaa!	Mix	904	0	0.93
+1438008298.589	5307	22	6	63	n	n	Oikein hyvää psdrwk matkaa!	 73.00	  72.91	Oikein hyvää psdrwk matkaa!	Mix	967	0	0.93
+1438008298.745	5307	22	7	156	_	space	Oikein hyvää psdrwk matkaa!	 73.00	  72.91	Oikein hyvää psdrwk matkaa!	Mix	1123	0	0.93
+1438008298.869	5307	22	8	124	h	h	Oikein hyvää psdrwk matkaa!	 73.00	  72.91	Oikein hyvää psdrwk matkaa!	Mix	1247	0	0.93
+1438008299.025	5307	22	9	157	y	y	Oikein hyvää psdrwk matkaa!	 73.00	  72.91	Oikein hyvää psdrwk matkaa!	Mix	1404	0	0.93
+1438008299.119	5307	22	10	93	v	v	Oikein hyvää psdrwk matkaa!	 73.00	  72.91	Oikein hyvää psdrwk matkaa!	Mix	1497	0	0.93
+1438008299.213	5307	22	11	95	ä	adiaeresis	Oikein hyvää psdrwk matkaa!	 73.00	  72.91	Oikein hyvää psdrwk matkaa!	Mix	1592	0	0.93
+1438008299.337	5307	22	12	123	ä	adiaeresis	Oikein hyvää psdrwk matkaa!	 73.00	  72.91	Oikein hyvää psdrwk matkaa!	Mix	1715	0	0.93
+1438008299.462	5307	22	13	125	_	space	Oikein hyvää psdrwk matkaa!	 73.00	  72.91	Oikein hyvää psdrwk matkaa!	Mix	1840	0	0.93
+1438008299.681	5307	22	14	219	p	p	Oikein hyvää psdrwk matkaa!	 73.00	  72.91	Oikein hyvää psdrwk matkaa!	Mix	2059	0	0.93
+1438008299.805	5307	22	15	125	s	s	Oikein hyvää psdrwk matkaa!	 73.00	  72.91	Oikein hyvää psdrwk matkaa!	Mix	2184	0	0.93
+1438008300.024	5307	22	16	218	d	d	Oikein hyvää psdrwk matkaa!	 73.00	  72.91	Oikein hyvää psdrwk matkaa!	Mix	2402	0	0.93
+1438008300.367	5307	22	17	344	r	r	Oikein hyvää psdrwk matkaa!	 73.00	  72.91	Oikein hyvää psdrwk matkaa!	Mix	2746	0	0.93
+1438008300.429	5307	22	18	61	w	w	Oikein hyvää psdrwk matkaa!	 73.00	  72.91	Oikein hyvää psdrwk matkaa!	Mix	2807	0	0.93
+1438008300.617	5307	22	19	189	k	k	Oikein hyvää psdrwk matkaa!	 73.00	  72.91	Oikein hyvää psdrwk matkaa!	Mix	2996	0	0.93
+1438008300.773	5307	22	20	155	_	space	Oikein hyvää psdrwk matkaa!	 73.00	  72.91	Oikein hyvää psdrwk matkaa!	Mix	3151	0	0.93
+1438008301.053	5307	22	21	280	m	m	Oikein hyvää psdrwk matkaa!	 73.00	  72.91	Oikein hyvää psdrwk matkaa!	Mix	3431	0	0.93
+1438008301.147	5307	22	22	95	a	a	Oikein hyvää psdrwk matkaa!	 73.00	  72.91	Oikein hyvää psdrwk matkaa!	Mix	3526	0	0.93
+1438008301.241	5307	22	23	93	t	t	Oikein hyvää psdrwk matkaa!	 73.00	  72.91	Oikein hyvää psdrwk matkaa!	Mix	3619	0	0.93
+1438008301.334	5307	22	24	94	k	k	Oikein hyvää psdrwk matkaa!	 73.00	  72.91	Oikein hyvää psdrwk matkaa!	Mix	3713	0	0.93
+1438008301.428	5307	22	25	93	a	a	Oikein hyvää psdrwk matkaa!	 73.00	  72.91	Oikein hyvää psdrwk matkaa!	Mix	3806	0	0.93
+1438008301.553	5307	22	26	125	a	a	Oikein hyvää psdrwk matkaa!	 73.00	  72.91	Oikein hyvää psdrwk matkaa!	Mix	3931	0	0.93
+1438008301.771	5307	22	27	218	Shift_R	Shift_R	Oikein hyvää psdrwk matkaa!	 73.00	  72.91	Oikein hyvää psdrwk matkaa!	Mix	4149	0	0.93
+1438008301.896	5307	22	28	125	!	exclam	Oikein hyvää psdrwk matkaa!	 73.00	  72.91	Oikein hyvää psdrwk matkaa!	Mix	4274	0	0.93
+1438008303.549	5307	23	0	0	Shift_L	Shift_L	Tuo lienee fgzoua oikea vastaus.	 60.52	 216.67	Tuo lienee fgzoua oikea vastaus.	Mix	0	0	0.97
+1438008303.674	5307	23	1	125	T	T	Tuo lienee fgzoua oikea vastaus.	 60.52	 216.67	Tuo lienee fgzoua oikea vastaus.	Mix	125	0	0.97
+1438008304.017	5307	23	2	342	u	u	Tuo lienee fgzoua oikea vastaus.	 60.52	 216.67	Tuo lienee fgzoua oikea vastaus.	Mix	467	0	0.97
+1438008304.08	5307	23	3	63	o	o	Tuo lienee fgzoua oikea vastaus.	 60.52	 216.67	Tuo lienee fgzoua oikea vastaus.	Mix	530	0	0.97
+1438008304.173	5307	23	4	94	_	space	Tuo lienee fgzoua oikea vastaus.	 60.52	 216.67	Tuo lienee fgzoua oikea vastaus.	Mix	624	0	0.97
+1438008304.329	5307	23	5	155	l	l	Tuo lienee fgzoua oikea vastaus.	 60.52	 216.67	Tuo lienee fgzoua oikea vastaus.	Mix	779	0	0.97
+1438008304.392	5307	23	6	63	i	i	Tuo lienee fgzoua oikea vastaus.	 60.52	 216.67	Tuo lienee fgzoua oikea vastaus.	Mix	842	0	0.97
+1438008304.517	5307	23	7	125	e	e	Tuo lienee fgzoua oikea vastaus.	 60.52	 216.67	Tuo lienee fgzoua oikea vastaus.	Mix	967	0	0.97
+1438008304.61	5307	23	8	93	n	n	Tuo lienee fgzoua oikea vastaus.	 60.52	 216.67	Tuo lienee fgzoua oikea vastaus.	Mix	1060	0	0.97
+1438008304.735	5307	23	9	125	e	e	Tuo lienee fgzoua oikea vastaus.	 60.52	 216.67	Tuo lienee fgzoua oikea vastaus.	Mix	1185	0	0.97
+1438008304.891	5307	23	10	157	e	e	Tuo lienee fgzoua oikea vastaus.	 60.52	 216.67	Tuo lienee fgzoua oikea vastaus.	Mix	1342	0	0.97
+1438008304.985	5307	23	11	93	_	space	Tuo lienee fgzoua oikea vastaus.	 60.52	 216.67	Tuo lienee fgzoua oikea vastaus.	Mix	1435	0	0.97
+1438008305.328	5307	23	12	344	f	f	Tuo lienee fgzoua oikea vastaus.	 60.52	 216.67	Tuo lienee fgzoua oikea vastaus.	Mix	1779	0	0.97
+1438008306.42	5307	23	13	1092	g	g	Tuo lienee fgzoua oikea vastaus.	 60.52	 216.67	Tuo lienee fgzoua oikea vastaus.	Mix	2871	0	0.97
+1438008307.106	5307	23	14	685	z	z	Tuo lienee fgzoua oikea vastaus.	 60.52	 216.67	Tuo lienee fgzoua oikea vastaus.	Mix	3556	0	0.97
+1438008307.668	5307	23	15	562	o	o	Tuo lienee fgzoua oikea vastaus.	 60.52	 216.67	Tuo lienee fgzoua oikea vastaus.	Mix	4118	0	0.97
+1438008307.73	5307	23	16	62	u	u	Tuo lienee fgzoua oikea vastaus.	 60.52	 216.67	Tuo lienee fgzoua oikea vastaus.	Mix	4180	0	0.97
+1438008307.855	5307	23	17	125	a	a	Tuo lienee fgzoua oikea vastaus.	 60.52	 216.67	Tuo lienee fgzoua oikea vastaus.	Mix	4305	0	0.97
+1438008308.011	5307	23	18	156	_	space	Tuo lienee fgzoua oikea vastaus.	 60.52	 216.67	Tuo lienee fgzoua oikea vastaus.	Mix	4461	0	0.97
+1438008308.292	5307	23	19	282	o	o	Tuo lienee fgzoua oikea vastaus.	 60.52	 216.67	Tuo lienee fgzoua oikea vastaus.	Mix	4743	0	0.97
+1438008308.354	5307	23	20	62	i	i	Tuo lienee fgzoua oikea vastaus.	 60.52	 216.67	Tuo lienee fgzoua oikea vastaus.	Mix	4805	0	0.97
+1438008308.51	5307	23	21	155	k	k	Tuo lienee fgzoua oikea vastaus.	 60.52	 216.67	Tuo lienee fgzoua oikea vastaus.	Mix	4960	0	0.97
+1438008308.573	5307	23	22	63	e	e	Tuo lienee fgzoua oikea vastaus.	 60.52	 216.67	Tuo lienee fgzoua oikea vastaus.	Mix	5023	0	0.97
+1438008308.666	5307	23	23	93	a	a	Tuo lienee fgzoua oikea vastaus.	 60.52	 216.67	Tuo lienee fgzoua oikea vastaus.	Mix	5116	0	0.97
+1438008308.76	5307	23	24	94	_	space	Tuo lienee fgzoua oikea vastaus.	 60.52	 216.67	Tuo lienee fgzoua oikea vastaus.	Mix	5210	0	0.97
+1438008308.916	5307	23	25	156	v	v	Tuo lienee fgzoua oikea vastaus.	 60.52	 216.67	Tuo lienee fgzoua oikea vastaus.	Mix	5366	0	0.97
+1438008308.978	5307	23	26	62	a	a	Tuo lienee fgzoua oikea vastaus.	 60.52	 216.67	Tuo lienee fgzoua oikea vastaus.	Mix	5428	0	0.97
+1438008309.072	5307	23	27	95	s	s	Tuo lienee fgzoua oikea vastaus.	 60.52	 216.67	Tuo lienee fgzoua oikea vastaus.	Mix	5523	0	0.97
+1438008309.228	5307	23	28	155	t	t	Tuo lienee fgzoua oikea vastaus.	 60.52	 216.67	Tuo lienee fgzoua oikea vastaus.	Mix	5678	0	0.97
+1438008309.29	5307	23	29	62	a	a	Tuo lienee fgzoua oikea vastaus.	 60.52	 216.67	Tuo lienee fgzoua oikea vastaus.	Mix	5740	0	0.97
+1438008309.415	5307	23	30	125	u	u	Tuo lienee fgzoua oikea vastaus.	 60.52	 216.67	Tuo lienee fgzoua oikea vastaus.	Mix	5865	0	0.97
+1438008309.54	5307	23	31	125	s	s	Tuo lienee fgzoua oikea vastaus.	 60.52	 216.67	Tuo lienee fgzoua oikea vastaus.	Mix	5990	0	0.97
+1438008309.696	5307	23	32	157	.	period	Tuo lienee fgzoua oikea vastaus.	 60.52	 216.67	Tuo lienee fgzoua oikea vastaus.	Mix	6147	0	0.97
+1438008311.599	5307	24	0	0	Shift_R	Shift_R	Aioin dawuva osallistua.	 59.13	 180.32	Aioin dawuva osallistua.	Mix	0	0	0.96
+1438008311.724	5307	24	1	125	A	A	Aioin dawuva osallistua.	 59.13	 180.32	Aioin dawuva osallistua.	Mix	125	0	0.96
+1438008312.098	5307	24	2	374	i	i	Aioin dawuva osallistua.	 59.13	 180.32	Aioin dawuva osallistua.	Mix	499	0	0.96
+1438008312.899	5307	24	3	800	o	o	Aioin dawuva osallistua.	 59.13	 180.32	Aioin dawuva osallistua.	Mix	1299	0	0.96
+1438008312.992	5307	24	4	94	i	i	Aioin dawuva osallistua.	 59.13	 180.32	Aioin dawuva osallistua.	Mix	1393	0	0.96
+1438008313.117	5307	24	5	125	n	n	Aioin dawuva osallistua.	 59.13	 180.32	Aioin dawuva osallistua.	Mix	1518	0	0.96
+1438008313.242	5307	24	6	125	_	space	Aioin dawuva osallistua.	 59.13	 180.32	Aioin dawuva osallistua.	Mix	1643	0	0.96
+1438008313.554	5307	24	7	311	d	d	Aioin dawuva osallistua.	 59.13	 180.32	Aioin dawuva osallistua.	Mix	1954	0	0.96
+1438008313.616	5307	24	8	62	a	a	Aioin dawuva osallistua.	 59.13	 180.32	Aioin dawuva osallistua.	Mix	2016	0	0.96
+1438008314.053	5307	24	9	437	w	w	Aioin dawuva osallistua.	 59.13	 180.32	Aioin dawuva osallistua.	Mix	2453	0	0.96
+1438008314.334	5307	24	10	282	u	u	Aioin dawuva osallistua.	 59.13	 180.32	Aioin dawuva osallistua.	Mix	2735	0	0.96
+1438008314.49	5307	24	11	156	v	v	Aioin dawuva osallistua.	 59.13	 180.32	Aioin dawuva osallistua.	Mix	2891	0	0.96
+1438008314.615	5307	24	12	125	a	a	Aioin dawuva osallistua.	 59.13	 180.32	Aioin dawuva osallistua.	Mix	3016	0	0.96
+1438008314.74	5307	24	13	125	_	space	Aioin dawuva osallistua.	 59.13	 180.32	Aioin dawuva osallistua.	Mix	3141	0	0.96
+1438008315.27	5307	24	14	530	o	o	Aioin dawuva osallistua.	 59.13	 180.32	Aioin dawuva osallistua.	Mix	3671	0	0.96
+1438008315.364	5307	24	15	94	s	s	Aioin dawuva osallistua.	 59.13	 180.32	Aioin dawuva osallistua.	Mix	3765	0	0.96
+1438008315.395	5307	24	16	31	a	a	Aioin dawuva osallistua.	 59.13	 180.32	Aioin dawuva osallistua.	Mix	3796	0	0.96
+1438008315.52	5307	24	17	125	l	l	Aioin dawuva osallistua.	 59.13	 180.32	Aioin dawuva osallistua.	Mix	3921	0	0.96
+1438008315.676	5307	24	18	156	l	l	Aioin dawuva osallistua.	 59.13	 180.32	Aioin dawuva osallistua.	Mix	4077	0	0.96
+1438008315.738	5307	24	19	61	i	i	Aioin dawuva osallistua.	 59.13	 180.32	Aioin dawuva osallistua.	Mix	4138	0	0.96
+1438008315.863	5307	24	20	125	s	s	Aioin dawuva osallistua.	 59.13	 180.32	Aioin dawuva osallistua.	Mix	4263	0	0.96
+1438008315.956	5307	24	21	94	t	t	Aioin dawuva osallistua.	 59.13	 180.32	Aioin dawuva osallistua.	Mix	4357	0	0.96
+1438008316.019	5307	24	22	63	u	u	Aioin dawuva osallistua.	 59.13	 180.32	Aioin dawuva osallistua.	Mix	4420	0	0.96
+1438008316.144	5307	24	23	125	a	a	Aioin dawuva osallistua.	 59.13	 180.32	Aioin dawuva osallistua.	Mix	4545	0	0.96
+1438008316.268	5307	24	24	123	.	period	Aioin dawuva osallistua.	 59.13	 180.32	Aioin dawuva osallistua.	Mix	4668	0	0.96
+1438008318.827	5307	25	0	0	Shift_L	Shift_L	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	0	0	0.94
+1438008318.952	5307	25	1	125	K	K	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	125	0	0.94
+1438008319.295	5307	25	2	343	ä	adiaeresis	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	468	0	0.94
+1438008319.513	5307	25	3	218	y	y	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	686	0	0.94
+1438008319.856	5307	25	4	343	t	t	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	1029	0	0.94
+1438008319.981	5307	25	5	125	t	t	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	1154	0	0.94
+1438008320.075	5307	25	6	94	ä	adiaeresis	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	1248	0	0.94
+1438008320.262	5307	25	7	187	y	y	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	1435	0	0.94
+1438008320.387	5307	25	8	125	d	d	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	1560	0	0.94
+1438008320.512	5307	25	9	125	y	y	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	1685	0	0.94
+1438008320.636	5307	25	10	124	t	t	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	1809	0	0.94
+1438008320.917	5307	25	11	281	k	k	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	2090	0	0.94
+1438008320.98	5307	25	12	63	ö	odiaeresis	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	2153	0	0.94
+1438008321.104	5307	25	13	124	_	space	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	2277	0	0.94
+1438008321.292	5307	25	14	188	p	p	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	2465	0	0.94
+1438008321.416	5307	25	15	123	r	r	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	2588	0	0.94
+1438008321.728	5307	25	16	313	t	t	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	2901	0	0.94
+1438008321.916	5307	25	17	187	o	o	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	3088	0	0.94
+1438008322.134	5307	25	18	219	w	w	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	3307	0	0.94
+1438008322.758	5307	25	19	623	z	z	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	3930	0	0.94
+1438008322.976	5307	25	20	219	_	space	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	4149	0	0.94
+1438008323.32	5307	25	21	344	l	l	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	4493	0	0.94
+1438008323.413	5307	25	22	93	a	a	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	4586	0	0.94
+1438008323.569	5307	25	23	156	p	p	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	4742	0	0.94
+1438008323.694	5307	25	24	125	s	s	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	4867	0	0.94
+1438008323.756	5307	25	25	62	e	e	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	4929	0	0.94
+1438008323.85	5307	25	26	94	l	l	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	5023	0	0.94
+1438008324.037	5307	25	27	187	l	l	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	5210	0	0.94
+1438008324.068	5307	25	28	31	i	i	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	5241	0	0.94
+1438008324.224	5307	25	29	156	s	s	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	5397	0	0.94
+1438008324.318	5307	25	30	94	e	e	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	5491	0	0.94
+1438008324.817	5307	25	31	499	s	s	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	5990	0	0.94
+1438008324.911	5307	25	32	94	t	t	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	6084	0	0.94
+1438008324.973	5307	25	33	62	i	i	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	6146	0	0.94
+1438008325.192	5307	25	34	219	Shift_L	Shift_L	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	6365	0	0.94
+1438008325.285	5307	25	35	93	?	question	Käyttäydytkö prtowz lapsellisesti?	 61.32	 126.69	Käyttäydytkö prtowz lapsellisesti?	Mix	6458	0	0.94
+1438008327.906	5307	26	0	0	Shift_L	Shift_L	Minkälainen jflurm tunnelma?	 78.66	  76.28	Minkälainen jflurm tunnelma?	Mix	0	0	0.93
+1438008328	5307	26	1	94	M	M	Minkälainen jflurm tunnelma?	 78.66	  76.28	Minkälainen jflurm tunnelma?	Mix	94	0	0.93
+1438008328.249	5307	26	2	249	i	i	Minkälainen jflurm tunnelma?	 78.66	  76.28	Minkälainen jflurm tunnelma?	Mix	343	0	0.93
+1438008328.468	5307	26	3	219	n	n	Minkälainen jflurm tunnelma?	 78.66	  76.28	Minkälainen jflurm tunnelma?	Mix	562	0	0.93
+1438008328.499	5307	26	4	31	k	k	Minkälainen jflurm tunnelma?	 78.66	  76.28	Minkälainen jflurm tunnelma?	Mix	593	0	0.93
+1438008328.592	5307	26	5	93	ä	adiaeresis	Minkälainen jflurm tunnelma?	 78.66	  76.28	Minkälainen jflurm tunnelma?	Mix	686	0	0.93
+1438008328.936	5307	26	6	344	l	l	Minkälainen jflurm tunnelma?	 78.66	  76.28	Minkälainen jflurm tunnelma?	Mix	1030	0	0.93
+1438008329.06	5307	26	7	124	a	a	Minkälainen jflurm tunnelma?	 78.66	  76.28	Minkälainen jflurm tunnelma?	Mix	1154	0	0.93
+1438008329.154	5307	26	8	94	i	i	Minkälainen jflurm tunnelma?	 78.66	  76.28	Minkälainen jflurm tunnelma?	Mix	1248	0	0.93
+1438008329.248	5307	26	9	94	n	n	Minkälainen jflurm tunnelma?	 78.66	  76.28	Minkälainen jflurm tunnelma?	Mix	1342	0	0.93
+1438008329.341	5307	26	10	93	e	e	Minkälainen jflurm tunnelma?	 78.66	  76.28	Minkälainen jflurm tunnelma?	Mix	1435	0	0.93
+1438008329.435	5307	26	11	94	n	n	Minkälainen jflurm tunnelma?	 78.66	  76.28	Minkälainen jflurm tunnelma?	Mix	1529	0	0.93
+1438008329.56	5307	26	12	125	_	space	Minkälainen jflurm tunnelma?	 78.66	  76.28	Minkälainen jflurm tunnelma?	Mix	1654	0	0.93
+1438008329.684	5307	26	13	124	j	j	Minkälainen jflurm tunnelma?	 78.66	  76.28	Minkälainen jflurm tunnelma?	Mix	1778	0	0.93
+1438008329.84	5307	26	14	156	f	f	Minkälainen jflurm tunnelma?	 78.66	  76.28	Minkälainen jflurm tunnelma?	Mix	1934	0	0.93
+1438008329.965	5307	26	15	125	l	l	Minkälainen jflurm tunnelma?	 78.66	  76.28	Minkälainen jflurm tunnelma?	Mix	2059	0	0.93
+1438008330.308	5307	26	16	343	u	u	Minkälainen jflurm tunnelma?	 78.66	  76.28	Minkälainen jflurm tunnelma?	Mix	2402	0	0.93
+1438008330.433	5307	26	17	125	r	r	Minkälainen jflurm tunnelma?	 78.66	  76.28	Minkälainen jflurm tunnelma?	Mix	2527	0	0.93
+1438008330.527	5307	26	18	94	m	m	Minkälainen jflurm tunnelma?	 78.66	  76.28	Minkälainen jflurm tunnelma?	Mix	2621	0	0.93
+1438008330.683	5307	26	19	156	_	space	Minkälainen jflurm tunnelma?	 78.66	  76.28	Minkälainen jflurm tunnelma?	Mix	2777	0	0.93
+1438008330.901	5307	26	20	218	t	t	Minkälainen jflurm tunnelma?	 78.66	  76.28	Minkälainen jflurm tunnelma?	Mix	2995	0	0.93
+1438008330.995	5307	26	21	93	u	u	Minkälainen jflurm tunnelma?	 78.66	  76.28	Minkälainen jflurm tunnelma?	Mix	3088	0	0.93
+1438008331.026	5307	26	22	32	n	n	Minkälainen jflurm tunnelma?	 78.66	  76.28	Minkälainen jflurm tunnelma?	Mix	3120	0	0.93
+1438008331.213	5307	26	23	187	n	n	Minkälainen jflurm tunnelma?	 78.66	  76.28	Minkälainen jflurm tunnelma?	Mix	3307	0	0.93
+1438008331.339	5307	26	24	126	e	e	Minkälainen jflurm tunnelma?	 78.66	  76.28	Minkälainen jflurm tunnelma?	Mix	3433	0	0.93
+1438008331.464	5307	26	25	125	l	l	Minkälainen jflurm tunnelma?	 78.66	  76.28	Minkälainen jflurm tunnelma?	Mix	3558	0	0.93
+1438008331.557	5307	26	26	93	m	m	Minkälainen jflurm tunnelma?	 78.66	  76.28	Minkälainen jflurm tunnelma?	Mix	3651	0	0.93
+1438008331.713	5307	26	27	156	a	a	Minkälainen jflurm tunnelma?	 78.66	  76.28	Minkälainen jflurm tunnelma?	Mix	3807	0	0.93
+1438008331.932	5307	26	28	219	Shift_L	Shift_L	Minkälainen jflurm tunnelma?	 78.66	  76.28	Minkälainen jflurm tunnelma?	Mix	4026	0	0.93
+1438008332.025	5307	26	29	93	?	question	Minkälainen jflurm tunnelma?	 78.66	  76.28	Minkälainen jflurm tunnelma?	Mix	4119	0	0.93
+1438008333.866	5307	27	0	0	Shift_R	Shift_R	Voitko jo vrphme paremmin?	 69.17	 124.70	Voitko jo vrphme paremmin?	Mix	0	0	0.93
+1438008334.022	5307	27	1	156	V	V	Voitko jo vrphme paremmin?	 69.17	 124.70	Voitko jo vrphme paremmin?	Mix	156	0	0.93
+1438008334.303	5307	27	2	281	o	o	Voitko jo vrphme paremmin?	 69.17	 124.70	Voitko jo vrphme paremmin?	Mix	437	0	0.93
+1438008334.397	5307	27	3	94	i	i	Voitko jo vrphme paremmin?	 69.17	 124.70	Voitko jo vrphme paremmin?	Mix	531	0	0.93
+1438008334.49	5307	27	4	93	t	t	Voitko jo vrphme paremmin?	 69.17	 124.70	Voitko jo vrphme paremmin?	Mix	624	0	0.93
+1438008334.677	5307	27	5	187	k	k	Voitko jo vrphme paremmin?	 69.17	 124.70	Voitko jo vrphme paremmin?	Mix	811	0	0.93
+1438008334.709	5307	27	6	32	o	o	Voitko jo vrphme paremmin?	 69.17	 124.70	Voitko jo vrphme paremmin?	Mix	843	0	0.93
+1438008334.958	5307	27	7	249	_	space	Voitko jo vrphme paremmin?	 69.17	 124.70	Voitko jo vrphme paremmin?	Mix	1092	0	0.93
+1438008335.551	5307	27	8	593	j	j	Voitko jo vrphme paremmin?	 69.17	 124.70	Voitko jo vrphme paremmin?	Mix	1685	0	0.93
+1438008335.582	5307	27	9	31	o	o	Voitko jo vrphme paremmin?	 69.17	 124.70	Voitko jo vrphme paremmin?	Mix	1716	0	0.93
+1438008335.676	5307	27	10	94	_	space	Voitko jo vrphme paremmin?	 69.17	 124.70	Voitko jo vrphme paremmin?	Mix	1810	0	0.93
+1438008335.894	5307	27	11	218	v	v	Voitko jo vrphme paremmin?	 69.17	 124.70	Voitko jo vrphme paremmin?	Mix	2028	0	0.93
+1438008336.113	5307	27	12	218	r	r	Voitko jo vrphme paremmin?	 69.17	 124.70	Voitko jo vrphme paremmin?	Mix	2246	0	0.93
+1438008336.175	5307	27	13	63	p	p	Voitko jo vrphme paremmin?	 69.17	 124.70	Voitko jo vrphme paremmin?	Mix	2309	0	0.93
+1438008336.393	5307	27	14	217	h	h	Voitko jo vrphme paremmin?	 69.17	 124.70	Voitko jo vrphme paremmin?	Mix	2526	0	0.93
+1438008336.612	5307	27	15	220	m	m	Voitko jo vrphme paremmin?	 69.17	 124.70	Voitko jo vrphme paremmin?	Mix	2746	0	0.93
+1438008336.705	5307	27	16	92	e	e	Voitko jo vrphme paremmin?	 69.17	 124.70	Voitko jo vrphme paremmin?	Mix	2838	0	0.93
+1438008336.799	5307	27	17	95	_	space	Voitko jo vrphme paremmin?	 69.17	 124.70	Voitko jo vrphme paremmin?	Mix	2933	0	0.93
+1438008337.236	5307	27	18	437	p	p	Voitko jo vrphme paremmin?	 69.17	 124.70	Voitko jo vrphme paremmin?	Mix	3370	0	0.93
+1438008337.361	5307	27	19	125	a	a	Voitko jo vrphme paremmin?	 69.17	 124.70	Voitko jo vrphme paremmin?	Mix	3495	0	0.93
+1438008337.454	5307	27	20	93	r	r	Voitko jo vrphme paremmin?	 69.17	 124.70	Voitko jo vrphme paremmin?	Mix	3588	0	0.93
+1438008337.517	5307	27	21	63	e	e	Voitko jo vrphme paremmin?	 69.17	 124.70	Voitko jo vrphme paremmin?	Mix	3651	0	0.93
+1438008337.579	5307	27	22	62	m	m	Voitko jo vrphme paremmin?	 69.17	 124.70	Voitko jo vrphme paremmin?	Mix	3713	0	0.93
+1438008337.735	5307	27	23	155	m	m	Voitko jo vrphme paremmin?	 69.17	 124.70	Voitko jo vrphme paremmin?	Mix	3868	0	0.93
+1438008337.829	5307	27	24	95	i	i	Voitko jo vrphme paremmin?	 69.17	 124.70	Voitko jo vrphme paremmin?	Mix	3963	0	0.93
+1438008337.922	5307	27	25	92	n	n	Voitko jo vrphme paremmin?	 69.17	 124.70	Voitko jo vrphme paremmin?	Mix	4055	0	0.93
+1438008338.109	5307	27	26	188	Shift_L	Shift_L	Voitko jo vrphme paremmin?	 69.17	 124.70	Voitko jo vrphme paremmin?	Mix	4243	0	0.93
+1438008338.203	5307	27	27	94	?	question	Voitko jo vrphme paremmin?	 69.17	 124.70	Voitko jo vrphme paremmin?	Mix	4337	0	0.93
+1438008339.857	5307	28	0	0	Shift_L	Shift_L	Nähdään vungbd pian!	 48.41	 225.18	Nähdään vungbd pian!	Mix	0	0	0.91
+1438008339.981	5307	28	1	123	N	N	Nähdään vungbd pian!	 48.41	 225.18	Nähdään vungbd pian!	Mix	123	0	0.91
+1438008340.231	5307	28	2	250	ä	adiaeresis	Nähdään vungbd pian!	 48.41	 225.18	Nähdään vungbd pian!	Mix	373	0	0.91
+1438008340.387	5307	28	3	156	h	h	Nähdään vungbd pian!	 48.41	 225.18	Nähdään vungbd pian!	Mix	529	0	0.91
+1438008340.605	5307	28	4	218	d	d	Nähdään vungbd pian!	 48.41	 225.18	Nähdään vungbd pian!	Mix	747	0	0.91
+1438008340.73	5307	28	5	125	ä	adiaeresis	Nähdään vungbd pian!	 48.41	 225.18	Nähdään vungbd pian!	Mix	872	0	0.91
+1438008340.886	5307	28	6	156	ä	adiaeresis	Nähdään vungbd pian!	 48.41	 225.18	Nähdään vungbd pian!	Mix	1028	0	0.91
+1438008340.98	5307	28	7	94	n	n	Nähdään vungbd pian!	 48.41	 225.18	Nähdään vungbd pian!	Mix	1122	0	0.91
+1438008341.105	5307	28	8	125	_	space	Nähdään vungbd pian!	 48.41	 225.18	Nähdään vungbd pian!	Mix	1247	0	0.91
+1438008341.261	5307	28	9	156	v	v	Nähdään vungbd pian!	 48.41	 225.18	Nähdään vungbd pian!	Mix	1403	0	0.91
+1438008341.354	5307	28	10	93	u	u	Nähdään vungbd pian!	 48.41	 225.18	Nähdään vungbd pian!	Mix	1496	0	0.91
+1438008341.448	5307	28	11	94	n	n	Nähdään vungbd pian!	 48.41	 225.18	Nähdään vungbd pian!	Mix	1590	0	0.91
+1438008341.666	5307	28	12	218	g	g	Nähdään vungbd pian!	 48.41	 225.18	Nähdään vungbd pian!	Mix	1808	0	0.91
+1438008342.789	5307	28	13	1123	b	b	Nähdään vungbd pian!	 48.41	 225.18	Nähdään vungbd pian!	Mix	2931	0	0.91
+1438008343.289	5307	28	14	500	d	d	Nähdään vungbd pian!	 48.41	 225.18	Nähdään vungbd pian!	Mix	3431	0	0.91
+1438008343.413	5307	28	15	124	_	space	Nähdään vungbd pian!	 48.41	 225.18	Nähdään vungbd pian!	Mix	3555	0	0.91
+1438008343.663	5307	28	16	250	p	p	Nähdään vungbd pian!	 48.41	 225.18	Nähdään vungbd pian!	Mix	3805	0	0.91
+1438008343.819	5307	28	17	156	i	i	Nähdään vungbd pian!	 48.41	 225.18	Nähdään vungbd pian!	Mix	3961	0	0.91
+1438008343.975	5307	28	18	156	a	a	Nähdään vungbd pian!	 48.41	 225.18	Nähdään vungbd pian!	Mix	4117	0	0.91
+1438008344.1	5307	28	19	125	n	n	Nähdään vungbd pian!	 48.41	 225.18	Nähdään vungbd pian!	Mix	4242	0	0.91
+1438008344.287	5307	28	20	187	Shift_L	Shift_L	Nähdään vungbd pian!	 48.41	 225.18	Nähdään vungbd pian!	Mix	4429	0	0.91
+1438008344.568	5307	28	21	281	!	exclam	Nähdään vungbd pian!	 48.41	 225.18	Nähdään vungbd pian!	Mix	4710	0	0.91
+1438008346.377	5307	29	0	0	Shift_L	Shift_L	Nähdään khpzgp kolmannella.	 57.79	 119.20	Nähdään khpzgp kolmannella.	Mix	0	0	0.96
+1438008346.533	5307	29	1	155	N	N	Nähdään khpzgp kolmannella.	 57.79	 119.20	Nähdään khpzgp kolmannella.	Mix	155	0	0.96
+1438008346.752	5307	29	2	220	ä	adiaeresis	Nähdään khpzgp kolmannella.	 57.79	 119.20	Nähdään khpzgp kolmannella.	Mix	375	0	0.96
+1438008346.877	5307	29	3	125	h	h	Nähdään khpzgp kolmannella.	 57.79	 119.20	Nähdään khpzgp kolmannella.	Mix	500	0	0.96
+1438008347.001	5307	29	4	123	d	d	Nähdään khpzgp kolmannella.	 57.79	 119.20	Nähdään khpzgp kolmannella.	Mix	623	0	0.96
+1438008347.126	5307	29	5	125	ä	adiaeresis	Nähdään khpzgp kolmannella.	 57.79	 119.20	Nähdään khpzgp kolmannella.	Mix	748	0	0.96
+1438008347.345	5307	29	6	219	ä	adiaeresis	Nähdään khpzgp kolmannella.	 57.79	 119.20	Nähdään khpzgp kolmannella.	Mix	967	0	0.96
+1438008347.407	5307	29	7	62	n	n	Nähdään khpzgp kolmannella.	 57.79	 119.20	Nähdään khpzgp kolmannella.	Mix	1029	0	0.96
+1438008347.532	5307	29	8	125	_	space	Nähdään khpzgp kolmannella.	 57.79	 119.20	Nähdään khpzgp kolmannella.	Mix	1154	0	0.96
+1438008348.031	5307	29	9	499	k	k	Nähdään khpzgp kolmannella.	 57.79	 119.20	Nähdään khpzgp kolmannella.	Mix	1653	0	0.96
+1438008348.561	5307	29	10	531	h	h	Nähdään khpzgp kolmannella.	 57.79	 119.20	Nähdään khpzgp kolmannella.	Mix	2184	0	0.96
+1438008348.873	5307	29	11	311	p	p	Nähdään khpzgp kolmannella.	 57.79	 119.20	Nähdään khpzgp kolmannella.	Mix	2495	0	0.96
+1438008349.217	5307	29	12	344	z	z	Nähdään khpzgp kolmannella.	 57.79	 119.20	Nähdään khpzgp kolmannella.	Mix	2839	0	0.96
+1438008349.591	5307	29	13	374	g	g	Nähdään khpzgp kolmannella.	 57.79	 119.20	Nähdään khpzgp kolmannella.	Mix	3213	0	0.96
+1438008349.778	5307	29	14	188	p	p	Nähdään khpzgp kolmannella.	 57.79	 119.20	Nähdään khpzgp kolmannella.	Mix	3401	0	0.96
+1438008349.934	5307	29	15	155	_	space	Nähdään khpzgp kolmannella.	 57.79	 119.20	Nähdään khpzgp kolmannella.	Mix	3556	0	0.96
+1438008350.153	5307	29	16	220	k	k	Nähdään khpzgp kolmannella.	 57.79	 119.20	Nähdään khpzgp kolmannella.	Mix	3776	0	0.96
+1438008350.246	5307	29	17	92	o	o	Nähdään khpzgp kolmannella.	 57.79	 119.20	Nähdään khpzgp kolmannella.	Mix	3868	0	0.96
+1438008350.465	5307	29	18	219	l	l	Nähdään khpzgp kolmannella.	 57.79	 119.20	Nähdään khpzgp kolmannella.	Mix	4087	0	0.96
+1438008350.589	5307	29	19	124	m	m	Nähdään khpzgp kolmannella.	 57.79	 119.20	Nähdään khpzgp kolmannella.	Mix	4211	0	0.96
+1438008350.745	5307	29	20	156	a	a	Nähdään khpzgp kolmannella.	 57.79	 119.20	Nähdään khpzgp kolmannella.	Mix	4367	0	0.96
+1438008350.87	5307	29	21	125	n	n	Nähdään khpzgp kolmannella.	 57.79	 119.20	Nähdään khpzgp kolmannella.	Mix	4492	0	0.96
+1438008350.995	5307	29	22	125	n	n	Nähdään khpzgp kolmannella.	 57.79	 119.20	Nähdään khpzgp kolmannella.	Mix	4617	0	0.96
+1438008351.12	5307	29	23	125	e	e	Nähdään khpzgp kolmannella.	 57.79	 119.20	Nähdään khpzgp kolmannella.	Mix	4742	0	0.96
+1438008351.245	5307	29	24	125	l	l	Nähdään khpzgp kolmannella.	 57.79	 119.20	Nähdään khpzgp kolmannella.	Mix	4867	0	0.96
+1438008351.369	5307	29	25	124	l	l	Nähdään khpzgp kolmannella.	 57.79	 119.20	Nähdään khpzgp kolmannella.	Mix	4991	0	0.96
+1438008351.496	5307	29	26	127	a	a	Nähdään khpzgp kolmannella.	 57.79	 119.20	Nähdään khpzgp kolmannella.	Mix	5118	0	0.96
+1438008351.777	5307	29	27	281	.	period	Nähdään khpzgp kolmannella.	 57.79	 119.20	Nähdään khpzgp kolmannella.	Mix	5399	0	0.96
+1438008353.743	5307	30	0	0	Shift_R	Shift_R	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	0	0	0.85
+1438008353.867	5307	30	1	124	E	E	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	124	0	0.85
+1438008354.242	5307	30	2	375	i	i	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	499	0	0.85
+1438008354.335	5307	30	3	93	_	space	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	592	0	0.85
+1438008354.46	5307	30	4	125	o	o	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	717	0	0.85
+1438008354.679	5307	30	5	218	l	l	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	935	0	0.85
+1438008354.866	5307	30	6	187	l	l	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	1122	0	0.85
+1438008354.991	5307	30	7	125	u	u	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	1247	0	0.85
+1438008354.991	5307	30	8	0	y	y	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	1247	0	0.85
+1438008355.084	5307	30	9	94	t	t	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	1341	0	0.85
+1438008356.395	5307	30	10	1310		BackSpace	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	2651	0	0.85
+1438008356.582	5307	30	11	187		BackSpace	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	2838	0	0.85
+1438008356.675	5307	30	12	93	t	t	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	2931	0	0.85
+1438008356.738	5307	30	13	63	_	space	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	2994	0	0.85
+1438008357.424	5307	30	14	686	b	b	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	3680	0	0.85
+1438008357.674	5307	30	15	250	s	s	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	3930	0	0.85
+1438008358.142	5307	30	16	468	r	r	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	4398	0	0.85
+1438008358.423	5307	30	17	282	p	p	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	4680	0	0.85
+1438008359.016	5307	30	18	593	q	q	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	5273	0	0.85
+1438008359.203	5307	30	19	187	j	j	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	5460	0	0.85
+1438008359.359	5307	30	20	155	_	space	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	5615	0	0.85
+1438008359.608	5307	30	21	250	e	e	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	5865	0	0.85
+1438008359.764	5307	30	22	155	d	d	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	6020	0	0.85
+1438008359.827	5307	30	23	63	e	e	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	6083	0	0.85
+1438008360.108	5307	30	24	282	s	s	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	6365	0	0.85
+1438008360.17	5307	30	25	62	_	space	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	6427	0	0.85
+1438008360.388	5307	30	26	217	l	l	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	6644	0	0.85
+1438008360.482	5307	30	27	95	ä	adiaeresis	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	6739	0	0.85
+1438008360.669	5307	30	28	186	h	h	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	6925	0	0.85
+1438008360.763	5307	30	29	94	e	e	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	7019	0	0.85
+1438008360.888	5307	30	30	125	l	l	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	7144	0	0.85
+1438008361.044	5307	30	31	156	l	l	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	7300	0	0.85
+1438008361.106	5307	30	32	62	ä	adiaeresis	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	7362	0	0.85
+1438008361.449	5307	30	33	343	.	period	Ei ollut bsrpqj edes lähellä.	 43.61	 245.79	Ei ollut bsrpqj edes lähellä.	Mix	7705	0	0.85
+1438008365.162	5307	31	0	0	Shift_L	Shift_L	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	0	0	0.98
+1438008365.38	5307	31	1	218	M	M	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	218	0	0.98
+1438008365.88	5307	31	2	500	e	e	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	718	0	0.98
+1438008366.004	5307	31	3	124	i	i	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	842	0	0.98
+1438008366.16	5307	31	4	156	d	d	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	998	0	0.98
+1438008366.285	5307	31	5	125	ä	adiaeresis	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	1123	0	0.98
+1438008366.379	5307	31	6	94	n	n	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	1217	0	0.98
+1438008366.535	5307	31	7	156	_	space	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	1373	0	0.98
+1438008366.722	5307	31	8	186	t	t	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	1559	0	0.98
+1438008366.816	5307	31	9	95	ä	adiaeresis	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	1654	0	0.98
+1438008366.972	5307	31	10	155	y	y	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	1809	0	0.98
+1438008367.096	5307	31	11	125	t	t	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	1934	0	0.98
+1438008367.221	5307	31	12	125	y	y	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	2059	0	0.98
+1438008367.377	5307	31	13	156	y	y	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	2215	0	0.98
+1438008367.471	5307	31	14	94	_	space	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	2309	0	0.98
+1438008367.627	5307	31	15	156	j	j	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	2465	0	0.98
+1438008367.845	5307	31	16	218	u	u	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	2683	0	0.98
+1438008367.97	5307	31	17	125	t	t	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	2808	0	0.98
+1438008368.032	5307	31	18	62	e	e	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	2870	0	0.98
+1438008368.157	5307	31	19	125	l	l	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	2995	0	0.98
+1438008368.344	5307	31	20	187	l	l	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	3182	0	0.98
+1438008368.376	5307	31	21	31	a	a	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	3213	0	0.98
+1438008368.5	5307	31	22	125	_	space	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	3338	0	0.98
+1438008368.75	5307	31	23	250	k	k	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	3588	0	0.98
+1438008369.031	5307	31	24	280	n	n	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	3868	0	0.98
+1438008369.249	5307	31	25	219	l	l	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	4087	0	0.98
+1438008369.436	5307	31	26	187	d	d	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	4274	0	0.98
+1438008369.53	5307	31	27	94	k	k	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	4368	0	0.98
+1438008369.624	5307	31	28	94	l	l	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	4462	0	0.98
+1438008369.811	5307	31	29	187	_	space	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	4649	0	0.98
+1438008369.998	5307	31	30	186	o	o	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	4835	0	0.98
+1438008370.341	5307	31	31	344	d	d	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	5179	0	0.98
+1438008370.56	5307	31	32	219	c	c	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	5398	0	0.98
+1438008370.84	5307	31	33	279	d	d	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	5677	0	0.98
+1438008371.184	5307	31	34	345	p	p	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	6022	0	0.98
+1438008371.34	5307	31	35	155	u	u	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	6177	0	0.98
+1438008371.496	5307	31	36	157	_	space	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	6334	0	0.98
+1438008371.652	5307	31	37	156	t	t	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	6490	0	0.98
+1438008371.776	5307	31	38	124	ä	adiaeresis	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	6614	0	0.98
+1438008371.87	5307	31	39	93	s	s	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	6707	0	0.98
+1438008371.964	5307	31	40	95	t	t	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	6802	0	0.98
+1438008372.057	5307	31	41	92	ä	adiaeresis	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	6894	0	0.98
+1438008372.213	5307	31	42	157	_	space	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	7051	0	0.98
+1438008372.307	5307	31	43	93	k	k	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	7144	0	0.98
+1438008372.556	5307	31	44	250	u	u	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	7394	0	0.98
+1438008372.681	5307	31	45	125	u	u	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	7519	0	0.98
+1438008372.868	5307	31	46	187	k	k	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	7706	0	0.98
+1438008372.993	5307	31	47	125	a	a	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	7831	0	0.98
+1438008373.087	5307	31	48	93	u	u	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	7924	0	0.98
+1438008373.212	5307	31	49	125	d	d	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	8049	0	0.98
+1438008373.399	5307	31	50	187	e	e	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	8236	0	0.98
+1438008373.461	5307	31	51	63	s	s	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	8299	0	0.98
+1438008373.586	5307	31	52	125	t	t	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	8424	0	0.98
+1438008373.68	5307	31	53	94	a	a	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	8518	0	0.98
+1438008373.898	5307	31	54	218	,	comma	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	8736	0	0.98
+1438008373.898	5307	31	55	0	.	period	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	 74.18	  81.18	Meidän täytyy jutella knldkl odcdpu tästä kuukaudesta,.	Mix	8736	0	0.98
+1438008376.176	5307	32	0	0	Shift_R	Shift_R	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	0	0	0.97
+1438008376.269	5307	32	1	92	T	T	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	92	0	0.97
+1438008376.706	5307	32	2	437	o	o	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	529	0	0.97
+1438008376.831	5307	32	3	125	r	r	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	654	0	0.97
+1438008377.018	5307	32	4	187	s	s	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	841	0	0.97
+1438008377.143	5307	32	5	125	t	t	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	966	0	0.97
+1438008377.236	5307	32	6	93	a	a	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	1059	0	0.97
+1438008377.392	5307	32	7	156	i	i	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	1215	0	0.97
+1438008377.517	5307	32	8	125	_	space	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	1340	0	0.97
+1438008377.642	5307	32	9	125	s	s	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	1465	0	0.97
+1438008377.956	5307	32	10	314	o	o	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	1779	0	0.97
+1438008378.05	5307	32	11	94	p	p	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	1873	0	0.97
+1438008378.268	5307	32	12	218	i	i	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	2091	0	0.97
+1438008378.455	5307	32	13	187	i	i	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	2278	0	0.97
+1438008378.58	5307	32	14	125	_	space	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	2403	0	0.97
+1438008378.892	5307	32	15	312	u	u	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	2715	0	0.97
+1438008379.048	5307	32	16	156	c	c	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	2871	0	0.97
+1438008379.329	5307	32	17	281	h	h	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	3152	0	0.97
+1438008379.859	5307	32	18	530	d	d	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	3682	0	0.97
+1438008380.046	5307	32	19	187	e	e	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	3869	0	0.97
+1438008380.92	5307	32	20	874	t	t	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	4743	0	0.97
+1438008381.17	5307	32	21	250	_	space	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	4993	0	0.97
+1438008381.452	5307	32	22	282	m	m	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	5275	0	0.97
+1438008381.92	5307	32	23	468	i	i	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	5743	0	0.97
+1438008382.076	5307	32	24	156	n	n	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	5899	0	0.97
+1438008382.201	5307	32	25	125	u	u	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	6024	0	0.97
+1438008382.42	5307	32	26	219	l	l	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	6243	0	0.97
+1438008382.576	5307	32	27	156	l	l	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	6399	0	0.97
+1438008382.638	5307	32	28	62	e	e	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	6461	0	0.97
+1438008382.763	5307	32	29	125	_	space	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	6586	0	0.97
+1438008383.044	5307	32	30	281	p	p	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	6867	0	0.97
+1438008383.137	5307	32	31	93	a	a	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	6960	0	0.97
+1438008383.293	5307	32	32	156	r	r	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	7116	0	0.97
+1438008383.356	5307	32	33	63	e	e	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	7179	0	0.97
+1438008383.418	5307	32	34	62	m	m	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	7241	0	0.97
+1438008383.605	5307	32	35	187	m	m	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	7428	0	0.97
+1438008383.699	5307	32	36	94	i	i	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	7522	0	0.97
+1438008383.792	5307	32	37	93	n	n	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	7615	0	0.97
+1438008384.011	5307	32	38	219	.	period	Torstai sopii uchdet minulle paremmin.	 56.68	 157.15	Torstai sopii uchdet minulle paremmin.	Mix	7834	0	0.97
+1438008385.508	5307	33	0	0	Shift_L	Shift_L	Tämä näyttää jaolwh hyvältä.	 52.98	 166.38	Tämä näyttää jaolwh hyvältä.	Mix	0	0	0.90
+1438008385.602	5307	33	1	94	T	T	Tämä näyttää jaolwh hyvältä.	 52.98	 166.38	Tämä näyttää jaolwh hyvältä.	Mix	94	0	0.90
+1438008386.382	5307	33	2	780	ö	odiaeresis	Tämä näyttää jaolwh hyvältä.	 52.98	 166.38	Tämä näyttää jaolwh hyvältä.	Mix	874	0	0.90
+1438008387.006	5307	33	3	624		BackSpace	Tämä näyttää jaolwh hyvältä.	 52.98	 166.38	Tämä näyttää jaolwh hyvältä.	Mix	1498	0	0.90
+1438008387.256	5307	33	4	250	ä	adiaeresis	Tämä näyttää jaolwh hyvältä.	 52.98	 166.38	Tämä näyttää jaolwh hyvältä.	Mix	1748	0	0.90
+1438008387.38	5307	33	5	124	m	m	Tämä näyttää jaolwh hyvältä.	 52.98	 166.38	Tämä näyttää jaolwh hyvältä.	Mix	1872	0	0.90
+1438008387.474	5307	33	6	94	ä	adiaeresis	Tämä näyttää jaolwh hyvältä.	 52.98	 166.38	Tämä näyttää jaolwh hyvältä.	Mix	1966	0	0.90
+1438008387.63	5307	33	7	156	_	space	Tämä näyttää jaolwh hyvältä.	 52.98	 166.38	Tämä näyttää jaolwh hyvältä.	Mix	2122	0	0.90
+1438008387.786	5307	33	8	156	n	n	Tämä näyttää jaolwh hyvältä.	 52.98	 166.38	Tämä näyttää jaolwh hyvältä.	Mix	2278	0	0.90
+1438008387.848	5307	33	9	62	ä	adiaeresis	Tämä näyttää jaolwh hyvältä.	 52.98	 166.38	Tämä näyttää jaolwh hyvältä.	Mix	2340	0	0.90
+1438008388.067	5307	33	10	219	y	y	Tämä näyttää jaolwh hyvältä.	 52.98	 166.38	Tämä näyttää jaolwh hyvältä.	Mix	2559	0	0.90
+1438008388.192	5307	33	11	125	t	t	Tämä näyttää jaolwh hyvältä.	 52.98	 166.38	Tämä näyttää jaolwh hyvältä.	Mix	2684	0	0.90
+1438008388.316	5307	33	12	124	t	t	Tämä näyttää jaolwh hyvältä.	 52.98	 166.38	Tämä näyttää jaolwh hyvältä.	Mix	2808	0	0.90
+1438008388.41	5307	33	13	94	ä	adiaeresis	Tämä näyttää jaolwh hyvältä.	 52.98	 166.38	Tämä näyttää jaolwh hyvältä.	Mix	2902	0	0.90
+1438008388.566	5307	33	14	156	ä	adiaeresis	Tämä näyttää jaolwh hyvältä.	 52.98	 166.38	Tämä näyttää jaolwh hyvältä.	Mix	3058	0	0.90
+1438008388.691	5307	33	15	125	_	space	Tämä näyttää jaolwh hyvältä.	 52.98	 166.38	Tämä näyttää jaolwh hyvältä.	Mix	3183	0	0.90
+1438008388.972	5307	33	16	280	j	j	Tämä näyttää jaolwh hyvältä.	 52.98	 166.38	Tämä näyttää jaolwh hyvältä.	Mix	3463	0	0.90
+1438008389.159	5307	33	17	188	a	a	Tämä näyttää jaolwh hyvältä.	 52.98	 166.38	Tämä näyttää jaolwh hyvältä.	Mix	3651	0	0.90
+1438008389.689	5307	33	18	529	o	o	Tämä näyttää jaolwh hyvältä.	 52.98	 166.38	Tämä näyttää jaolwh hyvältä.	Mix	4180	0	0.90
+1438008389.97	5307	33	19	282	l	l	Tämä näyttää jaolwh hyvältä.	 52.98	 166.38	Tämä näyttää jaolwh hyvältä.	Mix	4462	0	0.90
+1438008390.157	5307	33	20	187	w	w	Tämä näyttää jaolwh hyvältä.	 52.98	 166.38	Tämä näyttää jaolwh hyvältä.	Mix	4649	0	0.90
+1438008390.282	5307	33	21	125	h	h	Tämä näyttää jaolwh hyvältä.	 52.98	 166.38	Tämä näyttää jaolwh hyvältä.	Mix	4774	0	0.90
+1438008390.407	5307	33	22	125	_	space	Tämä näyttää jaolwh hyvältä.	 52.98	 166.38	Tämä näyttää jaolwh hyvältä.	Mix	4899	0	0.90
+1438008390.688	5307	33	23	281	h	h	Tämä näyttää jaolwh hyvältä.	 52.98	 166.38	Tämä näyttää jaolwh hyvältä.	Mix	5180	0	0.90
+1438008390.875	5307	33	24	187	y	y	Tämä näyttää jaolwh hyvältä.	 52.98	 166.38	Tämä näyttää jaolwh hyvältä.	Mix	5367	0	0.90
+1438008390.968	5307	33	25	93	v	v	Tämä näyttää jaolwh hyvältä.	 52.98	 166.38	Tämä näyttää jaolwh hyvältä.	Mix	5460	0	0.90
+1438008391.062	5307	33	26	94	ä	adiaeresis	Tämä näyttää jaolwh hyvältä.	 52.98	 166.38	Tämä näyttää jaolwh hyvältä.	Mix	5554	0	0.90
+1438008391.156	5307	33	27	94	l	l	Tämä näyttää jaolwh hyvältä.	 52.98	 166.38	Tämä näyttää jaolwh hyvältä.	Mix	5648	0	0.90
+1438008391.249	5307	33	28	93	t	t	Tämä näyttää jaolwh hyvältä.	 52.98	 166.38	Tämä näyttää jaolwh hyvältä.	Mix	5741	0	0.90
+1438008391.343	5307	33	29	94	ä	adiaeresis	Tämä näyttää jaolwh hyvältä.	 52.98	 166.38	Tämä näyttää jaolwh hyvältä.	Mix	5835	0	0.90
+1438008391.624	5307	33	30	281	.	period	Tämä näyttää jaolwh hyvältä.	 52.98	 166.38	Tämä näyttää jaolwh hyvältä.	Mix	6116	0	0.90
+1438008393.34	5307	34	0	0	Shift_L	Shift_L	Lähetin sen jkgaqe hänelle.	 52.09	 201.37	Lähetin sen jkgaqe hänelle.	Mix	0	0	0.96
+1438008393.464	5307	34	1	124	L	L	Lähetin sen jkgaqe hänelle.	 52.09	 201.37	Lähetin sen jkgaqe hänelle.	Mix	124	0	0.96
+1438008393.652	5307	34	2	188	ä	adiaeresis	Lähetin sen jkgaqe hänelle.	 52.09	 201.37	Lähetin sen jkgaqe hänelle.	Mix	312	0	0.96
+1438008393.87	5307	34	3	217	h	h	Lähetin sen jkgaqe hänelle.	 52.09	 201.37	Lähetin sen jkgaqe hänelle.	Mix	529	0	0.96
+1438008393.995	5307	34	4	125	e	e	Lähetin sen jkgaqe hänelle.	 52.09	 201.37	Lähetin sen jkgaqe hänelle.	Mix	654	0	0.96
+1438008394.088	5307	34	5	94	t	t	Lähetin sen jkgaqe hänelle.	 52.09	 201.37	Lähetin sen jkgaqe hänelle.	Mix	748	0	0.96
+1438008394.213	5307	34	6	125	i	i	Lähetin sen jkgaqe hänelle.	 52.09	 201.37	Lähetin sen jkgaqe hänelle.	Mix	873	0	0.96
+1438008394.276	5307	34	7	63	n	n	Lähetin sen jkgaqe hänelle.	 52.09	 201.37	Lähetin sen jkgaqe hänelle.	Mix	936	0	0.96
+1438008394.4	5307	34	8	124	_	space	Lähetin sen jkgaqe hänelle.	 52.09	 201.37	Lähetin sen jkgaqe hänelle.	Mix	1060	0	0.96
+1438008394.556	5307	34	9	156	s	s	Lähetin sen jkgaqe hänelle.	 52.09	 201.37	Lähetin sen jkgaqe hänelle.	Mix	1216	0	0.96
+1438008394.65	5307	34	10	94	e	e	Lähetin sen jkgaqe hänelle.	 52.09	 201.37	Lähetin sen jkgaqe hänelle.	Mix	1310	0	0.96
+1438008394.744	5307	34	11	94	n	n	Lähetin sen jkgaqe hänelle.	 52.09	 201.37	Lähetin sen jkgaqe hänelle.	Mix	1404	0	0.96
+1438008394.837	5307	34	12	92	_	space	Lähetin sen jkgaqe hänelle.	 52.09	 201.37	Lähetin sen jkgaqe hänelle.	Mix	1496	0	0.96
+1438008395.024	5307	34	13	188	j	j	Lähetin sen jkgaqe hänelle.	 52.09	 201.37	Lähetin sen jkgaqe hänelle.	Mix	1684	0	0.96
+1438008395.305	5307	34	14	281	k	k	Lähetin sen jkgaqe hänelle.	 52.09	 201.37	Lähetin sen jkgaqe hänelle.	Mix	1965	0	0.96
+1438008395.773	5307	34	15	468	g	g	Lähetin sen jkgaqe hänelle.	 52.09	 201.37	Lähetin sen jkgaqe hänelle.	Mix	2433	0	0.96
+1438008396.023	5307	34	16	250	a	a	Lähetin sen jkgaqe hänelle.	 52.09	 201.37	Lähetin sen jkgaqe hänelle.	Mix	2683	0	0.96
+1438008397.084	5307	34	17	1061	q	q	Lähetin sen jkgaqe hänelle.	 52.09	 201.37	Lähetin sen jkgaqe hänelle.	Mix	3744	0	0.96
+1438008397.583	5307	34	18	499	e	e	Lähetin sen jkgaqe hänelle.	 52.09	 201.37	Lähetin sen jkgaqe hänelle.	Mix	4243	0	0.96
+1438008397.895	5307	34	19	312	_	space	Lähetin sen jkgaqe hänelle.	 52.09	 201.37	Lähetin sen jkgaqe hänelle.	Mix	4555	0	0.96
+1438008398.269	5307	34	20	374	h	h	Lähetin sen jkgaqe hänelle.	 52.09	 201.37	Lähetin sen jkgaqe hänelle.	Mix	4929	0	0.96
+1438008398.456	5307	34	21	187	ä	adiaeresis	Lähetin sen jkgaqe hänelle.	 52.09	 201.37	Lähetin sen jkgaqe hänelle.	Mix	5116	0	0.96
+1438008398.612	5307	34	22	156	n	n	Lähetin sen jkgaqe hänelle.	 52.09	 201.37	Lähetin sen jkgaqe hänelle.	Mix	5272	0	0.96
+1438008398.768	5307	34	23	155	e	e	Lähetin sen jkgaqe hänelle.	 52.09	 201.37	Lähetin sen jkgaqe hänelle.	Mix	5427	0	0.96
+1438008398.956	5307	34	24	189	l	l	Lähetin sen jkgaqe hänelle.	 52.09	 201.37	Lähetin sen jkgaqe hänelle.	Mix	5616	0	0.96
+1438008399.112	5307	34	25	156	l	l	Lähetin sen jkgaqe hänelle.	 52.09	 201.37	Lähetin sen jkgaqe hänelle.	Mix	5772	0	0.96
+1438008399.205	5307	34	26	93	e	e	Lähetin sen jkgaqe hänelle.	 52.09	 201.37	Lähetin sen jkgaqe hänelle.	Mix	5865	0	0.96
+1438008399.33	5307	34	27	125	.	period	Lähetin sen jkgaqe hänelle.	 52.09	 201.37	Lähetin sen jkgaqe hänelle.	Mix	5990	0	0.96
+1438008401.077	5307	35	0	0	Shift_L	Shift_L	Luulen tämän blpsdt olevan hyvä.	 72.70	  81.99	Luulen tämän blpsdt olevan hyvä.	Mix	0	0	0.97
+1438008401.202	5307	35	1	125	L	L	Luulen tämän blpsdt olevan hyvä.	 72.70	  81.99	Luulen tämän blpsdt olevan hyvä.	Mix	125	0	0.97
+1438008401.514	5307	35	2	312	u	u	Luulen tämän blpsdt olevan hyvä.	 72.70	  81.99	Luulen tämän blpsdt olevan hyvä.	Mix	437	0	0.97
+1438008401.67	5307	35	3	156	u	u	Luulen tämän blpsdt olevan hyvä.	 72.70	  81.99	Luulen tämän blpsdt olevan hyvä.	Mix	593	0	0.97
+1438008401.795	5307	35	4	125	l	l	Luulen tämän blpsdt olevan hyvä.	 72.70	  81.99	Luulen tämän blpsdt olevan hyvä.	Mix	718	0	0.97
+1438008401.92	5307	35	5	125	e	e	Luulen tämän blpsdt olevan hyvä.	 72.70	  81.99	Luulen tämän blpsdt olevan hyvä.	Mix	843	0	0.97
+1438008402.044	5307	35	6	124	n	n	Luulen tämän blpsdt olevan hyvä.	 72.70	  81.99	Luulen tämän blpsdt olevan hyvä.	Mix	967	0	0.97
+1438008402.169	5307	35	7	125	_	space	Luulen tämän blpsdt olevan hyvä.	 72.70	  81.99	Luulen tämän blpsdt olevan hyvä.	Mix	1092	0	0.97
+1438008402.481	5307	35	8	312	t	t	Luulen tämän blpsdt olevan hyvä.	 72.70	  81.99	Luulen tämän blpsdt olevan hyvä.	Mix	1404	0	0.97
+1438008402.606	5307	35	9	125	ä	adiaeresis	Luulen tämän blpsdt olevan hyvä.	 72.70	  81.99	Luulen tämän blpsdt olevan hyvä.	Mix	1529	0	0.97
+1438008402.668	5307	35	10	62	m	m	Luulen tämän blpsdt olevan hyvä.	 72.70	  81.99	Luulen tämän blpsdt olevan hyvä.	Mix	1591	0	0.97
+1438008402.793	5307	35	11	125	ä	adiaeresis	Luulen tämän blpsdt olevan hyvä.	 72.70	  81.99	Luulen tämän blpsdt olevan hyvä.	Mix	1716	0	0.97
+1438008402.887	5307	35	12	94	n	n	Luulen tämän blpsdt olevan hyvä.	 72.70	  81.99	Luulen tämän blpsdt olevan hyvä.	Mix	1810	0	0.97
+1438008403.012	5307	35	13	125	_	space	Luulen tämän blpsdt olevan hyvä.	 72.70	  81.99	Luulen tämän blpsdt olevan hyvä.	Mix	1935	0	0.97
+1438008403.199	5307	35	14	186	b	b	Luulen tämän blpsdt olevan hyvä.	 72.70	  81.99	Luulen tämän blpsdt olevan hyvä.	Mix	2121	0	0.97
+1438008403.292	5307	35	15	94	l	l	Luulen tämän blpsdt olevan hyvä.	 72.70	  81.99	Luulen tämän blpsdt olevan hyvä.	Mix	2215	0	0.97
+1438008403.573	5307	35	16	281	p	p	Luulen tämän blpsdt olevan hyvä.	 72.70	  81.99	Luulen tämän blpsdt olevan hyvä.	Mix	2496	0	0.97
+1438008403.854	5307	35	17	281	s	s	Luulen tämän blpsdt olevan hyvä.	 72.70	  81.99	Luulen tämän blpsdt olevan hyvä.	Mix	2777	0	0.97
+1438008403.948	5307	35	18	94	d	d	Luulen tämän blpsdt olevan hyvä.	 72.70	  81.99	Luulen tämän blpsdt olevan hyvä.	Mix	2871	0	0.97
+1438008404.26	5307	35	19	312	t	t	Luulen tämän blpsdt olevan hyvä.	 72.70	  81.99	Luulen tämän blpsdt olevan hyvä.	Mix	3183	0	0.97
+1438008404.416	5307	35	20	155	_	space	Luulen tämän blpsdt olevan hyvä.	 72.70	  81.99	Luulen tämän blpsdt olevan hyvä.	Mix	3338	0	0.97
+1438008404.603	5307	35	21	188	o	o	Luulen tämän blpsdt olevan hyvä.	 72.70	  81.99	Luulen tämän blpsdt olevan hyvä.	Mix	3526	0	0.97
+1438008404.759	5307	35	22	156	l	l	Luulen tämän blpsdt olevan hyvä.	 72.70	  81.99	Luulen tämän blpsdt olevan hyvä.	Mix	3682	0	0.97
+1438008404.852	5307	35	23	93	e	e	Luulen tämän blpsdt olevan hyvä.	 72.70	  81.99	Luulen tämän blpsdt olevan hyvä.	Mix	3775	0	0.97
+1438008404.915	5307	35	24	63	v	v	Luulen tämän blpsdt olevan hyvä.	 72.70	  81.99	Luulen tämän blpsdt olevan hyvä.	Mix	3838	0	0.97
+1438008405.071	5307	35	25	156	a	a	Luulen tämän blpsdt olevan hyvä.	 72.70	  81.99	Luulen tämän blpsdt olevan hyvä.	Mix	3994	0	0.97
+1438008405.133	5307	35	26	61	n	n	Luulen tämän blpsdt olevan hyvä.	 72.70	  81.99	Luulen tämän blpsdt olevan hyvä.	Mix	4055	0	0.97
+1438008405.258	5307	35	27	125	_	space	Luulen tämän blpsdt olevan hyvä.	 72.70	  81.99	Luulen tämän blpsdt olevan hyvä.	Mix	4180	0	0.97
+1438008405.601	5307	35	28	344	h	h	Luulen tämän blpsdt olevan hyvä.	 72.70	  81.99	Luulen tämän blpsdt olevan hyvä.	Mix	4524	0	0.97
+1438008405.757	5307	35	29	156	y	y	Luulen tämän blpsdt olevan hyvä.	 72.70	  81.99	Luulen tämän blpsdt olevan hyvä.	Mix	4680	0	0.97
+1438008405.851	5307	35	30	94	v	v	Luulen tämän blpsdt olevan hyvä.	 72.70	  81.99	Luulen tämän blpsdt olevan hyvä.	Mix	4774	0	0.97
+1438008405.944	5307	35	31	93	ä	adiaeresis	Luulen tämän blpsdt olevan hyvä.	 72.70	  81.99	Luulen tämän blpsdt olevan hyvä.	Mix	4867	0	0.97
+1438008406.194	5307	35	32	250	.	period	Luulen tämän blpsdt olevan hyvä.	 72.70	  81.99	Luulen tämän blpsdt olevan hyvä.	Mix	5117	0	0.97
+1438008408.253	5307	36	0	0	Shift_L	Shift_L	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	0	0	0.92
+1438008408.44	5307	36	1	187	T	T	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	187	0	0.92
+1438008408.721	5307	36	2	280	o	o	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	467	0	0.92
+1438008408.815	5307	36	3	95	i	i	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	562	0	0.92
+1438008409.033	5307	36	4	217	v	v	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	779	0	0.92
+1438008409.158	5307	36	5	125	o	o	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	904	0	0.92
+1438008409.252	5307	36	6	95	n	n	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	999	0	0.92
+1438008409.345	5307	36	7	93	_	space	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	1092	0	0.92
+1438008409.564	5307	36	8	218	e	e	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	1310	0	0.92
+1438008409.626	5307	36	9	62	t	t	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	1372	0	0.92
+1438008409.813	5307	36	10	187	t	t	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	1559	0	0.92
+1438008409.907	5307	36	11	95	ä	adiaeresis	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	1654	0	0.92
+1438008410.032	5307	36	12	125	_	space	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	1779	0	0.92
+1438008410.219	5307	36	13	187	o	o	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	1966	0	0.92
+1438008410.375	5307	36	14	155	x	x	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	2121	0	0.92
+1438008410.687	5307	36	15	313	v	v	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	2434	0	0.92
+1438008411.529	5307	36	16	842		BackSpace	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	3276	0	0.92
+1438008411.56	5307	36	17	30	b	b	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	3306	0	0.92
+1438008411.685	5307	36	18	125	c	c	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	3431	0	0.92
+1438008412.528	5307	36	19	844	q	q	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	4275	0	0.92
+1438008412.684	5307	36	20	155	h	h	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	4430	0	0.92
+1438008412.84	5307	36	21	156	_	space	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	4586	0	0.92
+1438008413.058	5307	36	22	219	v	v	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	4805	0	0.92
+1438008413.152	5307	36	23	93	o	o	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	4898	0	0.92
+1438008413.183	5307	36	24	32	i	i	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	4930	0	0.92
+1438008413.308	5307	36	25	125	t	t	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	5055	0	0.92
+1438008413.401	5307	36	26	93	_	space	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	5148	0	0.92
+1438008413.526	5307	36	27	125	j	j	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	5273	0	0.92
+1438008413.588	5307	36	28	62	o	o	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	5335	0	0.92
+1438008413.682	5307	36	29	93	_	space	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	5428	0	0.92
+1438008413.9	5307	36	30	219	p	p	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	5647	0	0.92
+1438008414.025	5307	36	31	125	a	a	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	5772	0	0.92
+1438008414.119	5307	36	32	93	r	r	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	5865	0	0.92
+1438008414.15	5307	36	33	32	e	e	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	5897	0	0.92
+1438008414.275	5307	36	34	125	m	m	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	6022	0	0.92
+1438008414.431	5307	36	35	155	m	m	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	6177	0	0.92
+1438008414.524	5307	36	36	93	i	i	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	6270	0	0.92
+1438008414.649	5307	36	37	125	n	n	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	6395	0	0.92
+1438008414.93	5307	36	38	282	.	period	Toivon että oxbcqh voit jo paremmin.	 62.90	 173.24	Toivon että oxbcqh voit jo paremmin.	Mix	6677	0	0.92
+1438008417.261	5307	37	0	0	Shift_L	Shift_L	Mitä sinä zfcspx kuulet?	 51.43	 136.68	Mitä sinä zfcspx kuulet?	Mix	0	0	0.92
+1438008417.76	5307	37	1	499	M	M	Mitä sinä zfcspx kuulet?	 51.43	 136.68	Mitä sinä zfcspx kuulet?	Mix	499	0	0.92
+1438008418.041	5307	37	2	280	i	i	Mitä sinä zfcspx kuulet?	 51.43	 136.68	Mitä sinä zfcspx kuulet?	Mix	779	0	0.92
+1438008418.29	5307	37	3	250	t	t	Mitä sinä zfcspx kuulet?	 51.43	 136.68	Mitä sinä zfcspx kuulet?	Mix	1029	0	0.92
+1438008418.415	5307	37	4	125	ä	adiaeresis	Mitä sinä zfcspx kuulet?	 51.43	 136.68	Mitä sinä zfcspx kuulet?	Mix	1154	0	0.92
+1438008418.509	5307	37	5	94	_	space	Mitä sinä zfcspx kuulet?	 51.43	 136.68	Mitä sinä zfcspx kuulet?	Mix	1248	0	0.92
+1438008418.696	5307	37	6	187	s	s	Mitä sinä zfcspx kuulet?	 51.43	 136.68	Mitä sinä zfcspx kuulet?	Mix	1435	0	0.92
+1438008418.758	5307	37	7	61	i	i	Mitä sinä zfcspx kuulet?	 51.43	 136.68	Mitä sinä zfcspx kuulet?	Mix	1496	0	0.92
+1438008418.883	5307	37	8	125	n	n	Mitä sinä zfcspx kuulet?	 51.43	 136.68	Mitä sinä zfcspx kuulet?	Mix	1621	0	0.92
+1438008418.977	5307	37	9	95	ä	adiaeresis	Mitä sinä zfcspx kuulet?	 51.43	 136.68	Mitä sinä zfcspx kuulet?	Mix	1716	0	0.92
+1438008419.133	5307	37	10	155	_	space	Mitä sinä zfcspx kuulet?	 51.43	 136.68	Mitä sinä zfcspx kuulet?	Mix	1871	0	0.92
+1438008419.507	5307	37	11	375	z	z	Mitä sinä zfcspx kuulet?	 51.43	 136.68	Mitä sinä zfcspx kuulet?	Mix	2246	0	0.92
+1438008420.131	5307	37	12	624	f	f	Mitä sinä zfcspx kuulet?	 51.43	 136.68	Mitä sinä zfcspx kuulet?	Mix	2870	0	0.92
+1438008420.506	5307	37	13	375	c	c	Mitä sinä zfcspx kuulet?	 51.43	 136.68	Mitä sinä zfcspx kuulet?	Mix	3245	0	0.92
+1438008420.755	5307	37	14	249	s	s	Mitä sinä zfcspx kuulet?	 51.43	 136.68	Mitä sinä zfcspx kuulet?	Mix	3494	0	0.92
+1438008420.911	5307	37	15	156	p	p	Mitä sinä zfcspx kuulet?	 51.43	 136.68	Mitä sinä zfcspx kuulet?	Mix	3650	0	0.92
+1438008421.223	5307	37	16	312	x	x	Mitä sinä zfcspx kuulet?	 51.43	 136.68	Mitä sinä zfcspx kuulet?	Mix	3962	0	0.92
+1438008421.442	5307	37	17	218	_	space	Mitä sinä zfcspx kuulet?	 51.43	 136.68	Mitä sinä zfcspx kuulet?	Mix	4180	0	0.92
+1438008421.629	5307	37	18	188	k	k	Mitä sinä zfcspx kuulet?	 51.43	 136.68	Mitä sinä zfcspx kuulet?	Mix	4368	0	0.92
+1438008421.847	5307	37	19	217	u	u	Mitä sinä zfcspx kuulet?	 51.43	 136.68	Mitä sinä zfcspx kuulet?	Mix	4585	0	0.92
+1438008422.003	5307	37	20	157	u	u	Mitä sinä zfcspx kuulet?	 51.43	 136.68	Mitä sinä zfcspx kuulet?	Mix	4742	0	0.92
+1438008422.097	5307	37	21	93	l	l	Mitä sinä zfcspx kuulet?	 51.43	 136.68	Mitä sinä zfcspx kuulet?	Mix	4835	0	0.92
+1438008422.19	5307	37	22	94	e	e	Mitä sinä zfcspx kuulet?	 51.43	 136.68	Mitä sinä zfcspx kuulet?	Mix	4929	0	0.92
+1438008422.284	5307	37	23	94	t	t	Mitä sinä zfcspx kuulet?	 51.43	 136.68	Mitä sinä zfcspx kuulet?	Mix	5023	0	0.92
+1438008422.502	5307	37	24	218	Shift_L	Shift_L	Mitä sinä zfcspx kuulet?	 51.43	 136.68	Mitä sinä zfcspx kuulet?	Mix	5241	0	0.92
+1438008422.627	5307	37	25	125	?	question	Mitä sinä zfcspx kuulet?	 51.43	 136.68	Mitä sinä zfcspx kuulet?	Mix	5366	0	0.92
+1438008424.876	5307	38	0	0	Shift_R	Shift_R	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	0	0	0.91
+1438008425.032	5307	38	1	156	S	S	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	156	0	0.91
+1438008425.375	5307	38	2	343	a	a	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	499	0	0.91
+1438008425.468	5307	38	3	93	i	i	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	592	0	0.91
+1438008425.78	5307	38	4	312	m	m	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	904	0	0.91
+1438008425.936	5307	38	5	156	m	m	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	1060	0	0.91
+1438008426.061	5307	38	6	125	e	e	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	1185	0	0.91
+1438008426.217	5307	38	7	156	k	k	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	1341	0	0.91
+1438008426.28	5307	38	8	63	o	o	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	1404	0	0.91
+1438008426.436	5307	38	9	156	_	space	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	1560	0	0.91
+1438008426.592	5307	38	10	156	o	o	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	1716	0	0.91
+1438008426.654	5307	38	11	62	m	m	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	1778	0	0.91
+1438008426.81	5307	38	12	156	a	a	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	1934	0	0.91
+1438008426.904	5307	38	13	94	m	m	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	2028	0	0.91
+1438008427.091	5307	38	14	187	m	m	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	2215	0	0.91
+1438008427.184	5307	38	15	93	e	e	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	2308	0	0.91
+1438008427.34	5307	38	16	155	_	space	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	2463	0	0.91
+1438008427.746	5307	38	17	407	k	k	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	2870	0	0.91
+1438008427.902	5307	38	18	156	m	m	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	3026	0	0.91
+1438008428.12	5307	38	19	217	r	r	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	3243	0	0.91
+1438008428.308	5307	38	20	189	y	y	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	3432	0	0.91
+1438008428.526	5307	38	21	218	n	n	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	3650	0	0.91
+1438008428.776	5307	38	22	250	j	j	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	3900	0	0.91
+1438008428.963	5307	38	23	187	_	space	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	4087	0	0.91
+1438008429.181	5307	38	24	218	t	t	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	4305	0	0.91
+1438008429.244	5307	38	25	63	a	a	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	4368	0	0.91
+1438008429.337	5307	38	26	92	k	k	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	4460	0	0.91
+1438008429.462	5307	38	27	125	a	a	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	4585	0	0.91
+1438008429.524	5307	38	28	63	i	i	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	4648	0	0.91
+1438008429.68	5307	38	29	156	s	s	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	4804	0	0.91
+1438008429.743	5307	38	30	63	i	i	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	4867	0	0.91
+1438008429.805	5307	38	31	62	n	n	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	4929	0	0.91
+1438008430.055	5307	38	32	250	Shift_L	Shift_L	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	5179	0	0.91
+1438008430.18	5307	38	33	125	?	question	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	5304	0	0.91
+1438008430.367	5307	38	34	187	Shift_L	Shift_L	Saimmeko omamme kmrynj takaisin?	 67.75	  82.64	Saimmeko omamme kmrynj takaisin?	Mix	5491	0	0.91
+1438008431.896	5307	39	0	0	Shift_L	Shift_L	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	0	0	0.95
+1438008432.02	5307	39	1	124	T	T	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	124	0	0.95
+1438008432.301	5307	39	2	281	u	u	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	405	0	0.95
+1438008432.364	5307	39	3	63	l	l	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	468	0	0.95
+1438008432.488	5307	39	4	124	e	e	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	592	0	0.95
+1438008432.582	5307	39	5	94	t	t	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	686	0	0.95
+1438008432.676	5307	39	6	94	k	k	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	780	0	0.95
+1438008432.738	5307	39	7	62	o	o	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	842	0	0.95
+1438008432.832	5307	39	8	94	_	space	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	936	0	0.95
+1438008433.019	5307	39	9	187	k	k	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	1123	0	0.95
+1438008433.081	5307	39	10	62	a	a	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	1185	0	0.95
+1438008433.206	5307	39	11	125	n	n	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	1310	0	0.95
+1438008433.331	5307	39	12	125	n	n	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	1435	0	0.95
+1438008434.048	5307	39	13	717	s	s	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	2152	0	0.95
+1438008434.204	5307	39	14	156	s	s	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	2308	0	0.95
+1438008434.267	5307	39	15	63	a	a	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	2371	0	0.95
+1438008434.454	5307	39	16	187	m	m	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	2558	0	0.95
+1438008434.61	5307	39	17	155	m	m	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	2713	0	0.95
+1438008434.735	5307	39	18	125	e	e	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	2838	0	0.95
+1438008434.828	5307	39	19	94	_	space	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	2932	0	0.95
+1438008435.265	5307	39	20	437	m	m	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	3369	0	0.95
+1438008435.421	5307	39	21	156	k	k	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	3525	0	0.95
+1438008435.64	5307	39	22	219	a	a	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	3744	0	0.95
+1438008435.733	5307	39	23	93	s	s	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	3837	0	0.95
+1438008436.513	5307	39	24	780	c	c	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	4617	0	0.95
+1438008436.95	5307	39	25	437	n	n	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	5054	0	0.95
+1438008437.075	5307	39	26	125	_	space	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	5179	0	0.95
+1438008437.387	5307	39	27	312	l	l	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	5491	0	0.95
+1438008437.605	5307	39	28	218	o	o	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	5709	0	0.95
+1438008437.668	5307	39	29	63	u	u	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	5772	0	0.95
+1438008437.792	5307	39	30	124	n	n	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	5896	0	0.95
+1438008437.886	5307	39	31	94	a	a	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	5990	0	0.95
+1438008438.042	5307	39	32	156	a	a	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	6146	0	0.95
+1438008438.136	5307	39	33	94	l	l	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	6240	0	0.95
+1438008438.292	5307	39	34	156	l	l	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	6396	0	0.95
+1438008438.354	5307	39	35	62	e	e	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	6458	0	0.95
+1438008438.572	5307	39	36	218	Shift_L	Shift_L	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	6676	0	0.95
+1438008438.635	5307	39	37	63	?	question	Tuletko kannssamme mkascn lounaalle?	 62.32	 165.44	Tuletko kannssamme mkascn lounaalle?	Mix	6739	0	0.95
+1438008442.16	5307	40	0	0	Shift_L	Shift_L	Voitko autaa uogwkk minua?	 37.42	 274.95	Voitko autaa uogwkk minua?	Mix	0	0	0.90
+1438008443.128	5307	40	1	967	Shift_L	Shift_L	Voitko autaa uogwkk minua?	 37.42	 274.95	Voitko autaa uogwkk minua?	Mix	967	0	0.90
+1438008443.284	5307	40	2	156	V	V	Voitko autaa uogwkk minua?	 37.42	 274.95	Voitko autaa uogwkk minua?	Mix	1123	0	0.90
+1438008443.908	5307	40	3	624	o	o	Voitko autaa uogwkk minua?	 37.42	 274.95	Voitko autaa uogwkk minua?	Mix	1747	0	0.90
+1438008443.97	5307	40	4	62	i	i	Voitko autaa uogwkk minua?	 37.42	 274.95	Voitko autaa uogwkk minua?	Mix	1809	0	0.90
+1438008444.126	5307	40	5	156	t	t	Voitko autaa uogwkk minua?	 37.42	 274.95	Voitko autaa uogwkk minua?	Mix	1965	0	0.90
+1438008444.282	5307	40	6	156	k	k	Voitko autaa uogwkk minua?	 37.42	 274.95	Voitko autaa uogwkk minua?	Mix	2121	0	0.90
+1438008444.344	5307	40	7	63	o	o	Voitko autaa uogwkk minua?	 37.42	 274.95	Voitko autaa uogwkk minua?	Mix	2184	0	0.90
+1438008444.438	5307	40	8	93	_	space	Voitko autaa uogwkk minua?	 37.42	 274.95	Voitko autaa uogwkk minua?	Mix	2277	0	0.90
+1438008444.688	5307	40	9	250	a	a	Voitko autaa uogwkk minua?	 37.42	 274.95	Voitko autaa uogwkk minua?	Mix	2527	0	0.90
+1438008445.28	5307	40	10	592	u	u	Voitko autaa uogwkk minua?	 37.42	 274.95	Voitko autaa uogwkk minua?	Mix	3119	0	0.90
+1438008445.53	5307	40	11	250	t	t	Voitko autaa uogwkk minua?	 37.42	 274.95	Voitko autaa uogwkk minua?	Mix	3369	0	0.90
+1438008445.592	5307	40	12	62	a	a	Voitko autaa uogwkk minua?	 37.42	 274.95	Voitko autaa uogwkk minua?	Mix	3431	0	0.90
+1438008445.811	5307	40	13	220	a	a	Voitko autaa uogwkk minua?	 37.42	 274.95	Voitko autaa uogwkk minua?	Mix	3651	0	0.90
+1438008446.653	5307	40	14	842	_	space	Voitko autaa uogwkk minua?	 37.42	 274.95	Voitko autaa uogwkk minua?	Mix	4493	0	0.90
+1438008446.965	5307	40	15	311	u	u	Voitko autaa uogwkk minua?	 37.42	 274.95	Voitko autaa uogwkk minua?	Mix	4804	0	0.90
+1438008447.059	5307	40	16	94	o	o	Voitko autaa uogwkk minua?	 37.42	 274.95	Voitko autaa uogwkk minua?	Mix	4898	0	0.90
+1438008447.464	5307	40	17	405	g	g	Voitko autaa uogwkk minua?	 37.42	 274.95	Voitko autaa uogwkk minua?	Mix	5303	0	0.90
+1438008447.776	5307	40	18	312	w	w	Voitko autaa uogwkk minua?	 37.42	 274.95	Voitko autaa uogwkk minua?	Mix	5615	0	0.90
+1438008447.932	5307	40	19	156	k	k	Voitko autaa uogwkk minua?	 37.42	 274.95	Voitko autaa uogwkk minua?	Mix	5771	0	0.90
+1438008448.088	5307	40	20	156	k	k	Voitko autaa uogwkk minua?	 37.42	 274.95	Voitko autaa uogwkk minua?	Mix	5927	0	0.90
+1438008448.213	5307	40	21	125	_	space	Voitko autaa uogwkk minua?	 37.42	 274.95	Voitko autaa uogwkk minua?	Mix	6052	0	0.90
+1438008449.243	5307	40	22	1030	m	m	Voitko autaa uogwkk minua?	 37.42	 274.95	Voitko autaa uogwkk minua?	Mix	7082	0	0.90
+1438008449.524	5307	40	23	281	i	i	Voitko autaa uogwkk minua?	 37.42	 274.95	Voitko autaa uogwkk minua?	Mix	7363	0	0.90
+1438008449.711	5307	40	24	187	n	n	Voitko autaa uogwkk minua?	 37.42	 274.95	Voitko autaa uogwkk minua?	Mix	7550	0	0.90
+1438008449.742	5307	40	25	32	u	u	Voitko autaa uogwkk minua?	 37.42	 274.95	Voitko autaa uogwkk minua?	Mix	7582	0	0.90
+1438008449.836	5307	40	26	93	a	a	Voitko autaa uogwkk minua?	 37.42	 274.95	Voitko autaa uogwkk minua?	Mix	7675	0	0.90
+1438008450.085	5307	40	27	249	Shift_L	Shift_L	Voitko autaa uogwkk minua?	 37.42	 274.95	Voitko autaa uogwkk minua?	Mix	7924	0	0.90
+1438008450.179	5307	40	28	94	?	question	Voitko autaa uogwkk minua?	 37.42	 274.95	Voitko autaa uogwkk minua?	Mix	8018	0	0.90
+1438008458.166	5307	41	0	0	Shift_L	Shift_L	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	0	0	0.98
+1438008458.353	5307	41	1	187	V	V	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	187	0	0.98
+1438008458.665	5307	41	2	312	o	o	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	499	0	0.98
+1438008458.728	5307	41	3	63	i	i	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	562	0	0.98
+1438008458.79	5307	41	4	62	m	m	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	624	0	0.98
+1438008459.008	5307	41	5	218	m	m	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	842	0	0.98
+1438008459.102	5307	41	6	94	e	e	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	936	0	0.98
+1438008459.164	5307	41	7	62	_	space	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	998	0	0.98
+1438008459.352	5307	41	8	188	j	j	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	1186	0	0.98
+1438008459.57	5307	41	9	218	u	u	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	1404	0	0.98
+1438008459.664	5307	41	10	94	o	o	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	1498	0	0.98
+1438008459.726	5307	41	11	62	d	d	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	1560	0	0.98
+1438008459.851	5307	41	12	125	a	a	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	1685	0	0.98
+1438008459.882	5307	41	13	31	_	space	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	1716	0	0.98
+1438008460.069	5307	41	14	187	v	v	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	1903	0	0.98
+1438008460.163	5307	41	15	94	i	i	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	1997	0	0.98
+1438008460.35	5307	41	16	187	i	i	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	2184	0	0.98
+1438008460.444	5307	41	17	94	n	n	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	2278	0	0.98
+1438008460.974	5307	41	18	530	i	i	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	2808	0	0.98
+1438008461.036	5307	41	19	62	ä	adiaeresis	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	2870	0	0.98
+1438008461.192	5307	41	20	156	_	space	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	3026	0	0.98
+1438008462.035	5307	41	21	843	y	y	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	3869	0	0.98
+1438008462.409	5307	41	22	374	n	n	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	4243	0	0.98
+1438008462.534	5307	41	23	125	u	u	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	4368	0	0.98
+1438008462.94	5307	41	24	406	y	y	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	4774	0	0.98
+1438008463.252	5307	41	25	312	q	q	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	5086	0	0.98
+1438008463.657	5307	41	26	405	x	x	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	5491	0	0.98
+1438008463.813	5307	41	27	156	_	space	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	5647	0	0.98
+1438008464	5307	41	28	187	j	j	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	5834	0	0.98
+1438008464.094	5307	41	29	94	a	a	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	5928	0	0.98
+1438008464.188	5307	41	30	94	_	space	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	6022	0	0.98
+1438008464.406	5307	41	31	218	j	j	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	6240	0	0.98
+1438008464.5	5307	41	32	94	a	a	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	6334	0	0.98
+1438008464.624	5307	41	33	124	k	k	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	6458	0	0.98
+1438008464.749	5307	41	34	125	a	a	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	6583	0	0.98
+1438008464.874	5307	41	35	125	a	a	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	6708	0	0.98
+1438008464.968	5307	41	36	94	_	space	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	6802	0	0.98
+1438008465.124	5307	41	37	156	k	k	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	6958	0	0.98
+1438008465.311	5307	41	38	187	u	u	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	7145	0	0.98
+1438008465.467	5307	41	39	156	u	u	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	7301	0	0.98
+1438008465.56	5307	41	40	93	l	l	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	7394	0	0.98
+1438008465.654	5307	41	41	94	u	u	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	7488	0	0.98
+1438008465.904	5307	41	42	250	m	m	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	7738	0	0.98
+1438008465.966	5307	41	43	62	i	i	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	7800	0	0.98
+1438008466.091	5307	41	44	125	s	s	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	7925	0	0.98
+1438008466.184	5307	41	45	93	i	i	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	8018	0	0.98
+1438008466.278	5307	41	46	94	a	a	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	8112	0	0.98
+1438008466.621	5307	41	47	343	.	period	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	 65.29	 146.52	Voimme juoda viiniä ynuyqx ja jakaa kuulumisia.	Mix	8455	0	0.98
+1438008467.932	5307	42	0	0	Shift_L	Shift_L	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	0	0	0.95
+1438008468.056	5307	42	1	124	L	L	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	124	0	0.95
+1438008468.244	5307	42	2	188	ä	adiaeresis	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	312	0	0.95
+1438008468.462	5307	42	3	217	h	h	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	529	0	0.95
+1438008468.556	5307	42	4	95	e	e	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	624	0	0.95
+1438008468.649	5307	42	5	93	t	t	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	717	0	0.95
+1438008468.836	5307	42	6	187	t	t	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	904	0	0.95
+1438008468.899	5307	42	7	63	ä	adiaeresis	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	967	0	0.95
+1438008469.055	5307	42	8	156	i	i	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	1123	0	0.95
+1438008469.367	5307	42	9	312	s	s	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	1435	0	0.95
+1438008469.429	5307	42	10	61	i	i	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	1496	0	0.95
+1438008469.616	5307	42	11	188	t	t	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	1684	0	0.95
+1438008469.741	5307	42	12	125	k	k	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	1809	0	0.95
+1438008469.772	5307	42	13	31	ö	odiaeresis	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	1840	0	0.95
+1438008469.866	5307	42	14	94	_	space	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	1934	0	0.95
+1438008470.209	5307	42	15	343	b	b	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	2277	0	0.95
+1438008470.396	5307	42	16	186	n	n	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	2463	0	0.95
+1438008470.521	5307	42	17	125	a	a	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	2588	0	0.95
+1438008470.802	5307	42	18	282	d	d	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	2870	0	0.95
+1438008471.115	5307	42	19	313	t	t	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	3183	0	0.95
+1438008471.396	5307	42	20	280	v	v	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	3463	0	0.95
+1438008471.521	5307	42	21	125	_	space	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	3588	0	0.95
+1438008471.677	5307	42	22	157	m	m	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	3745	0	0.95
+1438008471.895	5307	42	23	218	i	i	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	3963	0	0.95
+1438008472.051	5307	42	24	156	n	n	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	4119	0	0.95
+1438008472.145	5307	42	25	94	u	u	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	4213	0	0.95
+1438008472.363	5307	42	26	217	l	l	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	4430	0	0.95
+1438008472.519	5307	42	27	157	l	l	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	4587	0	0.95
+1438008472.582	5307	42	28	63	e	e	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	4650	0	0.95
+1438008472.675	5307	42	29	93	_	space	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	4743	0	0.95
+1438008472.862	5307	42	30	187	s	s	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	4930	0	0.95
+1438008472.987	5307	42	31	125	ä	adiaeresis	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	5055	0	0.95
+1438008473.143	5307	42	32	155	h	h	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	5210	0	0.95
+1438008473.424	5307	42	33	282	k	k	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	5492	0	0.95
+1438008473.455	5307	42	34	31	ö	odiaeresis	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	5523	0	0.95
+1438008473.705	5307	42	35	250	p	p	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	5773	0	0.95
+1438008473.767	5307	42	36	62	o	o	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	5835	0	0.95
+1438008473.861	5307	42	37	94	s	s	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	5929	0	0.95
+1438008473.954	5307	42	38	93	t	t	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	6022	0	0.95
+1438008474.017	5307	42	39	63	i	i	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	6085	0	0.95
+1438008474.142	5307	42	40	125	a	a	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	6210	0	0.95
+1438008474.391	5307	42	41	249	Shift_L	Shift_L	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	6459	0	0.95
+1438008474.485	5307	42	42	93	?	question	Lähettäisitkö bnadtv minulle sähköpostia?	 73.26	  82.16	Lähettäisitkö bnadtv minulle sähköpostia?	Mix	6552	0	0.95
+1438008475.764	5307	43	0	0	Shift_L	Shift_L	Kokeilen ophxwt uudestaan.	 65.86	  87.18	Kokeilen ophxwt uudestaan.	Mix	0	0	0.96
+1438008475.889	5307	43	1	125	K	K	Kokeilen ophxwt uudestaan.	 65.86	  87.18	Kokeilen ophxwt uudestaan.	Mix	125	0	0.96
+1438008476.076	5307	43	2	187	o	o	Kokeilen ophxwt uudestaan.	 65.86	  87.18	Kokeilen ophxwt uudestaan.	Mix	312	0	0.96
+1438008476.232	5307	43	3	156	k	k	Kokeilen ophxwt uudestaan.	 65.86	  87.18	Kokeilen ophxwt uudestaan.	Mix	468	0	0.96
+1438008476.357	5307	43	4	125	e	e	Kokeilen ophxwt uudestaan.	 65.86	  87.18	Kokeilen ophxwt uudestaan.	Mix	593	0	0.96
+1438008476.513	5307	43	5	156	i	i	Kokeilen ophxwt uudestaan.	 65.86	  87.18	Kokeilen ophxwt uudestaan.	Mix	749	0	0.96
+1438008476.575	5307	43	6	62	l	l	Kokeilen ophxwt uudestaan.	 65.86	  87.18	Kokeilen ophxwt uudestaan.	Mix	811	0	0.96
+1438008476.7	5307	43	7	125	e	e	Kokeilen ophxwt uudestaan.	 65.86	  87.18	Kokeilen ophxwt uudestaan.	Mix	936	0	0.96
+1438008476.856	5307	43	8	156	n	n	Kokeilen ophxwt uudestaan.	 65.86	  87.18	Kokeilen ophxwt uudestaan.	Mix	1092	0	0.96
+1438008476.95	5307	43	9	94	_	space	Kokeilen ophxwt uudestaan.	 65.86	  87.18	Kokeilen ophxwt uudestaan.	Mix	1186	0	0.96
+1438008477.262	5307	43	10	312	o	o	Kokeilen ophxwt uudestaan.	 65.86	  87.18	Kokeilen ophxwt uudestaan.	Mix	1498	0	0.96
+1438008477.511	5307	43	11	248	p	p	Kokeilen ophxwt uudestaan.	 65.86	  87.18	Kokeilen ophxwt uudestaan.	Mix	1746	0	0.96
+1438008477.73	5307	43	12	220	h	h	Kokeilen ophxwt uudestaan.	 65.86	  87.18	Kokeilen ophxwt uudestaan.	Mix	1966	0	0.96
+1438008478.166	5307	43	13	435	x	x	Kokeilen ophxwt uudestaan.	 65.86	  87.18	Kokeilen ophxwt uudestaan.	Mix	2401	0	0.96
+1438008478.416	5307	43	14	250	w	w	Kokeilen ophxwt uudestaan.	 65.86	  87.18	Kokeilen ophxwt uudestaan.	Mix	2651	0	0.96
+1438008478.697	5307	43	15	282	t	t	Kokeilen ophxwt uudestaan.	 65.86	  87.18	Kokeilen ophxwt uudestaan.	Mix	2933	0	0.96
+1438008478.822	5307	43	16	125	_	space	Kokeilen ophxwt uudestaan.	 65.86	  87.18	Kokeilen ophxwt uudestaan.	Mix	3058	0	0.96
+1438008479.102	5307	43	17	280	u	u	Kokeilen ophxwt uudestaan.	 65.86	  87.18	Kokeilen ophxwt uudestaan.	Mix	3338	0	0.96
+1438008479.258	5307	43	18	155	u	u	Kokeilen ophxwt uudestaan.	 65.86	  87.18	Kokeilen ophxwt uudestaan.	Mix	3493	0	0.96
+1438008479.352	5307	43	19	95	d	d	Kokeilen ophxwt uudestaan.	 65.86	  87.18	Kokeilen ophxwt uudestaan.	Mix	3588	0	0.96
+1438008479.446	5307	43	20	94	e	e	Kokeilen ophxwt uudestaan.	 65.86	  87.18	Kokeilen ophxwt uudestaan.	Mix	3682	0	0.96
+1438008479.57	5307	43	21	123	s	s	Kokeilen ophxwt uudestaan.	 65.86	  87.18	Kokeilen ophxwt uudestaan.	Mix	3805	0	0.96
+1438008479.758	5307	43	22	188	t	t	Kokeilen ophxwt uudestaan.	 65.86	  87.18	Kokeilen ophxwt uudestaan.	Mix	3993	0	0.96
+1438008479.82	5307	43	23	62	a	a	Kokeilen ophxwt uudestaan.	 65.86	  87.18	Kokeilen ophxwt uudestaan.	Mix	4055	0	0.96
+1438008480.038	5307	43	24	219	a	a	Kokeilen ophxwt uudestaan.	 65.86	  87.18	Kokeilen ophxwt uudestaan.	Mix	4274	0	0.96
+1438008480.132	5307	43	25	94	n	n	Kokeilen ophxwt uudestaan.	 65.86	  87.18	Kokeilen ophxwt uudestaan.	Mix	4368	0	0.96
+1438008480.319	5307	43	26	187	.	period	Kokeilen ophxwt uudestaan.	 65.86	  87.18	Kokeilen ophxwt uudestaan.	Mix	4555	0	0.96
+1438008481.754	5307	44	0	0	Shift_R	Shift_R	Se olisi qjrpgt hienoa.	 66.58	 118.67	Se olisi qjrpgt hienoa.	Mix	0	0	0.96
+1438008481.848	5307	44	1	94	S	S	Se olisi qjrpgt hienoa.	 66.58	 118.67	Se olisi qjrpgt hienoa.	Mix	94	0	0.96
+1438008482.222	5307	44	2	373	e	e	Se olisi qjrpgt hienoa.	 66.58	 118.67	Se olisi qjrpgt hienoa.	Mix	467	0	0.96
+1438008482.285	5307	44	3	64	_	space	Se olisi qjrpgt hienoa.	 66.58	 118.67	Se olisi qjrpgt hienoa.	Mix	531	0	0.96
+1438008482.441	5307	44	4	156	o	o	Se olisi qjrpgt hienoa.	 66.58	 118.67	Se olisi qjrpgt hienoa.	Mix	687	0	0.96
+1438008482.659	5307	44	5	217	l	l	Se olisi qjrpgt hienoa.	 66.58	 118.67	Se olisi qjrpgt hienoa.	Mix	904	0	0.96
+1438008482.69	5307	44	6	32	i	i	Se olisi qjrpgt hienoa.	 66.58	 118.67	Se olisi qjrpgt hienoa.	Mix	936	0	0.96
+1438008482.815	5307	44	7	125	s	s	Se olisi qjrpgt hienoa.	 66.58	 118.67	Se olisi qjrpgt hienoa.	Mix	1061	0	0.96
+1438008482.94	5307	44	8	125	i	i	Se olisi qjrpgt hienoa.	 66.58	 118.67	Se olisi qjrpgt hienoa.	Mix	1186	0	0.96
+1438008483.034	5307	44	9	93	_	space	Se olisi qjrpgt hienoa.	 66.58	 118.67	Se olisi qjrpgt hienoa.	Mix	1279	0	0.96
+1438008483.502	5307	44	10	469	q	q	Se olisi qjrpgt hienoa.	 66.58	 118.67	Se olisi qjrpgt hienoa.	Mix	1748	0	0.96
+1438008483.626	5307	44	11	123	j	j	Se olisi qjrpgt hienoa.	 66.58	 118.67	Se olisi qjrpgt hienoa.	Mix	1871	0	0.96
+1438008483.938	5307	44	12	313	r	r	Se olisi qjrpgt hienoa.	 66.58	 118.67	Se olisi qjrpgt hienoa.	Mix	2184	0	0.96
+1438008484.188	5307	44	13	250	p	p	Se olisi qjrpgt hienoa.	 66.58	 118.67	Se olisi qjrpgt hienoa.	Mix	2434	0	0.96
+1438008484.438	5307	44	14	250	g	g	Se olisi qjrpgt hienoa.	 66.58	 118.67	Se olisi qjrpgt hienoa.	Mix	2684	0	0.96
+1438008484.656	5307	44	15	217	t	t	Se olisi qjrpgt hienoa.	 66.58	 118.67	Se olisi qjrpgt hienoa.	Mix	2901	0	0.96
+1438008484.752	5307	44	16	97	_	space	Se olisi qjrpgt hienoa.	 66.58	 118.67	Se olisi qjrpgt hienoa.	Mix	2998	0	0.96
+1438008485.126	5307	44	17	373	h	h	Se olisi qjrpgt hienoa.	 66.58	 118.67	Se olisi qjrpgt hienoa.	Mix	3371	0	0.96
+1438008485.188	5307	44	18	63	i	i	Se olisi qjrpgt hienoa.	 66.58	 118.67	Se olisi qjrpgt hienoa.	Mix	3434	0	0.96
+1438008485.251	5307	44	19	62	e	e	Se olisi qjrpgt hienoa.	 66.58	 118.67	Se olisi qjrpgt hienoa.	Mix	3496	0	0.96
+1438008485.407	5307	44	20	157	n	n	Se olisi qjrpgt hienoa.	 66.58	 118.67	Se olisi qjrpgt hienoa.	Mix	3653	0	0.96
+1438008485.469	5307	44	21	62	o	o	Se olisi qjrpgt hienoa.	 66.58	 118.67	Se olisi qjrpgt hienoa.	Mix	3715	0	0.96
+1438008485.532	5307	44	22	63	a	a	Se olisi qjrpgt hienoa.	 66.58	 118.67	Se olisi qjrpgt hienoa.	Mix	3778	0	0.96
+1438008485.719	5307	44	23	187	.	period	Se olisi qjrpgt hienoa.	 66.58	 118.67	Se olisi qjrpgt hienoa.	Mix	3965	0	0.96
+1438008487.062	5307	45	0	0	Shift_L	Shift_L	Ota mitä awnjvd vain voit.	 64.10	 141.57	Ota mitä awnjvd vain voit.	Mix	0	0	0.90
+1438008487.125	5307	45	1	62	O	O	Ota mitä awnjvd vain voit.	 64.10	 141.57	Ota mitä awnjvd vain voit.	Mix	62	0	0.90
+1438008487.374	5307	45	2	250	t	t	Ota mitä awnjvd vain voit.	 64.10	 141.57	Ota mitä awnjvd vain voit.	Mix	312	0	0.90
+1438008487.406	5307	45	3	31	a	a	Ota mitä awnjvd vain voit.	 64.10	 141.57	Ota mitä awnjvd vain voit.	Mix	343	0	0.90
+1438008487.53	5307	45	4	124	_	space	Ota mitä awnjvd vain voit.	 64.10	 141.57	Ota mitä awnjvd vain voit.	Mix	467	0	0.90
+1438008487.686	5307	45	5	157	m	m	Ota mitä awnjvd vain voit.	 64.10	 141.57	Ota mitä awnjvd vain voit.	Mix	624	0	0.90
+1438008487.749	5307	45	6	63	i	i	Ota mitä awnjvd vain voit.	 64.10	 141.57	Ota mitä awnjvd vain voit.	Mix	687	0	0.90
+1438008487.874	5307	45	7	125	t	t	Ota mitä awnjvd vain voit.	 64.10	 141.57	Ota mitä awnjvd vain voit.	Mix	812	0	0.90
+1438008487.967	5307	45	8	92	ä	adiaeresis	Ota mitä awnjvd vain voit.	 64.10	 141.57	Ota mitä awnjvd vain voit.	Mix	904	0	0.90
+1438008488.092	5307	45	9	125	_	space	Ota mitä awnjvd vain voit.	 64.10	 141.57	Ota mitä awnjvd vain voit.	Mix	1029	0	0.90
+1438008488.498	5307	45	10	406	a	a	Ota mitä awnjvd vain voit.	 64.10	 141.57	Ota mitä awnjvd vain voit.	Mix	1435	0	0.90
+1438008488.934	5307	45	11	436	w	w	Ota mitä awnjvd vain voit.	 64.10	 141.57	Ota mitä awnjvd vain voit.	Mix	1871	0	0.90
+1438008489.184	5307	45	12	250	n	n	Ota mitä awnjvd vain voit.	 64.10	 141.57	Ota mitä awnjvd vain voit.	Mix	2121	0	0.90
+1438008489.465	5307	45	13	281	j	j	Ota mitä awnjvd vain voit.	 64.10	 141.57	Ota mitä awnjvd vain voit.	Mix	2402	0	0.90
+1438008489.714	5307	45	14	249	v	v	Ota mitä awnjvd vain voit.	 64.10	 141.57	Ota mitä awnjvd vain voit.	Mix	2651	0	0.90
+1438008489.839	5307	45	15	125	v	v	Ota mitä awnjvd vain voit.	 64.10	 141.57	Ota mitä awnjvd vain voit.	Mix	2776	0	0.90
+1438008490.494	5307	45	16	655		BackSpace	Ota mitä awnjvd vain voit.	 64.10	 141.57	Ota mitä awnjvd vain voit.	Mix	3431	0	0.90
+1438008490.557	5307	45	17	63	d	d	Ota mitä awnjvd vain voit.	 64.10	 141.57	Ota mitä awnjvd vain voit.	Mix	3494	0	0.90
+1438008490.65	5307	45	18	94	_	space	Ota mitä awnjvd vain voit.	 64.10	 141.57	Ota mitä awnjvd vain voit.	Mix	3588	0	0.90
+1438008490.931	5307	45	19	280	v	v	Ota mitä awnjvd vain voit.	 64.10	 141.57	Ota mitä awnjvd vain voit.	Mix	3868	0	0.90
+1438008490.994	5307	45	20	63	a	a	Ota mitä awnjvd vain voit.	 64.10	 141.57	Ota mitä awnjvd vain voit.	Mix	3931	0	0.90
+1438008491.056	5307	45	21	62	i	i	Ota mitä awnjvd vain voit.	 64.10	 141.57	Ota mitä awnjvd vain voit.	Mix	3993	0	0.90
+1438008491.15	5307	45	22	95	n	n	Ota mitä awnjvd vain voit.	 64.10	 141.57	Ota mitä awnjvd vain voit.	Mix	4088	0	0.90
+1438008491.243	5307	45	23	92	_	space	Ota mitä awnjvd vain voit.	 64.10	 141.57	Ota mitä awnjvd vain voit.	Mix	4180	0	0.90
+1438008491.337	5307	45	24	94	v	v	Ota mitä awnjvd vain voit.	 64.10	 141.57	Ota mitä awnjvd vain voit.	Mix	4274	0	0.90
+1438008491.462	5307	45	25	125	o	o	Ota mitä awnjvd vain voit.	 64.10	 141.57	Ota mitä awnjvd vain voit.	Mix	4399	0	0.90
+1438008491.524	5307	45	26	62	i	i	Ota mitä awnjvd vain voit.	 64.10	 141.57	Ota mitä awnjvd vain voit.	Mix	4461	0	0.90
+1438008491.618	5307	45	27	94	t	t	Ota mitä awnjvd vain voit.	 64.10	 141.57	Ota mitä awnjvd vain voit.	Mix	4555	0	0.90
+1438008491.742	5307	45	28	125	.	period	Ota mitä awnjvd vain voit.	 64.10	 141.57	Ota mitä awnjvd vain voit.	Mix	4680	0	0.90
+1438008492.99	5307	46	0	0	Shift_L	Shift_L	Mikä vtljjo tämä on?	 76.95	  63.12	Mikä vtljjo tämä on?	Mix	0	0	0.91
+1438008493.115	5307	46	1	125	M	M	Mikä vtljjo tämä on?	 76.95	  63.12	Mikä vtljjo tämä on?	Mix	125	0	0.91
+1438008493.302	5307	46	2	187	i	i	Mikä vtljjo tämä on?	 76.95	  63.12	Mikä vtljjo tämä on?	Mix	312	0	0.91
+1438008493.49	5307	46	3	188	k	k	Mikä vtljjo tämä on?	 76.95	  63.12	Mikä vtljjo tämä on?	Mix	500	0	0.91
+1438008493.552	5307	46	4	62	ä	adiaeresis	Mikä vtljjo tämä on?	 76.95	  63.12	Mikä vtljjo tämä on?	Mix	562	0	0.91
+1438008493.677	5307	46	5	125	_	space	Mikä vtljjo tämä on?	 76.95	  63.12	Mikä vtljjo tämä on?	Mix	687	0	0.91
+1438008493.895	5307	46	6	217	v	v	Mikä vtljjo tämä on?	 76.95	  63.12	Mikä vtljjo tämä on?	Mix	904	0	0.91
+1438008494.176	5307	46	7	282	t	t	Mikä vtljjo tämä on?	 76.95	  63.12	Mikä vtljjo tämä on?	Mix	1186	0	0.91
+1438008494.301	5307	46	8	125	l	l	Mikä vtljjo tämä on?	 76.95	  63.12	Mikä vtljjo tämä on?	Mix	1311	0	0.91
+1438008494.519	5307	46	9	218	j	j	Mikä vtljjo tämä on?	 76.95	  63.12	Mikä vtljjo tämä on?	Mix	1529	0	0.91
+1438008494.706	5307	46	10	187	j	j	Mikä vtljjo tämä on?	 76.95	  63.12	Mikä vtljjo tämä on?	Mix	1716	0	0.91
+1438008494.738	5307	46	11	31	o	o	Mikä vtljjo tämä on?	 76.95	  63.12	Mikä vtljjo tämä on?	Mix	1747	0	0.91
+1438008494.894	5307	46	12	157	_	space	Mikä vtljjo tämä on?	 76.95	  63.12	Mikä vtljjo tämä on?	Mix	1904	0	0.91
+1438008495.018	5307	46	13	123	t	t	Mikä vtljjo tämä on?	 76.95	  63.12	Mikä vtljjo tämä on?	Mix	2027	0	0.91
+1438008495.112	5307	46	14	94	ä	adiaeresis	Mikä vtljjo tämä on?	 76.95	  63.12	Mikä vtljjo tämä on?	Mix	2121	0	0.91
+1438008495.206	5307	46	15	95	m	m	Mikä vtljjo tämä on?	 76.95	  63.12	Mikä vtljjo tämä on?	Mix	2216	0	0.91
+1438008495.299	5307	46	16	93	ä	adiaeresis	Mikä vtljjo tämä on?	 76.95	  63.12	Mikä vtljjo tämä on?	Mix	2309	0	0.91
+1438008495.424	5307	46	17	125	_	space	Mikä vtljjo tämä on?	 76.95	  63.12	Mikä vtljjo tämä on?	Mix	2434	0	0.91
+1438008495.58	5307	46	18	155	o	o	Mikä vtljjo tämä on?	 76.95	  63.12	Mikä vtljjo tämä on?	Mix	2589	0	0.91
+1438008495.642	5307	46	19	62	n	n	Mikä vtljjo tämä on?	 76.95	  63.12	Mikä vtljjo tämä on?	Mix	2651	0	0.91
+1438008495.861	5307	46	20	220	Shift_L	Shift_L	Mikä vtljjo tämä on?	 76.95	  63.12	Mikä vtljjo tämä on?	Mix	2871	0	0.91
+1438008495.954	5307	46	21	92	?	question	Mikä vtljjo tämä on?	 76.95	  63.12	Mikä vtljjo tämä on?	Mix	2963	0	0.91
+1438008497.015	5307	47	0	0	Shift_L	Shift_L	Kuinka yrchgp niin?	 49.46	 152.45	Kuinka yrchgp niin?	Mix	0	0	0.76
+1438008497.109	5307	47	1	93	K	K	Kuinka yrchgp niin?	 49.46	 152.45	Kuinka yrchgp niin?	Mix	93	0	0.76
+1438008497.296	5307	47	2	187	u	u	Kuinka yrchgp niin?	 49.46	 152.45	Kuinka yrchgp niin?	Mix	280	0	0.76
+1438008497.358	5307	47	3	62	i	i	Kuinka yrchgp niin?	 49.46	 152.45	Kuinka yrchgp niin?	Mix	342	0	0.76
+1438008497.608	5307	47	4	250	n	n	Kuinka yrchgp niin?	 49.46	 152.45	Kuinka yrchgp niin?	Mix	592	0	0.76
+1438008497.67	5307	47	5	62	k	k	Kuinka yrchgp niin?	 49.46	 152.45	Kuinka yrchgp niin?	Mix	654	0	0.76
+1438008497.764	5307	47	6	94	a	a	Kuinka yrchgp niin?	 49.46	 152.45	Kuinka yrchgp niin?	Mix	748	0	0.76
+1438008497.858	5307	47	7	94	_	space	Kuinka yrchgp niin?	 49.46	 152.45	Kuinka yrchgp niin?	Mix	842	0	0.76
+1438008498.107	5307	47	8	250	u	u	Kuinka yrchgp niin?	 49.46	 152.45	Kuinka yrchgp niin?	Mix	1092	0	0.76
+1438008498.107	5307	47	9	0	y	y	Kuinka yrchgp niin?	 49.46	 152.45	Kuinka yrchgp niin?	Mix	1092	0	0.76
+1438008498.856	5307	47	10	748		BackSpace	Kuinka yrchgp niin?	 49.46	 152.45	Kuinka yrchgp niin?	Mix	1840	0	0.76
+1438008498.981	5307	47	11	125		BackSpace	Kuinka yrchgp niin?	 49.46	 152.45	Kuinka yrchgp niin?	Mix	1965	0	0.76
+1438008499.262	5307	47	12	281	y	y	Kuinka yrchgp niin?	 49.46	 152.45	Kuinka yrchgp niin?	Mix	2246	0	0.76
+1438008499.355	5307	47	13	93	r	r	Kuinka yrchgp niin?	 49.46	 152.45	Kuinka yrchgp niin?	Mix	2339	0	0.76
+1438008499.574	5307	47	14	219	c	c	Kuinka yrchgp niin?	 49.46	 152.45	Kuinka yrchgp niin?	Mix	2558	0	0.76
+1438008499.948	5307	47	15	374	h	h	Kuinka yrchgp niin?	 49.46	 152.45	Kuinka yrchgp niin?	Mix	2932	0	0.76
+1438008500.291	5307	47	16	343	g	g	Kuinka yrchgp niin?	 49.46	 152.45	Kuinka yrchgp niin?	Mix	3275	0	0.76
+1438008500.541	5307	47	17	250	p	p	Kuinka yrchgp niin?	 49.46	 152.45	Kuinka yrchgp niin?	Mix	3525	0	0.76
+1438008500.666	5307	47	18	125	_	space	Kuinka yrchgp niin?	 49.46	 152.45	Kuinka yrchgp niin?	Mix	3650	0	0.76
+1438008500.822	5307	47	19	156	n	n	Kuinka yrchgp niin?	 49.46	 152.45	Kuinka yrchgp niin?	Mix	3806	0	0.76
+1438008500.884	5307	47	20	62	i	i	Kuinka yrchgp niin?	 49.46	 152.45	Kuinka yrchgp niin?	Mix	3868	0	0.76
+1438008501.071	5307	47	21	187	i	i	Kuinka yrchgp niin?	 49.46	 152.45	Kuinka yrchgp niin?	Mix	4055	0	0.76
+1438008501.134	5307	47	22	63	n	n	Kuinka yrchgp niin?	 49.46	 152.45	Kuinka yrchgp niin?	Mix	4118	0	0.76
+1438008501.29	5307	47	23	156	Shift_L	Shift_L	Kuinka yrchgp niin?	 49.46	 152.45	Kuinka yrchgp niin?	Mix	4274	0	0.76
+1438008501.383	5307	47	24	93	?	question	Kuinka yrchgp niin?	 49.46	 152.45	Kuinka yrchgp niin?	Mix	4367	0	0.76
+1438008502.725	5307	48	0	0	Shift_L	Shift_L	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	0	0	0.97
+1438008502.818	5307	48	1	93	K	K	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	93	0	0.97
+1438008503.13	5307	48	2	312	u	u	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	405	0	0.97
+1438008503.193	5307	48	3	63	i	i	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	468	0	0.97
+1438008503.411	5307	48	4	218	n	n	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	686	0	0.97
+1438008503.505	5307	48	5	94	k	k	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	780	0	0.97
+1438008503.598	5307	48	6	93	a	a	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	873	0	0.97
+1438008503.692	5307	48	7	94	_	space	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	967	0	0.97
+1438008503.973	5307	48	8	281	p	p	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	1248	0	0.97
+1438008504.066	5307	48	9	93	i	i	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	1341	0	0.97
+1438008504.285	5307	48	10	219	a	a	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	1560	0	0.97
+1438008504.378	5307	48	11	93	n	n	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	1653	0	0.97
+1438008504.534	5307	48	12	156	_	space	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	1809	0	0.97
+1438008504.909	5307	48	13	375	j	j	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	2184	0	0.97
+1438008505.127	5307	48	14	218	l	l	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	2402	0	0.97
+1438008505.314	5307	48	15	186	d	d	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	2588	0	0.97
+1438008506.469	5307	48	16	1156	w	w	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	3744	0	0.97
+1438008506.718	5307	48	17	249	b	b	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	3993	0	0.97
+1438008506.812	5307	48	18	94	u	u	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	4087	0	0.97
+1438008506.906	5307	48	19	93	_	space	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	4180	0	0.97
+1438008507.155	5307	48	20	250	t	t	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	4430	0	0.97
+1438008507.249	5307	48	21	94	a	a	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	4524	0	0.97
+1438008507.374	5307	48	22	125	r	r	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	4649	0	0.97
+1438008507.592	5307	48	23	218	v	v	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	4867	0	0.97
+1438008507.717	5307	48	24	125	i	i	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	4992	0	0.97
+1438008507.81	5307	48	25	93	t	t	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	5085	0	0.97
+1438008508.06	5307	48	26	250	s	s	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	5335	0	0.97
+1438008508.122	5307	48	27	62	e	e	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	5397	0	0.97
+1438008508.247	5307	48	28	125	t	t	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	5522	0	0.97
+1438008508.403	5307	48	29	156	_	space	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	5678	0	0.97
+1438008508.59	5307	48	30	187	m	m	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	5865	0	0.97
+1438008508.653	5307	48	31	63	i	i	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	5928	0	0.97
+1438008508.84	5307	48	32	187	n	n	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	6115	0	0.97
+1438008508.934	5307	48	33	94	u	u	Kuinka pian jldwbu tarvitset minu	 61.85	 191.25	Kuinka pian jldwbu tarvitset minu	Mix	6209	0	0.97
+1438008512.054	5307	49	0	0	Shift_L	Shift_L	Onneksi qwcbcr olkoon.	 45.63	 160.12	Onneksi qwcbcr olkoon.	Mix	0	0	0.96
+1438008512.21	5307	49	1	156	O	O	Onneksi qwcbcr olkoon.	 45.63	 160.12	Onneksi qwcbcr olkoon.	Mix	156	0	0.96
+1438008512.834	5307	49	2	624	n	n	Onneksi qwcbcr olkoon.	 45.63	 160.12	Onneksi qwcbcr olkoon.	Mix	780	0	0.96
+1438008512.99	5307	49	3	156	n	n	Onneksi qwcbcr olkoon.	 45.63	 160.12	Onneksi qwcbcr olkoon.	Mix	936	0	0.96
+1438008513.083	5307	49	4	93	e	e	Onneksi qwcbcr olkoon.	 45.63	 160.12	Onneksi qwcbcr olkoon.	Mix	1029	0	0.96
+1438008513.208	5307	49	5	125	k	k	Onneksi qwcbcr olkoon.	 45.63	 160.12	Onneksi qwcbcr olkoon.	Mix	1154	0	0.96
+1438008513.333	5307	49	6	125	s	s	Onneksi qwcbcr olkoon.	 45.63	 160.12	Onneksi qwcbcr olkoon.	Mix	1279	0	0.96
+1438008513.489	5307	49	7	156	i	i	Onneksi qwcbcr olkoon.	 45.63	 160.12	Onneksi qwcbcr olkoon.	Mix	1435	0	0.96
+1438008513.582	5307	49	8	93	_	space	Onneksi qwcbcr olkoon.	 45.63	 160.12	Onneksi qwcbcr olkoon.	Mix	1528	0	0.96
+1438008513.988	5307	49	9	406	q	q	Onneksi qwcbcr olkoon.	 45.63	 160.12	Onneksi qwcbcr olkoon.	Mix	1934	0	0.96
+1438008514.518	5307	49	10	529	w	w	Onneksi qwcbcr olkoon.	 45.63	 160.12	Onneksi qwcbcr olkoon.	Mix	2463	0	0.96
+1438008514.83	5307	49	11	313	c	c	Onneksi qwcbcr olkoon.	 45.63	 160.12	Onneksi qwcbcr olkoon.	Mix	2776	0	0.96
+1438008515.298	5307	49	12	468	b	b	Onneksi qwcbcr olkoon.	 45.63	 160.12	Onneksi qwcbcr olkoon.	Mix	3244	0	0.96
+1438008515.704	5307	49	13	406	c	c	Onneksi qwcbcr olkoon.	 45.63	 160.12	Onneksi qwcbcr olkoon.	Mix	3650	0	0.96
+1438008516.141	5307	49	14	437	r	r	Onneksi qwcbcr olkoon.	 45.63	 160.12	Onneksi qwcbcr olkoon.	Mix	4087	0	0.96
+1438008516.266	5307	49	15	125	_	space	Onneksi qwcbcr olkoon.	 45.63	 160.12	Onneksi qwcbcr olkoon.	Mix	4212	0	0.96
+1438008516.484	5307	49	16	218	o	o	Onneksi qwcbcr olkoon.	 45.63	 160.12	Onneksi qwcbcr olkoon.	Mix	4430	0	0.96
+1438008516.734	5307	49	17	250	l	l	Onneksi qwcbcr olkoon.	 45.63	 160.12	Onneksi qwcbcr olkoon.	Mix	4680	0	0.96
+1438008516.796	5307	49	18	62	k	k	Onneksi qwcbcr olkoon.	 45.63	 160.12	Onneksi qwcbcr olkoon.	Mix	4742	0	0.96
+1438008517.014	5307	49	19	218	o	o	Onneksi qwcbcr olkoon.	 45.63	 160.12	Onneksi qwcbcr olkoon.	Mix	4960	0	0.96
+1438008517.17	5307	49	20	156	o	o	Onneksi qwcbcr olkoon.	 45.63	 160.12	Onneksi qwcbcr olkoon.	Mix	5116	0	0.96
+1438008517.295	5307	49	21	125	n	n	Onneksi qwcbcr olkoon.	 45.63	 160.12	Onneksi qwcbcr olkoon.	Mix	5241	0	0.96
+1438008517.577	5307	49	22	282	.	period	Onneksi qwcbcr olkoon.	 45.63	 160.12	Onneksi qwcbcr olkoon.	Mix	5523	0	0.96
