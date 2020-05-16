@@ -1,0 +1,1526 @@
+input_time	user_id	stimulus_id	input_index	iki	input	key_symbol	current_input	wpm	sd_iki	stimulus	condition	input_time_ms	uer	ke
+1438773748.835	760858	0	0	0	Shift_L	Shift_L	Are you zjjrwa in topday?	 31.61	 420.87	Are you zjjrwa in topday?	Mix	0	0	0.93
+1438773749.085	760858	0	1	250	A	A	Are you zjjrwa in topday?	 31.61	 420.87	Are you zjjrwa in topday?	Mix	250	0	0.93
+1438773749.459	760858	0	2	374	r	r	Are you zjjrwa in topday?	 31.61	 420.87	Are you zjjrwa in topday?	Mix	624	0	0.93
+1438773749.584	760858	0	3	125	e	e	Are you zjjrwa in topday?	 31.61	 420.87	Are you zjjrwa in topday?	Mix	749	0	0.93
+1438773749.74	760858	0	4	155	_	space	Are you zjjrwa in topday?	 31.61	 420.87	Are you zjjrwa in topday?	Mix	904	0	0.93
+1438773750.302	760858	0	5	563	y	y	Are you zjjrwa in topday?	 31.61	 420.87	Are you zjjrwa in topday?	Mix	1467	0	0.93
+1438773750.489	760858	0	6	187	o	o	Are you zjjrwa in topday?	 31.61	 420.87	Are you zjjrwa in topday?	Mix	1654	0	0.93
+1438773750.583	760858	0	7	93	u	u	Are you zjjrwa in topday?	 31.61	 420.87	Are you zjjrwa in topday?	Mix	1747	0	0.93
+1438773750.739	760858	0	8	157	_	space	Are you zjjrwa in topday?	 31.61	 420.87	Are you zjjrwa in topday?	Mix	1904	0	0.93
+1438773751.456	760858	0	9	717	z	z	Are you zjjrwa in topday?	 31.61	 420.87	Are you zjjrwa in topday?	Mix	2621	0	0.93
+1438773751.893	760858	0	10	436	j	j	Are you zjjrwa in topday?	 31.61	 420.87	Are you zjjrwa in topday?	Mix	3057	0	0.93
+1438773752.049	760858	0	11	156	j	j	Are you zjjrwa in topday?	 31.61	 420.87	Are you zjjrwa in topday?	Mix	3213	0	0.93
+1438773752.891	760858	0	12	842	r	r	Are you zjjrwa in topday?	 31.61	 420.87	Are you zjjrwa in topday?	Mix	4055	0	0.93
+1438773753.172	760858	0	13	281	w	w	Are you zjjrwa in topday?	 31.61	 420.87	Are you zjjrwa in topday?	Mix	4336	0	0.93
+1438773753.391	760858	0	14	219	a	a	Are you zjjrwa in topday?	 31.61	 420.87	Are you zjjrwa in topday?	Mix	4555	0	0.93
+1438773753.64	760858	0	15	250	_	space	Are you zjjrwa in topday?	 31.61	 420.87	Are you zjjrwa in topday?	Mix	4805	0	0.93
+1438773754.046	760858	0	16	405	i	i	Are you zjjrwa in topday?	 31.61	 420.87	Are you zjjrwa in topday?	Mix	5210	0	0.93
+1438773754.139	760858	0	17	93	n	n	Are you zjjrwa in topday?	 31.61	 420.87	Are you zjjrwa in topday?	Mix	5303	0	0.93
+1438773754.202	760858	0	18	63	_	space	Are you zjjrwa in topday?	 31.61	 420.87	Are you zjjrwa in topday?	Mix	5366	0	0.93
+1438773754.42	760858	0	19	219	t	t	Are you zjjrwa in topday?	 31.61	 420.87	Are you zjjrwa in topday?	Mix	5585	0	0.93
+1438773754.639	760858	0	20	218	o	o	Are you zjjrwa in topday?	 31.61	 420.87	Are you zjjrwa in topday?	Mix	5803	0	0.93
+1438773754.639	760858	0	21	0	p	p	Are you zjjrwa in topday?	 31.61	 420.87	Are you zjjrwa in topday?	Mix	5803	0	0.93
+1438773754.919	760858	0	22	280	d	d	Are you zjjrwa in topday?	 31.61	 420.87	Are you zjjrwa in topday?	Mix	6083	0	0.93
+1438773755.044	760858	0	23	125	a	a	Are you zjjrwa in topday?	 31.61	 420.87	Are you zjjrwa in topday?	Mix	6208	0	0.93
+1438773755.294	760858	0	24	250	y	y	Are you zjjrwa in topday?	 31.61	 420.87	Are you zjjrwa in topday?	Mix	6458	0	0.93
+1438773755.793	760858	0	25	499	Shift_L	Shift_L	Are you zjjrwa in topday?	 31.61	 420.87	Are you zjjrwa in topday?	Mix	6957	0	0.93
+1438773757.946	760858	0	26	2154	?	question	Are you zjjrwa in topday?	 31.61	 420.87	Are you zjjrwa in topday?	Mix	9111	0	0.93
+1438773763.468	760858	1	0	0	Shift_L	Shift_L	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	0	0	0.92
+1438773763.655	760858	1	1	187	H	H	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	187	0	0.92
+1438773763.967	760858	1	2	312	o	o	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	499	0	0.92
+1438773764.155	760858	1	3	188	p	p	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	687	0	0.92
+1438773764.248	760858	1	4	92	e	e	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	779	0	0.92
+1438773764.404	760858	1	5	157	_	space	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	936	0	0.92
+1438773765.153	760858	1	6	749	y	y	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	1685	0	0.92
+1438773765.309	760858	1	7	156	o	o	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	1841	0	0.92
+1438773765.403	760858	1	8	94	u	u	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	1935	0	0.92
+1438773765.559	760858	1	9	156	_	space	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	2091	0	0.92
+1438773765.964	760858	1	10	405	g	g	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	2496	0	0.92
+1438773766.183	760858	1	11	219	i	i	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	2715	0	0.92
+1438773766.744	760858	1	12	561		BackSpace	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	3276	0	0.92
+1438773767.056	760858	1	13	312	u	u	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	3588	0	0.92
+1438773767.368	760858	1	14	312	y	y	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	3900	0	0.92
+1438773767.587	760858	1	15	218	s	s	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	4118	0	0.92
+1438773767.836	760858	1	16	250	_	space	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	4368	0	0.92
+1438773768.959	760858	1	17	1123	q	q	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	5491	0	0.92
+1438773769.958	760858	1	18	999	w	w	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	6490	0	0.92
+1438773771.112	760858	1	19	1154	c	c	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	7644	0	0.92
+1438773771.455	760858	1	20	342	b	b	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	7986	0	0.92
+1438773771.705	760858	1	21	250	c	c	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	8236	0	0.92
+1438773771.955	760858	1	22	250	r	r	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	8486	0	0.92
+1438773772.423	760858	1	23	469	_	space	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	8955	0	0.92
+1438773772.579	760858	1	24	156	a	a	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	9111	0	0.92
+1438773772.797	760858	1	25	217	r	r	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	9328	0	0.92
+1438773772.891	760858	1	26	95	e	e	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	9423	0	0.92
+1438773773.015	760858	1	27	124	_	space	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	9547	0	0.92
+1438773773.203	760858	1	28	188	d	d	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	9735	0	0.92
+1438773773.639	760858	1	29	436	o	o	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	10171	0	0.92
+1438773773.827	760858	1	30	187	i	i	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	10358	0	0.92
+1438773773.951	760858	1	31	125	n	n	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	10483	0	0.92
+1438773774.107	760858	1	32	156	g	g	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	10639	0	0.92
+1438773774.232	760858	1	33	125	_	space	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	10764	0	0.92
+1438773774.451	760858	1	34	219	f	f	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	10983	0	0.92
+1438773774.607	760858	1	35	156	i	i	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	11139	0	0.92
+1438773774.731	760858	1	36	124	n	n	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	11263	0	0.92
+1438773774.856	760858	1	37	125	e	e	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	11388	0	0.92
+1438773775.511	760858	1	38	654	.	period	Hope you guys qwcbcr are doing fine.	 34.88	 276.57	Hope you guys qwcbcr are doing fine.	Mix	12042	0	0.92
+1438773777.071	760858	2	0	0	q	q	waht do zfcspx you hear?	 29.20	 283.85	waht do zfcspx you hear?	Mix	0	0	0.89
+1438773777.695	760858	2	1	623		BackSpace	waht do zfcspx you hear?	 29.20	 283.85	waht do zfcspx you hear?	Mix	623	0	0.89
+1438773777.945	760858	2	2	250	w	w	waht do zfcspx you hear?	 29.20	 283.85	waht do zfcspx you hear?	Mix	873	0	0.89
+1438773778.257	760858	2	3	312	a	a	waht do zfcspx you hear?	 29.20	 283.85	waht do zfcspx you hear?	Mix	1185	0	0.89
+1438773778.382	760858	2	4	125	h	h	waht do zfcspx you hear?	 29.20	 283.85	waht do zfcspx you hear?	Mix	1310	0	0.89
+1438773778.569	760858	2	5	187	t	t	waht do zfcspx you hear?	 29.20	 283.85	waht do zfcspx you hear?	Mix	1497	0	0.89
+1438773778.725	760858	2	6	156	_	space	waht do zfcspx you hear?	 29.20	 283.85	waht do zfcspx you hear?	Mix	1653	0	0.89
+1438773779.817	760858	2	7	1092	d	d	waht do zfcspx you hear?	 29.20	 283.85	waht do zfcspx you hear?	Mix	2745	0	0.89
+1438773779.973	760858	2	8	156	o	o	waht do zfcspx you hear?	 29.20	 283.85	waht do zfcspx you hear?	Mix	2901	0	0.89
+1438773780.129	760858	2	9	156	_	space	waht do zfcspx you hear?	 29.20	 283.85	waht do zfcspx you hear?	Mix	3057	0	0.89
+1438773780.815	760858	2	10	686	z	z	waht do zfcspx you hear?	 29.20	 283.85	waht do zfcspx you hear?	Mix	3743	0	0.89
+1438773781.315	760858	2	11	500	f	f	waht do zfcspx you hear?	 29.20	 283.85	waht do zfcspx you hear?	Mix	4243	0	0.89
+1438773782.344	760858	2	12	1030	c	c	waht do zfcspx you hear?	 29.20	 283.85	waht do zfcspx you hear?	Mix	5273	0	0.89
+1438773782.563	760858	2	13	218	s	s	waht do zfcspx you hear?	 29.20	 283.85	waht do zfcspx you hear?	Mix	5491	0	0.89
+1438773783.031	760858	2	14	468	p	p	waht do zfcspx you hear?	 29.20	 283.85	waht do zfcspx you hear?	Mix	5959	0	0.89
+1438773783.374	760858	2	15	343	x	x	waht do zfcspx you hear?	 29.20	 283.85	waht do zfcspx you hear?	Mix	6302	0	0.89
+1438773784.123	760858	2	16	749	_	space	waht do zfcspx you hear?	 29.20	 283.85	waht do zfcspx you hear?	Mix	7051	0	0.89
+1438773784.653	760858	2	17	531	y	y	waht do zfcspx you hear?	 29.20	 283.85	waht do zfcspx you hear?	Mix	7582	0	0.89
+1438773784.809	760858	2	18	155	o	o	waht do zfcspx you hear?	 29.20	 283.85	waht do zfcspx you hear?	Mix	7737	0	0.89
+1438773784.903	760858	2	19	95	u	u	waht do zfcspx you hear?	 29.20	 283.85	waht do zfcspx you hear?	Mix	7832	0	0.89
+1438773784.996	760858	2	20	92	_	space	waht do zfcspx you hear?	 29.20	 283.85	waht do zfcspx you hear?	Mix	7924	0	0.89
+1438773785.246	760858	2	21	250	h	h	waht do zfcspx you hear?	 29.20	 283.85	waht do zfcspx you hear?	Mix	8174	0	0.89
+1438773785.339	760858	2	22	93	e	e	waht do zfcspx you hear?	 29.20	 283.85	waht do zfcspx you hear?	Mix	8267	0	0.89
+1438773785.527	760858	2	23	188	a	a	waht do zfcspx you hear?	 29.20	 283.85	waht do zfcspx you hear?	Mix	8455	0	0.89
+1438773785.62	760858	2	24	93	r	r	waht do zfcspx you hear?	 29.20	 283.85	waht do zfcspx you hear?	Mix	8548	0	0.89
+1438773786.151	760858	2	25	531	Shift_L	Shift_L	waht do zfcspx you hear?	 29.20	 283.85	waht do zfcspx you hear?	Mix	9079	0	0.89
+1438773786.525	760858	2	26	374	?	question	waht do zfcspx you hear?	 29.20	 283.85	waht do zfcspx you hear?	Mix	9453	0	0.89
+1438773788.272	760858	3	0	0	Shift_L	Shift_L	Can you uogkww help me here?	 36.06	 302.63	Can you uogkww help me here?	Mix	0	0	0.93
+1438773788.459	760858	3	1	187	C	C	Can you uogkww help me here?	 36.06	 302.63	Can you uogkww help me here?	Mix	187	0	0.93
+1438773788.74	760858	3	2	280	a	a	Can you uogkww help me here?	 36.06	 302.63	Can you uogkww help me here?	Mix	467	0	0.93
+1438773788.865	760858	3	3	125	n	n	Can you uogkww help me here?	 36.06	 302.63	Can you uogkww help me here?	Mix	592	0	0.93
+1438773788.99	760858	3	4	125	_	space	Can you uogkww help me here?	 36.06	 302.63	Can you uogkww help me here?	Mix	717	0	0.93
+1438773789.208	760858	3	5	218	y	y	Can you uogkww help me here?	 36.06	 302.63	Can you uogkww help me here?	Mix	935	0	0.93
+1438773789.395	760858	3	6	187	o	o	Can you uogkww help me here?	 36.06	 302.63	Can you uogkww help me here?	Mix	1122	0	0.93
+1438773789.489	760858	3	7	95	u	u	Can you uogkww help me here?	 36.06	 302.63	Can you uogkww help me here?	Mix	1217	0	0.93
+1438773789.614	760858	3	8	125	_	space	Can you uogkww help me here?	 36.06	 302.63	Can you uogkww help me here?	Mix	1342	0	0.93
+1438773790.893	760858	3	9	1278	u	u	Can you uogkww help me here?	 36.06	 302.63	Can you uogkww help me here?	Mix	2620	0	0.93
+1438773791.205	760858	3	10	312	o	o	Can you uogkww help me here?	 36.06	 302.63	Can you uogkww help me here?	Mix	2932	0	0.93
+1438773792.328	760858	3	11	1123	g	g	Can you uogkww help me here?	 36.06	 302.63	Can you uogkww help me here?	Mix	4055	0	0.93
+1438773792.734	760858	3	12	406	k	k	Can you uogkww help me here?	 36.06	 302.63	Can you uogkww help me here?	Mix	4461	0	0.93
+1438773793.67	760858	3	13	937	w	w	Can you uogkww help me here?	 36.06	 302.63	Can you uogkww help me here?	Mix	5398	0	0.93
+1438773793.888	760858	3	14	217	w	w	Can you uogkww help me here?	 36.06	 302.63	Can you uogkww help me here?	Mix	5615	0	0.93
+1438773794.107	760858	3	15	220	_	space	Can you uogkww help me here?	 36.06	 302.63	Can you uogkww help me here?	Mix	5835	0	0.93
+1438773794.512	760858	3	16	405	h	h	Can you uogkww help me here?	 36.06	 302.63	Can you uogkww help me here?	Mix	6240	0	0.93
+1438773794.668	760858	3	17	155	e	e	Can you uogkww help me here?	 36.06	 302.63	Can you uogkww help me here?	Mix	6395	0	0.93
+1438773794.887	760858	3	18	220	l	l	Can you uogkww help me here?	 36.06	 302.63	Can you uogkww help me here?	Mix	6615	0	0.93
+1438773795.011	760858	3	19	123	p	p	Can you uogkww help me here?	 36.06	 302.63	Can you uogkww help me here?	Mix	6738	0	0.93
+1438773795.23	760858	3	20	219	_	space	Can you uogkww help me here?	 36.06	 302.63	Can you uogkww help me here?	Mix	6957	0	0.93
+1438773795.823	760858	3	21	593	m	m	Can you uogkww help me here?	 36.06	 302.63	Can you uogkww help me here?	Mix	7550	0	0.93
+1438773795.916	760858	3	22	93	e	e	Can you uogkww help me here?	 36.06	 302.63	Can you uogkww help me here?	Mix	7643	0	0.93
+1438773796.01	760858	3	23	94	_	space	Can you uogkww help me here?	 36.06	 302.63	Can you uogkww help me here?	Mix	7737	0	0.93
+1438773796.197	760858	3	24	187	h	h	Can you uogkww help me here?	 36.06	 302.63	Can you uogkww help me here?	Mix	7924	0	0.93
+1438773796.322	760858	3	25	125	e	e	Can you uogkww help me here?	 36.06	 302.63	Can you uogkww help me here?	Mix	8049	0	0.93
+1438773796.478	760858	3	26	156	r	r	Can you uogkww help me here?	 36.06	 302.63	Can you uogkww help me here?	Mix	8205	0	0.93
+1438773796.665	760858	3	27	187	e	e	Can you uogkww help me here?	 36.06	 302.63	Can you uogkww help me here?	Mix	8392	0	0.93
+1438773797.039	760858	3	28	374	Shift_L	Shift_L	Can you uogkww help me here?	 36.06	 302.63	Can you uogkww help me here?	Mix	8766	0	0.93
+1438773797.258	760858	3	29	219	?	question	Can you uogkww help me here?	 36.06	 302.63	Can you uogkww help me here?	Mix	8985	0	0.93
+1438773798.724	760858	4	0	0	Shift_L	Shift_L	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	0	0	0.98
+1438773798.849	760858	4	1	125	I	I	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	125	0	0.98
+1438773799.005	760858	4	2	156	_	space	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	281	0	0.98
+1438773799.223	760858	4	3	218	t	t	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	499	0	0.98
+1438773799.286	760858	4	4	63	h	h	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	562	0	0.98
+1438773799.411	760858	4	5	125	i	i	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	687	0	0.98
+1438773799.567	760858	4	6	155	n	n	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	842	0	0.98
+1438773799.723	760858	4	7	157	k	k	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	999	0	0.98
+1438773799.879	760858	4	8	155	_	space	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	1154	0	0.98
+1438773800.284	760858	4	9	405	t	t	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	1559	0	0.98
+1438773800.378	760858	4	10	95	h	h	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	1654	0	0.98
+1438773800.534	760858	4	11	155	a	a	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	1809	0	0.98
+1438773800.659	760858	4	12	125	t	t	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	1934	0	0.98
+1438773800.846	760858	4	13	187	_	space	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	2121	0	0.98
+1438773801.501	760858	4	14	655	d	d	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	2776	0	0.98
+1438773801.719	760858	4	15	219	f	f	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	2995	0	0.98
+1438773803.061	760858	4	16	1342	z	z	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	4337	0	0.98
+1438773803.435	760858	4	17	373	o	o	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	4710	0	0.98
+1438773804.496	760858	4	18	1062	u	u	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	5772	0	0.98
+1438773804.871	760858	4	19	375	a	a	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	6147	0	0.98
+1438773805.089	760858	4	20	218	_	space	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	6365	0	0.98
+1438773805.401	760858	4	21	312	i	i	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	6677	0	0.98
+1438773805.651	760858	4	22	250	s	s	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	6927	0	0.98
+1438773805.807	760858	4	23	155	_	space	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	7082	0	0.98
+1438773805.963	760858	4	24	157	t	t	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	7239	0	0.98
+1438773806.119	760858	4	25	155	h	h	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	7394	0	0.98
+1438773806.212	760858	4	26	93	e	e	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	7487	0	0.98
+1438773806.337	760858	4	27	125	_	space	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	7612	0	0.98
+1438773806.462	760858	4	28	125	r	r	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	7737	0	0.98
+1438773806.649	760858	4	29	187	i	i	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	7924	0	0.98
+1438773806.867	760858	4	30	219	g	g	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	8143	0	0.98
+1438773807.055	760858	4	31	188	h	h	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	8331	0	0.98
+1438773807.179	760858	4	32	123	t	t	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	8454	0	0.98
+1438773807.304	760858	4	33	125	_	space	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	8579	0	0.98
+1438773807.523	760858	4	34	220	a	a	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	8799	0	0.98
+1438773807.71	760858	4	35	187	n	n	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	8986	0	0.98
+1438773808.022	760858	4	36	312	s	s	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	9298	0	0.98
+1438773808.271	760858	4	37	248	w	w	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	9546	0	0.98
+1438773808.427	760858	4	38	157	e	e	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	9703	0	0.98
+1438773808.708	760858	4	39	280	r	r	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	9983	0	0.98
+1438773809.207	760858	4	40	500	.	period	I think that dfzoua is the right answer.	 44.64	 249.61	I think that dfzoua is the right answer.	Mix	10483	0	0.98
+1438773810.939	760858	5	0	0	Shift_L	Shift_L	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	0	0	0.98
+1438773811.189	760858	5	1	250	W	W	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	250	0	0.98
+1438773811.438	760858	5	2	249	e	e	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	499	0	0.98
+1438773811.563	760858	5	3	125	_	space	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	624	0	0.98
+1438773811.75	760858	5	4	187	n	n	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	811	0	0.98
+1438773811.937	760858	5	5	187	e	e	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	998	0	0.98
+1438773812.093	760858	5	6	156	e	e	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	1154	0	0.98
+1438773812.281	760858	5	7	188	d	d	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	1342	0	0.98
+1438773812.343	760858	5	8	62	_	space	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	1404	0	0.98
+1438773812.593	760858	5	9	250	t	t	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	1654	0	0.98
+1438773812.749	760858	5	10	156	o	o	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	1810	0	0.98
+1438773812.873	760858	5	11	124	_	space	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	1934	0	0.98
+1438773812.967	760858	5	12	94	t	t	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	2028	0	0.98
+1438773813.185	760858	5	13	218	a	a	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	2246	0	0.98
+1438773813.31	760858	5	14	125	l	l	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	2371	0	0.98
+1438773813.497	760858	5	15	187	k	k	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	2558	0	0.98
+1438773813.622	760858	5	16	125	_	space	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	2683	0	0.98
+1438773815.213	760858	5	17	1591	o	o	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	4274	0	0.98
+1438773815.525	760858	5	18	312	d	d	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	4586	0	0.98
+1438773815.9	760858	5	19	375	c	c	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	4961	0	0.98
+1438773816.805	760858	5	20	905	d	d	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	5866	0	0.98
+1438773817.429	760858	5	21	624	p	p	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	6490	0	0.98
+1438773817.741	760858	5	22	312	u	u	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	6802	0	0.98
+1438773817.897	760858	5	23	156	_	space	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	6958	0	0.98
+1438773818.427	760858	5	24	530	a	a	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	7488	0	0.98
+1438773818.708	760858	5	25	281	b	b	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	7769	0	0.98
+1438773818.926	760858	5	26	218	o	o	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	7987	0	0.98
+1438773819.113	760858	5	27	187	u	u	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	8174	0	0.98
+1438773819.238	760858	5	28	125	t	t	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	8299	0	0.98
+1438773819.394	760858	5	29	156	_	space	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	8455	0	0.98
+1438773819.644	760858	5	30	250	t	t	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	8705	0	0.98
+1438773819.893	760858	5	31	248	h	h	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	8953	0	0.98
+1438773819.987	760858	5	32	95	i	i	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	9048	0	0.98
+1438773820.112	760858	5	33	125	s	s	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	9173	0	0.98
+1438773820.268	760858	5	34	155	_	space	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	9328	0	0.98
+1438773820.705	760858	5	35	438	m	m	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	9766	0	0.98
+1438773820.798	760858	5	36	93	o	o	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	9859	0	0.98
+1438773821.048	760858	5	37	250	n	n	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	10109	0	0.98
+1438773821.204	760858	5	38	156	t	t	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	10265	0	0.98
+1438773821.329	760858	5	39	125	h	h	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	10390	0	0.98
+1438773821.984	760858	5	40	655	.	period	We need to talk odcdpu about this month.	 42.37	 274.32	We need to talk odcdpu about this month.	Mix	11045	0	0.98
+1438773823.263	760858	6	0	0	Shift_L	Shift_L	Did you pshego get this?	 36.40	 261.37	Did you pshego get this?	Mix	0	0	0.92
+1438773823.481	760858	6	1	217	D	D	Did you pshego get this?	 36.40	 261.37	Did you pshego get this?	Mix	217	0	0.92
+1438773823.918	760858	6	2	437	i	i	Did you pshego get this?	 36.40	 261.37	Did you pshego get this?	Mix	654	0	0.92
+1438773824.012	760858	6	3	95	d	d	Did you pshego get this?	 36.40	 261.37	Did you pshego get this?	Mix	749	0	0.92
+1438773824.293	760858	6	4	280	_	space	Did you pshego get this?	 36.40	 261.37	Did you pshego get this?	Mix	1029	0	0.92
+1438773824.573	760858	6	5	280	y	y	Did you pshego get this?	 36.40	 261.37	Did you pshego get this?	Mix	1309	0	0.92
+1438773824.823	760858	6	6	250	o	o	Did you pshego get this?	 36.40	 261.37	Did you pshego get this?	Mix	1559	0	0.92
+1438773824.948	760858	6	7	125	u	u	Did you pshego get this?	 36.40	 261.37	Did you pshego get this?	Mix	1684	0	0.92
+1438773825.322	760858	6	8	375	_	space	Did you pshego get this?	 36.40	 261.37	Did you pshego get this?	Mix	2059	0	0.92
+1438773825.946	760858	6	9	624	p	p	Did you pshego get this?	 36.40	 261.37	Did you pshego get this?	Mix	2683	0	0.92
+1438773826.165	760858	6	10	218	s	s	Did you pshego get this?	 36.40	 261.37	Did you pshego get this?	Mix	2901	0	0.92
+1438773827.288	760858	6	11	1124	h	h	Did you pshego get this?	 36.40	 261.37	Did you pshego get this?	Mix	4025	0	0.92
+1438773827.413	760858	6	12	125	e	e	Did you pshego get this?	 36.40	 261.37	Did you pshego get this?	Mix	4150	0	0.92
+1438773828.349	760858	6	13	935	g	g	Did you pshego get this?	 36.40	 261.37	Did you pshego get this?	Mix	5085	0	0.92
+1438773828.598	760858	6	14	250	o	o	Did you pshego get this?	 36.40	 261.37	Did you pshego get this?	Mix	5335	0	0.92
+1438773828.723	760858	6	15	125	_	space	Did you pshego get this?	 36.40	 261.37	Did you pshego get this?	Mix	5460	0	0.92
+1438773829.253	760858	6	16	530	g	g	Did you pshego get this?	 36.40	 261.37	Did you pshego get this?	Mix	5990	0	0.92
+1438773829.378	760858	6	17	125	e	e	Did you pshego get this?	 36.40	 261.37	Did you pshego get this?	Mix	6115	0	0.92
+1438773829.503	760858	6	18	125	t	t	Did you pshego get this?	 36.40	 261.37	Did you pshego get this?	Mix	6240	0	0.92
+1438773829.628	760858	6	19	125	_	space	Did you pshego get this?	 36.40	 261.37	Did you pshego get this?	Mix	6365	0	0.92
+1438773829.753	760858	6	20	125	t	t	Did you pshego get this?	 36.40	 261.37	Did you pshego get this?	Mix	6490	0	0.92
+1438773829.877	760858	6	21	124	h	h	Did you pshego get this?	 36.40	 261.37	Did you pshego get this?	Mix	6614	0	0.92
+1438773830.002	760858	6	22	125	i	i	Did you pshego get this?	 36.40	 261.37	Did you pshego get this?	Mix	6739	0	0.92
+1438773830.127	760858	6	23	125	s	s	Did you pshego get this?	 36.40	 261.37	Did you pshego get this?	Mix	6864	0	0.92
+1438773830.501	760858	6	24	373	Shift_L	Shift_L	Did you pshego get this?	 36.40	 261.37	Did you pshego get this?	Mix	7237	0	0.92
+1438773830.845	760858	6	25	345	?	question	Did you pshego get this?	 36.40	 261.37	Did you pshego get this?	Mix	7582	0	0.92
+1438773832.186	760858	7	0	0	Shift_L	Shift_L	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	0	0	0.97
+1438773832.373	760858	7	1	186	T	T	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	186	0	0.97
+1438773832.623	760858	7	2	250	h	h	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	436	0	0.97
+1438773832.81	760858	7	3	187	u	u	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	623	0	0.97
+1438773832.997	760858	7	4	187	r	r	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	810	0	0.97
+1438773833.341	760858	7	5	344	s	s	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	1154	0	0.97
+1438773833.902	760858	7	6	561	d	d	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	1715	0	0.97
+1438773834.058	760858	7	7	156	a	a	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	1871	0	0.97
+1438773834.245	760858	7	8	187	y	y	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	2058	0	0.97
+1438773834.401	760858	7	9	156	_	space	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	2214	0	0.97
+1438773835.025	760858	7	10	624	w	w	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	2838	0	0.97
+1438773835.275	760858	7	11	250	o	o	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	3088	0	0.97
+1438773835.431	760858	7	12	156	r	r	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	3244	0	0.97
+1438773835.899	760858	7	13	468	k	k	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	3712	0	0.97
+1438773836.055	760858	7	14	156	s	s	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	3868	0	0.97
+1438773836.242	760858	7	15	187	_	space	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	4055	0	0.97
+1438773837.022	760858	7	16	780	u	u	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	4835	0	0.97
+1438773837.397	760858	7	17	375	c	c	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	5210	0	0.97
+1438773837.771	760858	7	18	374	h	h	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	5584	0	0.97
+1438773837.989	760858	7	19	218	e	e	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	5802	0	0.97
+1438773838.676	760858	7	20	688	d	d	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	6490	0	0.97
+1438773839.019	760858	7	21	342	t	t	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	6832	0	0.97
+1438773839.237	760858	7	22	218	_	space	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	7050	0	0.97
+1438773839.83	760858	7	23	593	b	b	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	7643	0	0.97
+1438773839.955	760858	7	24	125	e	e	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	7768	0	0.97
+1438773840.142	760858	7	25	187	t	t	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	7955	0	0.97
+1438773840.298	760858	7	26	156	t	t	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	8111	0	0.97
+1438773840.392	760858	7	27	94	e	e	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	8205	0	0.97
+1438773840.485	760858	7	28	93	r	r	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	8298	0	0.97
+1438773840.704	760858	7	29	219	_	space	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	8517	0	0.97
+1438773840.891	760858	7	30	187	f	f	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	8704	0	0.97
+1438773840.985	760858	7	31	94	o	o	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	8798	0	0.97
+1438773841.109	760858	7	32	124	r	r	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	8922	0	0.97
+1438773841.172	760858	7	33	63	_	space	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	8985	0	0.97
+1438773841.359	760858	7	34	187	m	m	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	9172	0	0.97
+1438773841.453	760858	7	35	94	e	e	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	9266	0	0.97
+1438773842.981	760858	7	36	1528	.	period	Thursday works uchedt better for me.	 38.91	 278.25	Thursday works uchedt better for me.	Mix	10794	0	0.97
+1438773844.354	760858	8	0	0	Shift_L	Shift_L	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	0	0	0.86
+1438773844.666	760858	8	1	311	W	W	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	311	0	0.86
+1438773845.29	760858	8	2	624		BackSpace	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	935	0	0.86
+1438773845.415	760858	8	3	125	Shift_L	Shift_L	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	1060	0	0.86
+1438773845.665	760858	8	4	250	A	A	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	1310	0	0.86
+1438773846.039	760858	8	5	374	r	r	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	1684	0	0.86
+1438773846.133	760858	8	6	94	e	e	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	1778	0	0.86
+1438773846.32	760858	8	7	187	_	space	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	1965	0	0.86
+1438773846.819	760858	8	8	499	y	y	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	2464	0	0.86
+1438773846.944	760858	8	9	125	o	o	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	2589	0	0.86
+1438773847.069	760858	8	10	125	u	u	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	2714	0	0.86
+1438773847.162	760858	8	11	93	_	space	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	2807	0	0.86
+1438773848.098	760858	8	12	936	v	v	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	3743	0	0.86
+1438773848.348	760858	8	13	250	r	r	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	3993	0	0.86
+1438773849.128	760858	8	14	780	p	p	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	4773	0	0.86
+1438773849.533	760858	8	15	405	h	h	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	5178	0	0.86
+1438773849.721	760858	8	16	188	m	m	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	5366	0	0.86
+1438773849.845	760858	8	17	124	e	e	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	5490	0	0.86
+1438773849.97	760858	8	18	125	_	space	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	5615	0	0.86
+1438773850.469	760858	8	19	500	f	f	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	6115	0	0.86
+1438773850.688	760858	8	20	218	e	e	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	6333	0	0.86
+1438773850.813	760858	8	21	125	e	e	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	6458	0	0.86
+1438773850.875	760858	8	22	62	l	l	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	6520	0	0.86
+1438773851.062	760858	8	23	187	i	i	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	6707	0	0.86
+1438773851.187	760858	8	24	125	n	n	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	6832	0	0.86
+1438773851.281	760858	8	25	94	g	g	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	6926	0	0.86
+1438773851.374	760858	8	26	93	_	space	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	7019	0	0.86
+1438773851.749	760858	8	27	375	b	b	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	7394	0	0.86
+1438773851.873	760858	8	28	124	e	e	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	7518	0	0.86
+1438773852.123	760858	8	29	250	t	t	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	7768	0	0.86
+1438773852.31	760858	8	30	187	t	t	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	7955	0	0.86
+1438773852.435	760858	8	31	125	e	e	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	8080	0	0.86
+1438773852.529	760858	8	32	94	r	r	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	8174	0	0.86
+1438773852.872	760858	8	33	343	Shift_L	Shift_L	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	8517	0	0.86
+1438773852.966	760858	8	34	94	?	question	Are you vrphme feeling better?	 40.41	 207.64	Are you vrphme feeling better?	Mix	8611	0	0.86
+1438773854.12	760858	9	0	0	Shift_L	Shift_L	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	0	0	0.92
+1438773854.338	760858	9	1	218	W	W	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	218	0	0.92
+1438773854.619	760858	9	2	281	e	e	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	499	0	0.92
+1438773854.775	760858	9	3	156	_	space	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	655	0	0.92
+1438773854.9	760858	9	4	125	c	c	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	780	0	0.92
+1438773855.087	760858	9	5	187	a	a	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	967	0	0.92
+1438773855.212	760858	9	6	125	n	n	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	1092	0	0.92
+1438773855.337	760858	9	7	125	_	space	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	1217	0	0.92
+1438773855.836	760858	9	8	499	h	h	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	1716	0	0.92
+1438773855.961	760858	9	9	125	a	a	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	1841	0	0.92
+1438773856.054	760858	9	10	93	v	v	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	1934	0	0.92
+1438773856.21	760858	9	11	156	e	e	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	2090	0	0.92
+1438773856.304	760858	9	12	94	_	space	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	2184	0	0.92
+1438773857.302	760858	9	13	998	y	y	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	3182	0	0.92
+1438773857.552	760858	9	14	250	n	n	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	3432	0	0.92
+1438773858.644	760858	9	15	1092	u	u	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	4524	0	0.92
+1438773858.956	760858	9	16	312	y	y	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	4836	0	0.92
+1438773860.11	760858	9	17	1154	q	q	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	5990	0	0.92
+1438773860.734	760858	9	18	624	x	x	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	6614	0	0.92
+1438773861.171	760858	9	19	437	_	space	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	7051	0	0.92
+1438773861.639	760858	9	20	468	e	e	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	7519	0	0.92
+1438773862.045	760858	9	21	406		BackSpace	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	7925	0	0.92
+1438773862.232	760858	9	22	187	w	w	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	8112	0	0.92
+1438773862.388	760858	9	23	156	i	i	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	8268	0	0.92
+1438773862.513	760858	9	24	125	n	n	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	8393	0	0.92
+1438773862.669	760858	9	25	156	e	e	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	8549	0	0.92
+1438773862.825	760858	9	26	156	_	space	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	8705	0	0.92
+1438773863.106	760858	9	27	281	a	a	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	8986	0	0.92
+1438773863.293	760858	9	28	187	n	n	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	9173	0	0.92
+1438773863.386	760858	9	29	93	d	d	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	9266	0	0.92
+1438773863.511	760858	9	30	125	_	space	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	9391	0	0.92
+1438773863.667	760858	9	31	156	c	c	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	9547	0	0.92
+1438773863.823	760858	9	32	156	a	a	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	9703	0	0.92
+1438773864.042	760858	9	33	219	t	t	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	9922	0	0.92
+1438773864.291	760858	9	34	249	c	c	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	10171	0	0.92
+1438773864.478	760858	9	35	187	h	h	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	10358	0	0.92
+1438773864.603	760858	9	36	125	_	space	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	10483	0	0.92
+1438773865.602	760858	9	37	999	u	u	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	11482	0	0.92
+1438773865.82	760858	9	38	218	p	p	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	11700	0	0.92
+1438773866.382	760858	9	39	562	.	period	We can have ynuyqx wine and catch up.	 35.23	 288.39	We can have ynuyqx wine and catch up.	Mix	12262	0	0.92
+1438773867.786	760858	10	0	0	Shift_L	Shift_L	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	0	0	0.89
+1438773867.91	760858	10	1	124	I	I	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	124	0	0.89
+1438773868.222	760858	10	2	311	w	w	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	435	0	0.89
+1438773868.846	760858	10	3	624		BackSpace	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	1059	0	0.89
+1438773869.065	760858	10	4	220	_	space	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	1279	0	0.89
+1438773869.439	760858	10	5	373	w	w	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	1652	0	0.89
+1438773869.689	760858	10	6	250	a	a	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	1902	0	0.89
+1438773869.782	760858	10	7	94	s	s	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	1996	0	0.89
+1438773869.938	760858	10	8	155	_	space	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	2151	0	0.89
+1438773870.25	760858	10	9	312	p	p	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	2463	0	0.89
+1438773870.438	760858	10	10	188	l	l	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	2651	0	0.89
+1438773870.594	760858	10	11	157	a	a	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	2808	0	0.89
+1438773870.781	760858	10	12	186	n	n	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	2994	0	0.89
+1438773870.937	760858	10	13	157	n	n	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	3151	0	0.89
+1438773870.999	760858	10	14	62	i	i	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	3213	0	0.89
+1438773871.124	760858	10	15	125	n	n	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	3338	0	0.89
+1438773871.186	760858	10	16	62	g	g	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	3400	0	0.89
+1438773871.311	760858	10	17	125	_	space	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	3525	0	0.89
+1438773871.935	760858	10	18	623	d	d	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	4148	0	0.89
+1438773872.216	760858	10	19	282	a	a	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	4430	0	0.89
+1438773872.497	760858	10	20	280	w	w	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	4710	0	0.89
+1438773873.714	760858	10	21	1217	u	u	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	5927	0	0.89
+1438773875.055	760858	10	22	1342	v	v	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	7269	0	0.89
+1438773875.242	760858	10	23	187	a	a	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	7456	0	0.89
+1438773875.523	760858	10	24	280	_	space	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	7736	0	0.89
+1438773875.96	760858	10	25	438	t	t	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	8174	0	0.89
+1438773876.116	760858	10	26	155	o	o	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	8329	0	0.89
+1438773876.241	760858	10	27	125	_	space	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	8454	0	0.89
+1438773876.366	760858	10	28	125	a	a	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	8579	0	0.89
+1438773876.615	760858	10	29	249	t	t	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	8828	0	0.89
+1438773876.771	760858	10	30	156	t	t	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	8984	0	0.89
+1438773876.896	760858	10	31	125	e	e	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	9109	0	0.89
+1438773877.021	760858	10	32	125	n	n	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	9234	0	0.89
+1438773877.146	760858	10	33	125	d	d	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	9359	0	0.89
+1438773877.645	760858	10	34	499	.	period	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	9858	0	0.89
+1438773877.832	760858	10	35	188	Shift_L	Shift_L	I was planning dawuva to attend.	 37.03	 285.05	I was planning dawuva to attend.	Mix	10046	0	0.89
+1438773879.08	760858	11	0	0	Shift_L	Shift_L	Not even bsrpqj close.	 27.29	 335.96	Not even bsrpqj close.	Mix	0	0	0.88
+1438773879.33	760858	11	1	250	N	N	Not even bsrpqj close.	 27.29	 335.96	Not even bsrpqj close.	Mix	250	0	0.88
+1438773879.548	760858	11	2	218	o	o	Not even bsrpqj close.	 27.29	 335.96	Not even bsrpqj close.	Mix	468	0	0.88
+1438773879.673	760858	11	3	125	t	t	Not even bsrpqj close.	 27.29	 335.96	Not even bsrpqj close.	Mix	593	0	0.88
+1438773879.798	760858	11	4	125	_	space	Not even bsrpqj close.	 27.29	 335.96	Not even bsrpqj close.	Mix	718	0	0.88
+1438773879.922	760858	11	5	124	e	e	Not even bsrpqj close.	 27.29	 335.96	Not even bsrpqj close.	Mix	842	0	0.88
+1438773880.328	760858	11	6	406	e	e	Not even bsrpqj close.	 27.29	 335.96	Not even bsrpqj close.	Mix	1248	0	0.88
+1438773880.858	760858	11	7	530		BackSpace	Not even bsrpqj close.	 27.29	 335.96	Not even bsrpqj close.	Mix	1778	0	0.88
+1438773881.326	760858	11	8	468	v	v	Not even bsrpqj close.	 27.29	 335.96	Not even bsrpqj close.	Mix	2246	0	0.88
+1438773881.545	760858	11	9	219	e	e	Not even bsrpqj close.	 27.29	 335.96	Not even bsrpqj close.	Mix	2465	0	0.88
+1438773881.67	760858	11	10	125	n	n	Not even bsrpqj close.	 27.29	 335.96	Not even bsrpqj close.	Mix	2590	0	0.88
+1438773881.919	760858	11	11	248	_	space	Not even bsrpqj close.	 27.29	 335.96	Not even bsrpqj close.	Mix	2838	0	0.88
+1438773882.699	760858	11	12	780	b	b	Not even bsrpqj close.	 27.29	 335.96	Not even bsrpqj close.	Mix	3618	0	0.88
+1438773882.886	760858	11	13	187	s	s	Not even bsrpqj close.	 27.29	 335.96	Not even bsrpqj close.	Mix	3805	0	0.88
+1438773883.978	760858	11	14	1093	r	r	Not even bsrpqj close.	 27.29	 335.96	Not even bsrpqj close.	Mix	4898	0	0.88
+1438773884.54	760858	11	15	562	p	p	Not even bsrpqj close.	 27.29	 335.96	Not even bsrpqj close.	Mix	5460	0	0.88
+1438773885.382	760858	11	16	842	q	q	Not even bsrpqj close.	 27.29	 335.96	Not even bsrpqj close.	Mix	6302	0	0.88
+1438773886.786	760858	11	17	1404	j	j	Not even bsrpqj close.	 27.29	 335.96	Not even bsrpqj close.	Mix	7706	0	0.88
+1438773887.13	760858	11	18	344	_	space	Not even bsrpqj close.	 27.29	 335.96	Not even bsrpqj close.	Mix	8050	0	0.88
+1438773887.41	760858	11	19	280	c	c	Not even bsrpqj close.	 27.29	 335.96	Not even bsrpqj close.	Mix	8330	0	0.88
+1438773887.535	760858	11	20	125	l	l	Not even bsrpqj close.	 27.29	 335.96	Not even bsrpqj close.	Mix	8455	0	0.88
+1438773887.722	760858	11	21	186	o	o	Not even bsrpqj close.	 27.29	 335.96	Not even bsrpqj close.	Mix	8641	0	0.88
+1438773887.878	760858	11	22	157	s	s	Not even bsrpqj close.	 27.29	 335.96	Not even bsrpqj close.	Mix	8798	0	0.88
+1438773888.128	760858	11	23	250	e	e	Not even bsrpqj close.	 27.29	 335.96	Not even bsrpqj close.	Mix	9048	0	0.88
+1438773888.315	760858	11	24	187	.	period	Not even bsrpqj close.	 27.29	 335.96	Not even bsrpqj close.	Mix	9235	0	0.88
+1438773889.345	760858	12	0	0	Shift_L	Shift_L	Are you prtowz being a baby?	 37.77	 214.38	Are you prtowz being a baby?	Mix	0	0	0.88
+1438773889.594	760858	12	1	249	A	A	Are you prtowz being a baby?	 37.77	 214.38	Are you prtowz being a baby?	Mix	249	0	0.88
+1438773889.938	760858	12	2	343	r	r	Are you prtowz being a baby?	 37.77	 214.38	Are you prtowz being a baby?	Mix	592	0	0.88
+1438773890.062	760858	12	3	125	e	e	Are you prtowz being a baby?	 37.77	 214.38	Are you prtowz being a baby?	Mix	717	0	0.88
+1438773890.187	760858	12	4	125	_	space	Are you prtowz being a baby?	 37.77	 214.38	Are you prtowz being a baby?	Mix	842	0	0.88
+1438773890.406	760858	12	5	218	y	y	Are you prtowz being a baby?	 37.77	 214.38	Are you prtowz being a baby?	Mix	1060	0	0.88
+1438773890.562	760858	12	6	157	o	o	Are you prtowz being a baby?	 37.77	 214.38	Are you prtowz being a baby?	Mix	1217	0	0.88
+1438773890.655	760858	12	7	92	u	u	Are you prtowz being a baby?	 37.77	 214.38	Are you prtowz being a baby?	Mix	1309	0	0.88
+1438773890.749	760858	12	8	95	_	space	Are you prtowz being a baby?	 37.77	 214.38	Are you prtowz being a baby?	Mix	1404	0	0.88
+1438773891.342	760858	12	9	592	p	p	Are you prtowz being a baby?	 37.77	 214.38	Are you prtowz being a baby?	Mix	1996	0	0.88
+1438773891.498	760858	12	10	156	r	r	Are you prtowz being a baby?	 37.77	 214.38	Are you prtowz being a baby?	Mix	2152	0	0.88
+1438773891.747	760858	12	11	249	t	t	Are you prtowz being a baby?	 37.77	 214.38	Are you prtowz being a baby?	Mix	2401	0	0.88
+1438773892.777	760858	12	12	1030	o	o	Are you prtowz being a baby?	 37.77	 214.38	Are you prtowz being a baby?	Mix	3431	0	0.88
+1438773893.058	760858	12	13	282	w	w	Are you prtowz being a baby?	 37.77	 214.38	Are you prtowz being a baby?	Mix	3713	0	0.88
+1438773893.494	760858	12	14	435	x	x	Are you prtowz being a baby?	 37.77	 214.38	Are you prtowz being a baby?	Mix	4148	0	0.88
+1438773894.056	760858	12	15	562		BackSpace	Are you prtowz being a baby?	 37.77	 214.38	Are you prtowz being a baby?	Mix	4710	0	0.88
+1438773894.586	760858	12	16	530	z	z	Are you prtowz being a baby?	 37.77	 214.38	Are you prtowz being a baby?	Mix	5240	0	0.88
+1438773894.742	760858	12	17	157	_	space	Are you prtowz being a baby?	 37.77	 214.38	Are you prtowz being a baby?	Mix	5397	0	0.88
+1438773895.366	760858	12	18	623	b	b	Are you prtowz being a baby?	 37.77	 214.38	Are you prtowz being a baby?	Mix	6020	0	0.88
+1438773895.491	760858	12	19	125	e	e	Are you prtowz being a baby?	 37.77	 214.38	Are you prtowz being a baby?	Mix	6145	0	0.88
+1438773895.616	760858	12	20	125	i	i	Are you prtowz being a baby?	 37.77	 214.38	Are you prtowz being a baby?	Mix	6270	0	0.88
+1438773895.741	760858	12	21	125	n	n	Are you prtowz being a baby?	 37.77	 214.38	Are you prtowz being a baby?	Mix	6395	0	0.88
+1438773895.866	760858	12	22	125	g	g	Are you prtowz being a baby?	 37.77	 214.38	Are you prtowz being a baby?	Mix	6520	0	0.88
+1438773895.99	760858	12	23	124	_	space	Are you prtowz being a baby?	 37.77	 214.38	Are you prtowz being a baby?	Mix	6644	0	0.88
+1438773896.396	760858	12	24	406	a	a	Are you prtowz being a baby?	 37.77	 214.38	Are you prtowz being a baby?	Mix	7050	0	0.88
+1438773896.552	760858	12	25	157	_	space	Are you prtowz being a baby?	 37.77	 214.38	Are you prtowz being a baby?	Mix	7207	0	0.88
+1438773896.802	760858	12	26	250	b	b	Are you prtowz being a baby?	 37.77	 214.38	Are you prtowz being a baby?	Mix	7457	0	0.88
+1438773896.926	760858	12	27	124	a	a	Are you prtowz being a baby?	 37.77	 214.38	Are you prtowz being a baby?	Mix	7581	0	0.88
+1438773897.02	760858	12	28	93	b	b	Are you prtowz being a baby?	 37.77	 214.38	Are you prtowz being a baby?	Mix	7674	0	0.88
+1438773897.488	760858	12	29	468	y	y	Are you prtowz being a baby?	 37.77	 214.38	Are you prtowz being a baby?	Mix	8142	0	0.88
+1438773897.769	760858	12	30	282	Shift_L	Shift_L	Are you prtowz being a baby?	 37.77	 214.38	Are you prtowz being a baby?	Mix	8424	0	0.88
+1438773897.925	760858	12	31	155	?	question	Are you prtowz being a baby?	 37.77	 214.38	Are you prtowz being a baby?	Mix	8579	0	0.88
+1438773899.859	760858	13	0	0	Shift_L	Shift_L	Can you yadgnv help?	 39.93	 237.35	Can you yadgnv help?	Mix	0	0	0.91
+1438773900.046	760858	13	1	187	C	C	Can you yadgnv help?	 39.93	 237.35	Can you yadgnv help?	Mix	187	0	0.91
+1438773900.327	760858	13	2	280	a	a	Can you yadgnv help?	 39.93	 237.35	Can you yadgnv help?	Mix	467	0	0.91
+1438773900.421	760858	13	3	95	n	n	Can you yadgnv help?	 39.93	 237.35	Can you yadgnv help?	Mix	562	0	0.91
+1438773900.577	760858	13	4	155	_	space	Can you yadgnv help?	 39.93	 237.35	Can you yadgnv help?	Mix	717	0	0.91
+1438773900.795	760858	13	5	219	y	y	Can you yadgnv help?	 39.93	 237.35	Can you yadgnv help?	Mix	936	0	0.91
+1438773900.951	760858	13	6	156	o	o	Can you yadgnv help?	 39.93	 237.35	Can you yadgnv help?	Mix	1092	0	0.91
+1438773901.045	760858	13	7	94	u	u	Can you yadgnv help?	 39.93	 237.35	Can you yadgnv help?	Mix	1186	0	0.91
+1438773901.138	760858	13	8	93	_	space	Can you yadgnv help?	 39.93	 237.35	Can you yadgnv help?	Mix	1279	0	0.91
+1438773901.887	760858	13	9	749	y	y	Can you yadgnv help?	 39.93	 237.35	Can you yadgnv help?	Mix	2028	0	0.91
+1438773902.074	760858	13	10	186	a	a	Can you yadgnv help?	 39.93	 237.35	Can you yadgnv help?	Mix	2214	0	0.91
+1438773902.979	760858	13	11	906	d	d	Can you yadgnv help?	 39.93	 237.35	Can you yadgnv help?	Mix	3120	0	0.91
+1438773903.385	760858	13	12	406	g	g	Can you yadgnv help?	 39.93	 237.35	Can you yadgnv help?	Mix	3526	0	0.91
+1438773903.634	760858	13	13	249	n	n	Can you yadgnv help?	 39.93	 237.35	Can you yadgnv help?	Mix	3775	0	0.91
+1438773904.383	760858	13	14	748	v	v	Can you yadgnv help?	 39.93	 237.35	Can you yadgnv help?	Mix	4523	0	0.91
+1438773904.508	760858	13	15	125	_	space	Can you yadgnv help?	 39.93	 237.35	Can you yadgnv help?	Mix	4648	0	0.91
+1438773904.695	760858	13	16	187	h	h	Can you yadgnv help?	 39.93	 237.35	Can you yadgnv help?	Mix	4835	0	0.91
+1438773904.82	760858	13	17	125	e	e	Can you yadgnv help?	 39.93	 237.35	Can you yadgnv help?	Mix	4960	0	0.91
+1438773905.132	760858	13	18	313	l	l	Can you yadgnv help?	 39.93	 237.35	Can you yadgnv help?	Mix	5273	0	0.91
+1438773905.194	760858	13	19	62	p	p	Can you yadgnv help?	 39.93	 237.35	Can you yadgnv help?	Mix	5335	0	0.91
+1438773905.413	760858	13	20	219	Shift_L	Shift_L	Can you yadgnv help?	 39.93	 237.35	Can you yadgnv help?	Mix	5554	0	0.91
+1438773905.569	760858	13	21	156	?	question	Can you yadgnv help?	 39.93	 237.35	Can you yadgnv help?	Mix	5710	0	0.91
+1438773906.848	760858	14	0	0	Shift_L	Shift_L	Did that nwmxxf happen?	 32.42	 307.18	Did that nwmxxf happen?	Mix	0	0	0.92
+1438773907.066	760858	14	1	217	D	D	Did that nwmxxf happen?	 32.42	 307.18	Did that nwmxxf happen?	Mix	217	0	0.92
+1438773907.285	760858	14	2	220	i	i	Did that nwmxxf happen?	 32.42	 307.18	Did that nwmxxf happen?	Mix	437	0	0.92
+1438773907.41	760858	14	3	125	d	d	Did that nwmxxf happen?	 32.42	 307.18	Did that nwmxxf happen?	Mix	562	0	0.92
+1438773907.534	760858	14	4	123	_	space	Did that nwmxxf happen?	 32.42	 307.18	Did that nwmxxf happen?	Mix	685	0	0.92
+1438773907.722	760858	14	5	188	t	t	Did that nwmxxf happen?	 32.42	 307.18	Did that nwmxxf happen?	Mix	873	0	0.92
+1438773907.846	760858	14	6	124	h	h	Did that nwmxxf happen?	 32.42	 307.18	Did that nwmxxf happen?	Mix	997	0	0.92
+1438773907.94	760858	14	7	95	a	a	Did that nwmxxf happen?	 32.42	 307.18	Did that nwmxxf happen?	Mix	1092	0	0.92
+1438773908.065	760858	14	8	125	t	t	Did that nwmxxf happen?	 32.42	 307.18	Did that nwmxxf happen?	Mix	1217	0	0.92
+1438773908.252	760858	14	9	187	_	space	Did that nwmxxf happen?	 32.42	 307.18	Did that nwmxxf happen?	Mix	1404	0	0.92
+1438773908.845	760858	14	10	592	n	n	Did that nwmxxf happen?	 32.42	 307.18	Did that nwmxxf happen?	Mix	1996	0	0.92
+1438773909.219	760858	14	11	375	w	w	Did that nwmxxf happen?	 32.42	 307.18	Did that nwmxxf happen?	Mix	2371	0	0.92
+1438773910.374	760858	14	12	1155	m	m	Did that nwmxxf happen?	 32.42	 307.18	Did that nwmxxf happen?	Mix	3526	0	0.92
+1438773910.873	760858	14	13	498	x	x	Did that nwmxxf happen?	 32.42	 307.18	Did that nwmxxf happen?	Mix	4024	0	0.92
+1438773911.622	760858	14	14	749	x	x	Did that nwmxxf happen?	 32.42	 307.18	Did that nwmxxf happen?	Mix	4773	0	0.92
+1438773912.402	760858	14	15	780	f	f	Did that nwmxxf happen?	 32.42	 307.18	Did that nwmxxf happen?	Mix	5553	0	0.92
+1438773912.62	760858	14	16	218	_	space	Did that nwmxxf happen?	 32.42	 307.18	Did that nwmxxf happen?	Mix	5771	0	0.92
+1438773912.901	760858	14	17	281	h	h	Did that nwmxxf happen?	 32.42	 307.18	Did that nwmxxf happen?	Mix	6052	0	0.92
+1438773912.994	760858	14	18	93	a	a	Did that nwmxxf happen?	 32.42	 307.18	Did that nwmxxf happen?	Mix	6145	0	0.92
+1438773913.182	760858	14	19	188	p	p	Did that nwmxxf happen?	 32.42	 307.18	Did that nwmxxf happen?	Mix	6333	0	0.92
+1438773913.306	760858	14	20	124	p	p	Did that nwmxxf happen?	 32.42	 307.18	Did that nwmxxf happen?	Mix	6457	0	0.92
+1438773913.431	760858	14	21	125	e	e	Did that nwmxxf happen?	 32.42	 307.18	Did that nwmxxf happen?	Mix	6582	0	0.92
+1438773914.492	760858	14	22	1062	n	n	Did that nwmxxf happen?	 32.42	 307.18	Did that nwmxxf happen?	Mix	7644	0	0.92
+1438773914.742	760858	14	23	250	Shift_L	Shift_L	Did that nwmxxf happen?	 32.42	 307.18	Did that nwmxxf happen?	Mix	7894	0	0.92
+1438773914.991	760858	14	24	248	?	question	Did that nwmxxf happen?	 32.42	 307.18	Did that nwmxxf happen?	Mix	8142	0	0.92
+1438773916.052	760858	15	0	0	Shift_L	Shift_L	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	0	0.0161290322580645	0.85
+1438773916.333	760858	15	1	280	D	D	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	280	0.0161290322580645	0.85
+1438773916.614	760858	15	2	282	o	o	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	562	0.0161290322580645	0.85
+1438773916.738	760858	15	3	123	_	space	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	685	0.0161290322580645	0.85
+1438773916.894	760858	15	4	157	w	w	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	842	0.0161290322580645	0.85
+1438773917.019	760858	15	5	125	e	e	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	967	0.0161290322580645	0.85
+1438773917.175	760858	15	6	155	_	space	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	1122	0.0161290322580645	0.85
+1438773917.55	760858	15	7	375	n	n	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	1497	0.0161290322580645	0.85
+1438773917.737	760858	15	8	187	e	e	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	1684	0.0161290322580645	0.85
+1438773917.893	760858	15	9	156	e	e	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	1840	0.0161290322580645	0.85
+1438773918.08	760858	15	10	187	d	d	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	2027	0.0161290322580645	0.85
+1438773918.174	760858	15	11	94	_	space	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	2121	0.0161290322580645	0.85
+1438773918.704	760858	15	12	530	z	z	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	2651	0.0161290322580645	0.85
+1438773919.047	760858	15	13	343	y	y	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	2994	0.0161290322580645	0.85
+1438773920.389	760858	15	14	1342	d	d	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	4336	0.0161290322580645	0.85
+1438773920.732	760858	15	15	344	f	f	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	4680	0.0161290322580645	0.85
+1438773921.574	760858	15	16	841	z	z	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	5521	0.0161290322580645	0.85
+1438773921.762	760858	15	17	189	z	z	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	5710	0.0161290322580645	0.85
+1438773921.886	760858	15	18	123	_	space	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	5833	0.0161290322580645	0.85
+1438773922.042	760858	15	19	157	t	t	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	5990	0.0161290322580645	0.85
+1438773922.167	760858	15	20	125	o	o	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	6115	0.0161290322580645	0.85
+1438773922.261	760858	15	21	93	_	space	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	6208	0.0161290322580645	0.85
+1438773922.448	760858	15	22	187	d	d	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	6395	0.0161290322580645	0.85
+1438773922.604	760858	15	23	157	i	i	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	6552	0.0161290322580645	0.85
+1438773922.76	760858	15	24	155	s	s	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	6707	0.0161290322580645	0.85
+1438773922.947	760858	15	25	187	c	c	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	6894	0.0161290322580645	0.85
+1438773923.134	760858	15	26	188	u	u	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	7082	0.0161290322580645	0.85
+1438773923.29	760858	15	27	155	s	s	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	7237	0.0161290322580645	0.85
+1438773923.446	760858	15	28	157	s	s	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	7394	0.0161290322580645	0.85
+1438773923.79	760858	15	29	343	Shift_L	Shift_L	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	7737	0.0161290322580645	0.85
+1438773924.382	760858	15	30	592	Multi_key	Multi_key	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	8329	0.0161290322580645	0.85
+1438773924.819	760858	15	31	437	`	BackSpace	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	8766	0.0161290322580645	0.85
+1438773924.944	760858	15	32	125	Shift_L	Shift_L	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	8891	0.0161290322580645	0.85
+1438773925.1	760858	15	33	156	?	question	Do we need zydfzz to discuss?	 37.14	 251.71	Do we need zydfzz to discus?	Mix	9047	0.0161290322580645	0.85
+1438773926.286	760858	16	0	0	Shift_L	Shift_L	What is jflurm the mood?	 39.15	 236.79	What is jflurm the mood?	Mix	0	0	0.92
+1438773926.598	760858	16	1	312	W	W	What is jflurm the mood?	 39.15	 236.79	What is jflurm the mood?	Mix	312	0	0.92
+1438773926.878	760858	16	2	280	h	h	What is jflurm the mood?	 39.15	 236.79	What is jflurm the mood?	Mix	592	0	0.92
+1438773926.972	760858	16	3	93	a	a	What is jflurm the mood?	 39.15	 236.79	What is jflurm the mood?	Mix	685	0	0.92
+1438773927.097	760858	16	4	125	t	t	What is jflurm the mood?	 39.15	 236.79	What is jflurm the mood?	Mix	810	0	0.92
+1438773927.253	760858	16	5	157	_	space	What is jflurm the mood?	 39.15	 236.79	What is jflurm the mood?	Mix	967	0	0.92
+1438773927.44	760858	16	6	187	i	i	What is jflurm the mood?	 39.15	 236.79	What is jflurm the mood?	Mix	1154	0	0.92
+1438773927.565	760858	16	7	125	s	s	What is jflurm the mood?	 39.15	 236.79	What is jflurm the mood?	Mix	1279	0	0.92
+1438773927.658	760858	16	8	92	_	space	What is jflurm the mood?	 39.15	 236.79	What is jflurm the mood?	Mix	1371	0	0.92
+1438773928.657	760858	16	9	1000	j	j	What is jflurm the mood?	 39.15	 236.79	What is jflurm the mood?	Mix	2371	0	0.92
+1438773929.031	760858	16	10	373	f	f	What is jflurm the mood?	 39.15	 236.79	What is jflurm the mood?	Mix	2744	0	0.92
+1438773929.967	760858	16	11	936	l	l	What is jflurm the mood?	 39.15	 236.79	What is jflurm the mood?	Mix	3680	0	0.92
+1438773930.248	760858	16	12	281	u	u	What is jflurm the mood?	 39.15	 236.79	What is jflurm the mood?	Mix	3961	0	0.92
+1438773930.466	760858	16	13	219	r	r	What is jflurm the mood?	 39.15	 236.79	What is jflurm the mood?	Mix	4180	0	0.92
+1438773930.747	760858	16	14	280	m	m	What is jflurm the mood?	 39.15	 236.79	What is jflurm the mood?	Mix	4460	0	0.92
+1438773930.934	760858	16	15	188	_	space	What is jflurm the mood?	 39.15	 236.79	What is jflurm the mood?	Mix	4648	0	0.92
+1438773931.465	760858	16	16	530	t	t	What is jflurm the mood?	 39.15	 236.79	What is jflurm the mood?	Mix	5178	0	0.92
+1438773931.59	760858	16	17	125	h	h	What is jflurm the mood?	 39.15	 236.79	What is jflurm the mood?	Mix	5303	0	0.92
+1438773931.714	760858	16	18	124	e	e	What is jflurm the mood?	 39.15	 236.79	What is jflurm the mood?	Mix	5427	0	0.92
+1438773931.777	760858	16	19	63	_	space	What is jflurm the mood?	 39.15	 236.79	What is jflurm the mood?	Mix	5490	0	0.92
+1438773931.964	760858	16	20	187	m	m	What is jflurm the mood?	 39.15	 236.79	What is jflurm the mood?	Mix	5677	0	0.92
+1438773932.214	760858	16	21	250	o	o	What is jflurm the mood?	 39.15	 236.79	What is jflurm the mood?	Mix	5927	0	0.92
+1438773932.401	760858	16	22	188	o	o	What is jflurm the mood?	 39.15	 236.79	What is jflurm the mood?	Mix	6115	0	0.92
+1438773932.588	760858	16	23	187	d	d	What is jflurm the mood?	 39.15	 236.79	What is jflurm the mood?	Mix	6302	0	0.92
+1438773933.087	760858	16	24	498	Shift_L	Shift_L	What is jflurm the mood?	 39.15	 236.79	What is jflurm the mood?	Mix	6800	0	0.92
+1438773933.337	760858	16	25	250	?	question	What is jflurm the mood?	 39.15	 236.79	What is jflurm the mood?	Mix	7050	0	0.92
+1438773934.491	760858	17	0	0	Shift_L	Shift_L	See you vunbgd soon!	 34.80	 247.66	See you vunbgd soon!	Mix	0	0	0.91
+1438773934.71	760858	17	1	219	S	S	See you vunbgd soon!	 34.80	 247.66	See you vunbgd soon!	Mix	219	0	0.91
+1438773935.084	760858	17	2	374	e	e	See you vunbgd soon!	 34.80	 247.66	See you vunbgd soon!	Mix	593	0	0.91
+1438773935.24	760858	17	3	156	e	e	See you vunbgd soon!	 34.80	 247.66	See you vunbgd soon!	Mix	749	0	0.91
+1438773935.334	760858	17	4	94	_	space	See you vunbgd soon!	 34.80	 247.66	See you vunbgd soon!	Mix	843	0	0.91
+1438773935.552	760858	17	5	218	y	y	See you vunbgd soon!	 34.80	 247.66	See you vunbgd soon!	Mix	1061	0	0.91
+1438773935.708	760858	17	6	156	o	o	See you vunbgd soon!	 34.80	 247.66	See you vunbgd soon!	Mix	1217	0	0.91
+1438773935.833	760858	17	7	125	u	u	See you vunbgd soon!	 34.80	 247.66	See you vunbgd soon!	Mix	1342	0	0.91
+1438773935.958	760858	17	8	125	_	space	See you vunbgd soon!	 34.80	 247.66	See you vunbgd soon!	Mix	1467	0	0.91
+1438773936.644	760858	17	9	686	v	v	See you vunbgd soon!	 34.80	 247.66	See you vunbgd soon!	Mix	2153	0	0.91
+1438773936.894	760858	17	10	250	u	u	See you vunbgd soon!	 34.80	 247.66	See you vunbgd soon!	Mix	2403	0	0.91
+1438773937.112	760858	17	11	218	n	n	See you vunbgd soon!	 34.80	 247.66	See you vunbgd soon!	Mix	2621	0	0.91
+1438773938.298	760858	17	12	1186	b	b	See you vunbgd soon!	 34.80	 247.66	See you vunbgd soon!	Mix	3807	0	0.91
+1438773938.578	760858	17	13	280	g	g	See you vunbgd soon!	 34.80	 247.66	See you vunbgd soon!	Mix	4087	0	0.91
+1438773938.89	760858	17	14	312	d	d	See you vunbgd soon!	 34.80	 247.66	See you vunbgd soon!	Mix	4399	0	0.91
+1438773939.171	760858	17	15	281	_	space	See you vunbgd soon!	 34.80	 247.66	See you vunbgd soon!	Mix	4680	0	0.91
+1438773939.514	760858	17	16	343	s	s	See you vunbgd soon!	 34.80	 247.66	See you vunbgd soon!	Mix	5023	0	0.91
+1438773939.795	760858	17	17	281	o	o	See you vunbgd soon!	 34.80	 247.66	See you vunbgd soon!	Mix	5304	0	0.91
+1438773939.951	760858	17	18	156	o	o	See you vunbgd soon!	 34.80	 247.66	See you vunbgd soon!	Mix	5460	0	0.91
+1438773940.138	760858	17	19	187	n	n	See you vunbgd soon!	 34.80	 247.66	See you vunbgd soon!	Mix	5647	0	0.91
+1438773940.731	760858	17	20	593	Shift_L	Shift_L	See you vunbgd soon!	 34.80	 247.66	See you vunbgd soon!	Mix	6240	0	0.91
+1438773941.043	760858	17	21	312	!	exclam	See you vunbgd soon!	 34.80	 247.66	See you vunbgd soon!	Mix	6552	0	0.91
+1438773942.478	760858	18	0	0	Shift_L	Shift_L	Thanks good jvhslb job.	 34.12	 281.87	Thanks good jvhslb job.	Mix	0	0	0.96
+1438773942.634	760858	18	1	156	T	T	Thanks good jvhslb job.	 34.12	 281.87	Thanks good jvhslb job.	Mix	156	0	0.96
+1438773942.853	760858	18	2	219	h	h	Thanks good jvhslb job.	 34.12	 281.87	Thanks good jvhslb job.	Mix	375	0	0.96
+1438773942.978	760858	18	3	125	a	a	Thanks good jvhslb job.	 34.12	 281.87	Thanks good jvhslb job.	Mix	500	0	0.96
+1438773943.383	760858	18	4	404	n	n	Thanks good jvhslb job.	 34.12	 281.87	Thanks good jvhslb job.	Mix	904	0	0.96
+1438773943.57	760858	18	5	188	k	k	Thanks good jvhslb job.	 34.12	 281.87	Thanks good jvhslb job.	Mix	1092	0	0.96
+1438773943.695	760858	18	6	125	s	s	Thanks good jvhslb job.	 34.12	 281.87	Thanks good jvhslb job.	Mix	1217	0	0.96
+1438773943.851	760858	18	7	156	_	space	Thanks good jvhslb job.	 34.12	 281.87	Thanks good jvhslb job.	Mix	1373	0	0.96
+1438773944.538	760858	18	8	687	g	g	Thanks good jvhslb job.	 34.12	 281.87	Thanks good jvhslb job.	Mix	2060	0	0.96
+1438773944.725	760858	18	9	186	o	o	Thanks good jvhslb job.	 34.12	 281.87	Thanks good jvhslb job.	Mix	2246	0	0.96
+1438773944.881	760858	18	10	157	o	o	Thanks good jvhslb job.	 34.12	 281.87	Thanks good jvhslb job.	Mix	2403	0	0.96
+1438773945.006	760858	18	11	125	d	d	Thanks good jvhslb job.	 34.12	 281.87	Thanks good jvhslb job.	Mix	2528	0	0.96
+1438773945.099	760858	18	12	93	_	space	Thanks good jvhslb job.	 34.12	 281.87	Thanks good jvhslb job.	Mix	2621	0	0.96
+1438773945.848	760858	18	13	749	j	j	Thanks good jvhslb job.	 34.12	 281.87	Thanks good jvhslb job.	Mix	3370	0	0.96
+1438773946.129	760858	18	14	281	v	v	Thanks good jvhslb job.	 34.12	 281.87	Thanks good jvhslb job.	Mix	3651	0	0.96
+1438773947.221	760858	18	15	1092	h	h	Thanks good jvhslb job.	 34.12	 281.87	Thanks good jvhslb job.	Mix	4743	0	0.96
+1438773947.47	760858	18	16	249	s	s	Thanks good jvhslb job.	 34.12	 281.87	Thanks good jvhslb job.	Mix	4992	0	0.96
+1438773947.782	760858	18	17	312	l	l	Thanks good jvhslb job.	 34.12	 281.87	Thanks good jvhslb job.	Mix	5304	0	0.96
+1438773948.75	760858	18	18	968	b	b	Thanks good jvhslb job.	 34.12	 281.87	Thanks good jvhslb job.	Mix	6272	0	0.96
+1438773948.906	760858	18	19	155	_	space	Thanks good jvhslb job.	 34.12	 281.87	Thanks good jvhslb job.	Mix	6427	0	0.96
+1438773949.186	760858	18	20	281	j	j	Thanks good jvhslb job.	 34.12	 281.87	Thanks good jvhslb job.	Mix	6708	0	0.96
+1438773949.342	760858	18	21	156	o	o	Thanks good jvhslb job.	 34.12	 281.87	Thanks good jvhslb job.	Mix	6864	0	0.96
+1438773949.654	760858	18	22	312	b	b	Thanks good jvhslb job.	 34.12	 281.87	Thanks good jvhslb job.	Mix	7176	0	0.96
+1438773950.216	760858	18	23	562	.	period	Thanks good jvhslb job.	 34.12	 281.87	Thanks good jvhslb job.	Mix	7738	0	0.96
+1438773951.277	760858	19	0	0	Shift_L	Shift_L	This looks jaolwh fine.	 45.25	 181.66	This looks jaolwh fine.	Mix	0	0	0.96
+1438773951.526	760858	19	1	249	T	T	This looks jaolwh fine.	 45.25	 181.66	This looks jaolwh fine.	Mix	249	0	0.96
+1438773951.745	760858	19	2	218	h	h	This looks jaolwh fine.	 45.25	 181.66	This looks jaolwh fine.	Mix	467	0	0.96
+1438773951.901	760858	19	3	157	i	i	This looks jaolwh fine.	 45.25	 181.66	This looks jaolwh fine.	Mix	624	0	0.96
+1438773951.994	760858	19	4	93	s	s	This looks jaolwh fine.	 45.25	 181.66	This looks jaolwh fine.	Mix	717	0	0.96
+1438773952.088	760858	19	5	94	_	space	This looks jaolwh fine.	 45.25	 181.66	This looks jaolwh fine.	Mix	811	0	0.96
+1438773952.712	760858	19	6	623	l	l	This looks jaolwh fine.	 45.25	 181.66	This looks jaolwh fine.	Mix	1434	0	0.96
+1438773952.899	760858	19	7	187	o	o	This looks jaolwh fine.	 45.25	 181.66	This looks jaolwh fine.	Mix	1621	0	0.96
+1438773953.055	760858	19	8	157	o	o	This looks jaolwh fine.	 45.25	 181.66	This looks jaolwh fine.	Mix	1778	0	0.96
+1438773953.211	760858	19	9	156	k	k	This looks jaolwh fine.	 45.25	 181.66	This looks jaolwh fine.	Mix	1934	0	0.96
+1438773953.367	760858	19	10	156	s	s	This looks jaolwh fine.	 45.25	 181.66	This looks jaolwh fine.	Mix	2090	0	0.96
+1438773953.492	760858	19	11	125	_	space	This looks jaolwh fine.	 45.25	 181.66	This looks jaolwh fine.	Mix	2215	0	0.96
+1438773953.991	760858	19	12	498	j	j	This looks jaolwh fine.	 45.25	 181.66	This looks jaolwh fine.	Mix	2713	0	0.96
+1438773954.116	760858	19	13	125	a	a	This looks jaolwh fine.	 45.25	 181.66	This looks jaolwh fine.	Mix	2838	0	0.96
+1438773954.272	760858	19	14	157	o	o	This looks jaolwh fine.	 45.25	 181.66	This looks jaolwh fine.	Mix	2995	0	0.96
+1438773954.49	760858	19	15	218	l	l	This looks jaolwh fine.	 45.25	 181.66	This looks jaolwh fine.	Mix	3213	0	0.96
+1438773955.239	760858	19	16	749	w	w	This looks jaolwh fine.	 45.25	 181.66	This looks jaolwh fine.	Mix	3962	0	0.96
+1438773955.707	760858	19	17	468	h	h	This looks jaolwh fine.	 45.25	 181.66	This looks jaolwh fine.	Mix	4430	0	0.96
+1438773955.863	760858	19	18	155	_	space	This looks jaolwh fine.	 45.25	 181.66	This looks jaolwh fine.	Mix	4585	0	0.96
+1438773956.331	760858	19	19	469	f	f	This looks jaolwh fine.	 45.25	 181.66	This looks jaolwh fine.	Mix	5054	0	0.96
+1438773956.487	760858	19	20	156	i	i	This looks jaolwh fine.	 45.25	 181.66	This looks jaolwh fine.	Mix	5210	0	0.96
+1438773956.612	760858	19	21	125	n	n	This looks jaolwh fine.	 45.25	 181.66	This looks jaolwh fine.	Mix	5335	0	0.96
+1438773956.768	760858	19	22	155	e	e	This looks jaolwh fine.	 45.25	 181.66	This looks jaolwh fine.	Mix	5490	0	0.96
+1438773957.111	760858	19	23	344	.	period	This looks jaolwh fine.	 45.25	 181.66	This looks jaolwh fine.	Mix	5834	0	0.96
+1438773958.078	760858	20	0	0	Shift_L	Shift_L	How are ohrswt you?	 37.63	 223.70	How are ohrswt you?	Mix	0	0	0.90
+1438773958.453	760858	20	1	375	H	H	How are ohrswt you?	 37.63	 223.70	How are ohrswt you?	Mix	375	0	0.90
+1438773958.671	760858	20	2	217	o	o	How are ohrswt you?	 37.63	 223.70	How are ohrswt you?	Mix	592	0	0.90
+1438773958.827	760858	20	3	156	w	w	How are ohrswt you?	 37.63	 223.70	How are ohrswt you?	Mix	748	0	0.90
+1438773958.921	760858	20	4	94	_	space	How are ohrswt you?	 37.63	 223.70	How are ohrswt you?	Mix	842	0	0.90
+1438773959.046	760858	20	5	125	a	a	How are ohrswt you?	 37.63	 223.70	How are ohrswt you?	Mix	967	0	0.90
+1438773959.202	760858	20	6	156	r	r	How are ohrswt you?	 37.63	 223.70	How are ohrswt you?	Mix	1123	0	0.90
+1438773959.358	760858	20	7	156	e	e	How are ohrswt you?	 37.63	 223.70	How are ohrswt you?	Mix	1279	0	0.90
+1438773959.451	760858	20	8	93	_	space	How are ohrswt you?	 37.63	 223.70	How are ohrswt you?	Mix	1372	0	0.90
+1438773959.95	760858	20	9	499	o	o	How are ohrswt you?	 37.63	 223.70	How are ohrswt you?	Mix	1871	0	0.90
+1438773960.294	760858	20	10	344	h	h	How are ohrswt you?	 37.63	 223.70	How are ohrswt you?	Mix	2215	0	0.90
+1438773960.543	760858	20	11	249	r	r	How are ohrswt you?	 37.63	 223.70	How are ohrswt you?	Mix	2464	0	0.90
+1438773961.604	760858	20	12	1062	s	s	How are ohrswt you?	 37.63	 223.70	How are ohrswt you?	Mix	3526	0	0.90
+1438773961.854	760858	20	13	250	w	w	How are ohrswt you?	 37.63	 223.70	How are ohrswt you?	Mix	3776	0	0.90
+1438773962.29	760858	20	14	435	t	t	How are ohrswt you?	 37.63	 223.70	How are ohrswt you?	Mix	4211	0	0.90
+1438773962.696	760858	20	15	407	_	space	How are ohrswt you?	 37.63	 223.70	How are ohrswt you?	Mix	4618	0	0.90
+1438773963.102	760858	20	16	405	y	y	How are ohrswt you?	 37.63	 223.70	How are ohrswt you?	Mix	5023	0	0.90
+1438773963.258	760858	20	17	156	o	o	How are ohrswt you?	 37.63	 223.70	How are ohrswt you?	Mix	5179	0	0.90
+1438773963.351	760858	20	18	94	u	u	How are ohrswt you?	 37.63	 223.70	How are ohrswt you?	Mix	5273	0	0.90
+1438773963.694	760858	20	19	342	Shift_L	Shift_L	How are ohrswt you?	 37.63	 223.70	How are ohrswt you?	Mix	5615	0	0.90
+1438773963.819	760858	20	20	125	?	question	How are ohrswt you?	 37.63	 223.70	How are ohrswt you?	Mix	5740	0	0.90
+1438773964.911	760858	21	0	0	Shift_L	Shift_L	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	0	0	0.97
+1438773965.13	760858	21	1	219	I	I	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	219	0	0.97
+1438773965.286	760858	21	2	156	_	space	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	375	0	0.97
+1438773965.598	760858	21	3	312	h	h	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	687	0	0.97
+1438773965.785	760858	21	4	187	o	o	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	874	0	0.97
+1438773965.972	760858	21	5	186	p	p	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	1060	0	0.97
+1438773966.159	760858	21	6	187	e	e	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	1247	0	0.97
+1438773966.347	760858	21	7	188	_	space	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	1435	0	0.97
+1438773967.002	760858	21	8	656	y	y	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	2091	0	0.97
+1438773967.158	760858	21	9	155	o	o	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	2246	0	0.97
+1438773967.283	760858	21	10	125	u	u	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	2371	0	0.97
+1438773967.407	760858	21	11	125	_	space	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	2496	0	0.97
+1438773967.907	760858	21	12	500	o	o	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	2996	0	0.97
+1438773968.25	760858	21	13	342	x	x	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	3338	0	0.97
+1438773969.155	760858	21	14	905	b	b	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	4243	0	0.97
+1438773969.404	760858	21	15	250	c	c	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	4493	0	0.97
+1438773970.559	760858	21	16	1155	q	q	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	5648	0	0.97
+1438773970.933	760858	21	17	374	h	h	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	6022	0	0.97
+1438773971.12	760858	21	18	186	_	space	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	6208	0	0.97
+1438773971.619	760858	21	19	499	a	a	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	6707	0	0.97
+1438773971.838	760858	21	20	220	r	r	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	6927	0	0.97
+1438773971.931	760858	21	21	92	e	e	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	7019	0	0.97
+1438773972.056	760858	21	22	125	_	space	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	7144	0	0.97
+1438773972.212	760858	21	23	156	f	f	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	7300	0	0.97
+1438773972.431	760858	21	24	219	e	e	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	7519	0	0.97
+1438773972.555	760858	21	25	125	e	e	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	7644	0	0.97
+1438773972.68	760858	21	26	125	l	l	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	7769	0	0.97
+1438773972.836	760858	21	27	155	i	i	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	7924	0	0.97
+1438773972.961	760858	21	28	125	n	n	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	8049	0	0.97
+1438773973.117	760858	21	29	157	g	g	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	8206	0	0.97
+1438773973.211	760858	21	30	93	_	space	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	8299	0	0.97
+1438773973.585	760858	21	31	375	b	b	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	8674	0	0.97
+1438773973.71	760858	21	32	125	e	e	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	8799	0	0.97
+1438773973.897	760858	21	33	187	t	t	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	8986	0	0.97
+1438773974.022	760858	21	34	125	t	t	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	9111	0	0.97
+1438773974.147	760858	21	35	125	e	e	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	9236	0	0.97
+1438773974.24	760858	21	36	92	r	r	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	9328	0	0.97
+1438773974.677	760858	21	37	438	.	period	I hope you oxbcqh are feeling better.	 44.24	 229.44	I hope you oxbcqh are feeling better.	Mix	9766	0	0.97
+1438773975.987	760858	22	0	0	Shift_L	Shift_L	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	0	0	0.95
+1438773976.268	760858	22	1	280	A	A	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	280	0	0.95
+1438773976.643	760858	22	2	375	r	r	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	655	0	0.95
+1438773976.799	760858	22	3	157	e	e	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	812	0	0.95
+1438773976.923	760858	22	4	124	_	space	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	936	0	0.95
+1438773977.204	760858	22	5	281	y	y	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	1217	0	0.95
+1438773977.391	760858	22	6	187	o	o	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	1404	0	0.95
+1438773977.485	760858	22	7	93	u	u	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	1497	0	0.95
+1438773978.171	760858	22	8	687	_	space	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	2184	0	0.95
+1438773978.92	760858	22	9	749	g	g	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	2933	0	0.95
+1438773979.076	760858	22	10	155	o	o	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	3088	0	0.95
+1438773979.263	760858	22	11	188	i	i	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	3276	0	0.95
+1438773979.357	760858	22	12	94	n	n	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	3370	0	0.95
+1438773979.544	760858	22	13	186	g	g	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	3556	0	0.95
+1438773979.638	760858	22	14	95	_	space	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	3651	0	0.95
+1438773980.262	760858	22	15	624	t	t	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	4275	0	0.95
+1438773980.449	760858	22	16	186	o	o	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	4461	0	0.95
+1438773980.574	760858	22	17	125	_	space	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	4586	0	0.95
+1438773981.385	760858	22	18	812	m	m	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	5398	0	0.95
+1438773981.697	760858	22	19	312	k	k	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	5710	0	0.95
+1438773982.134	760858	22	20	437	a	a	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	6147	0	0.95
+1438773983.039	760858	22	21	905	c	c	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	7052	0	0.95
+1438773983.444	760858	22	22	405	s	s	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	7457	0	0.95
+1438773983.787	760858	22	23	342	n	n	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	7799	0	0.95
+1438773983.943	760858	22	24	157	_	space	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	7956	0	0.95
+1438773984.692	760858	22	25	748	j	j	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	8704	0	0.95
+1438773984.817	760858	22	26	125	o	o	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	8829	0	0.95
+1438773985.004	760858	22	27	187	i	i	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	9016	0	0.95
+1438773985.16	760858	22	28	157	n	n	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	9173	0	0.95
+1438773985.285	760858	22	29	125	_	space	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	9298	0	0.95
+1438773985.441	760858	22	30	155	u	u	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	9453	0	0.95
+1438773985.628	760858	22	31	188	s	s	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	9641	0	0.95
+1438773985.753	760858	22	32	125	_	space	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	9766	0	0.95
+1438773986.159	760858	22	33	405	f	f	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	10171	0	0.95
+1438773986.315	760858	22	34	157	o	o	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	10328	0	0.95
+1438773986.439	760858	22	35	123	r	r	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	10451	0	0.95
+1438773986.502	760858	22	36	64	_	space	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	10515	0	0.95
+1438773986.658	760858	22	37	156	l	l	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	10671	0	0.95
+1438773986.876	760858	22	38	217	u	u	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	10888	0	0.95
+1438773987.063	760858	22	39	187	n	n	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	11075	0	0.95
+1438773987.251	760858	22	40	188	c	c	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	11263	0	0.95
+1438773987.375	760858	22	41	125	h	h	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	11388	0	0.95
+1438773987.625	760858	22	42	250	Shift_L	Shift_L	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	11638	0	0.95
+1438773987.906	760858	22	43	280	?	question	Are you going to mkacsn join us for lunch?	 41.28	 216.39	Are you going to mkacsn join us for lunch?	Mix	11918	0	0.95
+1438773989.185	760858	23	0	0	Shift_L	Shift_L	Take what awnjvd you can get.	 45.44	 204.23	Take what awnjvd you can get.	Mix	0	0	0.97
+1438773989.341	760858	23	1	156	T	T	Take what awnjvd you can get.	 45.44	 204.23	Take what awnjvd you can get.	Mix	156	0	0.97
+1438773989.622	760858	23	2	281	a	a	Take what awnjvd you can get.	 45.44	 204.23	Take what awnjvd you can get.	Mix	437	0	0.97
+1438773989.778	760858	23	3	156	k	k	Take what awnjvd you can get.	 45.44	 204.23	Take what awnjvd you can get.	Mix	593	0	0.97
+1438773989.996	760858	23	4	218	e	e	Take what awnjvd you can get.	 45.44	 204.23	Take what awnjvd you can get.	Mix	811	0	0.97
+1438773990.121	760858	23	5	125	_	space	Take what awnjvd you can get.	 45.44	 204.23	Take what awnjvd you can get.	Mix	936	0	0.97
+1438773990.371	760858	23	6	250	w	w	Take what awnjvd you can get.	 45.44	 204.23	Take what awnjvd you can get.	Mix	1186	0	0.97
+1438773990.558	760858	23	7	187	h	h	Take what awnjvd you can get.	 45.44	 204.23	Take what awnjvd you can get.	Mix	1373	0	0.97
+1438773990.683	760858	23	8	125	a	a	Take what awnjvd you can get.	 45.44	 204.23	Take what awnjvd you can get.	Mix	1498	0	0.97
+1438773990.839	760858	23	9	156	t	t	Take what awnjvd you can get.	 45.44	 204.23	Take what awnjvd you can get.	Mix	1654	0	0.97
+1438773990.995	760858	23	10	155	_	space	Take what awnjvd you can get.	 45.44	 204.23	Take what awnjvd you can get.	Mix	1809	0	0.97
+1438773991.431	760858	23	11	437	a	a	Take what awnjvd you can get.	 45.44	 204.23	Take what awnjvd you can get.	Mix	2246	0	0.97
+1438773991.743	760858	23	12	312	w	w	Take what awnjvd you can get.	 45.44	 204.23	Take what awnjvd you can get.	Mix	2558	0	0.97
+1438773992.087	760858	23	13	343	n	n	Take what awnjvd you can get.	 45.44	 204.23	Take what awnjvd you can get.	Mix	2901	0	0.97
+1438773993.147	760858	23	14	1061	j	j	Take what awnjvd you can get.	 45.44	 204.23	Take what awnjvd you can get.	Mix	3962	0	0.97
+1438773993.615	760858	23	15	468	v	v	Take what awnjvd you can get.	 45.44	 204.23	Take what awnjvd you can get.	Mix	4430	0	0.97
+1438773993.896	760858	23	16	280	d	d	Take what awnjvd you can get.	 45.44	 204.23	Take what awnjvd you can get.	Mix	4710	0	0.97
+1438773994.115	760858	23	17	220	_	space	Take what awnjvd you can get.	 45.44	 204.23	Take what awnjvd you can get.	Mix	4930	0	0.97
+1438773994.801	760858	23	18	686	y	y	Take what awnjvd you can get.	 45.44	 204.23	Take what awnjvd you can get.	Mix	5616	0	0.97
+1438773994.957	760858	23	19	156	o	o	Take what awnjvd you can get.	 45.44	 204.23	Take what awnjvd you can get.	Mix	5772	0	0.97
+1438773995.019	760858	23	20	62	u	u	Take what awnjvd you can get.	 45.44	 204.23	Take what awnjvd you can get.	Mix	5834	0	0.97
+1438773995.175	760858	23	21	156	_	space	Take what awnjvd you can get.	 45.44	 204.23	Take what awnjvd you can get.	Mix	5990	0	0.97
+1438773995.3	760858	23	22	125	c	c	Take what awnjvd you can get.	 45.44	 204.23	Take what awnjvd you can get.	Mix	6115	0	0.97
+1438773995.456	760858	23	23	156	a	a	Take what awnjvd you can get.	 45.44	 204.23	Take what awnjvd you can get.	Mix	6271	0	0.97
+1438773995.55	760858	23	24	94	n	n	Take what awnjvd you can get.	 45.44	 204.23	Take what awnjvd you can get.	Mix	6365	0	0.97
+1438773995.675	760858	23	25	125	_	space	Take what awnjvd you can get.	 45.44	 204.23	Take what awnjvd you can get.	Mix	6490	0	0.97
+1438773995.955	760858	23	26	279	g	g	Take what awnjvd you can get.	 45.44	 204.23	Take what awnjvd you can get.	Mix	6769	0	0.97
+1438773996.111	760858	23	27	157	e	e	Take what awnjvd you can get.	 45.44	 204.23	Take what awnjvd you can get.	Mix	6926	0	0.97
+1438773996.236	760858	23	28	125	t	t	Take what awnjvd you can get.	 45.44	 204.23	Take what awnjvd you can get.	Mix	7051	0	0.97
+1438773996.579	760858	23	29	343	.	period	Take what awnjvd you can get.	 45.44	 204.23	Take what awnjvd you can get.	Mix	7394	0	0.97
+1438773997.64	760858	24	0	0	Shift_L	Shift_L	Where are evvphq you?	 28.28	 192.37	Where are evvphq you?	Mix	0	0	0.78
+1438773997.921	760858	24	1	280	W	W	Where are evvphq you?	 28.28	 192.37	Where are evvphq you?	Mix	280	0	0.78
+1438773998.202	760858	24	2	281	h	h	Where are evvphq you?	 28.28	 192.37	Where are evvphq you?	Mix	561	0	0.78
+1438773998.639	760858	24	3	437	e	e	Where are evvphq you?	 28.28	 192.37	Where are evvphq you?	Mix	998	0	0.78
+1438773999.169	760858	24	4	530	e	e	Where are evvphq you?	 28.28	 192.37	Where are evvphq you?	Mix	1528	0	0.78
+1438773999.169	760858	24	5	0	r	r	Where are evvphq you?	 28.28	 192.37	Where are evvphq you?	Mix	1528	0	0.78
+1438773999.606	760858	24	6	437		BackSpace	Where are evvphq you?	 28.28	 192.37	Where are evvphq you?	Mix	1965	0	0.78
+1438773999.887	760858	24	7	281		BackSpace	Where are evvphq you?	 28.28	 192.37	Where are evvphq you?	Mix	2246	0	0.78
+1438774000.167	760858	24	8	280	r	r	Where are evvphq you?	 28.28	 192.37	Where are evvphq you?	Mix	2526	0	0.78
+1438774000.292	760858	24	9	125	e	e	Where are evvphq you?	 28.28	 192.37	Where are evvphq you?	Mix	2651	0	0.78
+1438774000.479	760858	24	10	187	_	space	Where are evvphq you?	 28.28	 192.37	Where are evvphq you?	Mix	2838	0	0.78
+1438774000.76	760858	24	11	281	a	a	Where are evvphq you?	 28.28	 192.37	Where are evvphq you?	Mix	3119	0	0.78
+1438774000.947	760858	24	12	187	r	r	Where are evvphq you?	 28.28	 192.37	Where are evvphq you?	Mix	3306	0	0.78
+1438774001.072	760858	24	13	125	e	e	Where are evvphq you?	 28.28	 192.37	Where are evvphq you?	Mix	3431	0	0.78
+1438774001.197	760858	24	14	125	_	space	Where are evvphq you?	 28.28	 192.37	Where are evvphq you?	Mix	3556	0	0.78
+1438774001.727	760858	24	15	530	e	e	Where are evvphq you?	 28.28	 192.37	Where are evvphq you?	Mix	4086	0	0.78
+1438774002.008	760858	24	16	281	v	v	Where are evvphq you?	 28.28	 192.37	Where are evvphq you?	Mix	4367	0	0.78
+1438774002.164	760858	24	17	156	v	v	Where are evvphq you?	 28.28	 192.37	Where are evvphq you?	Mix	4523	0	0.78
+1438774003.069	760858	24	18	905	p	p	Where are evvphq you?	 28.28	 192.37	Where are evvphq you?	Mix	5428	0	0.78
+1438774003.475	760858	24	19	406	h	h	Where are evvphq you?	 28.28	 192.37	Where are evvphq you?	Mix	5834	0	0.78
+1438774004.099	760858	24	20	624	q	q	Where are evvphq you?	 28.28	 192.37	Where are evvphq you?	Mix	6458	0	0.78
+1438774004.442	760858	24	21	343	_	space	Where are evvphq you?	 28.28	 192.37	Where are evvphq you?	Mix	6801	0	0.78
+1438774004.941	760858	24	22	499	y	y	Where are evvphq you?	 28.28	 192.37	Where are evvphq you?	Mix	7300	0	0.78
+1438774005.097	760858	24	23	156	o	o	Where are evvphq you?	 28.28	 192.37	Where are evvphq you?	Mix	7456	0	0.78
+1438774005.191	760858	24	24	94	u	u	Where are evvphq you?	 28.28	 192.37	Where are evvphq you?	Mix	7550	0	0.78
+1438774005.659	760858	24	25	468	Shift_L	Shift_L	Where are evvphq you?	 28.28	 192.37	Where are evvphq you?	Mix	8018	0	0.78
+1438774006.127	760858	24	26	468	?	question	Where are evvphq you?	 28.28	 192.37	Where are evvphq you?	Mix	8486	0	0.78
+1438774007.406	760858	25	0	0	Shift_L	Shift_L	What is vtljjo this?	 39.94	 234.57	What is vtljjo this?	Mix	0	0	0.91
+1438774007.655	760858	25	1	249	W	W	What is vtljjo this?	 39.94	 234.57	What is vtljjo this?	Mix	249	0	0.91
+1438774007.999	760858	25	2	344	h	h	What is vtljjo this?	 39.94	 234.57	What is vtljjo this?	Mix	593	0	0.91
+1438774008.092	760858	25	3	93	a	a	What is vtljjo this?	 39.94	 234.57	What is vtljjo this?	Mix	686	0	0.91
+1438774008.248	760858	25	4	156	t	t	What is vtljjo this?	 39.94	 234.57	What is vtljjo this?	Mix	842	0	0.91
+1438774008.373	760858	25	5	125	_	space	What is vtljjo this?	 39.94	 234.57	What is vtljjo this?	Mix	967	0	0.91
+1438774008.903	760858	25	6	530	i	i	What is vtljjo this?	 39.94	 234.57	What is vtljjo this?	Mix	1497	0	0.91
+1438774009.028	760858	25	7	125	s	s	What is vtljjo this?	 39.94	 234.57	What is vtljjo this?	Mix	1622	0	0.91
+1438774009.153	760858	25	8	125	_	space	What is vtljjo this?	 39.94	 234.57	What is vtljjo this?	Mix	1747	0	0.91
+1438774009.434	760858	25	9	281	v	v	What is vtljjo this?	 39.94	 234.57	What is vtljjo this?	Mix	2028	0	0.91
+1438774009.683	760858	25	10	249	t	t	What is vtljjo this?	 39.94	 234.57	What is vtljjo this?	Mix	2277	0	0.91
+1438774010.807	760858	25	11	1124	l	l	What is vtljjo this?	 39.94	 234.57	What is vtljjo this?	Mix	3401	0	0.91
+1438774011.181	760858	25	12	374	j	j	What is vtljjo this?	 39.94	 234.57	What is vtljjo this?	Mix	3775	0	0.91
+1438774011.337	760858	25	13	155	j	j	What is vtljjo this?	 39.94	 234.57	What is vtljjo this?	Mix	3930	0	0.91
+1438774011.555	760858	25	14	219	o	o	What is vtljjo this?	 39.94	 234.57	What is vtljjo this?	Mix	4149	0	0.91
+1438774012.086	760858	25	15	531	_	space	What is vtljjo this?	 39.94	 234.57	What is vtljjo this?	Mix	4680	0	0.91
+1438774012.367	760858	25	16	281	t	t	What is vtljjo this?	 39.94	 234.57	What is vtljjo this?	Mix	4961	0	0.91
+1438774012.46	760858	25	17	93	h	h	What is vtljjo this?	 39.94	 234.57	What is vtljjo this?	Mix	5054	0	0.91
+1438774012.585	760858	25	18	125	i	i	What is vtljjo this?	 39.94	 234.57	What is vtljjo this?	Mix	5179	0	0.91
+1438774012.71	760858	25	19	125	s	s	What is vtljjo this?	 39.94	 234.57	What is vtljjo this?	Mix	5304	0	0.91
+1438774012.991	760858	25	20	281	Shift_L	Shift_L	What is vtljjo this?	 39.94	 234.57	What is vtljjo this?	Mix	5585	0	0.91
+1438774013.115	760858	25	21	124	?	question	What is vtljjo this?	 39.94	 234.57	What is vtljjo this?	Mix	5709	0	0.91
+1438774014.239	760858	26	0	0	Shift_L	Shift_L	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	0	0	0.74
+1438774014.395	760858	26	1	155	T	T	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	155	0	0.74
+1438774014.613	760858	26	2	218	h	h	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	373	0	0.74
+1438774014.8	760858	26	3	187	i	i	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	560	0	0.74
+1438774014.8	760858	26	4	0	o	o	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	560	0	0.74
+1438774014.925	760858	26	5	125	s	s	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	685	0	0.74
+1438774015.081	760858	26	6	157	_	space	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	842	0	0.74
+1438774015.455	760858	26	7	373		BackSpace	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	1215	0	0.74
+1438774015.611	760858	26	8	156		BackSpace	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	1371	0	0.74
+1438774015.767	760858	26	9	156		BackSpace	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	1527	0	0.74
+1438774016.36	760858	26	10	593	s	s	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	2120	0	0.74
+1438774016.485	760858	26	11	125	_	space	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	2245	0	0.74
+1438774016.672	760858	26	12	187	i	i	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	2432	0	0.74
+1438774016.828	760858	26	13	156	s	s	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	2588	0	0.74
+1438774016.922	760858	26	14	94	_	space	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	2682	0	0.74
+1438774017.608	760858	26	15	686	b	b	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	3368	0	0.74
+1438774018.232	760858	26	16	625	l	l	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	3993	0	0.74
+1438774018.419	760858	26	17	186	p	p	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	4179	0	0.74
+1438774019.48	760858	26	18	1061	s	s	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	5240	0	0.74
+1438774019.761	760858	26	19	281	d	d	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	5521	0	0.74
+1438774019.979	760858	26	20	219	t	t	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	5740	0	0.74
+1438774020.229	760858	26	21	250	_	space	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	5990	0	0.74
+1438774020.915	760858	26	22	685	g	g	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	6675	0	0.74
+1438774021.071	760858	26	23	157	o	o	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	6832	0	0.74
+1438774021.227	760858	26	24	155	o	o	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	6987	0	0.74
+1438774021.383	760858	26	25	156	g	g	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	7143	0	0.74
+1438774021.758	760858	26	26	375		BackSpace	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	7518	0	0.74
+1438774021.945	760858	26	27	187	d	d	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	7705	0	0.74
+1438774022.132	760858	26	28	187	_	space	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	7892	0	0.74
+1438774022.663	760858	26	29	532	Shift_L	Shift_L	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	8424	0	0.74
+1438774022.787	760858	26	30	123	I	I	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	8547	0	0.74
+1438774022.912	760858	26	31	125	_	space	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	8672	0	0.74
+1438774023.131	760858	26	32	219	t	t	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	8891	0	0.74
+1438774023.224	760858	26	33	93	h	h	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	8984	0	0.74
+1438774023.349	760858	26	34	125	i	i	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	9109	0	0.74
+1438774023.536	760858	26	35	187	n	n	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	9296	0	0.74
+1438774023.661	760858	26	36	125	k	k	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	9421	0	0.74
+1438774024.472	760858	26	37	811	.	period	This is blpsdt good I think.	 31.67	 234.21	This is blpsdt good I think.	Mix	10232	0	0.74
+1438774025.346	760858	27	0	0	Shift_L	Shift_L	That would qjrpft be great.	 28.57	 325.37	That would qjrpft be great.	Mix	0	0	0.84
+1438774025.595	760858	27	1	249	T	T	That would qjrpft be great.	 28.57	 325.37	That would qjrpft be great.	Mix	249	0	0.84
+1438774025.783	760858	27	2	188	h	h	That would qjrpft be great.	 28.57	 325.37	That would qjrpft be great.	Mix	437	0	0.84
+1438774025.907	760858	27	3	124	a	a	That would qjrpft be great.	 28.57	 325.37	That would qjrpft be great.	Mix	561	0	0.84
+1438774026.001	760858	27	4	93	t	t	That would qjrpft be great.	 28.57	 325.37	That would qjrpft be great.	Mix	654	0	0.84
+1438774026.126	760858	27	5	125	_	space	That would qjrpft be great.	 28.57	 325.37	That would qjrpft be great.	Mix	779	0	0.84
+1438774026.282	760858	27	6	157	w	w	That would qjrpft be great.	 28.57	 325.37	That would qjrpft be great.	Mix	936	0	0.84
+1438774026.438	760858	27	7	156	o	o	That would qjrpft be great.	 28.57	 325.37	That would qjrpft be great.	Mix	1092	0	0.84
+1438774026.625	760858	27	8	187	u	u	That would qjrpft be great.	 28.57	 325.37	That would qjrpft be great.	Mix	1279	0	0.84
+1438774026.843	760858	27	9	217	l	l	That would qjrpft be great.	 28.57	 325.37	That would qjrpft be great.	Mix	1496	0	0.84
+1438774026.968	760858	27	10	125	d	d	That would qjrpft be great.	 28.57	 325.37	That would qjrpft be great.	Mix	1621	0	0.84
+1438774027.093	760858	27	11	125	_	space	That would qjrpft be great.	 28.57	 325.37	That would qjrpft be great.	Mix	1746	0	0.84
+1438774028.123	760858	27	12	1030	q	q	That would qjrpft be great.	 28.57	 325.37	That would qjrpft be great.	Mix	2776	0	0.84
+1438774028.84	760858	27	13	717	r	r	That would qjrpft be great.	 28.57	 325.37	That would qjrpft be great.	Mix	3493	0	0.84
+1438774030.119	760858	27	14	1280		BackSpace	That would qjrpft be great.	 28.57	 325.37	That would qjrpft be great.	Mix	4773	0	0.84
+1438774030.494	760858	27	15	375	j	j	That would qjrpft be great.	 28.57	 325.37	That would qjrpft be great.	Mix	5148	0	0.84
+1438774030.775	760858	27	16	281	r	r	That would qjrpft be great.	 28.57	 325.37	That would qjrpft be great.	Mix	5429	0	0.84
+1438774031.898	760858	27	17	1123	p	p	That would qjrpft be great.	 28.57	 325.37	That would qjrpft be great.	Mix	6552	0	0.84
+1438774032.241	760858	27	18	342	f	f	That would qjrpft be great.	 28.57	 325.37	That would qjrpft be great.	Mix	6894	0	0.84
+1438774032.459	760858	27	19	219	t	t	That would qjrpft be great.	 28.57	 325.37	That would qjrpft be great.	Mix	7113	0	0.84
+1438774032.584	760858	27	20	125	_	space	That would qjrpft be great.	 28.57	 325.37	That would qjrpft be great.	Mix	7238	0	0.84
+1438774033.208	760858	27	21	623	b	b	That would qjrpft be great.	 28.57	 325.37	That would qjrpft be great.	Mix	7861	0	0.84
+1438774033.302	760858	27	22	95	e	e	That would qjrpft be great.	 28.57	 325.37	That would qjrpft be great.	Mix	7956	0	0.84
+1438774033.458	760858	27	23	155	_	space	That would qjrpft be great.	 28.57	 325.37	That would qjrpft be great.	Mix	8111	0	0.84
+1438774033.614	760858	27	24	157	g	g	That would qjrpft be great.	 28.57	 325.37	That would qjrpft be great.	Mix	8268	0	0.84
+1438774033.77	760858	27	25	156	r	r	That would qjrpft be great.	 28.57	 325.37	That would qjrpft be great.	Mix	8424	0	0.84
+1438774034.019	760858	27	26	249	e	e	That would qjrpft be great.	 28.57	 325.37	That would qjrpft be great.	Mix	8673	0	0.84
+1438774034.269	760858	27	27	250	a	a	That would qjrpft be great.	 28.57	 325.37	That would qjrpft be great.	Mix	8923	0	0.84
+1438774034.394	760858	27	28	125	t	t	That would qjrpft be great.	 28.57	 325.37	That would qjrpft be great.	Mix	9048	0	0.84
+1438774035.018	760858	27	29	623	-	minus	That would qjrpft be great.	 28.57	 325.37	That would qjrpft be great.	Mix	9671	0	0.84
+1438774035.455	760858	27	30	437		BackSpace	That would qjrpft be great.	 28.57	 325.37	That would qjrpft be great.	Mix	10108	0	0.84
+1438774036.266	760858	27	31	812	.	period	That would qjrpft be great.	 28.57	 325.37	That would qjrpft be great.	Mix	10920	0	0.84
+1438774037.514	760858	28	0	0	Shift_L	Shift_L	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	0	0	0.89
+1438774037.701	760858	28	1	187	P	P	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	187	0	0.89
+1438774037.919	760858	28	2	217	l	l	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	404	0	0.89
+1438774038.013	760858	28	3	95	e	e	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	499	0	0.89
+1438774038.231	760858	28	4	218	a	a	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	717	0	0.89
+1438774038.325	760858	28	5	94	s	s	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	811	0	0.89
+1438774038.575	760858	28	6	250	e	e	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	1061	0	0.89
+1438774038.637	760858	28	7	62	_	space	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	1123	0	0.89
+1438774038.793	760858	28	8	156	c	c	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	1279	0	0.89
+1438774038.949	760858	28	9	155	a	a	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	1434	0	0.89
+1438774039.105	760858	28	10	157	l	l	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	1591	0	0.89
+1438774039.261	760858	28	11	155	l	l	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	1746	0	0.89
+1438774039.386	760858	28	12	125	_	space	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	1871	0	0.89
+1438774039.885	760858	28	13	500	v	v	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	2371	0	0.89
+1438774040.072	760858	28	14	187	r	r	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	2558	0	0.89
+1438774040.478	760858	28	15	405	u	u	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	2963	0	0.89
+1438774041.258	760858	28	16	780	t	t	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	3743	0	0.89
+1438774041.507	760858	28	17	250	a	a	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	3993	0	0.89
+1438774041.695	760858	28	18	187	a	a	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	4180	0	0.89
+1438774041.882	760858	28	19	188	_	space	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	4368	0	0.89
+1438774042.194	760858	28	20	312	t	t	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	4680	0	0.89
+1438774042.381	760858	28	21	187	o	o	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	4867	0	0.89
+1438774042.599	760858	28	22	218	m	m	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	5085	0	0.89
+1438774042.724	760858	28	23	125	o	o	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	5210	0	0.89
+1438774042.911	760858	28	24	187	r	r	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	5397	0	0.89
+1438774043.036	760858	28	25	125	r	r	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	5522	0	0.89
+1438774043.161	760858	28	26	125	o	o	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	5647	0	0.89
+1438774043.286	760858	28	27	125	w	w	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	5772	0	0.89
+1438774043.504	760858	28	28	218	_	space	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	5990	0	0.89
+1438774043.941	760858	28	29	437	i	i	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	6427	0	0.89
+1438774044.097	760858	28	30	155	f	f	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	6582	0	0.89
+1438774044.191	760858	28	31	95	_	space	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	6677	0	0.89
+1438774044.378	760858	28	32	187	p	p	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	6864	0	0.89
+1438774044.565	760858	28	33	187	o	o	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	7051	0	0.89
+1438774044.565	760858	28	34	0	p	p	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	7051	0	0.89
+1438774044.721	760858	28	35	156	s	s	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	7207	0	0.89
+1438774045.532	760858	28	36	811		BackSpace	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	8018	0	0.89
+1438774045.688	760858	28	37	156		BackSpace	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	8174	0	0.89
+1438774046.156	760858	28	38	467	s	s	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	8641	0	0.89
+1438774046.312	760858	28	39	157	s	s	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	8798	0	0.89
+1438774046.437	760858	28	40	125	i	i	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	8923	0	0.89
+1438774046.624	760858	28	41	187	b	b	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	9110	0	0.89
+1438774046.843	760858	28	42	218	l	l	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	9328	0	0.89
+1438774046.967	760858	28	43	125	e	e	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	9453	0	0.89
+1438774047.248	760858	28	44	280	.	period	Please call vrutaa tomorrow if possible.	 48.08	 159.89	Please call vrutaa tomorrow if possible.	Mix	9733	0	0.89
+1438774048.278	760858	29	0	0	Shift_L	Shift_L	Have a psdrwk great trip.	 32.97	 232.18	Have a psdrwk great trip.	Mix	0	0	0.89
+1438774048.527	760858	29	1	248	H	H	Have a psdrwk great trip.	 32.97	 232.18	Have a psdrwk great trip.	Mix	248	0	0.89
+1438774048.808	760858	29	2	281	a	a	Have a psdrwk great trip.	 32.97	 232.18	Have a psdrwk great trip.	Mix	529	0	0.89
+1438774048.871	760858	29	3	63	v	v	Have a psdrwk great trip.	 32.97	 232.18	Have a psdrwk great trip.	Mix	592	0	0.89
+1438774049.027	760858	29	4	156	e	e	Have a psdrwk great trip.	 32.97	 232.18	Have a psdrwk great trip.	Mix	748	0	0.89
+1438774049.089	760858	29	5	62	_	space	Have a psdrwk great trip.	 32.97	 232.18	Have a psdrwk great trip.	Mix	810	0	0.89
+1438774049.245	760858	29	6	156	a	a	Have a psdrwk great trip.	 32.97	 232.18	Have a psdrwk great trip.	Mix	966	0	0.89
+1438774049.432	760858	29	7	187	_	space	Have a psdrwk great trip.	 32.97	 232.18	Have a psdrwk great trip.	Mix	1153	0	0.89
+1438774050.087	760858	29	8	655	p	p	Have a psdrwk great trip.	 32.97	 232.18	Have a psdrwk great trip.	Mix	1808	0	0.89
+1438774050.306	760858	29	9	219	s	s	Have a psdrwk great trip.	 32.97	 232.18	Have a psdrwk great trip.	Mix	2027	0	0.89
+1438774050.587	760858	29	10	281	r	r	Have a psdrwk great trip.	 32.97	 232.18	Have a psdrwk great trip.	Mix	2308	0	0.89
+1438774051.554	760858	29	11	967		BackSpace	Have a psdrwk great trip.	 32.97	 232.18	Have a psdrwk great trip.	Mix	3275	0	0.89
+1438774052.178	760858	29	12	624	d	d	Have a psdrwk great trip.	 32.97	 232.18	Have a psdrwk great trip.	Mix	3899	0	0.89
+1438774052.396	760858	29	13	218	r	r	Have a psdrwk great trip.	 32.97	 232.18	Have a psdrwk great trip.	Mix	4117	0	0.89
+1438774053.239	760858	29	14	843	w	w	Have a psdrwk great trip.	 32.97	 232.18	Have a psdrwk great trip.	Mix	4960	0	0.89
+1438774053.551	760858	29	15	313	k	k	Have a psdrwk great trip.	 32.97	 232.18	Have a psdrwk great trip.	Mix	5273	0	0.89
+1438774054.175	760858	29	16	623	_	space	Have a psdrwk great trip.	 32.97	 232.18	Have a psdrwk great trip.	Mix	5896	0	0.89
+1438774054.487	760858	29	17	312	g	g	Have a psdrwk great trip.	 32.97	 232.18	Have a psdrwk great trip.	Mix	6208	0	0.89
+1438774054.643	760858	29	18	156	r	r	Have a psdrwk great trip.	 32.97	 232.18	Have a psdrwk great trip.	Mix	6364	0	0.89
+1438774054.861	760858	29	19	218	e	e	Have a psdrwk great trip.	 32.97	 232.18	Have a psdrwk great trip.	Mix	6582	0	0.89
+1438774055.079	760858	29	20	218	a	a	Have a psdrwk great trip.	 32.97	 232.18	Have a psdrwk great trip.	Mix	6800	0	0.89
+1438774055.204	760858	29	21	125	t	t	Have a psdrwk great trip.	 32.97	 232.18	Have a psdrwk great trip.	Mix	6925	0	0.89
+1438774055.423	760858	29	22	219	_	space	Have a psdrwk great trip.	 32.97	 232.18	Have a psdrwk great trip.	Mix	7144	0	0.89
+1438774055.953	760858	29	23	530	t	t	Have a psdrwk great trip.	 32.97	 232.18	Have a psdrwk great trip.	Mix	7674	0	0.89
+1438774056.14	760858	29	24	187	r	r	Have a psdrwk great trip.	 32.97	 232.18	Have a psdrwk great trip.	Mix	7861	0	0.89
+1438774056.359	760858	29	25	219	i	i	Have a psdrwk great trip.	 32.97	 232.18	Have a psdrwk great trip.	Mix	8080	0	0.89
+1438774056.608	760858	29	26	249	p	p	Have a psdrwk great trip.	 32.97	 232.18	Have a psdrwk great trip.	Mix	8329	0	0.89
+1438774057.014	760858	29	27	406	.	period	Have a psdrwk great trip.	 32.97	 232.18	Have a psdrwk great trip.	Mix	8735	0	0.89
+1438774058.137	760858	30	0	0	Shift_L	Shift_L	Why do yrchgp you ask?	 31.19	 233.34	Why do yrchgp you ask?	Mix	0	0	0.92
+1438774058.418	760858	30	1	280	W	W	Why do yrchgp you ask?	 31.19	 233.34	Why do yrchgp you ask?	Mix	280	0	0.92
+1438774058.699	760858	30	2	281	h	h	Why do yrchgp you ask?	 31.19	 233.34	Why do yrchgp you ask?	Mix	561	0	0.92
+1438774058.917	760858	30	3	218	y	y	Why do yrchgp you ask?	 31.19	 233.34	Why do yrchgp you ask?	Mix	779	0	0.92
+1438774059.167	760858	30	4	250	_	space	Why do yrchgp you ask?	 31.19	 233.34	Why do yrchgp you ask?	Mix	1029	0	0.92
+1438774059.697	760858	30	5	530	d	d	Why do yrchgp you ask?	 31.19	 233.34	Why do yrchgp you ask?	Mix	1559	0	0.92
+1438774059.853	760858	30	6	156	o	o	Why do yrchgp you ask?	 31.19	 233.34	Why do yrchgp you ask?	Mix	1715	0	0.92
+1438774059.978	760858	30	7	125	_	space	Why do yrchgp you ask?	 31.19	 233.34	Why do yrchgp you ask?	Mix	1840	0	0.92
+1438774060.976	760858	30	8	998	y	y	Why do yrchgp you ask?	 31.19	 233.34	Why do yrchgp you ask?	Mix	2838	0	0.92
+1438774061.319	760858	30	9	343	r	r	Why do yrchgp you ask?	 31.19	 233.34	Why do yrchgp you ask?	Mix	3181	0	0.92
+1438774062.162	760858	30	10	843	c	c	Why do yrchgp you ask?	 31.19	 233.34	Why do yrchgp you ask?	Mix	4024	0	0.92
+1438774062.411	760858	30	11	249	h	h	Why do yrchgp you ask?	 31.19	 233.34	Why do yrchgp you ask?	Mix	4273	0	0.92
+1438774062.973	760858	30	12	562	g	g	Why do yrchgp you ask?	 31.19	 233.34	Why do yrchgp you ask?	Mix	4835	0	0.92
+1438774063.41	760858	30	13	438	p	p	Why do yrchgp you ask?	 31.19	 233.34	Why do yrchgp you ask?	Mix	5273	0	0.92
+1438774063.909	760858	30	14	498	_	space	Why do yrchgp you ask?	 31.19	 233.34	Why do yrchgp you ask?	Mix	5771	0	0.92
+1438774064.408	760858	30	15	499	y	y	Why do yrchgp you ask?	 31.19	 233.34	Why do yrchgp you ask?	Mix	6270	0	0.92
+1438774064.564	760858	30	16	156	o	o	Why do yrchgp you ask?	 31.19	 233.34	Why do yrchgp you ask?	Mix	6426	0	0.92
+1438774064.658	760858	30	17	94	u	u	Why do yrchgp you ask?	 31.19	 233.34	Why do yrchgp you ask?	Mix	6520	0	0.92
+1438774064.751	760858	30	18	93	_	space	Why do yrchgp you ask?	 31.19	 233.34	Why do yrchgp you ask?	Mix	6613	0	0.92
+1438774064.939	760858	30	19	188	a	a	Why do yrchgp you ask?	 31.19	 233.34	Why do yrchgp you ask?	Mix	6801	0	0.92
+1438774065.126	760858	30	20	187	s	s	Why do yrchgp you ask?	 31.19	 233.34	Why do yrchgp you ask?	Mix	6988	0	0.92
+1438774065.313	760858	30	21	187	k	k	Why do yrchgp you ask?	 31.19	 233.34	Why do yrchgp you ask?	Mix	7175	0	0.92
+1438774065.781	760858	30	22	468	Shift_L	Shift_L	Why do yrchgp you ask?	 31.19	 233.34	Why do yrchgp you ask?	Mix	7643	0	0.92
+1438774066.218	760858	30	23	437	?	question	Why do yrchgp you ask?	 31.19	 233.34	Why do yrchgp you ask?	Mix	8080	0	0.92
+1438774067.341	760858	31	0	0	Shift_L	Shift_L	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	0	0	0.74
+1438774067.528	760858	31	1	187	I	I	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	187	0	0.74
+1438774067.747	760858	31	2	218	_	space	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	405	0	0.74
+1438774067.903	760858	31	3	157	w	w	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	562	0	0.74
+1438774068.027	760858	31	4	123	i	i	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	685	0	0.74
+1438774068.246	760858	31	5	219	l	l	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	904	0	0.74
+1438774068.371	760858	31	6	125	l	l	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	1029	0	0.74
+1438774068.495	760858	31	7	124	_	space	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	1153	0	0.74
+1438774068.714	760858	31	8	219	b	b	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	1372	0	0.74
+1438774068.839	760858	31	9	125	e	e	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	1497	0	0.74
+1438774068.963	760858	31	10	124	_	space	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	1621	0	0.74
+1438774069.712	760858	31	11	749	w	w	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	2370	0	0.74
+1438774069.868	760858	31	12	156	e	e	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	2526	0	0.74
+1438774071.054	760858	31	13	1186	q	q	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	3712	0	0.74
+1438774071.428	760858	31	14	374	p	p	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	4086	0	0.74
+1438774071.553	760858	31	15	125	p	p	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	4211	0	0.74
+1438774072.614	760858	31	16	1062	e	e	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	5273	0	0.74
+1438774072.926	760858	31	17	312	_	space	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	5585	0	0.74
+1438774073.363	760858	31	18	436	b	b	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	6021	0	0.74
+1438774073.487	760858	31	19	124	a	a	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	6145	0	0.74
+1438774073.737	760858	31	20	250	c	c	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	6395	0	0.74
+1438774073.893	760858	31	21	156	k	k	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	6551	0	0.74
+1438774074.049	760858	31	22	156	_	space	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	6707	0	0.74
+1438774074.33	760858	31	23	281	f	f	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	6988	0	0.74
+1438774074.486	760858	31	24	156	r	r	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	7144	0	0.74
+1438774074.735	760858	31	25	249	i	i	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	7393	0	0.74
+1438774075.297	760858	31	26	562		BackSpace	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	7955	0	0.74
+1438774075.453	760858	31	27	156		BackSpace	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	8111	0	0.74
+1438774075.609	760858	31	28	156		BackSpace	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	8267	0	0.74
+1438774075.734	760858	31	29	125		BackSpace	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	8392	0	0.74
+1438774076.451	760858	31	30	717	_	space	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	9109	0	0.74
+1438774076.576	760858	31	31	125	Shift_L	Shift_L	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	9234	0	0.74
+1438774076.732	760858	31	32	157	F	F	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	9391	0	0.74
+1438774077.013	760858	31	33	280	r	r	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	9671	0	0.74
+1438774077.169	760858	31	34	156	i	i	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	9827	0	0.74
+1438774077.325	760858	31	35	156	d	d	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	9983	0	0.74
+1438774077.512	760858	31	36	188	a	a	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	10171	0	0.74
+1438774077.699	760858	31	37	186	y	y	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	10357	0	0.74
+1438774078.23	760858	31	38	531	.	period	I will be weqppe back Friday.	 30.86	 256.20	I will be weqppe back Friday.	Mix	10888	0	0.74
+1438774079.322	760858	32	0	0	Shift_L	Shift_L	I am on hyohcy my way.	 23.62	 365.88	I am on hyohcy my way.	Mix	0	0	0.73
+1438774081.038	760858	32	1	1716	Shift_L	Shift_L	I am on hyohcy my way.	 23.62	 365.88	I am on hyohcy my way.	Mix	1716	0	0.73
+1438774081.194	760858	32	2	155	I	I	I am on hyohcy my way.	 23.62	 365.88	I am on hyohcy my way.	Mix	1871	0	0.73
+1438774081.444	760858	32	3	250	_	space	I am on hyohcy my way.	 23.62	 365.88	I am on hyohcy my way.	Mix	2121	0	0.73
+1438774081.6	760858	32	4	156	a	a	I am on hyohcy my way.	 23.62	 365.88	I am on hyohcy my way.	Mix	2277	0	0.73
+1438774081.693	760858	32	5	94	m	m	I am on hyohcy my way.	 23.62	 365.88	I am on hyohcy my way.	Mix	2371	0	0.73
+1438774081.849	760858	32	6	155	_	space	I am on hyohcy my way.	 23.62	 365.88	I am on hyohcy my way.	Mix	2526	0	0.73
+1438774082.005	760858	32	7	157	i	i	I am on hyohcy my way.	 23.62	 365.88	I am on hyohcy my way.	Mix	2683	0	0.73
+1438774082.13	760858	32	8	125	n	n	I am on hyohcy my way.	 23.62	 365.88	I am on hyohcy my way.	Mix	2808	0	0.73
+1438774082.286	760858	32	9	155	_	space	I am on hyohcy my way.	 23.62	 365.88	I am on hyohcy my way.	Mix	2963	0	0.73
+1438774082.816	760858	32	10	530		BackSpace	I am on hyohcy my way.	 23.62	 365.88	I am on hyohcy my way.	Mix	3493	0	0.73
+1438774083.004	760858	32	11	188		BackSpace	I am on hyohcy my way.	 23.62	 365.88	I am on hyohcy my way.	Mix	3681	0	0.73
+1438774083.128	760858	32	12	124		BackSpace	I am on hyohcy my way.	 23.62	 365.88	I am on hyohcy my way.	Mix	3805	0	0.73
+1438774083.784	760858	32	13	656	o	o	I am on hyohcy my way.	 23.62	 365.88	I am on hyohcy my way.	Mix	4461	0	0.73
+1438774083.971	760858	32	14	187	n	n	I am on hyohcy my way.	 23.62	 365.88	I am on hyohcy my way.	Mix	4648	0	0.73
+1438774084.096	760858	32	15	125	_	space	I am on hyohcy my way.	 23.62	 365.88	I am on hyohcy my way.	Mix	4773	0	0.73
+1438774084.938	760858	32	16	842	h	h	I am on hyohcy my way.	 23.62	 365.88	I am on hyohcy my way.	Mix	5615	0	0.73
+1438774085.125	760858	32	17	187	y	y	I am on hyohcy my way.	 23.62	 365.88	I am on hyohcy my way.	Mix	5802	0	0.73
+1438774085.375	760858	32	18	250	o	o	I am on hyohcy my way.	 23.62	 365.88	I am on hyohcy my way.	Mix	6052	0	0.73
+1438774086.529	760858	32	19	1155	h	h	I am on hyohcy my way.	 23.62	 365.88	I am on hyohcy my way.	Mix	7207	0	0.73
+1438774086.81	760858	32	20	280	c	c	I am on hyohcy my way.	 23.62	 365.88	I am on hyohcy my way.	Mix	7487	0	0.73
+1438774087.184	760858	32	21	374	y	y	I am on hyohcy my way.	 23.62	 365.88	I am on hyohcy my way.	Mix	7861	0	0.73
+1438774087.34	760858	32	22	156	_	space	I am on hyohcy my way.	 23.62	 365.88	I am on hyohcy my way.	Mix	8017	0	0.73
+1438774088.027	760858	32	23	687	m	m	I am on hyohcy my way.	 23.62	 365.88	I am on hyohcy my way.	Mix	8704	0	0.73
+1438774088.308	760858	32	24	282	y	y	I am on hyohcy my way.	 23.62	 365.88	I am on hyohcy my way.	Mix	8986	0	0.73
+1438774088.464	760858	32	25	155	_	space	I am on hyohcy my way.	 23.62	 365.88	I am on hyohcy my way.	Mix	9141	0	0.73
+1438774088.62	760858	32	26	156	w	w	I am on hyohcy my way.	 23.62	 365.88	I am on hyohcy my way.	Mix	9297	0	0.73
+1438774088.838	760858	32	27	219	a	a	I am on hyohcy my way.	 23.62	 365.88	I am on hyohcy my way.	Mix	9516	0	0.73
+1438774089.493	760858	32	28	655	y	y	I am on hyohcy my way.	 23.62	 365.88	I am on hyohcy my way.	Mix	10171	0	0.73
+1438774089.992	760858	32	29	499	.	period	I am on hyohcy my way.	 23.62	 365.88	I am on hyohcy my way.	Mix	10670	0	0.73
+1438774099.072	760858	33	0	0	Shift_L	Shift_L	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	0	0	0.97
+1438774099.228	760858	33	1	155	Y	Y	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	155	0	0.97
+1438774099.477	760858	33	2	249	o	o	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	404	0	0.97
+1438774099.571	760858	33	3	95	u	u	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	499	0	0.97
+1438774099.696	760858	33	4	125	_	space	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	624	0	0.97
+1438774099.883	760858	33	5	186	h	h	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	810	0	0.97
+1438774100.039	760858	33	6	157	a	a	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	967	0	0.97
+1438774100.132	760858	33	7	92	v	v	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	1059	0	0.97
+1438774100.288	760858	33	8	157	e	e	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	1216	0	0.97
+1438774100.351	760858	33	9	63	_	space	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	1279	0	0.97
+1438774100.788	760858	33	10	437	a	a	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	1716	0	0.97
+1438774100.944	760858	33	11	155	_	space	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	1871	0	0.97
+1438774101.443	760858	33	12	500	q	q	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	2371	0	0.97
+1438774102.41	760858	33	13	967	s	s	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	3338	0	0.97
+1438774102.628	760858	33	14	217	l	l	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	3555	0	0.97
+1438774103.502	760858	33	15	875	p	p	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	4430	0	0.97
+1438774103.658	760858	33	16	155	a	a	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	4585	0	0.97
+1438774103.939	760858	33	17	281	g	g	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	4866	0	0.97
+1438774104.469	760858	33	18	531	_	space	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	5397	0	0.97
+1438774104.844	760858	33	19	375	n	n	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	5772	0	0.97
+1438774104.968	760858	33	20	123	i	i	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	5895	0	0.97
+1438774105.124	760858	33	21	157	c	c	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	6052	0	0.97
+1438774105.28	760858	33	22	155	e	e	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	6207	0	0.97
+1438774105.436	760858	33	23	157	_	space	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	6364	0	0.97
+1438774105.998	760858	33	24	561	h	h	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	6925	0	0.97
+1438774106.185	760858	33	25	187	o	o	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	7112	0	0.97
+1438774106.404	760858	33	26	220	l	l	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	7332	0	0.97
+1438774106.591	760858	33	27	187	i	i	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	7519	0	0.97
+1438774106.84	760858	33	28	248	d	d	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	7767	0	0.97
+1438774107.028	760858	33	29	189	a	a	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	7956	0	0.97
+1438774107.121	760858	33	30	93	y	y	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	8049	0	0.97
+1438774107.215	760858	33	31	93	_	space	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	8142	0	0.97
+1438774107.402	760858	33	32	187	t	t	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	8329	0	0.97
+1438774107.589	760858	33	33	187	o	o	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	8516	0	0.97
+1438774107.745	760858	33	34	156	o	o	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	8672	0	0.97
+1438774108.151	760858	33	35	406	.	period	You have a qslpag nice holiday too.	 44.94	 209.06	You have a qslpag nice holiday too.	Mix	9078	0	0.97
+1438774109.43	760858	34	0	0	Shift_L	Shift_L	I am ophxwt trying again.	 33.94	 302.63	I am ophxwt trying again.	Mix	0	0	0.96
+1438774109.586	760858	34	1	155	I	I	I am ophxwt trying again.	 33.94	 302.63	I am ophxwt trying again.	Mix	155	0	0.96
+1438774109.836	760858	34	2	250	_	space	I am ophxwt trying again.	 33.94	 302.63	I am ophxwt trying again.	Mix	405	0	0.96
+1438774109.992	760858	34	3	157	a	a	I am ophxwt trying again.	 33.94	 302.63	I am ophxwt trying again.	Mix	562	0	0.96
+1438774110.116	760858	34	4	123	m	m	I am ophxwt trying again.	 33.94	 302.63	I am ophxwt trying again.	Mix	685	0	0.96
+1438774110.241	760858	34	5	125	_	space	I am ophxwt trying again.	 33.94	 302.63	I am ophxwt trying again.	Mix	810	0	0.96
+1438774110.896	760858	34	6	655	o	o	I am ophxwt trying again.	 33.94	 302.63	I am ophxwt trying again.	Mix	1465	0	0.96
+1438774111.146	760858	34	7	250	p	p	I am ophxwt trying again.	 33.94	 302.63	I am ophxwt trying again.	Mix	1715	0	0.96
+1438774112.581	760858	34	8	1436	h	h	I am ophxwt trying again.	 33.94	 302.63	I am ophxwt trying again.	Mix	3151	0	0.96
+1438774113.299	760858	34	9	717	x	x	I am ophxwt trying again.	 33.94	 302.63	I am ophxwt trying again.	Mix	3868	0	0.96
+1438774113.673	760858	34	10	375	w	w	I am ophxwt trying again.	 33.94	 302.63	I am ophxwt trying again.	Mix	4243	0	0.96
+1438774114.422	760858	34	11	748	t	t	I am ophxwt trying again.	 33.94	 302.63	I am ophxwt trying again.	Mix	4991	0	0.96
+1438774114.64	760858	34	12	219	_	space	I am ophxwt trying again.	 33.94	 302.63	I am ophxwt trying again.	Mix	5210	0	0.96
+1438774115.202	760858	34	13	561	t	t	I am ophxwt trying again.	 33.94	 302.63	I am ophxwt trying again.	Mix	5771	0	0.96
+1438774115.389	760858	34	14	187	r	r	I am ophxwt trying again.	 33.94	 302.63	I am ophxwt trying again.	Mix	5958	0	0.96
+1438774115.701	760858	34	15	312	y	y	I am ophxwt trying again.	 33.94	 302.63	I am ophxwt trying again.	Mix	6270	0	0.96
+1438774115.888	760858	34	16	187	i	i	I am ophxwt trying again.	 33.94	 302.63	I am ophxwt trying again.	Mix	6457	0	0.96
+1438774115.982	760858	34	17	95	n	n	I am ophxwt trying again.	 33.94	 302.63	I am ophxwt trying again.	Mix	6552	0	0.96
+1438774116.169	760858	34	18	186	g	g	I am ophxwt trying again.	 33.94	 302.63	I am ophxwt trying again.	Mix	6738	0	0.96
+1438774116.232	760858	34	19	64	_	space	I am ophxwt trying again.	 33.94	 302.63	I am ophxwt trying again.	Mix	6802	0	0.96
+1438774116.575	760858	34	20	342	a	a	I am ophxwt trying again.	 33.94	 302.63	I am ophxwt trying again.	Mix	7144	0	0.96
+1438774116.918	760858	34	21	343	g	g	I am ophxwt trying again.	 33.94	 302.63	I am ophxwt trying again.	Mix	7487	0	0.96
+1438774117.105	760858	34	22	187	a	a	I am ophxwt trying again.	 33.94	 302.63	I am ophxwt trying again.	Mix	7674	0	0.96
+1438774117.261	760858	34	23	156	i	i	I am ophxwt trying again.	 33.94	 302.63	I am ophxwt trying again.	Mix	7830	0	0.96
+1438774117.386	760858	34	24	125	n	n	I am ophxwt trying again.	 33.94	 302.63	I am ophxwt trying again.	Mix	7955	0	0.96
+1438774117.916	760858	34	25	530	.	period	I am ophxwt trying again.	 33.94	 302.63	I am ophxwt trying again.	Mix	8485	0	0.96
+1438774119.071	760858	35	0	0	Shift_L	Shift_L	Is she xlndns done yet?	 31.58	 273.97	Is she xlndns done yet?	Mix	0	0	0.92
+1438774119.196	760858	35	1	125	I	I	Is she xlndns done yet?	 31.58	 273.97	Is she xlndns done yet?	Mix	125	0	0.92
+1438774119.539	760858	35	2	342	s	s	Is she xlndns done yet?	 31.58	 273.97	Is she xlndns done yet?	Mix	467	0	0.92
+1438774119.788	760858	35	3	250	_	space	Is she xlndns done yet?	 31.58	 273.97	Is she xlndns done yet?	Mix	717	0	0.92
+1438774120.007	760858	35	4	218	s	s	Is she xlndns done yet?	 31.58	 273.97	Is she xlndns done yet?	Mix	935	0	0.92
+1438774120.194	760858	35	5	187	h	h	Is she xlndns done yet?	 31.58	 273.97	Is she xlndns done yet?	Mix	1122	0	0.92
+1438774120.35	760858	35	6	156	e	e	Is she xlndns done yet?	 31.58	 273.97	Is she xlndns done yet?	Mix	1278	0	0.92
+1438774120.506	760858	35	7	156	_	space	Is she xlndns done yet?	 31.58	 273.97	Is she xlndns done yet?	Mix	1434	0	0.92
+1438774121.255	760858	35	8	750	x	x	Is she xlndns done yet?	 31.58	 273.97	Is she xlndns done yet?	Mix	2184	0	0.92
+1438774121.442	760858	35	9	186	l	l	Is she xlndns done yet?	 31.58	 273.97	Is she xlndns done yet?	Mix	2370	0	0.92
+1438774122.409	760858	35	10	967	n	n	Is she xlndns done yet?	 31.58	 273.97	Is she xlndns done yet?	Mix	3337	0	0.92
+1438774122.752	760858	35	11	343	d	d	Is she xlndns done yet?	 31.58	 273.97	Is she xlndns done yet?	Mix	3680	0	0.92
+1438774123.782	760858	35	12	1030	n	n	Is she xlndns done yet?	 31.58	 273.97	Is she xlndns done yet?	Mix	4710	0	0.92
+1438774124.125	760858	35	13	343	s	s	Is she xlndns done yet?	 31.58	 273.97	Is she xlndns done yet?	Mix	5053	0	0.92
+1438774124.344	760858	35	14	220	_	space	Is she xlndns done yet?	 31.58	 273.97	Is she xlndns done yet?	Mix	5273	0	0.92
+1438774125.061	760858	35	15	717	d	d	Is she xlndns done yet?	 31.58	 273.97	Is she xlndns done yet?	Mix	5990	0	0.92
+1438774125.217	760858	35	16	155	o	o	Is she xlndns done yet?	 31.58	 273.97	Is she xlndns done yet?	Mix	6145	0	0.92
+1438774125.373	760858	35	17	156	n	n	Is she xlndns done yet?	 31.58	 273.97	Is she xlndns done yet?	Mix	6301	0	0.92
+1438774125.498	760858	35	18	125	e	e	Is she xlndns done yet?	 31.58	 273.97	Is she xlndns done yet?	Mix	6426	0	0.92
+1438774125.592	760858	35	19	94	_	space	Is she xlndns done yet?	 31.58	 273.97	Is she xlndns done yet?	Mix	6520	0	0.92
+1438774125.841	760858	35	20	249	y	y	Is she xlndns done yet?	 31.58	 273.97	Is she xlndns done yet?	Mix	6769	0	0.92
+1438774126.028	760858	35	21	188	e	e	Is she xlndns done yet?	 31.58	 273.97	Is she xlndns done yet?	Mix	6957	0	0.92
+1438774126.278	760858	35	22	250	t	t	Is she xlndns done yet?	 31.58	 273.97	Is she xlndns done yet?	Mix	7207	0	0.92
+1438774126.746	760858	35	23	467	Shift_L	Shift_L	Is she xlndns done yet?	 31.58	 273.97	Is she xlndns done yet?	Mix	7674	0	0.92
+1438774127.432	760858	35	24	686	?	question	Is she xlndns done yet?	 31.58	 273.97	Is she xlndns done yet?	Mix	8360	0	0.92
+1438774128.556	760858	36	0	0	Shift_L	Shift_L	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	0	0	0.80
+1438774128.805	760858	36	1	249	S	S	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	249	0	0.80
+1438774129.086	760858	36	2	280	e	e	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	529	0	0.80
+1438774129.242	760858	36	3	157	e	e	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	686	0	0.80
+1438774129.336	760858	36	4	93	_	space	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	779	0	0.80
+1438774129.523	760858	36	5	188	y	y	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	967	0	0.80
+1438774129.71	760858	36	6	187	o	o	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	1154	0	0.80
+1438774129.804	760858	36	7	93	u	u	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	1247	0	0.80
+1438774129.928	760858	36	8	124	_	space	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	1371	0	0.80
+1438774130.334	760858	36	9	407	o	o	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	1778	0	0.80
+1438774130.521	760858	36	10	186	n	n	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	1964	0	0.80
+1438774130.646	760858	36	11	125	_	space	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	2089	0	0.80
+1438774131.551	760858	36	12	906	k	k	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	2995	0	0.80
+1438774131.832	760858	36	13	281	h	h	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	3276	0	0.80
+1438774132.986	760858	36	14	1154	p	p	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	4430	0	0.80
+1438774133.797	760858	36	15	810		BackSpace	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	5240	0	0.80
+1438774134.546	760858	36	16	750	p	p	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	5990	0	0.80
+1438774134.827	760858	36	17	280	z	z	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	6270	0	0.80
+1438774136.2	760858	36	18	1374	g	g	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	7644	0	0.80
+1438774136.48	760858	36	19	280	p	p	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	7924	0	0.80
+1438774136.761	760858	36	20	280	_	space	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	8204	0	0.80
+1438774137.198	760858	36	21	437	t	t	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	8641	0	0.80
+1438774137.292	760858	36	22	95	h	h	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	8736	0	0.80
+1438774137.385	760858	36	23	92	e	e	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	8828	0	0.80
+1438774137.51	760858	36	24	125	_	space	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	8953	0	0.80
+1438774137.604	760858	36	25	95	t	t	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	9048	0	0.80
+1438774137.884	760858	36	26	280	i	i	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	9328	0	0.80
+1438774138.228	760858	36	27	343		BackSpace	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	9671	0	0.80
+1438774138.508	760858	36	28	280	h	h	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	9951	0	0.80
+1438774138.727	760858	36	29	220	i	i	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	10171	0	0.80
+1438774138.883	760858	36	30	155	r	r	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	10326	0	0.80
+1438774139.195	760858	36	31	312	d	d	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	10638	0	0.80
+1438774139.663	760858	36	32	469	.	period	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	11107	0	0.80
+1438774139.663	760858	36	33	0	-	minus	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	11107	0	0.80
+1438774140.256	760858	36	34	593		BackSpace	See you on khpzgp the third.	 27.69	 314.14	See you on khpzgp the third.	Mix	11700	0	0.80
+1438774142.065	760858	37	0	0	Shift_L	Shift_L	Please send bnadtv me an email.	 52.22	 180.85	Please send bnadtv me an email.	Mix	0	0	0.97
+1438774142.19	760858	37	1	125	P	P	Please send bnadtv me an email.	 52.22	 180.85	Please send bnadtv me an email.	Mix	125	0	0.97
+1438774142.44	760858	37	2	250	l	l	Please send bnadtv me an email.	 52.22	 180.85	Please send bnadtv me an email.	Mix	375	0	0.97
+1438774142.596	760858	37	3	155	e	e	Please send bnadtv me an email.	 52.22	 180.85	Please send bnadtv me an email.	Mix	530	0	0.97
+1438774142.814	760858	37	4	218	a	a	Please send bnadtv me an email.	 52.22	 180.85	Please send bnadtv me an email.	Mix	748	0	0.97
+1438774142.908	760858	37	5	94	s	s	Please send bnadtv me an email.	 52.22	 180.85	Please send bnadtv me an email.	Mix	842	0	0.97
+1438774143.126	760858	37	6	218	e	e	Please send bnadtv me an email.	 52.22	 180.85	Please send bnadtv me an email.	Mix	1060	0	0.97
+1438774143.188	760858	37	7	62	_	space	Please send bnadtv me an email.	 52.22	 180.85	Please send bnadtv me an email.	Mix	1122	0	0.97
+1438774143.344	760858	37	8	157	s	s	Please send bnadtv me an email.	 52.22	 180.85	Please send bnadtv me an email.	Mix	1279	0	0.97
+1438774143.594	760858	37	9	250	e	e	Please send bnadtv me an email.	 52.22	 180.85	Please send bnadtv me an email.	Mix	1529	0	0.97
+1438774143.688	760858	37	10	93	n	n	Please send bnadtv me an email.	 52.22	 180.85	Please send bnadtv me an email.	Mix	1622	0	0.97
+1438774143.844	760858	37	11	157	d	d	Please send bnadtv me an email.	 52.22	 180.85	Please send bnadtv me an email.	Mix	1779	0	0.97
+1438774144	760858	37	12	155	_	space	Please send bnadtv me an email.	 52.22	 180.85	Please send bnadtv me an email.	Mix	1934	0	0.97
+1438774144.561	760858	37	13	562	b	b	Please send bnadtv me an email.	 52.22	 180.85	Please send bnadtv me an email.	Mix	2496	0	0.97
+1438774144.842	760858	37	14	280	n	n	Please send bnadtv me an email.	 52.22	 180.85	Please send bnadtv me an email.	Mix	2776	0	0.97
+1438774145.06	760858	37	15	218	a	a	Please send bnadtv me an email.	 52.22	 180.85	Please send bnadtv me an email.	Mix	2994	0	0.97
+1438774146.028	760858	37	16	969	d	d	Please send bnadtv me an email.	 52.22	 180.85	Please send bnadtv me an email.	Mix	3963	0	0.97
+1438774146.246	760858	37	17	217	t	t	Please send bnadtv me an email.	 52.22	 180.85	Please send bnadtv me an email.	Mix	4180	0	0.97
+1438774146.527	760858	37	18	281	v	v	Please send bnadtv me an email.	 52.22	 180.85	Please send bnadtv me an email.	Mix	4461	0	0.97
+1438774146.714	760858	37	19	187	_	space	Please send bnadtv me an email.	 52.22	 180.85	Please send bnadtv me an email.	Mix	4648	0	0.97
+1438774147.182	760858	37	20	468	m	m	Please send bnadtv me an email.	 52.22	 180.85	Please send bnadtv me an email.	Mix	5116	0	0.97
+1438774147.276	760858	37	21	94	e	e	Please send bnadtv me an email.	 52.22	 180.85	Please send bnadtv me an email.	Mix	5210	0	0.97
+1438774147.4	760858	37	22	125	_	space	Please send bnadtv me an email.	 52.22	 180.85	Please send bnadtv me an email.	Mix	5335	0	0.97
+1438774147.525	760858	37	23	125	a	a	Please send bnadtv me an email.	 52.22	 180.85	Please send bnadtv me an email.	Mix	5460	0	0.97
+1438774147.619	760858	37	24	93	n	n	Please send bnadtv me an email.	 52.22	 180.85	Please send bnadtv me an email.	Mix	5553	0	0.97
+1438774147.775	760858	37	25	157	_	space	Please send bnadtv me an email.	 52.22	 180.85	Please send bnadtv me an email.	Mix	5710	0	0.97
+1438774147.931	760858	37	26	155	e	e	Please send bnadtv me an email.	 52.22	 180.85	Please send bnadtv me an email.	Mix	5865	0	0.97
+1438774148.056	760858	37	27	125	m	m	Please send bnadtv me an email.	 52.22	 180.85	Please send bnadtv me an email.	Mix	5990	0	0.97
+1438774148.212	760858	37	28	156	a	a	Please send bnadtv me an email.	 52.22	 180.85	Please send bnadtv me an email.	Mix	6146	0	0.97
+1438774148.305	760858	37	29	94	i	i	Please send bnadtv me an email.	 52.22	 180.85	Please send bnadtv me an email.	Mix	6240	0	0.97
+1438774148.492	760858	37	30	187	l	l	Please send bnadtv me an email.	 52.22	 180.85	Please send bnadtv me an email.	Mix	6427	0	0.97
+1438774148.96	760858	37	31	467	.	period	Please send bnadtv me an email.	 52.22	 180.85	Please send bnadtv me an email.	Mix	6894	0	0.97
+1438774149.99	760858	38	0	0	Shift_L	Shift_L	I can return lctddy earlier.	 44.77	 219.20	I can return lctddy earlier.	Mix	0	0	0.97
+1438774150.208	760858	38	1	217	I	I	I can return lctddy earlier.	 44.77	 219.20	I can return lctddy earlier.	Mix	217	0	0.97
+1438774150.489	760858	38	2	282	_	space	I can return lctddy earlier.	 44.77	 219.20	I can return lctddy earlier.	Mix	499	0	0.97
+1438774150.614	760858	38	3	125	c	c	I can return lctddy earlier.	 44.77	 219.20	I can return lctddy earlier.	Mix	624	0	0.97
+1438774150.801	760858	38	4	187	a	a	I can return lctddy earlier.	 44.77	 219.20	I can return lctddy earlier.	Mix	811	0	0.97
+1438774150.926	760858	38	5	125	n	n	I can return lctddy earlier.	 44.77	 219.20	I can return lctddy earlier.	Mix	936	0	0.97
+1438774151.082	760858	38	6	156	_	space	I can return lctddy earlier.	 44.77	 219.20	I can return lctddy earlier.	Mix	1092	0	0.97
+1438774151.644	760858	38	7	562	r	r	I can return lctddy earlier.	 44.77	 219.20	I can return lctddy earlier.	Mix	1654	0	0.97
+1438774151.768	760858	38	8	123	e	e	I can return lctddy earlier.	 44.77	 219.20	I can return lctddy earlier.	Mix	1777	0	0.97
+1438774151.956	760858	38	9	189	t	t	I can return lctddy earlier.	 44.77	 219.20	I can return lctddy earlier.	Mix	1966	0	0.97
+1438774152.143	760858	38	10	186	u	u	I can return lctddy earlier.	 44.77	 219.20	I can return lctddy earlier.	Mix	2152	0	0.97
+1438774152.299	760858	38	11	157	r	r	I can return lctddy earlier.	 44.77	 219.20	I can return lctddy earlier.	Mix	2309	0	0.97
+1438774152.455	760858	38	12	155	n	n	I can return lctddy earlier.	 44.77	 219.20	I can return lctddy earlier.	Mix	2464	0	0.97
+1438774152.611	760858	38	13	157	_	space	I can return lctddy earlier.	 44.77	 219.20	I can return lctddy earlier.	Mix	2621	0	0.97
+1438774153.328	760858	38	14	717	l	l	I can return lctddy earlier.	 44.77	 219.20	I can return lctddy earlier.	Mix	3338	0	0.97
+1438774153.547	760858	38	15	218	c	c	I can return lctddy earlier.	 44.77	 219.20	I can return lctddy earlier.	Mix	3556	0	0.97
+1438774153.828	760858	38	16	282	t	t	I can return lctddy earlier.	 44.77	 219.20	I can return lctddy earlier.	Mix	3838	0	0.97
+1438774154.951	760858	38	17	1122	d	d	I can return lctddy earlier.	 44.77	 219.20	I can return lctddy earlier.	Mix	4960	0	0.97
+1438774155.107	760858	38	18	157	d	d	I can return lctddy earlier.	 44.77	 219.20	I can return lctddy earlier.	Mix	5117	0	0.97
+1438774155.263	760858	38	19	156	y	y	I can return lctddy earlier.	 44.77	 219.20	I can return lctddy earlier.	Mix	5273	0	0.97
+1438774155.419	760858	38	20	155	_	space	I can return lctddy earlier.	 44.77	 219.20	I can return lctddy earlier.	Mix	5428	0	0.97
+1438774155.887	760858	38	21	469	e	e	I can return lctddy earlier.	 44.77	 219.20	I can return lctddy earlier.	Mix	5897	0	0.97
+1438774156.105	760858	38	22	218	a	a	I can return lctddy earlier.	 44.77	 219.20	I can return lctddy earlier.	Mix	6115	0	0.97
+1438774156.261	760858	38	23	155	r	r	I can return lctddy earlier.	 44.77	 219.20	I can return lctddy earlier.	Mix	6270	0	0.97
+1438774156.48	760858	38	24	220	l	l	I can return lctddy earlier.	 44.77	 219.20	I can return lctddy earlier.	Mix	6490	0	0.97
+1438774156.667	760858	38	25	187	i	i	I can return lctddy earlier.	 44.77	 219.20	I can return lctddy earlier.	Mix	6677	0	0.97
+1438774156.792	760858	38	26	125	e	e	I can return lctddy earlier.	 44.77	 219.20	I can return lctddy earlier.	Mix	6802	0	0.97
+1438774156.916	760858	38	27	123	r	r	I can return lctddy earlier.	 44.77	 219.20	I can return lctddy earlier.	Mix	6925	0	0.97
+1438774157.228	760858	38	28	312	.	period	I can return lctddy earlier.	 44.77	 219.20	I can return lctddy earlier.	Mix	7237	0	0.97
+1438774158.289	760858	39	0	0	Shift_L	Shift_L	I sent jkgaqe it to her.	 32.17	 427.90	I sent jkgaqe it to her.	Mix	0	0	0.96
+1438774158.476	760858	39	1	187	I	I	I sent jkgaqe it to her.	 32.17	 427.90	I sent jkgaqe it to her.	Mix	187	0	0.96
+1438774158.695	760858	39	2	218	_	space	I sent jkgaqe it to her.	 32.17	 427.90	I sent jkgaqe it to her.	Mix	405	0	0.96
+1438774158.851	760858	39	3	157	s	s	I sent jkgaqe it to her.	 32.17	 427.90	I sent jkgaqe it to her.	Mix	562	0	0.96
+1438774159.1	760858	39	4	248	e	e	I sent jkgaqe it to her.	 32.17	 427.90	I sent jkgaqe it to her.	Mix	810	0	0.96
+1438774159.163	760858	39	5	64	n	n	I sent jkgaqe it to her.	 32.17	 427.90	I sent jkgaqe it to her.	Mix	874	0	0.96
+1438774159.35	760858	39	6	186	t	t	I sent jkgaqe it to her.	 32.17	 427.90	I sent jkgaqe it to her.	Mix	1060	0	0.96
+1438774159.506	760858	39	7	157	_	space	I sent jkgaqe it to her.	 32.17	 427.90	I sent jkgaqe it to her.	Mix	1217	0	0.96
+1438774160.224	760858	39	8	717	j	j	I sent jkgaqe it to her.	 32.17	 427.90	I sent jkgaqe it to her.	Mix	1934	0	0.96
+1438774160.567	760858	39	9	343	k	k	I sent jkgaqe it to her.	 32.17	 427.90	I sent jkgaqe it to her.	Mix	2277	0	0.96
+1438774162.751	760858	39	10	2184	g	g	I sent jkgaqe it to her.	 32.17	 427.90	I sent jkgaqe it to her.	Mix	4461	0	0.96
+1438774163.281	760858	39	11	530	a	a	I sent jkgaqe it to her.	 32.17	 427.90	I sent jkgaqe it to her.	Mix	4991	0	0.96
+1438774163.905	760858	39	12	624	q	q	I sent jkgaqe it to her.	 32.17	 427.90	I sent jkgaqe it to her.	Mix	5615	0	0.96
+1438774164.342	760858	39	13	437	e	e	I sent jkgaqe it to her.	 32.17	 427.90	I sent jkgaqe it to her.	Mix	6052	0	0.96
+1438774164.716	760858	39	14	375	_	space	I sent jkgaqe it to her.	 32.17	 427.90	I sent jkgaqe it to her.	Mix	6427	0	0.96
+1438774165.247	760858	39	15	530	i	i	I sent jkgaqe it to her.	 32.17	 427.90	I sent jkgaqe it to her.	Mix	6957	0	0.96
+1438774165.403	760858	39	16	157	t	t	I sent jkgaqe it to her.	 32.17	 427.90	I sent jkgaqe it to her.	Mix	7114	0	0.96
+1438774165.496	760858	39	17	93	_	space	I sent jkgaqe it to her.	 32.17	 427.90	I sent jkgaqe it to her.	Mix	7207	0	0.96
+1438774165.621	760858	39	18	125	t	t	I sent jkgaqe it to her.	 32.17	 427.90	I sent jkgaqe it to her.	Mix	7332	0	0.96
+1438774165.808	760858	39	19	187	o	o	I sent jkgaqe it to her.	 32.17	 427.90	I sent jkgaqe it to her.	Mix	7519	0	0.96
+1438774166.089	760858	39	20	280	_	space	I sent jkgaqe it to her.	 32.17	 427.90	I sent jkgaqe it to her.	Mix	7799	0	0.96
+1438774166.276	760858	39	21	187	h	h	I sent jkgaqe it to her.	 32.17	 427.90	I sent jkgaqe it to her.	Mix	7986	0	0.96
+1438774166.401	760858	39	22	125	e	e	I sent jkgaqe it to her.	 32.17	 427.90	I sent jkgaqe it to her.	Mix	8111	0	0.96
+1438774166.495	760858	39	23	94	r	r	I sent jkgaqe it to her.	 32.17	 427.90	I sent jkgaqe it to her.	Mix	8205	0	0.96
+1438774166.869	760858	39	24	374	.	period	I sent jkgaqe it to her.	 32.17	 427.90	I sent jkgaqe it to her.	Mix	8579	0	0.96
+1438774167.899	760858	40	0	0	Shift_L	Shift_L	Is it aekbru over?	 33.71	 219.06	Is it aekbru over?	Mix	0	0	0.90
+1438774168.086	760858	40	1	187	I	I	Is it aekbru over?	 33.71	 219.06	Is it aekbru over?	Mix	187	0	0.90
+1438774168.398	760858	40	2	312	s	s	Is it aekbru over?	 33.71	 219.06	Is it aekbru over?	Mix	499	0	0.90
+1438774168.523	760858	40	3	125	_	space	Is it aekbru over?	 33.71	 219.06	Is it aekbru over?	Mix	624	0	0.90
+1438774168.71	760858	40	4	187	i	i	Is it aekbru over?	 33.71	 219.06	Is it aekbru over?	Mix	811	0	0.90
+1438774168.96	760858	40	5	250	t	t	Is it aekbru over?	 33.71	 219.06	Is it aekbru over?	Mix	1061	0	0.90
+1438774169.209	760858	40	6	249	_	space	Is it aekbru over?	 33.71	 219.06	Is it aekbru over?	Mix	1310	0	0.90
+1438774169.802	760858	40	7	593	a	a	Is it aekbru over?	 33.71	 219.06	Is it aekbru over?	Mix	1903	0	0.90
+1438774170.239	760858	40	8	437	e	e	Is it aekbru over?	 33.71	 219.06	Is it aekbru over?	Mix	2340	0	0.90
+1438774171.268	760858	40	9	1028	k	k	Is it aekbru over?	 33.71	 219.06	Is it aekbru over?	Mix	3368	0	0.90
+1438774171.612	760858	40	10	345	b	b	Is it aekbru over?	 33.71	 219.06	Is it aekbru over?	Mix	3713	0	0.90
+1438774171.83	760858	40	11	217	r	r	Is it aekbru over?	 33.71	 219.06	Is it aekbru over?	Mix	3930	0	0.90
+1438774172.204	760858	40	12	375	u	u	Is it aekbru over?	 33.71	 219.06	Is it aekbru over?	Mix	4305	0	0.90
+1438774172.641	760858	40	13	437	_	space	Is it aekbru over?	 33.71	 219.06	Is it aekbru over?	Mix	4742	0	0.90
+1438774173.109	760858	40	14	468	o	o	Is it aekbru over?	 33.71	 219.06	Is it aekbru over?	Mix	5210	0	0.90
+1438774173.265	760858	40	15	156	v	v	Is it aekbru over?	 33.71	 219.06	Is it aekbru over?	Mix	5366	0	0.90
+1438774173.39	760858	40	16	125	e	e	Is it aekbru over?	 33.71	 219.06	Is it aekbru over?	Mix	5491	0	0.90
+1438774173.515	760858	40	17	125	r	r	Is it aekbru over?	 33.71	 219.06	Is it aekbru over?	Mix	5616	0	0.90
+1438774173.827	760858	40	18	311	Shift_L	Shift_L	Is it aekbru over?	 33.71	 219.06	Is it aekbru over?	Mix	5927	0	0.90
+1438774173.952	760858	40	19	125	?	question	Is it aekbru over?	 33.71	 219.06	Is it aekbru over?	Mix	6052	0	0.90
+1438774175.044	760858	41	0	0	Shift_L	Shift_L	Good for knldkl you.	 31.77	 330.96	Good for knldkl you.	Mix	0	0	0.95
+1438774175.293	760858	41	1	249	G	G	Good for knldkl you.	 31.77	 330.96	Good for knldkl you.	Mix	249	0	0.95
+1438774175.605	760858	41	2	312	o	o	Good for knldkl you.	 31.77	 330.96	Good for knldkl you.	Mix	561	0	0.95
+1438774175.761	760858	41	3	156	o	o	Good for knldkl you.	 31.77	 330.96	Good for knldkl you.	Mix	717	0	0.95
+1438774175.886	760858	41	4	125	d	d	Good for knldkl you.	 31.77	 330.96	Good for knldkl you.	Mix	842	0	0.95
+1438774176.042	760858	41	5	156	_	space	Good for knldkl you.	 31.77	 330.96	Good for knldkl you.	Mix	998	0	0.95
+1438774176.198	760858	41	6	156	f	f	Good for knldkl you.	 31.77	 330.96	Good for knldkl you.	Mix	1154	0	0.95
+1438774176.323	760858	41	7	125	o	o	Good for knldkl you.	 31.77	 330.96	Good for knldkl you.	Mix	1279	0	0.95
+1438774176.448	760858	41	8	125	r	r	Good for knldkl you.	 31.77	 330.96	Good for knldkl you.	Mix	1404	0	0.95
+1438774176.572	760858	41	9	124	_	space	Good for knldkl you.	 31.77	 330.96	Good for knldkl you.	Mix	1528	0	0.95
+1438774177.571	760858	41	10	999	k	k	Good for knldkl you.	 31.77	 330.96	Good for knldkl you.	Mix	2527	0	0.95
+1438774177.82	760858	41	11	249	n	n	Good for knldkl you.	 31.77	 330.96	Good for knldkl you.	Mix	2776	0	0.95
+1438774178.756	760858	41	12	936	l	l	Good for knldkl you.	 31.77	 330.96	Good for knldkl you.	Mix	3712	0	0.95
+1438774179.412	760858	41	13	656	d	d	Good for knldkl you.	 31.77	 330.96	Good for knldkl you.	Mix	4368	0	0.95
+1438774180.566	760858	41	14	1154	k	k	Good for knldkl you.	 31.77	 330.96	Good for knldkl you.	Mix	5522	0	0.95
+1438774180.753	760858	41	15	187	l	l	Good for knldkl you.	 31.77	 330.96	Good for knldkl you.	Mix	5709	0	0.95
+1438774180.909	760858	41	16	156	_	space	Good for knldkl you.	 31.77	 330.96	Good for knldkl you.	Mix	5865	0	0.95
+1438774181.377	760858	41	17	468	y	y	Good for knldkl you.	 31.77	 330.96	Good for knldkl you.	Mix	6333	0	0.95
+1438774181.533	760858	41	18	156	o	o	Good for knldkl you.	 31.77	 330.96	Good for knldkl you.	Mix	6489	0	0.95
+1438774181.627	760858	41	19	94	u	u	Good for knldkl you.	 31.77	 330.96	Good for knldkl you.	Mix	6583	0	0.95
+1438774182.22	760858	41	20	593	.	period	Good for knldkl you.	 31.77	 330.96	Good for knldkl you.	Mix	7176	0	0.95
+1438774183.156	760858	42	0	0	Shift_L	Shift_L	What is varawz wrong?	 38.46	 186.06	What is varawz wrong?	Mix	0	0	0.91
+1438774183.436	760858	42	1	280	W	W	What is varawz wrong?	 38.46	 186.06	What is varawz wrong?	Mix	280	0	0.91
+1438774183.748	760858	42	2	312	h	h	What is varawz wrong?	 38.46	 186.06	What is varawz wrong?	Mix	592	0	0.91
+1438774183.873	760858	42	3	125	a	a	What is varawz wrong?	 38.46	 186.06	What is varawz wrong?	Mix	717	0	0.91
+1438774183.998	760858	42	4	125	t	t	What is varawz wrong?	 38.46	 186.06	What is varawz wrong?	Mix	842	0	0.91
+1438774184.185	760858	42	5	187	_	space	What is varawz wrong?	 38.46	 186.06	What is varawz wrong?	Mix	1029	0	0.91
+1438774184.31	760858	42	6	125	i	i	What is varawz wrong?	 38.46	 186.06	What is varawz wrong?	Mix	1154	0	0.91
+1438774184.435	760858	42	7	125	s	s	What is varawz wrong?	 38.46	 186.06	What is varawz wrong?	Mix	1279	0	0.91
+1438774184.56	760858	42	8	125	_	space	What is varawz wrong?	 38.46	 186.06	What is varawz wrong?	Mix	1404	0	0.91
+1438774185.215	760858	42	9	655	v	v	What is varawz wrong?	 38.46	 186.06	What is varawz wrong?	Mix	2059	0	0.91
+1438774185.371	760858	42	10	156	a	a	What is varawz wrong?	 38.46	 186.06	What is varawz wrong?	Mix	2215	0	0.91
+1438774185.527	760858	42	11	156	r	r	What is varawz wrong?	 38.46	 186.06	What is varawz wrong?	Mix	2371	0	0.91
+1438774186.369	760858	42	12	842	a	a	What is varawz wrong?	 38.46	 186.06	What is varawz wrong?	Mix	3213	0	0.91
+1438774186.681	760858	42	13	312	w	w	What is varawz wrong?	 38.46	 186.06	What is varawz wrong?	Mix	3525	0	0.91
+1438774187.149	760858	42	14	468	z	z	What is varawz wrong?	 38.46	 186.06	What is varawz wrong?	Mix	3993	0	0.91
+1438774187.43	760858	42	15	281	_	space	What is varawz wrong?	 38.46	 186.06	What is varawz wrong?	Mix	4274	0	0.91
+1438774187.929	760858	42	16	499	w	w	What is varawz wrong?	 38.46	 186.06	What is varawz wrong?	Mix	4773	0	0.91
+1438774188.241	760858	42	17	312	r	r	What is varawz wrong?	 38.46	 186.06	What is varawz wrong?	Mix	5085	0	0.91
+1438774188.491	760858	42	18	250	o	o	What is varawz wrong?	 38.46	 186.06	What is varawz wrong?	Mix	5335	0	0.91
+1438774188.709	760858	42	19	218	n	n	What is varawz wrong?	 38.46	 186.06	What is varawz wrong?	Mix	5553	0	0.91
+1438774188.865	760858	42	20	156	g	g	What is varawz wrong?	 38.46	 186.06	What is varawz wrong?	Mix	5709	0	0.91
+1438774189.177	760858	42	21	312	Shift_L	Shift_L	What is varawz wrong?	 38.46	 186.06	What is varawz wrong?	Mix	6021	0	0.91
+1438774189.396	760858	42	22	219	?	question	What is varawz wrong?	 38.46	 186.06	What is varawz wrong?	Mix	6240	0	0.91
+1438774190.394	760858	43	0	0	Shift_L	Shift_L	Keep me oahpnh posted!	 25.24	 274.17	Keep me oahpnh posted!	Mix	0	0	0.85
+1438774190.612	760858	43	1	217	K	K	Keep me oahpnh posted!	 25.24	 274.17	Keep me oahpnh posted!	Mix	217	0	0.85
+1438774190.956	760858	43	2	345	e	e	Keep me oahpnh posted!	 25.24	 274.17	Keep me oahpnh posted!	Mix	562	0	0.85
+1438774191.58	760858	43	3	623	e	e	Keep me oahpnh posted!	 25.24	 274.17	Keep me oahpnh posted!	Mix	1185	0	0.85
+1438774191.798	760858	43	4	219	p	p	Keep me oahpnh posted!	 25.24	 274.17	Keep me oahpnh posted!	Mix	1404	0	0.85
+1438774192.172	760858	43	5	373	_	space	Keep me oahpnh posted!	 25.24	 274.17	Keep me oahpnh posted!	Mix	1777	0	0.85
+1438774192.516	760858	43	6	344	m	m	Keep me oahpnh posted!	 25.24	 274.17	Keep me oahpnh posted!	Mix	2121	0	0.85
+1438774192.672	760858	43	7	156	e	e	Keep me oahpnh posted!	 25.24	 274.17	Keep me oahpnh posted!	Mix	2277	0	0.85
+1438774192.859	760858	43	8	187	_	space	Keep me oahpnh posted!	 25.24	 274.17	Keep me oahpnh posted!	Mix	2464	0	0.85
+1438774193.358	760858	43	9	499	o	o	Keep me oahpnh posted!	 25.24	 274.17	Keep me oahpnh posted!	Mix	2963	0	0.85
+1438774193.608	760858	43	10	250	a	a	Keep me oahpnh posted!	 25.24	 274.17	Keep me oahpnh posted!	Mix	3213	0	0.85
+1438774194.887	760858	43	11	1280	h	h	Keep me oahpnh posted!	 25.24	 274.17	Keep me oahpnh posted!	Mix	4493	0	0.85
+1438774195.573	760858	43	12	685	p	p	Keep me oahpnh posted!	 25.24	 274.17	Keep me oahpnh posted!	Mix	5178	0	0.85
+1438774196.603	760858	43	13	1030	n	n	Keep me oahpnh posted!	 25.24	 274.17	Keep me oahpnh posted!	Mix	6208	0	0.85
+1438774196.946	760858	43	14	344	l	l	Keep me oahpnh posted!	 25.24	 274.17	Keep me oahpnh posted!	Mix	6552	0	0.85
+1438774197.352	760858	43	15	405		BackSpace	Keep me oahpnh posted!	 25.24	 274.17	Keep me oahpnh posted!	Mix	6957	0	0.85
+1438774197.976	760858	43	16	625	h	h	Keep me oahpnh posted!	 25.24	 274.17	Keep me oahpnh posted!	Mix	7582	0	0.85
+1438774198.257	760858	43	17	280	_	space	Keep me oahpnh posted!	 25.24	 274.17	Keep me oahpnh posted!	Mix	7862	0	0.85
+1438774198.725	760858	43	18	468	p	p	Keep me oahpnh posted!	 25.24	 274.17	Keep me oahpnh posted!	Mix	8330	0	0.85
+1438774198.912	760858	43	19	187	o	o	Keep me oahpnh posted!	 25.24	 274.17	Keep me oahpnh posted!	Mix	8517	0	0.85
+1438774199.068	760858	43	20	157	s	s	Keep me oahpnh posted!	 25.24	 274.17	Keep me oahpnh posted!	Mix	8674	0	0.85
+1438774199.317	760858	43	21	248	t	t	Keep me oahpnh posted!	 25.24	 274.17	Keep me oahpnh posted!	Mix	8922	0	0.85
+1438774199.473	760858	43	22	156	e	e	Keep me oahpnh posted!	 25.24	 274.17	Keep me oahpnh posted!	Mix	9078	0	0.85
+1438774199.754	760858	43	23	281	d	d	Keep me oahpnh posted!	 25.24	 274.17	Keep me oahpnh posted!	Mix	9359	0	0.85
+1438774200.097	760858	43	24	343	Shift_L	Shift_L	Keep me oahpnh posted!	 25.24	 274.17	Keep me oahpnh posted!	Mix	9702	0	0.85
+1438774200.378	760858	43	25	281	!	exclam	Keep me oahpnh posted!	 25.24	 274.17	Keep me oahpnh posted!	Mix	9983	0	0.85
+1438774201.47	760858	44	0	0	Shift_L	Shift_L	I am odkfey walking in now.	 49.51	 212.94	I am odkfey walking in now.	Mix	0	0	0.96
+1438774201.657	760858	44	1	187	I	I	I am odkfey walking in now.	 49.51	 212.94	I am odkfey walking in now.	Mix	187	0	0.96
+1438774201.813	760858	44	2	155	_	space	I am odkfey walking in now.	 49.51	 212.94	I am odkfey walking in now.	Mix	342	0	0.96
+1438774201.969	760858	44	3	157	a	a	I am odkfey walking in now.	 49.51	 212.94	I am odkfey walking in now.	Mix	499	0	0.96
+1438774202.063	760858	44	4	93	m	m	I am odkfey walking in now.	 49.51	 212.94	I am odkfey walking in now.	Mix	592	0	0.96
+1438774202.188	760858	44	5	125	_	space	I am odkfey walking in now.	 49.51	 212.94	I am odkfey walking in now.	Mix	717	0	0.96
+1438774202.625	760858	44	6	437	o	o	I am odkfey walking in now.	 49.51	 212.94	I am odkfey walking in now.	Mix	1154	0	0.96
+1438774202.874	760858	44	7	250	d	d	I am odkfey walking in now.	 49.51	 212.94	I am odkfey walking in now.	Mix	1404	0	0.96
+1438774203.436	760858	44	8	562	k	k	I am odkfey walking in now.	 49.51	 212.94	I am odkfey walking in now.	Mix	1966	0	0.96
+1438774204.528	760858	44	9	1092	f	f	I am odkfey walking in now.	 49.51	 212.94	I am odkfey walking in now.	Mix	3058	0	0.96
+1438774204.684	760858	44	10	155	e	e	I am odkfey walking in now.	 49.51	 212.94	I am odkfey walking in now.	Mix	3213	0	0.96
+1438774204.84	760858	44	11	156	y	y	I am odkfey walking in now.	 49.51	 212.94	I am odkfey walking in now.	Mix	3369	0	0.96
+1438774205.027	760858	44	12	187	_	space	I am odkfey walking in now.	 49.51	 212.94	I am odkfey walking in now.	Mix	3556	0	0.96
+1438774205.526	760858	44	13	499	w	w	I am odkfey walking in now.	 49.51	 212.94	I am odkfey walking in now.	Mix	4055	0	0.96
+1438774205.713	760858	44	14	188	a	a	I am odkfey walking in now.	 49.51	 212.94	I am odkfey walking in now.	Mix	4243	0	0.96
+1438774205.807	760858	44	15	93	l	l	I am odkfey walking in now.	 49.51	 212.94	I am odkfey walking in now.	Mix	4336	0	0.96
+1438774205.994	760858	44	16	187	k	k	I am odkfey walking in now.	 49.51	 212.94	I am odkfey walking in now.	Mix	4523	0	0.96
+1438774206.15	760858	44	17	157	i	i	I am odkfey walking in now.	 49.51	 212.94	I am odkfey walking in now.	Mix	4680	0	0.96
+1438774206.244	760858	44	18	93	n	n	I am odkfey walking in now.	 49.51	 212.94	I am odkfey walking in now.	Mix	4773	0	0.96
+1438774206.369	760858	44	19	125	g	g	I am odkfey walking in now.	 49.51	 212.94	I am odkfey walking in now.	Mix	4898	0	0.96
+1438774206.462	760858	44	20	93	_	space	I am odkfey walking in now.	 49.51	 212.94	I am odkfey walking in now.	Mix	4991	0	0.96
+1438774206.587	760858	44	21	125	i	i	I am odkfey walking in now.	 49.51	 212.94	I am odkfey walking in now.	Mix	5116	0	0.96
+1438774206.712	760858	44	22	125	n	n	I am odkfey walking in now.	 49.51	 212.94	I am odkfey walking in now.	Mix	5241	0	0.96
+1438774206.805	760858	44	23	94	_	space	I am odkfey walking in now.	 49.51	 212.94	I am odkfey walking in now.	Mix	5335	0	0.96
+1438774207.024	760858	44	24	218	n	n	I am odkfey walking in now.	 49.51	 212.94	I am odkfey walking in now.	Mix	5553	0	0.96
+1438774207.18	760858	44	25	157	o	o	I am odkfey walking in now.	 49.51	 212.94	I am odkfey walking in now.	Mix	5710	0	0.96
+1438774207.367	760858	44	26	187	w	w	I am odkfey walking in now.	 49.51	 212.94	I am odkfey walking in now.	Mix	5897	0	0.96
+1438774207.773	760858	44	27	405	.	period	I am odkfey walking in now.	 49.51	 212.94	I am odkfey walking in now.	Mix	6302	0	0.96
+1438774208.615	760858	45	0	0	Shift_L	Shift_L	Just playing gvjbhj with you!	 30.42	 394.12	Just playing gvjbhj with you!	Mix	0	0	0.88
+1438774208.958	760858	45	1	342	J	J	Just playing gvjbhj with you!	 30.42	 394.12	Just playing gvjbhj with you!	Mix	342	0	0.88
+1438774209.208	760858	45	2	250	u	u	Just playing gvjbhj with you!	 30.42	 394.12	Just playing gvjbhj with you!	Mix	592	0	0.88
+1438774209.333	760858	45	3	125	s	s	Just playing gvjbhj with you!	 30.42	 394.12	Just playing gvjbhj with you!	Mix	717	0	0.88
+1438774209.551	760858	45	4	219	t	t	Just playing gvjbhj with you!	 30.42	 394.12	Just playing gvjbhj with you!	Mix	936	0	0.88
+1438774209.676	760858	45	5	125	_	space	Just playing gvjbhj with you!	 30.42	 394.12	Just playing gvjbhj with you!	Mix	1061	0	0.88
+1438774209.863	760858	45	6	186	p	p	Just playing gvjbhj with you!	 30.42	 394.12	Just playing gvjbhj with you!	Mix	1247	0	0.88
+1438774210.019	760858	45	7	157	l	l	Just playing gvjbhj with you!	 30.42	 394.12	Just playing gvjbhj with you!	Mix	1404	0	0.88
+1438774210.144	760858	45	8	125	a	a	Just playing gvjbhj with you!	 30.42	 394.12	Just playing gvjbhj with you!	Mix	1529	0	0.88
+1438774210.3	760858	45	9	155	y	y	Just playing gvjbhj with you!	 30.42	 394.12	Just playing gvjbhj with you!	Mix	1684	0	0.88
+1438774210.487	760858	45	10	187	i	i	Just playing gvjbhj with you!	 30.42	 394.12	Just playing gvjbhj with you!	Mix	1871	0	0.88
+1438774210.581	760858	45	11	95	n	n	Just playing gvjbhj with you!	 30.42	 394.12	Just playing gvjbhj with you!	Mix	1966	0	0.88
+1438774210.768	760858	45	12	186	g	g	Just playing gvjbhj with you!	 30.42	 394.12	Just playing gvjbhj with you!	Mix	2152	0	0.88
+1438774210.861	760858	45	13	94	_	space	Just playing gvjbhj with you!	 30.42	 394.12	Just playing gvjbhj with you!	Mix	2246	0	0.88
+1438774212.328	760858	45	14	1467	g	g	Just playing gvjbhj with you!	 30.42	 394.12	Just playing gvjbhj with you!	Mix	3713	0	0.88
+1438774213.357	760858	45	15	1029	v	v	Just playing gvjbhj with you!	 30.42	 394.12	Just playing gvjbhj with you!	Mix	4742	0	0.88
+1438774213.701	760858	45	16	343	k	k	Just playing gvjbhj with you!	 30.42	 394.12	Just playing gvjbhj with you!	Mix	5085	0	0.88
+1438774214.543	760858	45	17	842		BackSpace	Just playing gvjbhj with you!	 30.42	 394.12	Just playing gvjbhj with you!	Mix	5927	0	0.88
+1438774214.98	760858	45	18	438	j	j	Just playing gvjbhj with you!	 30.42	 394.12	Just playing gvjbhj with you!	Mix	6365	0	0.88
+1438774216.758	760858	45	19	1777	b	b	Just playing gvjbhj with you!	 30.42	 394.12	Just playing gvjbhj with you!	Mix	8142	0	0.88
+1438774216.945	760858	45	20	187	h	h	Just playing gvjbhj with you!	 30.42	 394.12	Just playing gvjbhj with you!	Mix	8329	0	0.88
+1438774217.32	760858	45	21	375	j	j	Just playing gvjbhj with you!	 30.42	 394.12	Just playing gvjbhj with you!	Mix	8704	0	0.88
+1438774217.694	760858	45	22	374	_	space	Just playing gvjbhj with you!	 30.42	 394.12	Just playing gvjbhj with you!	Mix	9078	0	0.88
+1438774218.037	760858	45	23	343	w	w	Just playing gvjbhj with you!	 30.42	 394.12	Just playing gvjbhj with you!	Mix	9421	0	0.88
+1438774218.162	760858	45	24	125	i	i	Just playing gvjbhj with you!	 30.42	 394.12	Just playing gvjbhj with you!	Mix	9546	0	0.88
+1438774218.349	760858	45	25	187	t	t	Just playing gvjbhj with you!	 30.42	 394.12	Just playing gvjbhj with you!	Mix	9733	0	0.88
+1438774218.412	760858	45	26	63	h	h	Just playing gvjbhj with you!	 30.42	 394.12	Just playing gvjbhj with you!	Mix	9796	0	0.88
+1438774218.568	760858	45	27	157	_	space	Just playing gvjbhj with you!	 30.42	 394.12	Just playing gvjbhj with you!	Mix	9953	0	0.88
+1438774218.786	760858	45	28	218	y	y	Just playing gvjbhj with you!	 30.42	 394.12	Just playing gvjbhj with you!	Mix	10171	0	0.88
+1438774218.942	760858	45	29	155	o	o	Just playing gvjbhj with you!	 30.42	 394.12	Just playing gvjbhj with you!	Mix	10326	0	0.88
+1438774219.036	760858	45	30	95	u	u	Just playing gvjbhj with you!	 30.42	 394.12	Just playing gvjbhj with you!	Mix	10421	0	0.88
+1438774219.41	760858	45	31	374	Shift_L	Shift_L	Just playing gvjbhj with you!	 30.42	 394.12	Just playing gvjbhj with you!	Mix	10795	0	0.88
+1438774219.66	760858	45	32	250	!	exclam	Just playing gvjbhj with you!	 30.42	 394.12	Just playing gvjbhj with you!	Mix	11045	0	0.88
+1438774220.721	760858	46	0	0	Shift_L	Shift_L	Do you cxwxyz need it today?	 38.18	 244.01	Do you cxwxyz need it today?	Mix	0	0	0.93
+1438774220.939	760858	46	1	217	D	D	Do you cxwxyz need it today?	 38.18	 244.01	Do you cxwxyz need it today?	Mix	217	0	0.93
+1438774221.251	760858	46	2	312	o	o	Do you cxwxyz need it today?	 38.18	 244.01	Do you cxwxyz need it today?	Mix	529	0	0.93
+1438774221.376	760858	46	3	125	_	space	Do you cxwxyz need it today?	 38.18	 244.01	Do you cxwxyz need it today?	Mix	654	0	0.93
+1438774221.594	760858	46	4	219	y	y	Do you cxwxyz need it today?	 38.18	 244.01	Do you cxwxyz need it today?	Mix	873	0	0.93
+1438774221.75	760858	46	5	156	o	o	Do you cxwxyz need it today?	 38.18	 244.01	Do you cxwxyz need it today?	Mix	1029	0	0.93
+1438774221.844	760858	46	6	94	u	u	Do you cxwxyz need it today?	 38.18	 244.01	Do you cxwxyz need it today?	Mix	1123	0	0.93
+1438774221.969	760858	46	7	125	_	space	Do you cxwxyz need it today?	 38.18	 244.01	Do you cxwxyz need it today?	Mix	1248	0	0.93
+1438774222.437	760858	46	8	468	c	c	Do you cxwxyz need it today?	 38.18	 244.01	Do you cxwxyz need it today?	Mix	1716	0	0.93
+1438774222.905	760858	46	9	468	x	x	Do you cxwxyz need it today?	 38.18	 244.01	Do you cxwxyz need it today?	Mix	2184	0	0.93
+1438774223.809	760858	46	10	904	w	w	Do you cxwxyz need it today?	 38.18	 244.01	Do you cxwxyz need it today?	Mix	3088	0	0.93
+1438774224.34	760858	46	11	530	x	x	Do you cxwxyz need it today?	 38.18	 244.01	Do you cxwxyz need it today?	Mix	3618	0	0.93
+1438774224.714	760858	46	12	375	y	y	Do you cxwxyz need it today?	 38.18	 244.01	Do you cxwxyz need it today?	Mix	3993	0	0.93
+1438774225.9	760858	46	13	1186	z	z	Do you cxwxyz need it today?	 38.18	 244.01	Do you cxwxyz need it today?	Mix	5179	0	0.93
+1438774226.087	760858	46	14	186	_	space	Do you cxwxyz need it today?	 38.18	 244.01	Do you cxwxyz need it today?	Mix	5365	0	0.93
+1438774226.399	760858	46	15	312	n	n	Do you cxwxyz need it today?	 38.18	 244.01	Do you cxwxyz need it today?	Mix	5677	0	0.93
+1438774226.524	760858	46	16	125	e	e	Do you cxwxyz need it today?	 38.18	 244.01	Do you cxwxyz need it today?	Mix	5802	0	0.93
+1438774226.711	760858	46	17	188	e	e	Do you cxwxyz need it today?	 38.18	 244.01	Do you cxwxyz need it today?	Mix	5990	0	0.93
+1438774226.898	760858	46	18	187	d	d	Do you cxwxyz need it today?	 38.18	 244.01	Do you cxwxyz need it today?	Mix	6177	0	0.93
+1438774227.054	760858	46	19	155	_	space	Do you cxwxyz need it today?	 38.18	 244.01	Do you cxwxyz need it today?	Mix	6332	0	0.93
+1438774227.397	760858	46	20	344	i	i	Do you cxwxyz need it today?	 38.18	 244.01	Do you cxwxyz need it today?	Mix	6676	0	0.93
+1438774227.553	760858	46	21	156	t	t	Do you cxwxyz need it today?	 38.18	 244.01	Do you cxwxyz need it today?	Mix	6832	0	0.93
+1438774227.647	760858	46	22	94	_	space	Do you cxwxyz need it today?	 38.18	 244.01	Do you cxwxyz need it today?	Mix	6926	0	0.93
+1438774227.803	760858	46	23	156	t	t	Do you cxwxyz need it today?	 38.18	 244.01	Do you cxwxyz need it today?	Mix	7082	0	0.93
+1438774227.928	760858	46	24	125	o	o	Do you cxwxyz need it today?	 38.18	 244.01	Do you cxwxyz need it today?	Mix	7207	0	0.93
+1438774228.209	760858	46	25	281	d	d	Do you cxwxyz need it today?	 38.18	 244.01	Do you cxwxyz need it today?	Mix	7488	0	0.93
+1438774228.396	760858	46	26	186	a	a	Do you cxwxyz need it today?	 38.18	 244.01	Do you cxwxyz need it today?	Mix	7674	0	0.93
+1438774228.552	760858	46	27	157	y	y	Do you cxwxyz need it today?	 38.18	 244.01	Do you cxwxyz need it today?	Mix	7831	0	0.93
+1438774228.989	760858	46	28	437	Shift_L	Shift_L	Do you cxwxyz need it today?	 38.18	 244.01	Do you cxwxyz need it today?	Mix	8268	0	0.93
+1438774229.207	760858	46	29	218	?	question	Do you cxwxyz need it today?	 38.18	 244.01	Do you cxwxyz need it today?	Mix	8486	0	0.93
+1438774230.237	760858	47	0	0	Shift_L	Shift_L	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	0	0	0.78
+1438774230.517	760858	47	1	279	T	T	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	279	0	0.78
+1438774230.705	760858	47	2	188	h	h	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	467	0	0.78
+1438774230.829	760858	47	3	125	a	a	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	592	0	0.78
+1438774230.923	760858	47	4	94	n	n	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	686	0	0.78
+1438774231.11	760858	47	5	186	k	k	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	872	0	0.78
+1438774231.11	760858	47	6	0	i	i	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	872	0	0.78
+1438774231.235	760858	47	7	125	s	s	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	997	0	0.78
+1438774231.36	760858	47	8	125	_	space	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	1122	0	0.78
+1438774231.89	760858	47	9	531	f	f	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	1653	0	0.78
+1438774232.296	760858	47	10	406		BackSpace	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	2059	0	0.78
+1438774232.452	760858	47	11	155		BackSpace	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	2214	0	0.78
+1438774232.608	760858	47	12	157		BackSpace	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	2371	0	0.78
+1438774232.733	760858	47	13	125		BackSpace	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	2496	0	0.78
+1438774233.357	760858	47	14	624	s	s	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	3120	0	0.78
+1438774233.513	760858	47	15	156	_	space	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	3276	0	0.78
+1438774233.669	760858	47	16	155	f	f	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	3431	0	0.78
+1438774233.825	760858	47	17	157	o	o	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	3588	0	0.78
+1438774233.949	760858	47	18	123	r	r	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	3711	0	0.78
+1438774234.043	760858	47	19	94	_	space	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	3805	0	0.78
+1438774234.761	760858	47	20	718	v	v	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	4523	0	0.78
+1438774235.26	760858	47	21	500	w	w	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	5023	0	0.78
+1438774236.289	760858	47	22	1029	m	m	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	6052	0	0.78
+1438774236.57	760858	47	23	280	b	b	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	6332	0	0.78
+1438774237.6	760858	47	24	1030	q	q	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	7362	0	0.78
+1438774237.756	760858	47	25	157	q	q	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	7519	0	0.78
+1438774237.912	760858	47	26	155	_	space	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	7674	0	0.78
+1438774238.505	760858	47	27	594	y	y	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	8268	0	0.78
+1438774238.661	760858	47	28	156	o	o	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	8424	0	0.78
+1438774238.754	760858	47	29	92	u	u	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	8516	0	0.78
+1438774238.879	760858	47	30	125	r	r	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	8641	0	0.78
+1438774238.973	760858	47	31	95	_	space	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	8736	0	0.78
+1438774239.16	760858	47	32	187	c	c	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	8923	0	0.78
+1438774239.285	760858	47	33	125	o	o	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	9048	0	0.78
+1438774239.441	760858	47	34	155	n	n	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	9203	0	0.78
+1438774239.597	760858	47	35	156	c	c	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	9359	0	0.78
+1438774239.721	760858	47	36	124	e	e	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	9483	0	0.78
+1438774239.846	760858	47	37	125	r	r	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	9608	0	0.78
+1438774240.096	760858	47	38	250	n	n	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	9858	0	0.78
+1438774240.689	760858	47	39	593	.	period	Thanks for vwmbqq your concern.	 34.45	 248.96	Thanks for vwmbqq your concern.	Mix	10451	0	0.78
+1438774241.781	760858	48	0	0	Shift_L	Shift_L	How soon do jdlwbu you need it?	 42.42	 208.24	How soon do jdlwbu you need it?	Mix	0	0	0.94
+1438774242.093	760858	48	1	312	H	H	How soon do jdlwbu you need it?	 42.42	 208.24	How soon do jdlwbu you need it?	Mix	312	0	0.94
+1438774242.342	760858	48	2	249	o	o	How soon do jdlwbu you need it?	 42.42	 208.24	How soon do jdlwbu you need it?	Mix	561	0	0.94
+1438774242.467	760858	48	3	125	w	w	How soon do jdlwbu you need it?	 42.42	 208.24	How soon do jdlwbu you need it?	Mix	686	0	0.94
+1438774242.592	760858	48	4	125	_	space	How soon do jdlwbu you need it?	 42.42	 208.24	How soon do jdlwbu you need it?	Mix	811	0	0.94
+1438774242.748	760858	48	5	156	s	s	How soon do jdlwbu you need it?	 42.42	 208.24	How soon do jdlwbu you need it?	Mix	967	0	0.94
+1438774243.091	760858	48	6	343	o	o	How soon do jdlwbu you need it?	 42.42	 208.24	How soon do jdlwbu you need it?	Mix	1310	0	0.94
+1438774243.247	760858	48	7	156	o	o	How soon do jdlwbu you need it?	 42.42	 208.24	How soon do jdlwbu you need it?	Mix	1466	0	0.94
+1438774243.372	760858	48	8	125	n	n	How soon do jdlwbu you need it?	 42.42	 208.24	How soon do jdlwbu you need it?	Mix	1591	0	0.94
+1438774243.528	760858	48	9	156	_	space	How soon do jdlwbu you need it?	 42.42	 208.24	How soon do jdlwbu you need it?	Mix	1747	0	0.94
+1438774244.152	760858	48	10	624	d	d	How soon do jdlwbu you need it?	 42.42	 208.24	How soon do jdlwbu you need it?	Mix	2371	0	0.94
+1438774244.308	760858	48	11	156	o	o	How soon do jdlwbu you need it?	 42.42	 208.24	How soon do jdlwbu you need it?	Mix	2527	0	0.94
+1438774244.495	760858	48	12	186	_	space	How soon do jdlwbu you need it?	 42.42	 208.24	How soon do jdlwbu you need it?	Mix	2713	0	0.94
+1438774245.275	760858	48	13	781	j	j	How soon do jdlwbu you need it?	 42.42	 208.24	How soon do jdlwbu you need it?	Mix	3494	0	0.94
+1438774245.681	760858	48	14	406	d	d	How soon do jdlwbu you need it?	 42.42	 208.24	How soon do jdlwbu you need it?	Mix	3900	0	0.94
+1438774245.868	760858	48	15	187	l	l	How soon do jdlwbu you need it?	 42.42	 208.24	How soon do jdlwbu you need it?	Mix	4087	0	0.94
+1438774246.804	760858	48	16	936	w	w	How soon do jdlwbu you need it?	 42.42	 208.24	How soon do jdlwbu you need it?	Mix	5023	0	0.94
+1438774247.178	760858	48	17	374	b	b	How soon do jdlwbu you need it?	 42.42	 208.24	How soon do jdlwbu you need it?	Mix	5397	0	0.94
+1438774247.459	760858	48	18	281	u	u	How soon do jdlwbu you need it?	 42.42	 208.24	How soon do jdlwbu you need it?	Mix	5678	0	0.94
+1438774248.114	760858	48	19	655	_	space	How soon do jdlwbu you need it?	 42.42	 208.24	How soon do jdlwbu you need it?	Mix	6333	0	0.94
+1438774248.426	760858	48	20	312	y	y	How soon do jdlwbu you need it?	 42.42	 208.24	How soon do jdlwbu you need it?	Mix	6645	0	0.94
+1438774248.613	760858	48	21	187	o	o	How soon do jdlwbu you need it?	 42.42	 208.24	How soon do jdlwbu you need it?	Mix	6832	0	0.94
+1438774248.676	760858	48	22	63	u	u	How soon do jdlwbu you need it?	 42.42	 208.24	How soon do jdlwbu you need it?	Mix	6895	0	0.94
+1438774248.801	760858	48	23	125	_	space	How soon do jdlwbu you need it?	 42.42	 208.24	How soon do jdlwbu you need it?	Mix	7020	0	0.94
+1438774249.019	760858	48	24	218	n	n	How soon do jdlwbu you need it?	 42.42	 208.24	How soon do jdlwbu you need it?	Mix	7238	0	0.94
+1438774249.144	760858	48	25	125	e	e	How soon do jdlwbu you need it?	 42.42	 208.24	How soon do jdlwbu you need it?	Mix	7363	0	0.94
+1438774249.3	760858	48	26	156	e	e	How soon do jdlwbu you need it?	 42.42	 208.24	How soon do jdlwbu you need it?	Mix	7519	0	0.94
+1438774249.487	760858	48	27	187	d	d	How soon do jdlwbu you need it?	 42.42	 208.24	How soon do jdlwbu you need it?	Mix	7706	0	0.94
+1438774249.549	760858	48	28	62	_	space	How soon do jdlwbu you need it?	 42.42	 208.24	How soon do jdlwbu you need it?	Mix	7768	0	0.94
+1438774249.737	760858	48	29	188	i	i	How soon do jdlwbu you need it?	 42.42	 208.24	How soon do jdlwbu you need it?	Mix	7956	0	0.94
+1438774249.861	760858	48	30	124	t	t	How soon do jdlwbu you need it?	 42.42	 208.24	How soon do jdlwbu you need it?	Mix	8080	0	0.94
+1438774250.111	760858	48	31	250	Shift_L	Shift_L	How soon do jdlwbu you need it?	 42.42	 208.24	How soon do jdlwbu you need it?	Mix	8330	0	0.94
+1438774250.267	760858	48	32	156	?	question	How soon do jdlwbu you need it?	 42.42	 208.24	How soon do jdlwbu you need it?	Mix	8486	0	0.94
+1438774251.39	760858	49	0	0	Shift_L	Shift_L	Did we get kmrynj ours back?	 31.47	 286.84	Did we get kmrynj ours back?	Mix	0	0	0.88
+1438774251.671	760858	49	1	280	D	D	Did we get kmrynj ours back?	 31.47	 286.84	Did we get kmrynj ours back?	Mix	280	0	0.88
+1438774251.921	760858	49	2	250	i	i	Did we get kmrynj ours back?	 31.47	 286.84	Did we get kmrynj ours back?	Mix	530	0	0.88
+1438774252.077	760858	49	3	156	d	d	Did we get kmrynj ours back?	 31.47	 286.84	Did we get kmrynj ours back?	Mix	686	0	0.88
+1438774252.201	760858	49	4	124	_	space	Did we get kmrynj ours back?	 31.47	 286.84	Did we get kmrynj ours back?	Mix	810	0	0.88
+1438774252.607	760858	49	5	407	w	w	Did we get kmrynj ours back?	 31.47	 286.84	Did we get kmrynj ours back?	Mix	1217	0	0.88
+1438774252.732	760858	49	6	125	e	e	Did we get kmrynj ours back?	 31.47	 286.84	Did we get kmrynj ours back?	Mix	1342	0	0.88
+1438774252.95	760858	49	7	217	_	space	Did we get kmrynj ours back?	 31.47	 286.84	Did we get kmrynj ours back?	Mix	1559	0	0.88
+1438774253.387	760858	49	8	437	g	g	Did we get kmrynj ours back?	 31.47	 286.84	Did we get kmrynj ours back?	Mix	1996	0	0.88
+1438774253.512	760858	49	9	125	e	e	Did we get kmrynj ours back?	 31.47	 286.84	Did we get kmrynj ours back?	Mix	2121	0	0.88
+1438774253.668	760858	49	10	156	t	t	Did we get kmrynj ours back?	 31.47	 286.84	Did we get kmrynj ours back?	Mix	2277	0	0.88
+1438774253.855	760858	49	11	187	_	space	Did we get kmrynj ours back?	 31.47	 286.84	Did we get kmrynj ours back?	Mix	2464	0	0.88
+1438774254.729	760858	49	12	874	k	k	Did we get kmrynj ours back?	 31.47	 286.84	Did we get kmrynj ours back?	Mix	3338	0	0.88
+1438774254.978	760858	49	13	249	m	m	Did we get kmrynj ours back?	 31.47	 286.84	Did we get kmrynj ours back?	Mix	3587	0	0.88
+1438774255.977	760858	49	14	999	r	r	Did we get kmrynj ours back?	 31.47	 286.84	Did we get kmrynj ours back?	Mix	4586	0	0.88
+1438774256.257	760858	49	15	280	y	y	Did we get kmrynj ours back?	 31.47	 286.84	Did we get kmrynj ours back?	Mix	4866	0	0.88
+1438774256.601	760858	49	16	344	n	n	Did we get kmrynj ours back?	 31.47	 286.84	Did we get kmrynj ours back?	Mix	5210	0	0.88
+1438774257.505	760858	49	17	905	j	j	Did we get kmrynj ours back?	 31.47	 286.84	Did we get kmrynj ours back?	Mix	6115	0	0.88
+1438774257.63	760858	49	18	125	_	space	Did we get kmrynj ours back?	 31.47	 286.84	Did we get kmrynj ours back?	Mix	6240	0	0.88
+1438774257.817	760858	49	19	186	o	o	Did we get kmrynj ours back?	 31.47	 286.84	Did we get kmrynj ours back?	Mix	6426	0	0.88
+1438774258.005	760858	49	20	189	u	u	Did we get kmrynj ours back?	 31.47	 286.84	Did we get kmrynj ours back?	Mix	6615	0	0.88
+1438774258.161	760858	49	21	155	r	r	Did we get kmrynj ours back?	 31.47	 286.84	Did we get kmrynj ours back?	Mix	6770	0	0.88
+1438774258.535	760858	49	22	374	s	s	Did we get kmrynj ours back?	 31.47	 286.84	Did we get kmrynj ours back?	Mix	7144	0	0.88
+1438774258.722	760858	49	23	187	_	space	Did we get kmrynj ours back?	 31.47	 286.84	Did we get kmrynj ours back?	Mix	7331	0	0.88
+1438774259.253	760858	49	24	531		BackSpace	Did we get kmrynj ours back?	 31.47	 286.84	Did we get kmrynj ours back?	Mix	7862	0	0.88
+1438774260.501	760858	49	25	1248	_	space	Did we get kmrynj ours back?	 31.47	 286.84	Did we get kmrynj ours back?	Mix	9110	0	0.88
+1438774260.781	760858	49	26	280	b	b	Did we get kmrynj ours back?	 31.47	 286.84	Did we get kmrynj ours back?	Mix	9390	0	0.88
+1438774260.906	760858	49	27	125	a	a	Did we get kmrynj ours back?	 31.47	 286.84	Did we get kmrynj ours back?	Mix	9515	0	0.88
+1438774261.125	760858	49	28	219	c	c	Did we get kmrynj ours back?	 31.47	 286.84	Did we get kmrynj ours back?	Mix	9734	0	0.88
+1438774261.312	760858	49	29	187	k	k	Did we get kmrynj ours back?	 31.47	 286.84	Did we get kmrynj ours back?	Mix	9921	0	0.88
+1438774261.53	760858	49	30	218	Shift_L	Shift_L	Did we get kmrynj ours back?	 31.47	 286.84	Did we get kmrynj ours back?	Mix	10139	0	0.88
+1438774261.686	760858	49	31	157	?	question	Did we get kmrynj ours back?	 31.47	 286.84	Did we get kmrynj ours back?	Mix	10296	0	0.88

@@ -1,0 +1,1160 @@
+input_time	user_id	stimulus_id	input_index	iki	input	key_symbol	current_input	wpm	sd_iki	stimulus	condition	input_time_ms	uer	ke
+1441968669.55	216367	0	0	0	Shift_L	Shift_L	Did that happen?	 56.55	 120.25	Did that happen?	Sentences	0	0	0.89
+1441968669.8	216367	0	1	250	D	D	Did that happen?	 56.55	 120.25	Did that happen?	Sentences	250	0	0.89
+1441968669.987	216367	0	2	187	i	i	Did that happen?	 56.55	 120.25	Did that happen?	Sentences	437	0	0.89
+1441968670.112	216367	0	3	125	d	d	Did that happen?	 56.55	 120.25	Did that happen?	Sentences	562	0	0.89
+1441968670.268	216367	0	4	155	_	space	Did that happen?	 56.55	 120.25	Did that happen?	Sentences	717	0	0.89
+1441968670.393	216367	0	5	125	t	t	Did that happen?	 56.55	 120.25	Did that happen?	Sentences	842	0	0.89
+1441968670.424	216367	0	6	32	h	h	Did that happen?	 56.55	 120.25	Did that happen?	Sentences	874	0	0.89
+1441968670.611	216367	0	7	187	a	a	Did that happen?	 56.55	 120.25	Did that happen?	Sentences	1061	0	0.89
+1441968671.204	216367	0	8	593	t	t	Did that happen?	 56.55	 120.25	Did that happen?	Sentences	1654	0	0.89
+1441968671.422	216367	0	9	217	_	space	Did that happen?	 56.55	 120.25	Did that happen?	Sentences	1871	0	0.89
+1441968671.547	216367	0	10	125	h	h	Did that happen?	 56.55	 120.25	Did that happen?	Sentences	1996	0	0.89
+1441968671.641	216367	0	11	95	a	a	Did that happen?	 56.55	 120.25	Did that happen?	Sentences	2091	0	0.89
+1441968671.797	216367	0	12	155	p	p	Did that happen?	 56.55	 120.25	Did that happen?	Sentences	2246	0	0.89
+1441968671.953	216367	0	13	157	p	p	Did that happen?	 56.55	 120.25	Did that happen?	Sentences	2403	0	0.89
+1441968672.046	216367	0	14	93	e	e	Did that happen?	 56.55	 120.25	Did that happen?	Sentences	2496	0	0.89
+1441968672.265	216367	0	15	219	n	n	Did that happen?	 56.55	 120.25	Did that happen?	Sentences	2715	0	0.89
+1441968672.514	216367	0	16	248	Shift_L	Shift_L	Did that happen?	 56.55	 120.25	Did that happen?	Sentences	2963	0	0.89
+1441968672.733	216367	0	17	220	?	question	Did that happen?	 56.55	 120.25	Did that happen?	Sentences	3183	0	0.89
+1441968674.074	216367	1	0	0	Shift_L	Shift_L	Do ou ned it today?	 36.82	 330.85	Do ou ned it today?	Sentences	0	0	0.90
+1441968674.262	216367	1	1	188	D	D	Do ou ned it today?	 36.82	 330.85	Do ou ned it today?	Sentences	188	0	0.90
+1441968674.511	216367	1	2	249	o	o	Do ou ned it today?	 36.82	 330.85	Do ou ned it today?	Sentences	437	0	0.90
+1441968674.698	216367	1	3	187	_	space	Do ou ned it today?	 36.82	 330.85	Do ou ned it today?	Sentences	624	0	0.90
+1441968675.073	216367	1	4	375	o	o	Do ou ned it today?	 36.82	 330.85	Do ou ned it today?	Sentences	999	0	0.90
+1441968676.664	216367	1	5	1591	u	u	Do ou ned it today?	 36.82	 330.85	Do ou ned it today?	Sentences	2590	0	0.90
+1441968676.945	216367	1	6	281	_	space	Do ou ned it today?	 36.82	 330.85	Do ou ned it today?	Sentences	2871	0	0.90
+1441968677.163	216367	1	7	218	n	n	Do ou ned it today?	 36.82	 330.85	Do ou ned it today?	Sentences	3089	0	0.90
+1441968677.257	216367	1	8	94	e	e	Do ou ned it today?	 36.82	 330.85	Do ou ned it today?	Sentences	3183	0	0.90
+1441968677.662	216367	1	9	405	d	d	Do ou ned it today?	 36.82	 330.85	Do ou ned it today?	Sentences	3588	0	0.90
+1441968678.193	216367	1	10	531	_	space	Do ou ned it today?	 36.82	 330.85	Do ou ned it today?	Sentences	4119	0	0.90
+1441968678.349	216367	1	11	156	i	i	Do ou ned it today?	 36.82	 330.85	Do ou ned it today?	Sentences	4275	0	0.90
+1441968678.505	216367	1	12	156	t	t	Do ou ned it today?	 36.82	 330.85	Do ou ned it today?	Sentences	4431	0	0.90
+1441968678.598	216367	1	13	93	_	space	Do ou ned it today?	 36.82	 330.85	Do ou ned it today?	Sentences	4524	0	0.90
+1441968678.786	216367	1	14	188	t	t	Do ou ned it today?	 36.82	 330.85	Do ou ned it today?	Sentences	4712	0	0.90
+1441968678.848	216367	1	15	62	o	o	Do ou ned it today?	 36.82	 330.85	Do ou ned it today?	Sentences	4774	0	0.90
+1441968679.035	216367	1	16	187	d	d	Do ou ned it today?	 36.82	 330.85	Do ou ned it today?	Sentences	4961	0	0.90
+1441968679.16	216367	1	17	125	a	a	Do ou ned it today?	 36.82	 330.85	Do ou ned it today?	Sentences	5086	0	0.90
+1441968679.628	216367	1	18	468	y	y	Do ou ned it today?	 36.82	 330.85	Do ou ned it today?	Sentences	5554	0	0.90
+1441968679.784	216367	1	19	156	Shift_L	Shift_L	Do ou ned it today?	 36.82	 330.85	Do ou ned it today?	Sentences	5710	0	0.90
+1441968679.94	216367	1	20	156	?	question	Do ou ned it today?	 36.82	 330.85	Do ou ned it today?	Sentences	5866	0	0.90
+1441968680.845	216367	2	0	0	Shift_L	Shift_L	Are you dfeeling bettter?	 72.13	  91.59	Are you dfeeling bettter?	Sentences	0	0	0.93
+1441968681.032	216367	2	1	187	A	A	Are you dfeeling bettter?	 72.13	  91.59	Are you dfeeling bettter?	Sentences	187	0	0.93
+1441968681.126	216367	2	2	93	r	r	Are you dfeeling bettter?	 72.13	  91.59	Are you dfeeling bettter?	Sentences	280	0	0.93
+1441968681.282	216367	2	3	157	e	e	Are you dfeeling bettter?	 72.13	  91.59	Are you dfeeling bettter?	Sentences	437	0	0.93
+1441968681.406	216367	2	4	123	_	space	Are you dfeeling bettter?	 72.13	  91.59	Are you dfeeling bettter?	Sentences	560	0	0.93
+1441968681.625	216367	2	5	219	y	y	Are you dfeeling bettter?	 72.13	  91.59	Are you dfeeling bettter?	Sentences	779	0	0.93
+1441968681.718	216367	2	6	93	o	o	Are you dfeeling bettter?	 72.13	  91.59	Are you dfeeling bettter?	Sentences	872	0	0.93
+1441968681.812	216367	2	7	95	u	u	Are you dfeeling bettter?	 72.13	  91.59	Are you dfeeling bettter?	Sentences	967	0	0.93
+1441968681.906	216367	2	8	93	_	space	Are you dfeeling bettter?	 72.13	  91.59	Are you dfeeling bettter?	Sentences	1060	0	0.93
+1441968682.124	216367	2	9	219	d	d	Are you dfeeling bettter?	 72.13	  91.59	Are you dfeeling bettter?	Sentences	1279	0	0.93
+1441968682.124	216367	2	10	0	f	f	Are you dfeeling bettter?	 72.13	  91.59	Are you dfeeling bettter?	Sentences	1279	0	0.93
+1441968682.592	216367	2	11	467	e	e	Are you dfeeling bettter?	 72.13	  91.59	Are you dfeeling bettter?	Sentences	1746	0	0.93
+1441968682.779	216367	2	12	188	e	e	Are you dfeeling bettter?	 72.13	  91.59	Are you dfeeling bettter?	Sentences	1934	0	0.93
+1441968682.935	216367	2	13	155	l	l	Are you dfeeling bettter?	 72.13	  91.59	Are you dfeeling bettter?	Sentences	2089	0	0.93
+1441968683.06	216367	2	14	125	i	i	Are you dfeeling bettter?	 72.13	  91.59	Are you dfeeling bettter?	Sentences	2214	0	0.93
+1441968683.247	216367	2	15	187	n	n	Are you dfeeling bettter?	 72.13	  91.59	Are you dfeeling bettter?	Sentences	2401	0	0.93
+1441968683.372	216367	2	16	125	g	g	Are you dfeeling bettter?	 72.13	  91.59	Are you dfeeling bettter?	Sentences	2526	0	0.93
+1441968683.466	216367	2	17	95	_	space	Are you dfeeling bettter?	 72.13	  91.59	Are you dfeeling bettter?	Sentences	2621	0	0.93
+1441968683.59	216367	2	18	123	b	b	Are you dfeeling bettter?	 72.13	  91.59	Are you dfeeling bettter?	Sentences	2744	0	0.93
+1441968683.778	216367	2	19	189	e	e	Are you dfeeling bettter?	 72.13	  91.59	Are you dfeeling bettter?	Sentences	2933	0	0.93
+1441968683.871	216367	2	20	93	t	t	Are you dfeeling bettter?	 72.13	  91.59	Are you dfeeling bettter?	Sentences	3026	0	0.93
+1441968684.058	216367	2	21	187	t	t	Are you dfeeling bettter?	 72.13	  91.59	Are you dfeeling bettter?	Sentences	3213	0	0.93
+1441968684.152	216367	2	22	93	t	t	Are you dfeeling bettter?	 72.13	  91.59	Are you dfeeling bettter?	Sentences	3306	0	0.93
+1441968684.214	216367	2	23	62	e	e	Are you dfeeling bettter?	 72.13	  91.59	Are you dfeeling bettter?	Sentences	3368	0	0.93
+1441968684.37	216367	2	24	156	r	r	Are you dfeeling bettter?	 72.13	  91.59	Are you dfeeling bettter?	Sentences	3524	0	0.93
+1441968684.745	216367	2	25	375	Shift_L	Shift_L	Are you dfeeling bettter?	 72.13	  91.59	Are you dfeeling bettter?	Sentences	3899	0	0.93
+1441968684.838	216367	2	26	94	?	question	Are you dfeeling bettter?	 72.13	  91.59	Are you dfeeling bettter?	Sentences	3993	0	0.93
+1441968685.774	216367	3	0	0	Shift_L	Shift_L	Is it over?	 61.04	  71.84	Is it over?	Sentences	0	0	0.85
+1441968685.962	216367	3	1	187	I	I	Is it over?	 61.04	  71.84	Is it over?	Sentences	187	0	0.85
+1441968686.118	216367	3	2	157	s	s	Is it over?	 61.04	  71.84	Is it over?	Sentences	344	0	0.85
+1441968686.274	216367	3	3	156	_	space	Is it over?	 61.04	  71.84	Is it over?	Sentences	500	0	0.85
+1441968686.398	216367	3	4	124	i	i	Is it over?	 61.04	  71.84	Is it over?	Sentences	624	0	0.85
+1441968686.523	216367	3	5	125	t	t	Is it over?	 61.04	  71.84	Is it over?	Sentences	749	0	0.85
+1441968686.617	216367	3	6	94	_	space	Is it over?	 61.04	  71.84	Is it over?	Sentences	843	0	0.85
+1441968686.742	216367	3	7	125	o	o	Is it over?	 61.04	  71.84	Is it over?	Sentences	968	0	0.85
+1441968686.898	216367	3	8	156	v	v	Is it over?	 61.04	  71.84	Is it over?	Sentences	1124	0	0.85
+1441968687.085	216367	3	9	187	e	e	Is it over?	 61.04	  71.84	Is it over?	Sentences	1311	0	0.85
+1441968687.147	216367	3	10	62	r	r	Is it over?	 61.04	  71.84	Is it over?	Sentences	1373	0	0.85
+1441968687.459	216367	3	11	312	Shift_L	Shift_L	Is it over?	 61.04	  71.84	Is it over?	Sentences	1685	0	0.85
+1441968687.74	216367	3	12	281	?	question	Is it over?	 61.04	  71.84	Is it over?	Sentences	1966	0	0.85
+1441968688.707	216367	4	0	0	Shift_L	Shift_L	I was oplanning to attend.	 75.70	 143.66	I was oplanning to attend.	Sentences	0	0	0.96
+1441968688.863	216367	4	1	155	I	I	I was oplanning to attend.	 75.70	 143.66	I was oplanning to attend.	Sentences	155	0	0.96
+1441968689.019	216367	4	2	157	_	space	I was oplanning to attend.	 75.70	 143.66	I was oplanning to attend.	Sentences	312	0	0.96
+1441968689.082	216367	4	3	63	w	w	I was oplanning to attend.	 75.70	 143.66	I was oplanning to attend.	Sentences	375	0	0.96
+1441968689.206	216367	4	4	124	a	a	I was oplanning to attend.	 75.70	 143.66	I was oplanning to attend.	Sentences	499	0	0.96
+1441968689.331	216367	4	5	125	s	s	I was oplanning to attend.	 75.70	 143.66	I was oplanning to attend.	Sentences	624	0	0.96
+1441968689.456	216367	4	6	125	_	space	I was oplanning to attend.	 75.70	 143.66	I was oplanning to attend.	Sentences	749	0	0.96
+1441968689.674	216367	4	7	218	o	o	I was oplanning to attend.	 75.70	 143.66	I was oplanning to attend.	Sentences	967	0	0.96
+1441968689.674	216367	4	8	0	p	p	I was oplanning to attend.	 75.70	 143.66	I was oplanning to attend.	Sentences	967	0	0.96
+1441968689.924	216367	4	9	250	l	l	I was oplanning to attend.	 75.70	 143.66	I was oplanning to attend.	Sentences	1217	0	0.96
+1441968690.018	216367	4	10	93	a	a	I was oplanning to attend.	 75.70	 143.66	I was oplanning to attend.	Sentences	1310	0	0.96
+1441968690.174	216367	4	11	157	n	n	I was oplanning to attend.	 75.70	 143.66	I was oplanning to attend.	Sentences	1467	0	0.96
+1441968690.33	216367	4	12	155	n	n	I was oplanning to attend.	 75.70	 143.66	I was oplanning to attend.	Sentences	1622	0	0.96
+1441968690.454	216367	4	13	124	i	i	I was oplanning to attend.	 75.70	 143.66	I was oplanning to attend.	Sentences	1746	0	0.96
+1441968690.61	216367	4	14	156	n	n	I was oplanning to attend.	 75.70	 143.66	I was oplanning to attend.	Sentences	1902	0	0.96
+1441968690.766	216367	4	15	157	g	g	I was oplanning to attend.	 75.70	 143.66	I was oplanning to attend.	Sentences	2059	0	0.96
+1441968690.891	216367	4	16	125	_	space	I was oplanning to attend.	 75.70	 143.66	I was oplanning to attend.	Sentences	2184	0	0.96
+1441968691.016	216367	4	17	125	t	t	I was oplanning to attend.	 75.70	 143.66	I was oplanning to attend.	Sentences	2309	0	0.96
+1441968691.047	216367	4	18	30	o	o	I was oplanning to attend.	 75.70	 143.66	I was oplanning to attend.	Sentences	2339	0	0.96
+1441968691.172	216367	4	19	125	_	space	I was oplanning to attend.	 75.70	 143.66	I was oplanning to attend.	Sentences	2464	0	0.96
+1441968691.266	216367	4	20	95	a	a	I was oplanning to attend.	 75.70	 143.66	I was oplanning to attend.	Sentences	2559	0	0.96
+1441968691.422	216367	4	21	155	t	t	I was oplanning to attend.	 75.70	 143.66	I was oplanning to attend.	Sentences	2714	0	0.96
+1441968691.546	216367	4	22	124	t	t	I was oplanning to attend.	 75.70	 143.66	I was oplanning to attend.	Sentences	2838	0	0.96
+1441968691.64	216367	4	23	95	e	e	I was oplanning to attend.	 75.70	 143.66	I was oplanning to attend.	Sentences	2933	0	0.96
+1441968691.796	216367	4	24	155	n	n	I was oplanning to attend.	 75.70	 143.66	I was oplanning to attend.	Sentences	3088	0	0.96
+1441968691.858	216367	4	25	63	d	d	I was oplanning to attend.	 75.70	 143.66	I was oplanning to attend.	Sentences	3151	0	0.96
+1441968692.67	216367	4	26	812	.	period	I was oplanning to attend.	 75.70	 143.66	I was oplanning to attend.	Sentences	3963	0	0.96
+1441968693.543	216367	5	0	0	Shift_L	Shift_L	Good for you.	 67.89	  93.83	Good for you.	Sentences	0	0	0.93
+1441968693.98	216367	5	1	437	G	G	Good for you.	 67.89	  93.83	Good for you.	Sentences	437	0	0.93
+1441968694.167	216367	5	2	187	o	o	Good for you.	 67.89	  93.83	Good for you.	Sentences	624	0	0.93
+1441968694.323	216367	5	3	155	o	o	Good for you.	 67.89	  93.83	Good for you.	Sentences	779	0	0.93
+1441968694.386	216367	5	4	63	d	d	Good for you.	 67.89	  93.83	Good for you.	Sentences	842	0	0.93
+1441968694.511	216367	5	5	125	_	space	Good for you.	 67.89	  93.83	Good for you.	Sentences	967	0	0.93
+1441968694.635	216367	5	6	125	f	f	Good for you.	 67.89	  93.83	Good for you.	Sentences	1092	0	0.93
+1441968694.76	216367	5	7	125	o	o	Good for you.	 67.89	  93.83	Good for you.	Sentences	1217	0	0.93
+1441968694.885	216367	5	8	125	r	r	Good for you.	 67.89	  93.83	Good for you.	Sentences	1342	0	0.93
+1441968695.041	216367	5	9	155	_	space	Good for you.	 67.89	  93.83	Good for you.	Sentences	1497	0	0.93
+1441968695.166	216367	5	10	125	y	y	Good for you.	 67.89	  93.83	Good for you.	Sentences	1622	0	0.93
+1441968695.322	216367	5	11	157	o	o	Good for you.	 67.89	  93.83	Good for you.	Sentences	1779	0	0.93
+1441968695.415	216367	5	12	92	u	u	Good for you.	 67.89	  93.83	Good for you.	Sentences	1871	0	0.93
+1441968695.665	216367	5	13	250	.	period	Good for you.	 67.89	  93.83	Good for you.	Sentences	2121	0	0.93
+1441968696.757	216367	6	0	0	Shift_L	Shift_L	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	0	0	0.97
+1441968696.882	216367	6	1	125	I	I	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	125	0	0.97
+1441968697.069	216367	6	2	187	_	space	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	312	0	0.97
+1441968697.194	216367	6	3	125	t	t	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	437	0	0.97
+1441968697.256	216367	6	4	62	h	h	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	499	0	0.97
+1441968697.35	216367	6	5	93	i	i	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	592	0	0.97
+1441968697.537	216367	6	6	187	n	n	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	779	0	0.97
+1441968697.599	216367	6	7	63	k	k	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	842	0	0.97
+1441968697.755	216367	6	8	156	_	space	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	998	0	0.97
+1441968697.849	216367	6	9	94	t	t	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	1092	0	0.97
+1441968697.974	216367	6	10	125	h	h	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	1217	0	0.97
+1441968698.067	216367	6	11	92	a	a	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	1309	0	0.97
+1441968698.161	216367	6	12	95	t	t	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	1404	0	0.97
+1441968698.255	216367	6	13	94	_	space	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	1498	0	0.97
+1441968698.379	216367	6	14	123	i	i	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	1621	0	0.97
+1441968698.442	216367	6	15	63	s	s	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	1684	0	0.97
+1441968698.567	216367	6	16	125	_	space	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	1809	0	0.97
+1441968698.629	216367	6	17	62	t	t	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	1871	0	0.97
+1441968698.754	216367	6	18	125	h	h	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	1996	0	0.97
+1441968698.847	216367	6	19	93	e	e	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	2089	0	0.97
+1441968699.066	216367	6	20	220	_	space	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	2309	0	0.97
+1441968699.315	216367	6	21	249	r	r	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	2558	0	0.97
+1441968699.409	216367	6	22	93	i	i	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	2651	0	0.97
+1441968699.534	216367	6	23	125	g	g	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	2776	0	0.97
+1441968699.659	216367	6	24	125	h	h	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	2901	0	0.97
+1441968699.752	216367	6	25	94	t	t	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	2995	0	0.97
+1441968699.971	216367	6	26	218	_	space	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	3213	0	0.97
+1441968700.064	216367	6	27	93	a	a	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	3306	0	0.97
+1441968700.189	216367	6	28	125	n	n	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	3431	0	0.97
+1441968700.283	216367	6	29	95	s	s	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	3526	0	0.97
+1441968700.47	216367	6	30	187	w	w	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	3713	0	0.97
+1441968700.626	216367	6	31	155	e	e	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	3868	0	0.97
+1441968701.25	216367	6	32	625	r	r	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	4493	0	0.97
+1441968701.406	216367	6	33	155	.	period	I think that is the right answer.	 82.62	  99.15	I think that is the right answer.	Sentences	4648	0	0.97
+1441968702.435	216367	7	0	0	Shift_L	Shift_L	Keep me posted!	 48.51	  94.92	Keep me posted!	Sentences	0	0	0.79
+1441968702.529	216367	7	1	94	K	K	Keep me posted!	 48.51	  94.92	Keep me posted!	Sentences	94	0	0.79
+1441968702.716	216367	7	2	187	e	e	Keep me posted!	 48.51	  94.92	Keep me posted!	Sentences	281	0	0.79
+1441968702.872	216367	7	3	156	e	e	Keep me posted!	 48.51	  94.92	Keep me posted!	Sentences	437	0	0.79
+1441968703.059	216367	7	4	187	p	p	Keep me posted!	 48.51	  94.92	Keep me posted!	Sentences	624	0	0.79
+1441968703.184	216367	7	5	125	_	space	Keep me posted!	 48.51	  94.92	Keep me posted!	Sentences	749	0	0.79
+1441968703.371	216367	7	6	187	m	m	Keep me posted!	 48.51	  94.92	Keep me posted!	Sentences	936	0	0.79
+1441968703.465	216367	7	7	93	e	e	Keep me posted!	 48.51	  94.92	Keep me posted!	Sentences	1029	0	0.79
+1441968703.777	216367	7	8	313	_	space	Keep me posted!	 48.51	  94.92	Keep me posted!	Sentences	1342	0	0.79
+1441968704.027	216367	7	9	250	p	p	Keep me posted!	 48.51	  94.92	Keep me posted!	Sentences	1592	0	0.79
+1441968704.214	216367	7	10	187	o	o	Keep me posted!	 48.51	  94.92	Keep me posted!	Sentences	1779	0	0.79
+1441968704.339	216367	7	11	125	s	s	Keep me posted!	 48.51	  94.92	Keep me posted!	Sentences	1904	0	0.79
+1441968704.463	216367	7	12	124	t	t	Keep me posted!	 48.51	  94.92	Keep me posted!	Sentences	2028	0	0.79
+1441968704.588	216367	7	13	125	e	e	Keep me posted!	 48.51	  94.92	Keep me posted!	Sentences	2153	0	0.79
+1441968704.775	216367	7	14	187	r	r	Keep me posted!	 48.51	  94.92	Keep me posted!	Sentences	2340	0	0.79
+1441968705.275	216367	7	15	500		BackSpace	Keep me posted!	 48.51	  94.92	Keep me posted!	Sentences	2840	0	0.79
+1441968705.493	216367	7	16	218	d	d	Keep me posted!	 48.51	  94.92	Keep me posted!	Sentences	3058	0	0.79
+1441968705.711	216367	7	17	218	Shift_L	Shift_L	Keep me posted!	 48.51	  94.92	Keep me posted!	Sentences	3276	0	0.79
+1441968705.899	216367	7	18	187	!	exclam	Keep me posted!	 48.51	  94.92	Keep me posted!	Sentences	3463	0	0.79
+1441968706.772	216367	8	0	0	Shift_L	Shift_L	Thanks good job.	 70.34	  79.35	Thanks good job.	Sentences	0	0	0.94
+1441968706.928	216367	8	1	155	T	T	Thanks good job.	 70.34	  79.35	Thanks good job.	Sentences	155	0	0.94
+1441968707.147	216367	8	2	220	h	h	Thanks good job.	 70.34	  79.35	Thanks good job.	Sentences	375	0	0.94
+1441968707.303	216367	8	3	155	a	a	Thanks good job.	 70.34	  79.35	Thanks good job.	Sentences	530	0	0.94
+1441968707.459	216367	8	4	157	n	n	Thanks good job.	 70.34	  79.35	Thanks good job.	Sentences	687	0	0.94
+1441968707.583	216367	8	5	123	k	k	Thanks good job.	 70.34	  79.35	Thanks good job.	Sentences	810	0	0.94
+1441968707.771	216367	8	6	188	s	s	Thanks good job.	 70.34	  79.35	Thanks good job.	Sentences	998	0	0.94
+1441968707.989	216367	8	7	219	_	space	Thanks good job.	 70.34	  79.35	Thanks good job.	Sentences	1217	0	0.94
+1441968708.176	216367	8	8	187	g	g	Thanks good job.	 70.34	  79.35	Thanks good job.	Sentences	1404	0	0.94
+1441968708.27	216367	8	9	93	o	o	Thanks good job.	 70.34	  79.35	Thanks good job.	Sentences	1497	0	0.94
+1441968708.395	216367	8	10	125	o	o	Thanks good job.	 70.34	  79.35	Thanks good job.	Sentences	1622	0	0.94
+1441968708.519	216367	8	11	124	d	d	Thanks good job.	 70.34	  79.35	Thanks good job.	Sentences	1746	0	0.94
+1441968708.613	216367	8	12	94	_	space	Thanks good job.	 70.34	  79.35	Thanks good job.	Sentences	1840	0	0.94
+1441968708.738	216367	8	13	125	j	j	Thanks good job.	 70.34	  79.35	Thanks good job.	Sentences	1965	0	0.94
+1441968708.8	216367	8	14	62	o	o	Thanks good job.	 70.34	  79.35	Thanks good job.	Sentences	2027	0	0.94
+1441968708.925	216367	8	15	125	b	b	Thanks good job.	 70.34	  79.35	Thanks good job.	Sentences	2152	0	0.94
+1441968709.331	216367	8	16	407	.	period	Thanks good job.	 70.34	  79.35	Thanks good job.	Sentences	2559	0	0.94
+1441968710.423	216367	9	0	0	Shift_L	Shift_L	Seee you soon!"	 69.08	  78.59	Seee you soon!"	Sentences	0	0	0.88
+1441968710.547	216367	9	1	123	S	S	Seee you soon!"	 69.08	  78.59	Seee you soon!"	Sentences	123	0	0.88
+1441968710.766	216367	9	2	219	e	e	Seee you soon!"	 69.08	  78.59	Seee you soon!"	Sentences	342	0	0.88
+1441968710.922	216367	9	3	156	e	e	Seee you soon!"	 69.08	  78.59	Seee you soon!"	Sentences	498	0	0.88
+1441968711.109	216367	9	4	187	e	e	Seee you soon!"	 69.08	  78.59	Seee you soon!"	Sentences	685	0	0.88
+1441968711.296	216367	9	5	187	_	space	Seee you soon!"	 69.08	  78.59	Seee you soon!"	Sentences	872	0	0.88
+1441968711.702	216367	9	6	406	y	y	Seee you soon!"	 69.08	  78.59	Seee you soon!"	Sentences	1278	0	0.88
+1441968711.827	216367	9	7	125	o	o	Seee you soon!"	 69.08	  78.59	Seee you soon!"	Sentences	1403	0	0.88
+1441968711.92	216367	9	8	93	u	u	Seee you soon!"	 69.08	  78.59	Seee you soon!"	Sentences	1496	0	0.88
+1441968712.014	216367	9	9	94	_	space	Seee you soon!"	 69.08	  78.59	Seee you soon!"	Sentences	1590	0	0.88
+1441968712.17	216367	9	10	156	s	s	Seee you soon!"	 69.08	  78.59	Seee you soon!"	Sentences	1746	0	0.88
+1441968712.263	216367	9	11	93	o	o	Seee you soon!"	 69.08	  78.59	Seee you soon!"	Sentences	1839	0	0.88
+1441968712.419	216367	9	12	156	o	o	Seee you soon!"	 69.08	  78.59	Seee you soon!"	Sentences	1995	0	0.88
+1441968712.575	216367	9	13	156	n	n	Seee you soon!"	 69.08	  78.59	Seee you soon!"	Sentences	2151	0	0.88
+1441968712.669	216367	9	14	94	Shift_L	Shift_L	Seee you soon!"	 69.08	  78.59	Seee you soon!"	Sentences	2245	0	0.88
+1441968712.856	216367	9	15	187	!	exclam	Seee you soon!"	 69.08	  78.59	Seee you soon!"	Sentences	2432	0	0.88
+1441968712.856	216367	9	16	0	"	quotedbl	Seee you soon!"	 69.08	  78.59	Seee you soon!"	Sentences	2432	0	0.88
+1441968713.792	216367	10	0	0	Shift_L	Shift_L	Take what you can get.	 52.12	  92.50	Take what you can get.	Sentences	0	0	0.76
+1441968713.948	216367	10	1	155	T	T	Take what you can get.	 52.12	  92.50	Take what you can get.	Sentences	155	0	0.76
+1441968714.104	216367	10	2	157	h	h	Take what you can get.	 52.12	  92.50	Take what you can get.	Sentences	312	0	0.76
+1441968714.26	216367	10	3	155	a	a	Take what you can get.	 52.12	  92.50	Take what you can get.	Sentences	467	0	0.76
+1441968714.666	216367	10	4	406		BackSpace	Take what you can get.	 52.12	  92.50	Take what you can get.	Sentences	873	0	0.76
+1441968714.822	216367	10	5	156		BackSpace	Take what you can get.	 52.12	  92.50	Take what you can get.	Sentences	1029	0	0.76
+1441968714.947	216367	10	6	125	a	a	Take what you can get.	 52.12	  92.50	Take what you can get.	Sentences	1154	0	0.76
+1441968715.415	216367	10	7	468	k	k	Take what you can get.	 52.12	  92.50	Take what you can get.	Sentences	1622	0	0.76
+1441968715.539	216367	10	8	124	e	e	Take what you can get.	 52.12	  92.50	Take what you can get.	Sentences	1746	0	0.76
+1441968715.664	216367	10	9	125	_	space	Take what you can get.	 52.12	  92.50	Take what you can get.	Sentences	1871	0	0.76
+1441968715.851	216367	10	10	188	t	t	Take what you can get.	 52.12	  92.50	Take what you can get.	Sentences	2059	0	0.76
+1441968716.163	216367	10	11	312		BackSpace	Take what you can get.	 52.12	  92.50	Take what you can get.	Sentences	2371	0	0.76
+1441968716.351	216367	10	12	188	w	w	Take what you can get.	 52.12	  92.50	Take what you can get.	Sentences	2559	0	0.76
+1441968716.507	216367	10	13	155	h	h	Take what you can get.	 52.12	  92.50	Take what you can get.	Sentences	2714	0	0.76
+1441968716.6	216367	10	14	93	a	a	Take what you can get.	 52.12	  92.50	Take what you can get.	Sentences	2807	0	0.76
+1441968716.787	216367	10	15	187	t	t	Take what you can get.	 52.12	  92.50	Take what you can get.	Sentences	2994	0	0.76
+1441968716.912	216367	10	16	125	_	space	Take what you can get.	 52.12	  92.50	Take what you can get.	Sentences	3119	0	0.76
+1441968717.193	216367	10	17	282	y	y	Take what you can get.	 52.12	  92.50	Take what you can get.	Sentences	3401	0	0.76
+1441968717.349	216367	10	18	155	o	o	Take what you can get.	 52.12	  92.50	Take what you can get.	Sentences	3556	0	0.76
+1441968717.443	216367	10	19	95	u	u	Take what you can get.	 52.12	  92.50	Take what you can get.	Sentences	3651	0	0.76
+1441968717.505	216367	10	20	62	_	space	Take what you can get.	 52.12	  92.50	Take what you can get.	Sentences	3713	0	0.76
+1441968717.723	216367	10	21	217	c	c	Take what you can get.	 52.12	  92.50	Take what you can get.	Sentences	3930	0	0.76
+1441968717.879	216367	10	22	156	a	a	Take what you can get.	 52.12	  92.50	Take what you can get.	Sentences	4086	0	0.76
+1441968717.973	216367	10	23	94	n	n	Take what you can get.	 52.12	  92.50	Take what you can get.	Sentences	4180	0	0.76
+1441968718.098	216367	10	24	125	_	space	Take what you can get.	 52.12	  92.50	Take what you can get.	Sentences	4305	0	0.76
+1441968718.223	216367	10	25	125	g	g	Take what you can get.	 52.12	  92.50	Take what you can get.	Sentences	4430	0	0.76
+1441968718.347	216367	10	26	124	e	e	Take what you can get.	 52.12	  92.50	Take what you can get.	Sentences	4554	0	0.76
+1441968718.441	216367	10	27	94	t	t	Take what you can get.	 52.12	  92.50	Take what you can get.	Sentences	4648	0	0.76
+1441968718.628	216367	10	28	187	.	period	Take what you can get.	 52.12	  92.50	Take what you can get.	Sentences	4835	0	0.76
+1441968719.439	216367	11	0	0	Shift_L	Shift_L	Did you get this?	 83.15	  52.33	Did you get this?	Sentences	0	0	0.89
+1441968719.658	216367	11	1	219	D	D	Did you get this?	 83.15	  52.33	Did you get this?	Sentences	219	0	0.89
+1441968719.814	216367	11	2	156	i	i	Did you get this?	 83.15	  52.33	Did you get this?	Sentences	375	0	0.89
+1441968719.939	216367	11	3	125	d	d	Did you get this?	 83.15	  52.33	Did you get this?	Sentences	500	0	0.89
+1441968720.063	216367	11	4	124	_	space	Did you get this?	 83.15	  52.33	Did you get this?	Sentences	624	0	0.89
+1441968720.188	216367	11	5	125	y	y	Did you get this?	 83.15	  52.33	Did you get this?	Sentences	749	0	0.89
+1441968720.282	216367	11	6	94	o	o	Did you get this?	 83.15	  52.33	Did you get this?	Sentences	843	0	0.89
+1441968720.375	216367	11	7	93	u	u	Did you get this?	 83.15	  52.33	Did you get this?	Sentences	936	0	0.89
+1441968720.469	216367	11	8	94	_	space	Did you get this?	 83.15	  52.33	Did you get this?	Sentences	1030	0	0.89
+1441968720.563	216367	11	9	94	g	g	Did you get this?	 83.15	  52.33	Did you get this?	Sentences	1124	0	0.89
+1441968720.687	216367	11	10	124	e	e	Did you get this?	 83.15	  52.33	Did you get this?	Sentences	1248	0	0.89
+1441968720.781	216367	11	11	94	t	t	Did you get this?	 83.15	  52.33	Did you get this?	Sentences	1342	0	0.89
+1441968720.937	216367	11	12	156	_	space	Did you get this?	 83.15	  52.33	Did you get this?	Sentences	1498	0	0.89
+1441968721.031	216367	11	13	94	t	t	Did you get this?	 83.15	  52.33	Did you get this?	Sentences	1592	0	0.89
+1441968721.155	216367	11	14	124	h	h	Did you get this?	 83.15	  52.33	Did you get this?	Sentences	1716	0	0.89
+1441968721.218	216367	11	15	63	i	i	Did you get this?	 83.15	  52.33	Did you get this?	Sentences	1779	0	0.89
+1441968721.311	216367	11	16	93	s	s	Did you get this?	 83.15	  52.33	Did you get this?	Sentences	1872	0	0.89
+1441968721.592	216367	11	17	281	Shift_L	Shift_L	Did you get this?	 83.15	  52.33	Did you get this?	Sentences	2153	0	0.89
+1441968721.748	216367	11	18	156	?	question	Did you get this?	 83.15	  52.33	Did you get this?	Sentences	2309	0	0.89
+1441968722.809	216367	12	0	0	Shift_L	Shift_L	Why do you ask?	 67.74	  75.16	Why do you ask?	Sentences	0	0	0.88
+1441968723.121	216367	12	1	312	W	W	Why do you ask?	 67.74	  75.16	Why do you ask?	Sentences	312	0	0.88
+1441968723.308	216367	12	2	187	h	h	Why do you ask?	 67.74	  75.16	Why do you ask?	Sentences	499	0	0.88
+1441968723.464	216367	12	3	155	y	y	Why do you ask?	 67.74	  75.16	Why do you ask?	Sentences	654	0	0.88
+1441968723.651	216367	12	4	188	_	space	Why do you ask?	 67.74	  75.16	Why do you ask?	Sentences	842	0	0.88
+1441968723.745	216367	12	5	93	d	d	Why do you ask?	 67.74	  75.16	Why do you ask?	Sentences	935	0	0.88
+1441968723.839	216367	12	6	94	o	o	Why do you ask?	 67.74	  75.16	Why do you ask?	Sentences	1029	0	0.88
+1441968724.026	216367	12	7	188	_	space	Why do you ask?	 67.74	  75.16	Why do you ask?	Sentences	1217	0	0.88
+1441968724.057	216367	12	8	30	y	y	Why do you ask?	 67.74	  75.16	Why do you ask?	Sentences	1247	0	0.88
+1441968724.213	216367	12	9	157	o	o	Why do you ask?	 67.74	  75.16	Why do you ask?	Sentences	1404	0	0.88
+1441968724.291	216367	12	10	77	u	u	Why do you ask?	 67.74	  75.16	Why do you ask?	Sentences	1481	0	0.88
+1441968724.353	216367	12	11	62	_	space	Why do you ask?	 67.74	  75.16	Why do you ask?	Sentences	1543	0	0.88
+1441968724.478	216367	12	12	125	a	a	Why do you ask?	 67.74	  75.16	Why do you ask?	Sentences	1668	0	0.88
+1441968724.634	216367	12	13	157	s	s	Why do you ask?	 67.74	  75.16	Why do you ask?	Sentences	1825	0	0.88
+1441968724.884	216367	12	14	250	k	k	Why do you ask?	 67.74	  75.16	Why do you ask?	Sentences	2075	0	0.88
+1441968725.04	216367	12	15	155	Shift_L	Shift_L	Why do you ask?	 67.74	  75.16	Why do you ask?	Sentences	2230	0	0.88
+1441968725.289	216367	12	16	250	?	question	Why do you ask?	 67.74	  75.16	Why do you ask?	Sentences	2480	0	0.88
+1441968726.038	216367	13	0	0	Shift_L	Shift_L	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	0	0	0.81
+1441968726.288	216367	13	1	250	T	T	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	250	0	0.81
+1441968726.537	216367	13	2	248	h	h	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	498	0	0.81
+1441968726.693	216367	13	3	156	u	u	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	654	0	0.81
+1441968726.818	216367	13	4	125	s	s	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	779	0	0.81
+1441968727.692	216367	13	5	874		BackSpace	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	1653	0	0.81
+1441968727.879	216367	13	6	187	r	r	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	1840	0	0.81
+1441968728.316	216367	13	7	437	s	s	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	2277	0	0.81
+1441968728.565	216367	13	8	249	d	d	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	2526	0	0.81
+1441968728.721	216367	13	9	156	a	a	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	2682	0	0.81
+1441968729.033	216367	13	10	312	y	y	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	2994	0	0.81
+1441968729.252	216367	13	11	219	_	space	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	3213	0	0.81
+1441968729.501	216367	13	12	249	w	w	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	3462	0	0.81
+1441968729.595	216367	13	13	94	o	o	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	3556	0	0.81
+1441968729.689	216367	13	14	94	r	r	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	3650	0	0.81
+1441968730.001	216367	13	15	312	k	k	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	3962	0	0.81
+1441968730.125	216367	13	16	124	s	s	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	4086	0	0.81
+1441968730.281	216367	13	17	156	_	space	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	4242	0	0.81
+1441968730.437	216367	13	18	156	b	b	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	4398	0	0.81
+1441968730.656	216367	13	19	219	e	e	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	4617	0	0.81
+1441968730.781	216367	13	20	125	t	t	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	4742	0	0.81
+1441968730.937	216367	13	21	156	t	t	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	4898	0	0.81
+1441968731.03	216367	13	22	93	e	e	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	4991	0	0.81
+1441968731.124	216367	13	23	94	r	r	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	5085	0	0.81
+1441968731.217	216367	13	24	93	_	space	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	5178	0	0.81
+1441968731.311	216367	13	25	95	f	f	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	5273	0	0.81
+1441968731.436	216367	13	26	125	o	o	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	5398	0	0.81
+1441968731.529	216367	13	27	92	r	r	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	5490	0	0.81
+1441968731.623	216367	13	28	94	_	space	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	5584	0	0.81
+1441968731.873	216367	13	29	250	,	comma	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	5834	0	0.81
+1441968732.029	216367	13	30	156	e	e	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	5990	0	0.81
+1441968732.621	216367	13	31	592		BackSpace	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	6582	0	0.81
+1441968732.809	216367	13	32	188		BackSpace	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	6770	0	0.81
+1441968733.745	216367	13	33	936	m	m	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	7706	0	0.81
+1441968733.807	216367	13	34	62	e	e	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	7768	0	0.81
+1441968734.306	216367	13	35	499	.	period	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	8267	0	0.81
+1441968734.306	216367	13	36	0	-	minus	Thursday works better for me.-	 42.10	 205.18	Thursday works better for me.-	Sentences	8267	0	0.81
+1441968735.585	216367	14	0	0	Shift_L	Shift_L	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	0	0	0.97
+1441968735.741	216367	14	1	155	P	P	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	155	0	0.97
+1441968735.96	216367	14	2	220	l	l	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	375	0	0.97
+1441968736.053	216367	14	3	92	e	e	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	467	0	0.97
+1441968736.209	216367	14	4	157	a	a	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	624	0	0.97
+1441968736.397	216367	14	5	188	s	s	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	812	0	0.97
+1441968736.49	216367	14	6	92	e	e	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	904	0	0.97
+1441968736.646	216367	14	7	156	_	space	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	1060	0	0.97
+1441968736.833	216367	14	8	187	c	c	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	1247	0	0.97
+1441968736.958	216367	14	9	125	a	a	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	1372	0	0.97
+1441968737.052	216367	14	10	95	l	l	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	1467	0	0.97
+1441968737.177	216367	14	11	125	l	l	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	1592	0	0.97
+1441968737.333	216367	14	12	155	_	space	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	1747	0	0.97
+1441968737.582	216367	14	13	249	t	t	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	1996	0	0.97
+1441968737.738	216367	14	14	156	o	o	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	2152	0	0.97
+1441968737.894	216367	14	15	157	m	m	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	2309	0	0.97
+1441968738.019	216367	14	16	125	o	o	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	2434	0	0.97
+1441968738.081	216367	14	17	62	r	r	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	2496	0	0.97
+1441968738.206	216367	14	18	125	r	r	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	2621	0	0.97
+1441968738.3	216367	14	19	93	o	o	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	2714	0	0.97
+1441968738.362	216367	14	20	62	w	w	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	2776	0	0.97
+1441968738.518	216367	14	21	156	_	space	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	2932	0	0.97
+1441968738.612	216367	14	22	94	i	i	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	3026	0	0.97
+1441968738.768	216367	14	23	156	f	f	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	3182	0	0.97
+1441968738.893	216367	14	24	125	_	space	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	3307	0	0.97
+1441968739.049	216367	14	25	156	p	p	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	3463	0	0.97
+1441968739.173	216367	14	26	125	o	o	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	3588	0	0.97
+1441968739.267	216367	14	27	93	s	s	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	3681	0	0.97
+1441968739.423	216367	14	28	157	s	s	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	3838	0	0.97
+1441968739.485	216367	14	29	61	i	i	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	3899	0	0.97
+1441968739.641	216367	14	30	156	b	b	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	4055	0	0.97
+1441968739.766	216367	14	31	125	l	l	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	4180	0	0.97
+1441968739.891	216367	14	32	125	e	e	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	4305	0	0.97
+1441968740.016	216367	14	33	125	.	period	Please call tomorrow if possible.	 86.68	  42.63	Please call tomorrow if possible.	Sentences	4430	0	0.97
+1441968740.858	216367	15	0	0	Shift_L	Shift_L	You have a nice holiday too.	 76.36	  60.49	You have a nice holiday too.	Sentences	0	0	0.97
+1441968741.077	216367	15	1	218	Y	Y	You have a nice holiday too.	 76.36	  60.49	You have a nice holiday too.	Sentences	218	0	0.97
+1441968741.264	216367	15	2	187	o	o	You have a nice holiday too.	 76.36	  60.49	You have a nice holiday too.	Sentences	405	0	0.97
+1441968741.357	216367	15	3	94	u	u	You have a nice holiday too.	 76.36	  60.49	You have a nice holiday too.	Sentences	499	0	0.97
+1441968741.482	216367	15	4	125	_	space	You have a nice holiday too.	 76.36	  60.49	You have a nice holiday too.	Sentences	624	0	0.97
+1441968741.576	216367	15	5	93	h	h	You have a nice holiday too.	 76.36	  60.49	You have a nice holiday too.	Sentences	717	0	0.97
+1441968741.669	216367	15	6	93	a	a	You have a nice holiday too.	 76.36	  60.49	You have a nice holiday too.	Sentences	810	0	0.97
+1441968741.981	216367	15	7	312	v	v	You have a nice holiday too.	 76.36	  60.49	You have a nice holiday too.	Sentences	1122	0	0.97
+1441968742.169	216367	15	8	188	e	e	You have a nice holiday too.	 76.36	  60.49	You have a nice holiday too.	Sentences	1310	0	0.97
+1441968742.293	216367	15	9	124	_	space	You have a nice holiday too.	 76.36	  60.49	You have a nice holiday too.	Sentences	1434	0	0.97
+1441968742.418	216367	15	10	125	a	a	You have a nice holiday too.	 76.36	  60.49	You have a nice holiday too.	Sentences	1559	0	0.97
+1441968742.512	216367	15	11	95	_	space	You have a nice holiday too.	 76.36	  60.49	You have a nice holiday too.	Sentences	1654	0	0.97
+1441968742.668	216367	15	12	155	n	n	You have a nice holiday too.	 76.36	  60.49	You have a nice holiday too.	Sentences	1809	0	0.97
+1441968742.793	216367	15	13	125	i	i	You have a nice holiday too.	 76.36	  60.49	You have a nice holiday too.	Sentences	1934	0	0.97
+1441968742.917	216367	15	14	125	c	c	You have a nice holiday too.	 76.36	  60.49	You have a nice holiday too.	Sentences	2059	0	0.97
+1441968743.105	216367	15	15	187	e	e	You have a nice holiday too.	 76.36	  60.49	You have a nice holiday too.	Sentences	2246	0	0.97
+1441968743.229	216367	15	16	125	_	space	You have a nice holiday too.	 76.36	  60.49	You have a nice holiday too.	Sentences	2371	0	0.97
+1441968743.323	216367	15	17	93	h	h	You have a nice holiday too.	 76.36	  60.49	You have a nice holiday too.	Sentences	2464	0	0.97
+1441968743.448	216367	15	18	125	o	o	You have a nice holiday too.	 76.36	  60.49	You have a nice holiday too.	Sentences	2589	0	0.97
+1441968743.697	216367	15	19	249	l	l	You have a nice holiday too.	 76.36	  60.49	You have a nice holiday too.	Sentences	2838	0	0.97
+1441968743.822	216367	15	20	125	i	i	You have a nice holiday too.	 76.36	  60.49	You have a nice holiday too.	Sentences	2963	0	0.97
+1441968743.978	216367	15	21	156	d	d	You have a nice holiday too.	 76.36	  60.49	You have a nice holiday too.	Sentences	3119	0	0.97
+1441968744.228	216367	15	22	250	a	a	You have a nice holiday too.	 76.36	  60.49	You have a nice holiday too.	Sentences	3369	0	0.97
+1441968744.321	216367	15	23	94	y	y	You have a nice holiday too.	 76.36	  60.49	You have a nice holiday too.	Sentences	3463	0	0.97
+1441968744.509	216367	15	24	188	_	space	You have a nice holiday too.	 76.36	  60.49	You have a nice holiday too.	Sentences	3651	0	0.97
+1441968744.571	216367	15	25	62	t	t	You have a nice holiday too.	 76.36	  60.49	You have a nice holiday too.	Sentences	3713	0	0.97
+1441968744.696	216367	15	26	125	o	o	You have a nice holiday too.	 76.36	  60.49	You have a nice holiday too.	Sentences	3838	0	0.97
+1441968744.852	216367	15	27	155	o	o	You have a nice holiday too.	 76.36	  60.49	You have a nice holiday too.	Sentences	3993	0	0.97
+1441968745.101	216367	15	28	250	.	period	You have a nice holiday too.	 76.36	  60.49	You have a nice holiday too.	Sentences	4243	0	0.97
+1441968745.944	216367	16	0	0	Shift_L	Shift_L	I am trying again.	 75.19	  61.87	I am trying again.	Sentences	0	0	0.95
+1441968746.256	216367	16	1	312	I	I	I am trying again.	 75.19	  61.87	I am trying again.	Sentences	312	0	0.95
+1441968746.443	216367	16	2	187	_	space	I am trying again.	 75.19	  61.87	I am trying again.	Sentences	499	0	0.95
+1441968746.568	216367	16	3	125	a	a	I am trying again.	 75.19	  61.87	I am trying again.	Sentences	624	0	0.95
+1441968746.724	216367	16	4	155	m	m	I am trying again.	 75.19	  61.87	I am trying again.	Sentences	779	0	0.95
+1441968746.817	216367	16	5	93	_	space	I am trying again.	 75.19	  61.87	I am trying again.	Sentences	872	0	0.95
+1441968746.973	216367	16	6	157	t	t	I am trying again.	 75.19	  61.87	I am trying again.	Sentences	1029	0	0.95
+1441968747.161	216367	16	7	188	r	r	I am trying again.	 75.19	  61.87	I am trying again.	Sentences	1217	0	0.95
+1441968747.223	216367	16	8	62	y	y	I am trying again.	 75.19	  61.87	I am trying again.	Sentences	1279	0	0.95
+1441968747.473	216367	16	9	250	i	i	I am trying again.	 75.19	  61.87	I am trying again.	Sentences	1529	0	0.95
+1441968747.629	216367	16	10	155	n	n	I am trying again.	 75.19	  61.87	I am trying again.	Sentences	1684	0	0.95
+1441968747.753	216367	16	11	125	g	g	I am trying again.	 75.19	  61.87	I am trying again.	Sentences	1809	0	0.95
+1441968747.878	216367	16	12	125	_	space	I am trying again.	 75.19	  61.87	I am trying again.	Sentences	1934	0	0.95
+1441968747.972	216367	16	13	93	a	a	I am trying again.	 75.19	  61.87	I am trying again.	Sentences	2027	0	0.95
+1441968748.128	216367	16	14	157	g	g	I am trying again.	 75.19	  61.87	I am trying again.	Sentences	2184	0	0.95
+1441968748.253	216367	16	15	125	a	a	I am trying again.	 75.19	  61.87	I am trying again.	Sentences	2309	0	0.95
+1441968748.315	216367	16	16	62	i	i	I am trying again.	 75.19	  61.87	I am trying again.	Sentences	2371	0	0.95
+1441968748.471	216367	16	17	155	n	n	I am trying again.	 75.19	  61.87	I am trying again.	Sentences	2526	0	0.95
+1441968748.658	216367	16	18	187	.	period	I am trying again.	 75.19	  61.87	I am trying again.	Sentences	2713	0	0.95
+1441968749.625	216367	17	0	0	Shift_L	Shift_L	Are you in today?	 71.54	  57.88	Are you in today?	Sentences	0	0	0.89
+1441968749.844	216367	17	1	219	A	A	Are you in today?	 71.54	  57.88	Are you in today?	Sentences	219	0	0.89
+1441968749.969	216367	17	2	125	r	r	Are you in today?	 71.54	  57.88	Are you in today?	Sentences	344	0	0.89
+1441968750.093	216367	17	3	123	e	e	Are you in today?	 71.54	  57.88	Are you in today?	Sentences	467	0	0.89
+1441968750.218	216367	17	4	125	_	space	Are you in today?	 71.54	  57.88	Are you in today?	Sentences	592	0	0.89
+1441968750.343	216367	17	5	125	y	y	Are you in today?	 71.54	  57.88	Are you in today?	Sentences	717	0	0.89
+1441968750.437	216367	17	6	95	o	o	Are you in today?	 71.54	  57.88	Are you in today?	Sentences	812	0	0.89
+1441968750.624	216367	17	7	187	u	u	Are you in today?	 71.54	  57.88	Are you in today?	Sentences	999	0	0.89
+1441968750.842	216367	17	8	218	_	space	Are you in today?	 71.54	  57.88	Are you in today?	Sentences	1217	0	0.89
+1441968750.936	216367	17	9	94	i	i	Are you in today?	 71.54	  57.88	Are you in today?	Sentences	1311	0	0.89
+1441968751.123	216367	17	10	186	n	n	Are you in today?	 71.54	  57.88	Are you in today?	Sentences	1497	0	0.89
+1441968751.217	216367	17	11	95	_	space	Are you in today?	 71.54	  57.88	Are you in today?	Sentences	1592	0	0.89
+1441968751.373	216367	17	12	155	t	t	Are you in today?	 71.54	  57.88	Are you in today?	Sentences	1747	0	0.89
+1441968751.466	216367	17	13	94	o	o	Are you in today?	 71.54	  57.88	Are you in today?	Sentences	1841	0	0.89
+1441968751.622	216367	17	14	155	d	d	Are you in today?	 71.54	  57.88	Are you in today?	Sentences	1996	0	0.89
+1441968751.747	216367	17	15	125	a	a	Are you in today?	 71.54	  57.88	Are you in today?	Sentences	2121	0	0.89
+1441968751.841	216367	17	16	95	y	y	Are you in today?	 71.54	  57.88	Are you in today?	Sentences	2216	0	0.89
+1441968752.153	216367	17	17	312	Shift_L	Shift_L	Are you in today?	 71.54	  57.88	Are you in today?	Sentences	2528	0	0.89
+1441968752.309	216367	17	18	156	?	question	Are you in today?	 71.54	  57.88	Are you in today?	Sentences	2684	0	0.89
+1441968753.182	216367	18	0	0	Shift_L	Shift_L	That would be great.	 58.93	  95.52	That would be great.	Sentences	0	0	0.80
+1441968753.338	216367	18	1	156	T	T	That would be great.	 58.93	  95.52	That would be great.	Sentences	156	0	0.80
+1441968753.494	216367	18	2	156	h	h	That would be great.	 58.93	  95.52	That would be great.	Sentences	312	0	0.80
+1441968753.588	216367	18	3	94	a	a	That would be great.	 58.93	  95.52	That would be great.	Sentences	406	0	0.80
+1441968753.713	216367	18	4	125	t	t	That would be great.	 58.93	  95.52	That would be great.	Sentences	531	0	0.80
+1441968753.869	216367	18	5	156	_	space	That would be great.	 58.93	  95.52	That would be great.	Sentences	687	0	0.80
+1441968753.9	216367	18	6	31	w	w	That would be great.	 58.93	  95.52	That would be great.	Sentences	718	0	0.80
+1441968754.025	216367	18	7	125	o	o	That would be great.	 58.93	  95.52	That would be great.	Sentences	843	0	0.80
+1441968754.118	216367	18	8	93	u	u	That would be great.	 58.93	  95.52	That would be great.	Sentences	936	0	0.80
+1441968754.305	216367	18	9	187	l	l	That would be great.	 58.93	  95.52	That would be great.	Sentences	1123	0	0.80
+1441968754.368	216367	18	10	63	d	d	That would be great.	 58.93	  95.52	That would be great.	Sentences	1186	0	0.80
+1441968754.461	216367	18	11	93	_	space	That would be great.	 58.93	  95.52	That would be great.	Sentences	1279	0	0.80
+1441968754.586	216367	18	12	125	b	b	That would be great.	 58.93	  95.52	That would be great.	Sentences	1404	0	0.80
+1441968754.742	216367	18	13	156	e	e	That would be great.	 58.93	  95.52	That would be great.	Sentences	1560	0	0.80
+1441968754.836	216367	18	14	94	_	space	That would be great.	 58.93	  95.52	That would be great.	Sentences	1654	0	0.80
+1441968755.085	216367	18	15	249	f	f	That would be great.	 58.93	  95.52	That would be great.	Sentences	1903	0	0.80
+1441968755.366	216367	18	16	281	r	r	That would be great.	 58.93	  95.52	That would be great.	Sentences	2184	0	0.80
+1441968755.772	216367	18	17	406		BackSpace	That would be great.	 58.93	  95.52	That would be great.	Sentences	2590	0	0.80
+1441968755.928	216367	18	18	156		BackSpace	That would be great.	 58.93	  95.52	That would be great.	Sentences	2746	0	0.80
+1441968755.99	216367	18	19	62	g	g	That would be great.	 58.93	  95.52	That would be great.	Sentences	2808	0	0.80
+1441968756.177	216367	18	20	187	r	r	That would be great.	 58.93	  95.52	That would be great.	Sentences	2995	0	0.80
+1441968756.583	216367	18	21	406	e	e	That would be great.	 58.93	  95.52	That would be great.	Sentences	3401	0	0.80
+1441968756.739	216367	18	22	156	a	a	That would be great.	 58.93	  95.52	That would be great.	Sentences	3557	0	0.80
+1441968756.833	216367	18	23	94	t	t	That would be great.	 58.93	  95.52	That would be great.	Sentences	3651	0	0.80
+1441968757.051	216367	18	24	218	.	period	That would be great.	 58.93	  95.52	That would be great.	Sentences	3869	0	0.80
+1441968757.769	216367	19	0	0	Shift_L	Shift_L	How soon do you need it?	 59.38	 148.66	How soon do you need it?	Sentences	0	0	0.92
+1441968757.987	216367	19	1	217	H	H	How soon do you need it?	 59.38	 148.66	How soon do you need it?	Sentences	217	0	0.92
+1441968758.174	216367	19	2	187	o	o	How soon do you need it?	 59.38	 148.66	How soon do you need it?	Sentences	404	0	0.92
+1441968758.268	216367	19	3	94	w	w	How soon do you need it?	 59.38	 148.66	How soon do you need it?	Sentences	498	0	0.92
+1441968758.455	216367	19	4	187	_	space	How soon do you need it?	 59.38	 148.66	How soon do you need it?	Sentences	685	0	0.92
+1441968758.58	216367	19	5	125	s	s	How soon do you need it?	 59.38	 148.66	How soon do you need it?	Sentences	810	0	0.92
+1441968759.329	216367	19	6	749	o	o	How soon do you need it?	 59.38	 148.66	How soon do you need it?	Sentences	1559	0	0.92
+1441968759.516	216367	19	7	187	o	o	How soon do you need it?	 59.38	 148.66	How soon do you need it?	Sentences	1746	0	0.92
+1441968759.734	216367	19	8	218	n	n	How soon do you need it?	 59.38	 148.66	How soon do you need it?	Sentences	1964	0	0.92
+1441968759.89	216367	19	9	157	_	space	How soon do you need it?	 59.38	 148.66	How soon do you need it?	Sentences	2121	0	0.92
+1441968760.14	216367	19	10	250	d	d	How soon do you need it?	 59.38	 148.66	How soon do you need it?	Sentences	2371	0	0.92
+1441968760.296	216367	19	11	155	o	o	How soon do you need it?	 59.38	 148.66	How soon do you need it?	Sentences	2526	0	0.92
+1441968760.452	216367	19	12	156	_	space	How soon do you need it?	 59.38	 148.66	How soon do you need it?	Sentences	2682	0	0.92
+1441968760.514	216367	19	13	62	y	y	How soon do you need it?	 59.38	 148.66	How soon do you need it?	Sentences	2744	0	0.92
+1441968760.639	216367	19	14	125	o	o	How soon do you need it?	 59.38	 148.66	How soon do you need it?	Sentences	2869	0	0.92
+1441968760.701	216367	19	15	62	u	u	How soon do you need it?	 59.38	 148.66	How soon do you need it?	Sentences	2931	0	0.92
+1441968760.795	216367	19	16	95	_	space	How soon do you need it?	 59.38	 148.66	How soon do you need it?	Sentences	3026	0	0.92
+1441968760.951	216367	19	17	155	n	n	How soon do you need it?	 59.38	 148.66	How soon do you need it?	Sentences	3181	0	0.92
+1441968761.013	216367	19	18	62	e	e	How soon do you need it?	 59.38	 148.66	How soon do you need it?	Sentences	3243	0	0.92
+1441968761.138	216367	19	19	125	e	e	How soon do you need it?	 59.38	 148.66	How soon do you need it?	Sentences	3368	0	0.92
+1441968761.419	216367	19	20	281	d	d	How soon do you need it?	 59.38	 148.66	How soon do you need it?	Sentences	3649	0	0.92
+1441968761.419	216367	19	21	0	_	space	How soon do you need it?	 59.38	 148.66	How soon do you need it?	Sentences	3649	0	0.92
+1441968761.481	216367	19	22	62	i	i	How soon do you need it?	 59.38	 148.66	How soon do you need it?	Sentences	3711	0	0.92
+1441968761.856	216367	19	23	375	t	t	How soon do you need it?	 59.38	 148.66	How soon do you need it?	Sentences	4086	0	0.92
+1441968762.261	216367	19	24	405	Shift_L	Shift_L	How soon do you need it?	 59.38	 148.66	How soon do you need it?	Sentences	4491	0	0.92
+1441968762.417	216367	19	25	157	?	question	How soon do you need it?	 59.38	 148.66	How soon do you need it?	Sentences	4648	0	0.92
+1441968763.229	216367	20	0	0	Shift_L	Shift_L	How arey ou?	 32.31	 270.05	How arey ou?	Sentences	0	0	0.75
+1441968763.478	216367	20	1	248	H	H	How arey ou?	 32.31	 270.05	How arey ou?	Sentences	248	0	0.75
+1441968763.665	216367	20	2	187	o	o	How arey ou?	 32.31	 270.05	How arey ou?	Sentences	435	0	0.75
+1441968763.759	216367	20	3	94	w	w	How arey ou?	 32.31	 270.05	How arey ou?	Sentences	529	0	0.75
+1441968763.884	216367	20	4	125	_	space	How arey ou?	 32.31	 270.05	How arey ou?	Sentences	654	0	0.75
+1441968764.009	216367	20	5	125	a	a	How arey ou?	 32.31	 270.05	How arey ou?	Sentences	779	0	0.75
+1441968764.133	216367	20	6	124	r	r	How arey ou?	 32.31	 270.05	How arey ou?	Sentences	903	0	0.75
+1441968764.227	216367	20	7	94	e	e	How arey ou?	 32.31	 270.05	How arey ou?	Sentences	997	0	0.75
+1441968764.445	216367	20	8	218	y	y	How arey ou?	 32.31	 270.05	How arey ou?	Sentences	1215	0	0.75
+1441968764.445	216367	20	9	0	_	space	How arey ou?	 32.31	 270.05	How arey ou?	Sentences	1215	0	0.75
+1441968764.945	216367	20	10	500	o	o	How arey ou?	 32.31	 270.05	How arey ou?	Sentences	1715	0	0.75
+1441968765.413	216367	20	11	469	u	u	How arey ou?	 32.31	 270.05	How arey ou?	Sentences	2184	0	0.75
+1441968765.413	216367	20	12	0	i	i	How arey ou?	 32.31	 270.05	How arey ou?	Sentences	2184	0	0.75
+1441968766.473	216367	20	13	1059		BackSpace	How arey ou?	 32.31	 270.05	How arey ou?	Sentences	3243	0	0.75
+1441968766.941	216367	20	14	468	Shift_L	Shift_L	How arey ou?	 32.31	 270.05	How arey ou?	Sentences	3711	0	0.75
+1441968767.316	216367	20	15	375	?	question	How arey ou?	 32.31	 270.05	How arey ou?	Sentences	4086	0	0.75
+1441968768.096	216367	21	0	0	Shift_L	Shift_L	Please send me an email.	 77.59	  54.55	Please send me an email.	Sentences	0	0	0.96
+1441968768.314	216367	21	1	217	P	P	Please send me an email.	 77.59	  54.55	Please send me an email.	Sentences	217	0	0.96
+1441968768.564	216367	21	2	250	l	l	Please send me an email.	 77.59	  54.55	Please send me an email.	Sentences	467	0	0.96
+1441968768.657	216367	21	3	94	e	e	Please send me an email.	 77.59	  54.55	Please send me an email.	Sentences	561	0	0.96
+1441968768.813	216367	21	4	156	a	a	Please send me an email.	 77.59	  54.55	Please send me an email.	Sentences	717	0	0.96
+1441968769.032	216367	21	5	219	s	s	Please send me an email.	 77.59	  54.55	Please send me an email.	Sentences	936	0	0.96
+1441968769.157	216367	21	6	125	e	e	Please send me an email.	 77.59	  54.55	Please send me an email.	Sentences	1061	0	0.96
+1441968769.281	216367	21	7	123	_	space	Please send me an email.	 77.59	  54.55	Please send me an email.	Sentences	1184	0	0.96
+1441968769.375	216367	21	8	95	s	s	Please send me an email.	 77.59	  54.55	Please send me an email.	Sentences	1279	0	0.96
+1441968769.5	216367	21	9	125	e	e	Please send me an email.	 77.59	  54.55	Please send me an email.	Sentences	1404	0	0.96
+1441968769.593	216367	21	10	92	n	n	Please send me an email.	 77.59	  54.55	Please send me an email.	Sentences	1496	0	0.96
+1441968769.781	216367	21	11	188	d	d	Please send me an email.	 77.59	  54.55	Please send me an email.	Sentences	1684	0	0.96
+1441968769.905	216367	21	12	125	_	space	Please send me an email.	 77.59	  54.55	Please send me an email.	Sentences	1809	0	0.96
+1441968770.061	216367	21	13	156	m	m	Please send me an email.	 77.59	  54.55	Please send me an email.	Sentences	1965	0	0.96
+1441968770.155	216367	21	14	94	e	e	Please send me an email.	 77.59	  54.55	Please send me an email.	Sentences	2059	0	0.96
+1441968770.249	216367	21	15	94	_	space	Please send me an email.	 77.59	  54.55	Please send me an email.	Sentences	2153	0	0.96
+1441968770.342	216367	21	16	93	a	a	Please send me an email.	 77.59	  54.55	Please send me an email.	Sentences	2246	0	0.96
+1441968770.467	216367	21	17	125	n	n	Please send me an email.	 77.59	  54.55	Please send me an email.	Sentences	2371	0	0.96
+1441968770.561	216367	21	18	94	_	space	Please send me an email.	 77.59	  54.55	Please send me an email.	Sentences	2465	0	0.96
+1441968770.841	216367	21	19	280	e	e	Please send me an email.	 77.59	  54.55	Please send me an email.	Sentences	2745	0	0.96
+1441968770.966	216367	21	20	125	m	m	Please send me an email.	 77.59	  54.55	Please send me an email.	Sentences	2870	0	0.96
+1441968771.153	216367	21	21	187	a	a	Please send me an email.	 77.59	  54.55	Please send me an email.	Sentences	3057	0	0.96
+1441968771.278	216367	21	22	125	i	i	Please send me an email.	 77.59	  54.55	Please send me an email.	Sentences	3182	0	0.96
+1441968771.465	216367	21	23	186	l	l	Please send me an email.	 77.59	  54.55	Please send me an email.	Sentences	3368	0	0.96
+1441968771.653	216367	21	24	189	.	period	Please send me an email.	 77.59	  54.55	Please send me an email.	Sentences	3557	0	0.96
+1441968772.495	216367	22	0	0	Shift_L	Shift_L	Did we get ours back?	 44.21	 146.23	Did we get ours back?	Sentences	0	0	0.84
+1441968772.713	216367	22	1	218	D	D	Did we get ours back?	 44.21	 146.23	Did we get ours back?	Sentences	218	0	0.84
+1441968772.869	216367	22	2	156	i	i	Did we get ours back?	 44.21	 146.23	Did we get ours back?	Sentences	374	0	0.84
+1441968772.994	216367	22	3	125	d	d	Did we get ours back?	 44.21	 146.23	Did we get ours back?	Sentences	499	0	0.84
+1441968773.15	216367	22	4	156	_	space	Did we get ours back?	 44.21	 146.23	Did we get ours back?	Sentences	655	0	0.84
+1441968773.369	216367	22	5	219	w	w	Did we get ours back?	 44.21	 146.23	Did we get ours back?	Sentences	874	0	0.84
+1441968773.462	216367	22	6	93	e	e	Did we get ours back?	 44.21	 146.23	Did we get ours back?	Sentences	967	0	0.84
+1441968773.618	216367	22	7	156	_	space	Did we get ours back?	 44.21	 146.23	Did we get ours back?	Sentences	1123	0	0.84
+1441968774.149	216367	22	8	531	g	g	Did we get ours back?	 44.21	 146.23	Did we get ours back?	Sentences	1654	0	0.84
+1441968774.492	216367	22	9	343	e	e	Did we get ours back?	 44.21	 146.23	Did we get ours back?	Sentences	1997	0	0.84
+1441968774.648	216367	22	10	156	t	t	Did we get ours back?	 44.21	 146.23	Did we get ours back?	Sentences	2153	0	0.84
+1441968775.116	216367	22	11	468	_	space	Did we get ours back?	 44.21	 146.23	Did we get ours back?	Sentences	2621	0	0.84
+1441968775.241	216367	22	12	125	o	o	Did we get ours back?	 44.21	 146.23	Did we get ours back?	Sentences	2746	0	0.84
+1441968775.365	216367	22	13	124	u	u	Did we get ours back?	 44.21	 146.23	Did we get ours back?	Sentences	2870	0	0.84
+1441968775.521	216367	22	14	156	r	r	Did we get ours back?	 44.21	 146.23	Did we get ours back?	Sentences	3026	0	0.84
+1441968775.646	216367	22	15	125	s	s	Did we get ours back?	 44.21	 146.23	Did we get ours back?	Sentences	3151	0	0.84
+1441968775.802	216367	22	16	156	_	space	Did we get ours back?	 44.21	 146.23	Did we get ours back?	Sentences	3307	0	0.84
+1441968775.958	216367	22	17	156	b	b	Did we get ours back?	 44.21	 146.23	Did we get ours back?	Sentences	3463	0	0.84
+1441968776.145	216367	22	18	187	a	a	Did we get ours back?	 44.21	 146.23	Did we get ours back?	Sentences	3650	0	0.84
+1441968776.364	216367	22	19	219	c	c	Did we get ours back?	 44.21	 146.23	Did we get ours back?	Sentences	3869	0	0.84
+1441968776.52	216367	22	20	156	k	k	Did we get ours back?	 44.21	 146.23	Did we get ours back?	Sentences	4025	0	0.84
+1441968776.925	216367	22	21	405	Shift_L	Shift_L	Did we get ours back?	 44.21	 146.23	Did we get ours back?	Sentences	4430	0	0.84
+1441968777.3	216367	22	22	375	?	question	Did we get ours back?	 44.21	 146.23	Did we get ours back?	Sentences	4805	0	0.84
+1441968777.331	216367	22	23	31	=	equal	Did we get ours back?	 44.21	 146.23	Did we get ours back?	Sentences	4836	0	0.84
+1441968777.924	216367	22	24	593		BackSpace	Did we get ours back?	 44.21	 146.23	Did we get ours back?	Sentences	5429	0	0.84
+1441968778.766	216367	23	0	0	Shift_L	Shift_L	Thanks for your concern.	 51.13	 154.32	Thanks for your concern.	Sentences	0	0	0.89
+1441968778.953	216367	23	1	187	T	T	Thanks for your concern.	 51.13	 154.32	Thanks for your concern.	Sentences	187	0	0.89
+1441968779.109	216367	23	2	155	h	h	Thanks for your concern.	 51.13	 154.32	Thanks for your concern.	Sentences	342	0	0.89
+1441968779.234	216367	23	3	125	a	a	Thanks for your concern.	 51.13	 154.32	Thanks for your concern.	Sentences	467	0	0.89
+1441968779.39	216367	23	4	157	n	n	Thanks for your concern.	 51.13	 154.32	Thanks for your concern.	Sentences	624	0	0.89
+1441968779.484	216367	23	5	93	k	k	Thanks for your concern.	 51.13	 154.32	Thanks for your concern.	Sentences	717	0	0.89
+1441968779.858	216367	23	6	375	s	s	Thanks for your concern.	 51.13	 154.32	Thanks for your concern.	Sentences	1092	0	0.89
+1441968780.014	216367	23	7	155	_	space	Thanks for your concern.	 51.13	 154.32	Thanks for your concern.	Sentences	1247	0	0.89
+1441968780.357	216367	23	8	344	f	f	Thanks for your concern.	 51.13	 154.32	Thanks for your concern.	Sentences	1591	0	0.89
+1441968780.482	216367	23	9	125	o	o	Thanks for your concern.	 51.13	 154.32	Thanks for your concern.	Sentences	1716	0	0.89
+1441968780.607	216367	23	10	125	r	r	Thanks for your concern.	 51.13	 154.32	Thanks for your concern.	Sentences	1841	0	0.89
+1441968780.732	216367	23	11	125	_	space	Thanks for your concern.	 51.13	 154.32	Thanks for your concern.	Sentences	1966	0	0.89
+1441968780.825	216367	23	12	93	y	y	Thanks for your concern.	 51.13	 154.32	Thanks for your concern.	Sentences	2059	0	0.89
+1441968780.919	216367	23	13	93	o	o	Thanks for your concern.	 51.13	 154.32	Thanks for your concern.	Sentences	2152	0	0.89
+1441968781.044	216367	23	14	125	u	u	Thanks for your concern.	 51.13	 154.32	Thanks for your concern.	Sentences	2277	0	0.89
+1441968781.387	216367	23	15	344	r	r	Thanks for your concern.	 51.13	 154.32	Thanks for your concern.	Sentences	2621	0	0.89
+1441968781.574	216367	23	16	186	_	space	Thanks for your concern.	 51.13	 154.32	Thanks for your concern.	Sentences	2807	0	0.89
+1441968781.699	216367	23	17	125	c	c	Thanks for your concern.	 51.13	 154.32	Thanks for your concern.	Sentences	2932	0	0.89
+1441968781.793	216367	23	18	94	o	o	Thanks for your concern.	 51.13	 154.32	Thanks for your concern.	Sentences	3026	0	0.89
+1441968781.949	216367	23	19	156	n	n	Thanks for your concern.	 51.13	 154.32	Thanks for your concern.	Sentences	3182	0	0.89
+1441968782.011	216367	23	20	62	c	c	Thanks for your concern.	 51.13	 154.32	Thanks for your concern.	Sentences	3244	0	0.89
+1441968782.167	216367	23	21	157	e	e	Thanks for your concern.	 51.13	 154.32	Thanks for your concern.	Sentences	3401	0	0.89
+1441968782.229	216367	23	22	62	r	r	Thanks for your concern.	 51.13	 154.32	Thanks for your concern.	Sentences	3463	0	0.89
+1441968782.666	216367	23	23	436	n	n	Thanks for your concern.	 51.13	 154.32	Thanks for your concern.	Sentences	3899	0	0.89
+1441968782.947	216367	23	24	281	,	comma	Thanks for your concern.	 51.13	 154.32	Thanks for your concern.	Sentences	4180	0	0.89
+1441968783.571	216367	23	25	625		BackSpace	Thanks for your concern.	 51.13	 154.32	Thanks for your concern.	Sentences	4805	0	0.89
+1441968784.164	216367	23	26	593	.	period	Thanks for your concern.	 51.13	 154.32	Thanks for your concern.	Sentences	5398	0	0.89
+1441968784.881	216367	24	0	0	Shift_L	Shift_L	What is this?	 62.36	  94.54	What is this?	Sentences	0	0	0.87
+1441968785.162	216367	24	1	280	W	W	What is this?	 62.36	  94.54	What is this?	Sentences	280	0	0.87
+1441968785.349	216367	24	2	187	h	h	What is this?	 62.36	  94.54	What is this?	Sentences	467	0	0.87
+1441968785.443	216367	24	3	95	a	a	What is this?	 62.36	  94.54	What is this?	Sentences	562	0	0.87
+1441968785.63	216367	24	4	187	t	t	What is this?	 62.36	  94.54	What is this?	Sentences	749	0	0.87
+1441968785.942	216367	24	5	311	_	space	What is this?	 62.36	  94.54	What is this?	Sentences	1060	0	0.87
+1441968786.036	216367	24	6	94	i	i	What is this?	 62.36	  94.54	What is this?	Sentences	1154	0	0.87
+1441968786.129	216367	24	7	93	s	s	What is this?	 62.36	  94.54	What is this?	Sentences	1247	0	0.87
+1441968786.285	216367	24	8	157	_	space	What is this?	 62.36	  94.54	What is this?	Sentences	1404	0	0.87
+1441968786.41	216367	24	9	125	t	t	What is this?	 62.36	  94.54	What is this?	Sentences	1529	0	0.87
+1441968786.504	216367	24	10	93	h	h	What is this?	 62.36	  94.54	What is this?	Sentences	1622	0	0.87
+1441968786.597	216367	24	11	93	i	i	What is this?	 62.36	  94.54	What is this?	Sentences	1715	0	0.87
+1441968786.66	216367	24	12	64	s	s	What is this?	 62.36	  94.54	What is this?	Sentences	1779	0	0.87
+1441968787.034	216367	24	13	373	Shift_L	Shift_L	What is this?	 62.36	  94.54	What is this?	Sentences	2152	0	0.87
+1441968787.19	216367	24	14	157	?	question	What is this?	 62.36	  94.54	What is this?	Sentences	2309	0	0.87
+1441968787.97	216367	25	0	0	Shift_L	Shift_L	Hope you guys are doing dine.	 54.95	 177.97	Hope you guys are doing dine.	Sentences	0	0	0.97
+1441968788.126	216367	25	1	155	H	H	Hope you guys are doing dine.	 54.95	 177.97	Hope you guys are doing dine.	Sentences	155	0	0.97
+1441968788.282	216367	25	2	157	o	o	Hope you guys are doing dine.	 54.95	 177.97	Hope you guys are doing dine.	Sentences	312	0	0.97
+1441968788.563	216367	25	3	280	p	p	Hope you guys are doing dine.	 54.95	 177.97	Hope you guys are doing dine.	Sentences	592	0	0.97
+1441968788.688	216367	25	4	125	e	e	Hope you guys are doing dine.	 54.95	 177.97	Hope you guys are doing dine.	Sentences	717	0	0.97
+1441968788.875	216367	25	5	187	_	space	Hope you guys are doing dine.	 54.95	 177.97	Hope you guys are doing dine.	Sentences	904	0	0.97
+1441968789	216367	25	6	125	y	y	Hope you guys are doing dine.	 54.95	 177.97	Hope you guys are doing dine.	Sentences	1029	0	0.97
+1441968789.125	216367	25	7	125	o	o	Hope you guys are doing dine.	 54.95	 177.97	Hope you guys are doing dine.	Sentences	1154	0	0.97
+1441968789.218	216367	25	8	93	u	u	Hope you guys are doing dine.	 54.95	 177.97	Hope you guys are doing dine.	Sentences	1247	0	0.97
+1441968789.312	216367	25	9	95	_	space	Hope you guys are doing dine.	 54.95	 177.97	Hope you guys are doing dine.	Sentences	1342	0	0.97
+1441968789.749	216367	25	10	437	g	g	Hope you guys are doing dine.	 54.95	 177.97	Hope you guys are doing dine.	Sentences	1779	0	0.97
+1441968790.029	216367	25	11	280	u	u	Hope you guys are doing dine.	 54.95	 177.97	Hope you guys are doing dine.	Sentences	2059	0	0.97
+1441968790.653	216367	25	12	624	y	y	Hope you guys are doing dine.	 54.95	 177.97	Hope you guys are doing dine.	Sentences	2683	0	0.97
+1441968790.809	216367	25	13	155	s	s	Hope you guys are doing dine.	 54.95	 177.97	Hope you guys are doing dine.	Sentences	2838	0	0.97
+1441968790.934	216367	25	14	125	_	space	Hope you guys are doing dine.	 54.95	 177.97	Hope you guys are doing dine.	Sentences	2963	0	0.97
+1441968791.059	216367	25	15	125	a	a	Hope you guys are doing dine.	 54.95	 177.97	Hope you guys are doing dine.	Sentences	3088	0	0.97
+1441968791.184	216367	25	16	125	r	r	Hope you guys are doing dine.	 54.95	 177.97	Hope you guys are doing dine.	Sentences	3213	0	0.97
+1441968791.277	216367	25	17	93	e	e	Hope you guys are doing dine.	 54.95	 177.97	Hope you guys are doing dine.	Sentences	3306	0	0.97
+1441968791.371	216367	25	18	95	_	space	Hope you guys are doing dine.	 54.95	 177.97	Hope you guys are doing dine.	Sentences	3401	0	0.97
+1441968791.745	216367	25	19	373	d	d	Hope you guys are doing dine.	 54.95	 177.97	Hope you guys are doing dine.	Sentences	3774	0	0.97
+1441968791.87	216367	25	20	125	o	o	Hope you guys are doing dine.	 54.95	 177.97	Hope you guys are doing dine.	Sentences	3899	0	0.97
+1441968791.964	216367	25	21	94	i	i	Hope you guys are doing dine.	 54.95	 177.97	Hope you guys are doing dine.	Sentences	3993	0	0.97
+1441968792.089	216367	25	22	125	n	n	Hope you guys are doing dine.	 54.95	 177.97	Hope you guys are doing dine.	Sentences	4118	0	0.97
+1441968792.182	216367	25	23	93	g	g	Hope you guys are doing dine.	 54.95	 177.97	Hope you guys are doing dine.	Sentences	4211	0	0.97
+1441968792.369	216367	25	24	187	_	space	Hope you guys are doing dine.	 54.95	 177.97	Hope you guys are doing dine.	Sentences	4398	0	0.97
+1441968792.557	216367	25	25	188	d	d	Hope you guys are doing dine.	 54.95	 177.97	Hope you guys are doing dine.	Sentences	4586	0	0.97
+1441968792.681	216367	25	26	124	i	i	Hope you guys are doing dine.	 54.95	 177.97	Hope you guys are doing dine.	Sentences	4710	0	0.97
+1441968792.837	216367	25	27	156	n	n	Hope you guys are doing dine.	 54.95	 177.97	Hope you guys are doing dine.	Sentences	4866	0	0.97
+1441968793.711	216367	25	28	874	e	e	Hope you guys are doing dine.	 54.95	 177.97	Hope you guys are doing dine.	Sentences	5740	0	0.97
+1441968794.085	216367	25	29	375	.	period	Hope you guys are doing dine.	 54.95	 177.97	Hope you guys are doing dine.	Sentences	6115	0	0.97
+1441968795.053	216367	26	0	0	Shift_L	Shift_L	Just playing with you!	 69.04	  61.90	Just playing with you!	Sentences	0	0	0.92
+1441968795.177	216367	26	1	124	J	J	Just playing with you!	 69.04	  61.90	Just playing with you!	Sentences	124	0	0.92
+1441968795.396	216367	26	2	218	u	u	Just playing with you!	 69.04	  61.90	Just playing with you!	Sentences	342	0	0.92
+1441968795.489	216367	26	3	94	s	s	Just playing with you!	 69.04	  61.90	Just playing with you!	Sentences	436	0	0.92
+1441968795.614	216367	26	4	125	t	t	Just playing with you!	 69.04	  61.90	Just playing with you!	Sentences	561	0	0.92
+1441968795.77	216367	26	5	156	_	space	Just playing with you!	 69.04	  61.90	Just playing with you!	Sentences	717	0	0.92
+1441968796.051	216367	26	6	281	p	p	Just playing with you!	 69.04	  61.90	Just playing with you!	Sentences	998	0	0.92
+1441968796.301	216367	26	7	250	l	l	Just playing with you!	 69.04	  61.90	Just playing with you!	Sentences	1248	0	0.92
+1441968796.394	216367	26	8	93	a	a	Just playing with you!	 69.04	  61.90	Just playing with you!	Sentences	1341	0	0.92
+1441968796.55	216367	26	9	155	y	y	Just playing with you!	 69.04	  61.90	Just playing with you!	Sentences	1496	0	0.92
+1441968796.769	216367	26	10	220	i	i	Just playing with you!	 69.04	  61.90	Just playing with you!	Sentences	1716	0	0.92
+1441968796.925	216367	26	11	155	n	n	Just playing with you!	 69.04	  61.90	Just playing with you!	Sentences	1871	0	0.92
+1441968797.081	216367	26	12	157	g	g	Just playing with you!	 69.04	  61.90	Just playing with you!	Sentences	2028	0	0.92
+1441968797.205	216367	26	13	123	_	space	Just playing with you!	 69.04	  61.90	Just playing with you!	Sentences	2151	0	0.92
+1441968797.424	216367	26	14	220	w	w	Just playing with you!	 69.04	  61.90	Just playing with you!	Sentences	2371	0	0.92
+1441968797.517	216367	26	15	92	i	i	Just playing with you!	 69.04	  61.90	Just playing with you!	Sentences	2463	0	0.92
+1441968797.673	216367	26	16	157	t	t	Just playing with you!	 69.04	  61.90	Just playing with you!	Sentences	2620	0	0.92
+1441968797.767	216367	26	17	93	h	h	Just playing with you!	 69.04	  61.90	Just playing with you!	Sentences	2713	0	0.92
+1441968797.892	216367	26	18	125	_	space	Just playing with you!	 69.04	  61.90	Just playing with you!	Sentences	2838	0	0.92
+1441968798.017	216367	26	19	125	y	y	Just playing with you!	 69.04	  61.90	Just playing with you!	Sentences	2963	0	0.92
+1441968798.141	216367	26	20	125	o	o	Just playing with you!	 69.04	  61.90	Just playing with you!	Sentences	3088	0	0.92
+1441968798.204	216367	26	21	63	u	u	Just playing with you!	 69.04	  61.90	Just playing with you!	Sentences	3151	0	0.92
+1441968798.453	216367	26	22	249	Shift_L	Shift_L	Just playing with you!	 69.04	  61.90	Just playing with you!	Sentences	3400	0	0.92
+1441968798.703	216367	26	23	250	!	exclam	Just playing with you!	 69.04	  61.90	Just playing with you!	Sentences	3650	0	0.92
+1441968799.545	216367	27	0	0	Shift_L	Shift_L	Are you being a b aby?	 61.66	 145.82	Are you being a b aby?	Sentences	0	0	0.92
+1441968799.764	216367	27	1	218	A	A	Are you being a b aby?	 61.66	 145.82	Are you being a b aby?	Sentences	218	0	0.92
+1441968799.857	216367	27	2	94	r	r	Are you being a b aby?	 61.66	 145.82	Are you being a b aby?	Sentences	312	0	0.92
+1441968799.982	216367	27	3	125	e	e	Are you being a b aby?	 61.66	 145.82	Are you being a b aby?	Sentences	437	0	0.92
+1441968800.107	216367	27	4	125	_	space	Are you being a b aby?	 61.66	 145.82	Are you being a b aby?	Sentences	562	0	0.92
+1441968800.232	216367	27	5	125	y	y	Are you being a b aby?	 61.66	 145.82	Are you being a b aby?	Sentences	687	0	0.92
+1441968800.325	216367	27	6	92	o	o	Are you being a b aby?	 61.66	 145.82	Are you being a b aby?	Sentences	779	0	0.92
+1441968800.45	216367	27	7	125	u	u	Are you being a b aby?	 61.66	 145.82	Are you being a b aby?	Sentences	904	0	0.92
+1441968800.575	216367	27	8	125	_	space	Are you being a b aby?	 61.66	 145.82	Are you being a b aby?	Sentences	1029	0	0.92
+1441968800.731	216367	27	9	156	b	b	Are you being a b aby?	 61.66	 145.82	Are you being a b aby?	Sentences	1185	0	0.92
+1441968800.918	216367	27	10	187	e	e	Are you being a b aby?	 61.66	 145.82	Are you being a b aby?	Sentences	1372	0	0.92
+1441968800.981	216367	27	11	63	i	i	Are you being a b aby?	 61.66	 145.82	Are you being a b aby?	Sentences	1435	0	0.92
+1441968801.168	216367	27	12	187	n	n	Are you being a b aby?	 61.66	 145.82	Are you being a b aby?	Sentences	1622	0	0.92
+1441968801.293	216367	27	13	125	g	g	Are you being a b aby?	 61.66	 145.82	Are you being a b aby?	Sentences	1747	0	0.92
+1441968801.386	216367	27	14	93	_	space	Are you being a b aby?	 61.66	 145.82	Are you being a b aby?	Sentences	1840	0	0.92
+1441968801.48	216367	27	15	94	a	a	Are you being a b aby?	 61.66	 145.82	Are you being a b aby?	Sentences	1934	0	0.92
+1441968801.636	216367	27	16	156	_	space	Are you being a b aby?	 61.66	 145.82	Are you being a b aby?	Sentences	2090	0	0.92
+1441968801.761	216367	27	17	125	b	b	Are you being a b aby?	 61.66	 145.82	Are you being a b aby?	Sentences	2215	0	0.92
+1441968801.917	216367	27	18	156	_	space	Are you being a b aby?	 61.66	 145.82	Are you being a b aby?	Sentences	2371	0	0.92
+1441968802.197	216367	27	19	280	a	a	Are you being a b aby?	 61.66	 145.82	Are you being a b aby?	Sentences	2651	0	0.92
+1441968802.977	216367	27	20	780	b	b	Are you being a b aby?	 61.66	 145.82	Are you being a b aby?	Sentences	3431	0	0.92
+1441968803.165	216367	27	21	188	y	y	Are you being a b aby?	 61.66	 145.82	Are you being a b aby?	Sentences	3619	0	0.92
+1441968803.508	216367	27	22	343	Shift_L	Shift_L	Are you being a b aby?	 61.66	 145.82	Are you being a b aby?	Sentences	3962	0	0.92
+1441968803.633	216367	27	23	125	?	question	Are you being a b aby?	 61.66	 145.82	Are you being a b aby?	Sentences	4087	0	0.92
+1441968804.475	216367	28	0	0	Shift_L	Shift_L	What is the mood?	 86.68	  64.78	What is the mood?	Sentences	0	0	0.89
+1441968804.569	216367	28	1	94	W	W	What is the mood?	 86.68	  64.78	What is the mood?	Sentences	94	0	0.89
+1441968804.725	216367	28	2	156	h	h	What is the mood?	 86.68	  64.78	What is the mood?	Sentences	250	0	0.89
+1441968804.849	216367	28	3	124	a	a	What is the mood?	 86.68	  64.78	What is the mood?	Sentences	374	0	0.89
+1441968804.974	216367	28	4	125	t	t	What is the mood?	 86.68	  64.78	What is the mood?	Sentences	499	0	0.89
+1441968805.099	216367	28	5	125	_	space	What is the mood?	 86.68	  64.78	What is the mood?	Sentences	624	0	0.89
+1441968805.161	216367	28	6	62	i	i	What is the mood?	 86.68	  64.78	What is the mood?	Sentences	686	0	0.89
+1441968805.255	216367	28	7	94	s	s	What is the mood?	 86.68	  64.78	What is the mood?	Sentences	780	0	0.89
+1441968805.349	216367	28	8	94	_	space	What is the mood?	 86.68	  64.78	What is the mood?	Sentences	874	0	0.89
+1441968805.442	216367	28	9	93	t	t	What is the mood?	 86.68	  64.78	What is the mood?	Sentences	967	0	0.89
+1441968805.536	216367	28	10	94	h	h	What is the mood?	 86.68	  64.78	What is the mood?	Sentences	1061	0	0.89
+1441968805.567	216367	28	11	31	e	e	What is the mood?	 86.68	  64.78	What is the mood?	Sentences	1092	0	0.89
+1441968805.661	216367	28	12	94	_	space	What is the mood?	 86.68	  64.78	What is the mood?	Sentences	1186	0	0.89
+1441968805.848	216367	28	13	187	m	m	What is the mood?	 86.68	  64.78	What is the mood?	Sentences	1373	0	0.89
+1441968806.066	216367	28	14	218	o	o	What is the mood?	 86.68	  64.78	What is the mood?	Sentences	1591	0	0.89
+1441968806.191	216367	28	15	125	o	o	What is the mood?	 86.68	  64.78	What is the mood?	Sentences	1716	0	0.89
+1441968806.253	216367	28	16	62	d	d	What is the mood?	 86.68	  64.78	What is the mood?	Sentences	1778	0	0.89
+1441968806.566	216367	28	17	313	Shift_L	Shift_L	What is the mood?	 86.68	  64.78	What is the mood?	Sentences	2091	0	0.89
+1441968806.69	216367	28	18	124	?	question	What is the mood?	 86.68	  64.78	What is the mood?	Sentences	2215	0	0.89
+1441968807.876	216367	29	0	0	Shift_L	Shift_L	I can return earlier.	 85.47	  52.09	I can return earlier.	Sentences	0	0	0.95
+1441968808.094	216367	29	1	218	I	I	I can return earlier.	 85.47	  52.09	I can return earlier.	Sentences	218	0	0.95
+1441968808.25	216367	29	2	156	_	space	I can return earlier.	 85.47	  52.09	I can return earlier.	Sentences	374	0	0.95
+1441968808.344	216367	29	3	94	c	c	I can return earlier.	 85.47	  52.09	I can return earlier.	Sentences	468	0	0.95
+1441968808.562	216367	29	4	218	a	a	I can return earlier.	 85.47	  52.09	I can return earlier.	Sentences	686	0	0.95
+1441968808.594	216367	29	5	32	n	n	I can return earlier.	 85.47	  52.09	I can return earlier.	Sentences	718	0	0.95
+1441968808.718	216367	29	6	124	_	space	I can return earlier.	 85.47	  52.09	I can return earlier.	Sentences	842	0	0.95
+1441968808.843	216367	29	7	125	r	r	I can return earlier.	 85.47	  52.09	I can return earlier.	Sentences	967	0	0.95
+1441968808.937	216367	29	8	94	e	e	I can return earlier.	 85.47	  52.09	I can return earlier.	Sentences	1061	0	0.95
+1441968809.186	216367	29	9	249	t	t	I can return earlier.	 85.47	  52.09	I can return earlier.	Sentences	1310	0	0.95
+1441968809.28	216367	29	10	94	u	u	I can return earlier.	 85.47	  52.09	I can return earlier.	Sentences	1404	0	0.95
+1441968809.405	216367	29	11	125	r	r	I can return earlier.	 85.47	  52.09	I can return earlier.	Sentences	1529	0	0.95
+1441968809.561	216367	29	12	156	n	n	I can return earlier.	 85.47	  52.09	I can return earlier.	Sentences	1685	0	0.95
+1441968809.686	216367	29	13	125	_	space	I can return earlier.	 85.47	  52.09	I can return earlier.	Sentences	1810	0	0.95
+1441968809.81	216367	29	14	124	e	e	I can return earlier.	 85.47	  52.09	I can return earlier.	Sentences	1934	0	0.95
+1441968809.998	216367	29	15	187	a	a	I can return earlier.	 85.47	  52.09	I can return earlier.	Sentences	2121	0	0.95
+1441968810.122	216367	29	16	125	r	r	I can return earlier.	 85.47	  52.09	I can return earlier.	Sentences	2246	0	0.95
+1441968810.247	216367	29	17	125	l	l	I can return earlier.	 85.47	  52.09	I can return earlier.	Sentences	2371	0	0.95
+1441968810.372	216367	29	18	125	i	i	I can return earlier.	 85.47	  52.09	I can return earlier.	Sentences	2496	0	0.95
+1441968810.434	216367	29	19	62	e	e	I can return earlier.	 85.47	  52.09	I can return earlier.	Sentences	2558	0	0.95
+1441968810.528	216367	29	20	94	r	r	I can return earlier.	 85.47	  52.09	I can return earlier.	Sentences	2652	0	0.95
+1441968810.684	216367	29	21	156	.	period	I can return earlier.	 85.47	  52.09	I can return earlier.	Sentences	2808	0	0.95
+1441968811.433	216367	30	0	0	Shift_L	Shift_L	What do you hear?	 72.43	  79.86	What do you hear?	Sentences	0	0	0.89
+1441968811.682	216367	30	1	248	W	W	What do you hear?	 72.43	  79.86	What do you hear?	Sentences	248	0	0.89
+1441968811.87	216367	30	2	188	h	h	What do you hear?	 72.43	  79.86	What do you hear?	Sentences	436	0	0.89
+1441968811.932	216367	30	3	62	a	a	What do you hear?	 72.43	  79.86	What do you hear?	Sentences	498	0	0.89
+1441968812.119	216367	30	4	187	t	t	What do you hear?	 72.43	  79.86	What do you hear?	Sentences	685	0	0.89
+1441968812.306	216367	30	5	187	_	space	What do you hear?	 72.43	  79.86	What do you hear?	Sentences	872	0	0.89
+1441968812.494	216367	30	6	188	d	d	What do you hear?	 72.43	  79.86	What do you hear?	Sentences	1060	0	0.89
+1441968812.587	216367	30	7	93	o	o	What do you hear?	 72.43	  79.86	What do you hear?	Sentences	1153	0	0.89
+1441968812.743	216367	30	8	156	_	space	What do you hear?	 72.43	  79.86	What do you hear?	Sentences	1309	0	0.89
+1441968812.806	216367	30	9	63	y	y	What do you hear?	 72.43	  79.86	What do you hear?	Sentences	1372	0	0.89
+1441968812.962	216367	30	10	156	o	o	What do you hear?	 72.43	  79.86	What do you hear?	Sentences	1528	0	0.89
+1441968813.055	216367	30	11	93	u	u	What do you hear?	 72.43	  79.86	What do you hear?	Sentences	1621	0	0.89
+1441968813.118	216367	30	12	63	_	space	What do you hear?	 72.43	  79.86	What do you hear?	Sentences	1684	0	0.89
+1441968813.242	216367	30	13	125	h	h	What do you hear?	 72.43	  79.86	What do you hear?	Sentences	1809	0	0.89
+1441968813.305	216367	30	14	62	e	e	What do you hear?	 72.43	  79.86	What do you hear?	Sentences	1871	0	0.89
+1441968813.492	216367	30	15	188	a	a	What do you hear?	 72.43	  79.86	What do you hear?	Sentences	2059	0	0.89
+1441968813.586	216367	30	16	93	r	r	What do you hear?	 72.43	  79.86	What do you hear?	Sentences	2152	0	0.89
+1441968813.96	216367	30	17	374	Shift_L	Shift_L	What do you hear?	 72.43	  79.86	What do you hear?	Sentences	2526	0	0.89
+1441968814.085	216367	30	18	125	?	question	What do you hear?	 72.43	  79.86	What do you hear?	Sentences	2651	0	0.89
+1441968814.771	216367	31	0	0	Shift_L	Shift_L	I am on my way.	 66.48	 106.83	I am on my way.	Sentences	0	0	0.94
+1441968815.021	216367	31	1	250	I	I	I am on my way.	 66.48	 106.83	I am on my way.	Sentences	250	0	0.94
+1441968815.489	216367	31	2	468	_	space	I am on my way.	 66.48	 106.83	I am on my way.	Sentences	718	0	0.94
+1441968815.614	216367	31	3	125	a	a	I am on my way.	 66.48	 106.83	I am on my way.	Sentences	843	0	0.94
+1441968815.738	216367	31	4	124	m	m	I am on my way.	 66.48	 106.83	I am on my way.	Sentences	967	0	0.94
+1441968815.863	216367	31	5	125	_	space	I am on my way.	 66.48	 106.83	I am on my way.	Sentences	1092	0	0.94
+1441968815.988	216367	31	6	125	o	o	I am on my way.	 66.48	 106.83	I am on my way.	Sentences	1217	0	0.94
+1441968816.206	216367	31	7	218	n	n	I am on my way.	 66.48	 106.83	I am on my way.	Sentences	1435	0	0.94
+1441968816.362	216367	31	8	156	_	space	I am on my way.	 66.48	 106.83	I am on my way.	Sentences	1591	0	0.94
+1441968816.487	216367	31	9	125	m	m	I am on my way.	 66.48	 106.83	I am on my way.	Sentences	1716	0	0.94
+1441968816.674	216367	31	10	187	y	y	I am on my way.	 66.48	 106.83	I am on my way.	Sentences	1903	0	0.94
+1441968816.799	216367	31	11	125	_	space	I am on my way.	 66.48	 106.83	I am on my way.	Sentences	2028	0	0.94
+1441968816.83	216367	31	12	31	w	w	I am on my way.	 66.48	 106.83	I am on my way.	Sentences	2059	0	0.94
+1441968816.986	216367	31	13	156	a	a	I am on my way.	 66.48	 106.83	I am on my way.	Sentences	2215	0	0.94
+1441968816.986	216367	31	14	0	y	y	I am on my way.	 66.48	 106.83	I am on my way.	Sentences	2215	0	0.94
+1441968817.298	216367	31	15	312	.	period	I am on my way.	 66.48	 106.83	I am on my way.	Sentences	2527	0	0.94
+1441968818.172	216367	32	0	0	Shift_L	Shift_L	Can you helöp?	 54.97	 184.30	Can you helöp?	Sentences	0	0	0.88
+1441968818.39	216367	32	1	218	C	C	Can you helöp?	 54.97	 184.30	Can you helöp?	Sentences	218	0	0.88
+1441968818.578	216367	32	2	188	a	a	Can you helöp?	 54.97	 184.30	Can you helöp?	Sentences	406	0	0.88
+1441968818.702	216367	32	3	123	n	n	Can you helöp?	 54.97	 184.30	Can you helöp?	Sentences	529	0	0.88
+1441968818.89	216367	32	4	189	_	space	Can you helöp?	 54.97	 184.30	Can you helöp?	Sentences	718	0	0.88
+1441968818.983	216367	32	5	93	y	y	Can you helöp?	 54.97	 184.30	Can you helöp?	Sentences	811	0	0.88
+1441968819.108	216367	32	6	125	o	o	Can you helöp?	 54.97	 184.30	Can you helöp?	Sentences	936	0	0.88
+1441968819.202	216367	32	7	93	u	u	Can you helöp?	 54.97	 184.30	Can you helöp?	Sentences	1029	0	0.88
+1441968819.264	216367	32	8	63	_	space	Can you helöp?	 54.97	 184.30	Can you helöp?	Sentences	1092	0	0.88
+1441968819.358	216367	32	9	94	h	h	Can you helöp?	 54.97	 184.30	Can you helöp?	Sentences	1186	0	0.88
+1441968819.451	216367	32	10	93	e	e	Can you helöp?	 54.97	 184.30	Can you helöp?	Sentences	1279	0	0.88
+1441968819.607	216367	32	11	156	l	l	Can you helöp?	 54.97	 184.30	Can you helöp?	Sentences	1435	0	0.88
+1441968819.607	216367	32	12	0	ö	odiaeresis	Can you helöp?	 54.97	 184.30	Can you helöp?	Sentences	1435	0	0.88
+1441968820.387	216367	32	13	780	p	p	Can you helöp?	 54.97	 184.30	Can you helöp?	Sentences	2215	0	0.88
+1441968820.73	216367	32	14	343	Shift_L	Shift_L	Can you helöp?	 54.97	 184.30	Can you helöp?	Sentences	2558	0	0.88
+1441968821.011	216367	32	15	280	?	question	Can you helöp?	 54.97	 184.30	Can you helöp?	Sentences	2838	0	0.88
+1441968822.041	216367	33	0	0	Shift_L	Shift_L	Do we need to discuss?	 63.60	 128.51	Do we need to discuss?	Sentences	0	0	0.92
+1441968822.758	216367	33	1	717	D	D	Do we need to discuss?	 63.60	 128.51	Do we need to discuss?	Sentences	717	0	0.92
+1441968823.008	216367	33	2	250	o	o	Do we need to discuss?	 63.60	 128.51	Do we need to discuss?	Sentences	967	0	0.92
+1441968823.164	216367	33	3	156	_	space	Do we need to discuss?	 63.60	 128.51	Do we need to discuss?	Sentences	1123	0	0.92
+1441968823.351	216367	33	4	187	w	w	Do we need to discuss?	 63.60	 128.51	Do we need to discuss?	Sentences	1310	0	0.92
+1441968823.476	216367	33	5	125	e	e	Do we need to discuss?	 63.60	 128.51	Do we need to discuss?	Sentences	1435	0	0.92
+1441968823.57	216367	33	6	94	_	space	Do we need to discuss?	 63.60	 128.51	Do we need to discuss?	Sentences	1529	0	0.92
+1441968823.757	216367	33	7	187	n	n	Do we need to discuss?	 63.60	 128.51	Do we need to discuss?	Sentences	1716	0	0.92
+1441968823.85	216367	33	8	93	e	e	Do we need to discuss?	 63.60	 128.51	Do we need to discuss?	Sentences	1809	0	0.92
+1441968824.006	216367	33	9	156	e	e	Do we need to discuss?	 63.60	 128.51	Do we need to discuss?	Sentences	1965	0	0.92
+1441968824.194	216367	33	10	188	d	d	Do we need to discuss?	 63.60	 128.51	Do we need to discuss?	Sentences	2153	0	0.92
+1441968824.287	216367	33	11	93	_	space	Do we need to discuss?	 63.60	 128.51	Do we need to discuss?	Sentences	2246	0	0.92
+1441968824.381	216367	33	12	94	t	t	Do we need to discuss?	 63.60	 128.51	Do we need to discuss?	Sentences	2340	0	0.92
+1441968824.474	216367	33	13	93	o	o	Do we need to discuss?	 63.60	 128.51	Do we need to discuss?	Sentences	2433	0	0.92
+1441968824.63	216367	33	14	156	_	space	Do we need to discuss?	 63.60	 128.51	Do we need to discuss?	Sentences	2589	0	0.92
+1441968824.693	216367	33	15	63	d	d	Do we need to discuss?	 63.60	 128.51	Do we need to discuss?	Sentences	2652	0	0.92
+1441968824.849	216367	33	16	156	i	i	Do we need to discuss?	 63.60	 128.51	Do we need to discuss?	Sentences	2808	0	0.92
+1441968824.974	216367	33	17	125	s	s	Do we need to discuss?	 63.60	 128.51	Do we need to discuss?	Sentences	2933	0	0.92
+1441968825.161	216367	33	18	187	c	c	Do we need to discuss?	 63.60	 128.51	Do we need to discuss?	Sentences	3120	0	0.92
+1441968825.286	216367	33	19	125	u	u	Do we need to discuss?	 63.60	 128.51	Do we need to discuss?	Sentences	3245	0	0.92
+1441968825.41	216367	33	20	124	s	s	Do we need to discuss?	 63.60	 128.51	Do we need to discuss?	Sentences	3369	0	0.92
+1441968825.566	216367	33	21	156	s	s	Do we need to discuss?	 63.60	 128.51	Do we need to discuss?	Sentences	3525	0	0.92
+1441968825.816	216367	33	22	250	Shift_L	Shift_L	Do we need to discuss?	 63.60	 128.51	Do we need to discuss?	Sentences	3775	0	0.92
+1441968826.003	216367	33	23	187	?	question	Do we need to discuss?	 63.60	 128.51	Do we need to discuss?	Sentences	3962	0	0.92
+1441968826.69	216367	34	0	0	Shift_L	Shift_L	Can you help me here?	 68.71	  94.78	Can you help me here?	Sentences	0	0	0.91
+1441968826.939	216367	34	1	248	C	C	Can you help me here?	 68.71	  94.78	Can you help me here?	Sentences	248	0	0.91
+1441968827.095	216367	34	2	156	a	a	Can you help me here?	 68.71	  94.78	Can you help me here?	Sentences	404	0	0.91
+1441968827.251	216367	34	3	156	n	n	Can you help me here?	 68.71	  94.78	Can you help me here?	Sentences	560	0	0.91
+1441968827.407	216367	34	4	157	_	space	Can you help me here?	 68.71	  94.78	Can you help me here?	Sentences	717	0	0.91
+1441968827.532	216367	34	5	125	y	y	Can you help me here?	 68.71	  94.78	Can you help me here?	Sentences	842	0	0.91
+1441968827.657	216367	34	6	125	o	o	Can you help me here?	 68.71	  94.78	Can you help me here?	Sentences	967	0	0.91
+1441968827.75	216367	34	7	92	u	u	Can you help me here?	 68.71	  94.78	Can you help me here?	Sentences	1059	0	0.91
+1441968827.844	216367	34	8	95	_	space	Can you help me here?	 68.71	  94.78	Can you help me here?	Sentences	1154	0	0.91
+1441968827.969	216367	34	9	125	h	h	Can you help me here?	 68.71	  94.78	Can you help me here?	Sentences	1279	0	0.91
+1441968828.062	216367	34	10	92	e	e	Can you help me here?	 68.71	  94.78	Can you help me here?	Sentences	1371	0	0.91
+1441968828.218	216367	34	11	156	l	l	Can you help me here?	 68.71	  94.78	Can you help me here?	Sentences	1527	0	0.91
+1441968828.437	216367	34	12	219	p	p	Can you help me here?	 68.71	  94.78	Can you help me here?	Sentences	1746	0	0.91
+1441968828.624	216367	34	13	188	_	space	Can you help me here?	 68.71	  94.78	Can you help me here?	Sentences	1934	0	0.91
+1441968828.811	216367	34	14	187	m	m	Can you help me here?	 68.71	  94.78	Can you help me here?	Sentences	2121	0	0.91
+1441968828.905	216367	34	15	93	e	e	Can you help me here?	 68.71	  94.78	Can you help me here?	Sentences	2214	0	0.91
+1441968828.998	216367	34	16	93	_	space	Can you help me here?	 68.71	  94.78	Can you help me here?	Sentences	2307	0	0.91
+1441968829.186	216367	34	17	189	h	h	Can you help me here?	 68.71	  94.78	Can you help me here?	Sentences	2496	0	0.91
+1441968829.31	216367	34	18	123	e	e	Can you help me here?	 68.71	  94.78	Can you help me here?	Sentences	2619	0	0.91
+1441968829.373	216367	34	19	63	r	r	Can you help me here?	 68.71	  94.78	Can you help me here?	Sentences	2682	0	0.91
+1441968829.529	216367	34	20	156	e	e	Can you help me here?	 68.71	  94.78	Can you help me here?	Sentences	2838	0	0.91
+1441968830.059	216367	34	21	530	Shift_L	Shift_L	Can you help me here?	 68.71	  94.78	Can you help me here?	Sentences	3368	0	0.91
+1441968830.184	216367	34	22	125	?	question	Can you help me here?	 68.71	  94.78	Can you help me here?	Sentences	3493	0	0.91
+1441968830.964	216367	35	0	0	Shift_L	Shift_L	Not even clsoe.	 73.75	  56.29	Not even clsoe.	Sentences	0	0	0.94
+1441968831.058	216367	35	1	94	N	N	Not even clsoe.	 73.75	  56.29	Not even clsoe.	Sentences	94	0	0.94
+1441968831.214	216367	35	2	156	o	o	Not even clsoe.	 73.75	  56.29	Not even clsoe.	Sentences	250	0	0.94
+1441968831.463	216367	35	3	249	t	t	Not even clsoe.	 73.75	  56.29	Not even clsoe.	Sentences	499	0	0.94
+1441968831.65	216367	35	4	187	_	space	Not even clsoe.	 73.75	  56.29	Not even clsoe.	Sentences	686	0	0.94
+1441968831.744	216367	35	5	93	e	e	Not even clsoe.	 73.75	  56.29	Not even clsoe.	Sentences	779	0	0.94
+1441968831.962	216367	35	6	218	v	v	Not even clsoe.	 73.75	  56.29	Not even clsoe.	Sentences	997	0	0.94
+1441968832.087	216367	35	7	125	e	e	Not even clsoe.	 73.75	  56.29	Not even clsoe.	Sentences	1122	0	0.94
+1441968832.274	216367	35	8	187	n	n	Not even clsoe.	 73.75	  56.29	Not even clsoe.	Sentences	1309	0	0.94
+1441968832.462	216367	35	9	188	_	space	Not even clsoe.	 73.75	  56.29	Not even clsoe.	Sentences	1497	0	0.94
+1441968832.649	216367	35	10	187	c	c	Not even clsoe.	 73.75	  56.29	Not even clsoe.	Sentences	1684	0	0.94
+1441968832.742	216367	35	11	94	l	l	Not even clsoe.	 73.75	  56.29	Not even clsoe.	Sentences	1778	0	0.94
+1441968832.992	216367	35	12	250	s	s	Not even clsoe.	 73.75	  56.29	Not even clsoe.	Sentences	2028	0	0.94
+1441968832.992	216367	35	13	0	o	o	Not even clsoe.	 73.75	  56.29	Not even clsoe.	Sentences	2028	0	0.94
+1441968833.086	216367	35	14	93	e	e	Not even clsoe.	 73.75	  56.29	Not even clsoe.	Sentences	2121	0	0.94
+1441968833.242	216367	35	15	157	.	period	Not even clsoe.	 73.75	  56.29	Not even clsoe.	Sentences	2278	0	0.94
+1441968834.427	216367	36	0	0	Shift_L	Shift_L	This is good I think.	 64.12	  72.96	This is good I think.	Sentences	0	0	0.78
+1441968834.646	216367	36	1	218	T	T	This is good I think.	 64.12	  72.96	This is good I think.	Sentences	218	0	0.78
+1441968834.833	216367	36	2	187	h	h	This is good I think.	 64.12	  72.96	This is good I think.	Sentences	405	0	0.78
+1441968834.958	216367	36	3	125	i	i	This is good I think.	 64.12	  72.96	This is good I think.	Sentences	530	0	0.78
+1441968835.145	216367	36	4	187	s	s	This is good I think.	 64.12	  72.96	This is good I think.	Sentences	717	0	0.78
+1441968835.238	216367	36	5	93	_	space	This is good I think.	 64.12	  72.96	This is good I think.	Sentences	810	0	0.78
+1441968835.363	216367	36	6	125	i	i	This is good I think.	 64.12	  72.96	This is good I think.	Sentences	935	0	0.78
+1441968835.519	216367	36	7	157	s	s	This is good I think.	 64.12	  72.96	This is good I think.	Sentences	1092	0	0.78
+1441968835.613	216367	36	8	93	_	space	This is good I think.	 64.12	  72.96	This is good I think.	Sentences	1185	0	0.78
+1441968835.894	216367	36	9	282	o	o	This is good I think.	 64.12	  72.96	This is good I think.	Sentences	1467	0	0.78
+1441968836.018	216367	36	10	123	g	g	This is good I think.	 64.12	  72.96	This is good I think.	Sentences	1590	0	0.78
+1441968836.33	216367	36	11	312		BackSpace	This is good I think.	 64.12	  72.96	This is good I think.	Sentences	1902	0	0.78
+1441968836.455	216367	36	12	125		BackSpace	This is good I think.	 64.12	  72.96	This is good I think.	Sentences	2027	0	0.78
+1441968836.518	216367	36	13	63	g	g	This is good I think.	 64.12	  72.96	This is good I think.	Sentences	2090	0	0.78
+1441968836.736	216367	36	14	219	o	o	This is good I think.	 64.12	  72.96	This is good I think.	Sentences	2309	0	0.78
+1441968836.861	216367	36	15	125	o	o	This is good I think.	 64.12	  72.96	This is good I think.	Sentences	2434	0	0.78
+1441968836.986	216367	36	16	125	d	d	This is good I think.	 64.12	  72.96	This is good I think.	Sentences	2559	0	0.78
+1441968837.11	216367	36	17	123	_	space	This is good I think.	 64.12	  72.96	This is good I think.	Sentences	2682	0	0.78
+1441968837.204	216367	36	18	94	Shift_L	Shift_L	This is good I think.	 64.12	  72.96	This is good I think.	Sentences	2776	0	0.78
+1441968837.266	216367	36	19	62	I	I	This is good I think.	 64.12	  72.96	This is good I think.	Sentences	2838	0	0.78
+1441968837.36	216367	36	20	94	_	space	This is good I think.	 64.12	  72.96	This is good I think.	Sentences	2932	0	0.78
+1441968837.485	216367	36	21	125	t	t	This is good I think.	 64.12	  72.96	This is good I think.	Sentences	3057	0	0.78
+1441968837.547	216367	36	22	62	h	h	This is good I think.	 64.12	  72.96	This is good I think.	Sentences	3119	0	0.78
+1441968837.641	216367	36	23	94	i	i	This is good I think.	 64.12	  72.96	This is good I think.	Sentences	3213	0	0.78
+1441968837.797	216367	36	24	156	n	n	This is good I think.	 64.12	  72.96	This is good I think.	Sentences	3369	0	0.78
+1441968837.859	216367	36	25	62	k	k	This is good I think.	 64.12	  72.96	This is good I think.	Sentences	3431	0	0.78
+1441968838.171	216367	36	26	312	.	period	This is good I think.	 64.12	  72.96	This is good I think.	Sentences	3743	0	0.78
+1441968838.982	216367	37	0	0	Shift_L	Shift_L	I sent it to her.	 62.18	  71.93	I sent it to her.	Sentences	0	0	0.77
+1441968839.138	216367	37	1	155	I	I	I sent it to her.	 62.18	  71.93	I sent it to her.	Sentences	155	0	0.77
+1441968839.326	216367	37	2	188	_	space	I sent it to her.	 62.18	  71.93	I sent it to her.	Sentences	343	0	0.77
+1441968839.419	216367	37	3	93	s	s	I sent it to her.	 62.18	  71.93	I sent it to her.	Sentences	436	0	0.77
+1441968839.513	216367	37	4	94	e	e	I sent it to her.	 62.18	  71.93	I sent it to her.	Sentences	530	0	0.77
+1441968839.669	216367	37	5	156	t	t	I sent it to her.	 62.18	  71.93	I sent it to her.	Sentences	686	0	0.77
+1441968839.856	216367	37	6	187	_	space	I sent it to her.	 62.18	  71.93	I sent it to her.	Sentences	873	0	0.77
+1441968840.23	216367	37	7	374		BackSpace	I sent it to her.	 62.18	  71.93	I sent it to her.	Sentences	1247	0	0.77
+1441968840.386	216367	37	8	156		BackSpace	I sent it to her.	 62.18	  71.93	I sent it to her.	Sentences	1403	0	0.77
+1441968840.636	216367	37	9	250	n	n	I sent it to her.	 62.18	  71.93	I sent it to her.	Sentences	1653	0	0.77
+1441968840.792	216367	37	10	156	t	t	I sent it to her.	 62.18	  71.93	I sent it to her.	Sentences	1809	0	0.77
+1441968841.01	216367	37	11	218	_	space	I sent it to her.	 62.18	  71.93	I sent it to her.	Sentences	2027	0	0.77
+1441968841.135	216367	37	12	125	i	i	I sent it to her.	 62.18	  71.93	I sent it to her.	Sentences	2152	0	0.77
+1441968841.291	216367	37	13	156	t	t	I sent it to her.	 62.18	  71.93	I sent it to her.	Sentences	2308	0	0.77
+1441968841.416	216367	37	14	125	_	space	I sent it to her.	 62.18	  71.93	I sent it to her.	Sentences	2433	0	0.77
+1441968841.541	216367	37	15	125	t	t	I sent it to her.	 62.18	  71.93	I sent it to her.	Sentences	2558	0	0.77
+1441968841.603	216367	37	16	62	o	o	I sent it to her.	 62.18	  71.93	I sent it to her.	Sentences	2620	0	0.77
+1441968841.728	216367	37	17	125	_	space	I sent it to her.	 62.18	  71.93	I sent it to her.	Sentences	2745	0	0.77
+1441968841.79	216367	37	18	62	h	h	I sent it to her.	 62.18	  71.93	I sent it to her.	Sentences	2807	0	0.77
+1441968841.884	216367	37	19	94	e	e	I sent it to her.	 62.18	  71.93	I sent it to her.	Sentences	2901	0	0.77
+1441968841.946	216367	37	20	62	r	r	I sent it to her.	 62.18	  71.93	I sent it to her.	Sentences	2963	0	0.77
+1441968842.071	216367	37	21	125	.	period	I sent it to her.	 62.18	  71.93	I sent it to her.	Sentences	3088	0	0.77
+1441968842.851	216367	38	0	0	Shift_L	Shift_L	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	0	0	0.85
+1441968843.07	216367	38	1	218	a	a	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	218	0	0.85
+1441968843.132	216367	38	2	62	r	r	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	280	0	0.85
+1441968843.257	216367	38	3	125	e	e	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	405	0	0.85
+1441968843.413	216367	38	4	157	_	space	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	562	0	0.85
+1441968843.6	216367	38	5	186	y	y	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	748	0	0.85
+1441968843.725	216367	38	6	125	o	o	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	873	0	0.85
+1441968843.818	216367	38	7	94	u	u	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	967	0	0.85
+1441968844.13	216367	38	8	312	_	space	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	1279	0	0.85
+1441968844.411	216367	38	9	280	o	o	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	1559	0	0.85
+1441968844.474	216367	38	10	63	i	i	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	1622	0	0.85
+1441968844.91	216367	38	11	437		BackSpace	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	2059	0	0.85
+1441968845.066	216367	38	12	155		BackSpace	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	2214	0	0.85
+1441968845.222	216367	38	13	156	g	g	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	2370	0	0.85
+1441968845.378	216367	38	14	156	o	o	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	2526	0	0.85
+1441968845.441	216367	38	15	63	i	i	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	2589	0	0.85
+1441968845.628	216367	38	16	187	n	n	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	2776	0	0.85
+1441968845.753	216367	38	17	125	g	g	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	2901	0	0.85
+1441968845.846	216367	38	18	93	_	space	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	2994	0	0.85
+1441968845.971	216367	38	19	125	t	t	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	3119	0	0.85
+1441968846.034	216367	38	20	63	o	o	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	3182	0	0.85
+1441968846.158	216367	38	21	124	_	space	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	3306	0	0.85
+1441968846.283	216367	38	22	125	j	j	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	3431	0	0.85
+1441968846.346	216367	38	23	63	o	o	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	3494	0	0.85
+1441968846.408	216367	38	24	62	i	i	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	3556	0	0.85
+1441968846.626	216367	38	25	218	n	n	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	3774	0	0.85
+1441968846.907	216367	38	26	281	_	space	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	4055	0	0.85
+1441968847.063	216367	38	27	156	u	u	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	4211	0	0.85
+1441968847.25	216367	38	28	187	s	s	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	4398	0	0.85
+1441968847.406	216367	38	29	156	_	space	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	4554	0	0.85
+1441968847.625	216367	38	30	219	f	f	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	4773	0	0.85
+1441968847.687	216367	38	31	62	o	o	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	4835	0	0.85
+1441968847.843	216367	38	32	156	r	r	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	4991	0	0.85
+1441968847.906	216367	38	33	63	_	space	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	5054	0	0.85
+1441968848.062	216367	38	34	156	l	l	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	5210	0	0.85
+1441968848.218	216367	38	35	156	u	u	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	5366	0	0.85
+1441968848.405	216367	38	36	187	n	n	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	5553	0	0.85
+1441968848.498	216367	38	37	93	c	c	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	5646	0	0.85
+1441968848.623	216367	38	38	125	h	h	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	5771	0	0.85
+1441968848.966	216367	38	39	344	Shift_L	Shift_L	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	6115	0	0.85
+1441968849.122	216367	38	40	155	?	question	are you going to join us for lunch?	 65.07	  83.73	are you going to join us for lunch?	Sentences	6270	0	0.85
+1441968849.871	216367	39	0	0	Shift_L	Shift_L	I hope you are feeling better.	 85.17	  74.48	I hope you are feeling better.	Sentences	0	0	0.97
+1441968850.027	216367	39	1	155	I	I	I hope you are feeling better.	 85.17	  74.48	I hope you are feeling better.	Sentences	155	0	0.97
+1441968850.183	216367	39	2	157	_	space	I hope you are feeling better.	 85.17	  74.48	I hope you are feeling better.	Sentences	312	0	0.97
+1441968850.308	216367	39	3	125	h	h	I hope you are feeling better.	 85.17	  74.48	I hope you are feeling better.	Sentences	437	0	0.97
+1441968850.464	216367	39	4	155	o	o	I hope you are feeling better.	 85.17	  74.48	I hope you are feeling better.	Sentences	592	0	0.97
+1441968850.682	216367	39	5	218	p	p	I hope you are feeling better.	 85.17	  74.48	I hope you are feeling better.	Sentences	810	0	0.97
+1441968850.807	216367	39	6	125	e	e	I hope you are feeling better.	 85.17	  74.48	I hope you are feeling better.	Sentences	935	0	0.97
+1441968850.901	216367	39	7	94	_	space	I hope you are feeling better.	 85.17	  74.48	I hope you are feeling better.	Sentences	1029	0	0.97
+1441968850.994	216367	39	8	93	y	y	I hope you are feeling better.	 85.17	  74.48	I hope you are feeling better.	Sentences	1122	0	0.97
+1441968851.088	216367	39	9	95	o	o	I hope you are feeling better.	 85.17	  74.48	I hope you are feeling better.	Sentences	1217	0	0.97
+1441968851.182	216367	39	10	93	u	u	I hope you are feeling better.	 85.17	  74.48	I hope you are feeling better.	Sentences	1310	0	0.97
+1441968851.244	216367	39	11	62	_	space	I hope you are feeling better.	 85.17	  74.48	I hope you are feeling better.	Sentences	1372	0	0.97
+1441968851.338	216367	39	12	95	a	a	I hope you are feeling better.	 85.17	  74.48	I hope you are feeling better.	Sentences	1467	0	0.97
+1441968851.431	216367	39	13	92	r	r	I hope you are feeling better.	 85.17	  74.48	I hope you are feeling better.	Sentences	1559	0	0.97
+1441968851.556	216367	39	14	125	e	e	I hope you are feeling better.	 85.17	  74.48	I hope you are feeling better.	Sentences	1684	0	0.97
+1441968851.65	216367	39	15	95	_	space	I hope you are feeling better.	 85.17	  74.48	I hope you are feeling better.	Sentences	1779	0	0.97
+1441968851.899	216367	39	16	248	f	f	I hope you are feeling better.	 85.17	  74.48	I hope you are feeling better.	Sentences	2027	0	0.97
+1441968851.993	216367	39	17	94	e	e	I hope you are feeling better.	 85.17	  74.48	I hope you are feeling better.	Sentences	2121	0	0.97
+1441968852.118	216367	39	18	125	e	e	I hope you are feeling better.	 85.17	  74.48	I hope you are feeling better.	Sentences	2246	0	0.97
+1441968852.211	216367	39	19	93	l	l	I hope you are feeling better.	 85.17	  74.48	I hope you are feeling better.	Sentences	2339	0	0.97
+1441968852.336	216367	39	20	125	i	i	I hope you are feeling better.	 85.17	  74.48	I hope you are feeling better.	Sentences	2464	0	0.97
+1441968852.492	216367	39	21	157	n	n	I hope you are feeling better.	 85.17	  74.48	I hope you are feeling better.	Sentences	2621	0	0.97
+1441968852.586	216367	39	22	93	g	g	I hope you are feeling better.	 85.17	  74.48	I hope you are feeling better.	Sentences	2714	0	0.97
+1441968852.742	216367	39	23	157	_	space	I hope you are feeling better.	 85.17	  74.48	I hope you are feeling better.	Sentences	2871	0	0.97
+1441968852.866	216367	39	24	123	b	b	I hope you are feeling better.	 85.17	  74.48	I hope you are feeling better.	Sentences	2994	0	0.97
+1441968853.022	216367	39	25	157	e	e	I hope you are feeling better.	 85.17	  74.48	I hope you are feeling better.	Sentences	3151	0	0.97
+1441968853.116	216367	39	26	93	t	t	I hope you are feeling better.	 85.17	  74.48	I hope you are feeling better.	Sentences	3244	0	0.97
+1441968853.584	216367	39	27	469	t	t	I hope you are feeling better.	 85.17	  74.48	I hope you are feeling better.	Sentences	3713	0	0.97
+1441968853.74	216367	39	28	155	e	e	I hope you are feeling better.	 85.17	  74.48	I hope you are feeling better.	Sentences	3868	0	0.97
+1441968853.834	216367	39	29	95	r	r	I hope you are feeling better.	 85.17	  74.48	I hope you are feeling better.	Sentences	3963	0	0.97
+1441968853.958	216367	39	30	123	.	period	I hope you are feeling better.	 85.17	  74.48	I hope you are feeling better.	Sentences	4086	0	0.97
+1441968854.738	216367	40	0	0	Shift_L	Shift_L	Is she done yet?	 70.34	  94.73	Is she done yet?	Sentences	0	0	0.89
+1441968855.05	216367	40	1	312	I	I	Is she done yet?	 70.34	  94.73	Is she done yet?	Sentences	312	0	0.89
+1441968855.206	216367	40	2	156	s	s	Is she done yet?	 70.34	  94.73	Is she done yet?	Sentences	468	0	0.89
+1441968855.362	216367	40	3	156	_	space	Is she done yet?	 70.34	  94.73	Is she done yet?	Sentences	624	0	0.89
+1441968855.456	216367	40	4	94	s	s	Is she done yet?	 70.34	  94.73	Is she done yet?	Sentences	718	0	0.89
+1441968855.55	216367	40	5	94	h	h	Is she done yet?	 70.34	  94.73	Is she done yet?	Sentences	812	0	0.89
+1441968855.674	216367	40	6	124	e	e	Is she done yet?	 70.34	  94.73	Is she done yet?	Sentences	936	0	0.89
+1441968855.768	216367	40	7	93	_	space	Is she done yet?	 70.34	  94.73	Is she done yet?	Sentences	1029	0	0.89
+1441968855.955	216367	40	8	188	d	d	Is she done yet?	 70.34	  94.73	Is she done yet?	Sentences	1217	0	0.89
+1441968856.018	216367	40	9	62	o	o	Is she done yet?	 70.34	  94.73	Is she done yet?	Sentences	1279	0	0.89
+1441968856.174	216367	40	10	157	n	n	Is she done yet?	 70.34	  94.73	Is she done yet?	Sentences	1436	0	0.89
+1441968856.267	216367	40	11	93	e	e	Is she done yet?	 70.34	  94.73	Is she done yet?	Sentences	1529	0	0.89
+1441968856.423	216367	40	12	156	_	space	Is she done yet?	 70.34	  94.73	Is she done yet?	Sentences	1685	0	0.89
+1441968856.579	216367	40	13	156	y	y	Is she done yet?	 70.34	  94.73	Is she done yet?	Sentences	1841	0	0.89
+1441968856.642	216367	40	14	63	e	e	Is she done yet?	 70.34	  94.73	Is she done yet?	Sentences	1904	0	0.89
+1441968856.735	216367	40	15	92	t	t	Is she done yet?	 70.34	  94.73	Is she done yet?	Sentences	1996	0	0.89
+1441968857.172	216367	40	16	438	Shift_L	Shift_L	Is she done yet?	 70.34	  94.73	Is she done yet?	Sentences	2434	0	0.89
+1441968857.297	216367	40	17	125	?	question	Is she done yet?	 70.34	  94.73	Is she done yet?	Sentences	2559	0	0.89
+1441968858.108	216367	41	0	0	Shift_L	Shift_L	I will be back Friday.	 67.33	  66.41	I will be back Friday.	Sentences	0	0	0.92
+1441968858.233	216367	41	1	125	I	I	I will be back Friday.	 67.33	  66.41	I will be back Friday.	Sentences	125	0	0.92
+1441968858.42	216367	41	2	187	_	space	I will be back Friday.	 67.33	  66.41	I will be back Friday.	Sentences	312	0	0.92
+1441968858.451	216367	41	3	30	w	w	I will be back Friday.	 67.33	  66.41	I will be back Friday.	Sentences	342	0	0.92
+1441968858.576	216367	41	4	125	i	i	I will be back Friday.	 67.33	  66.41	I will be back Friday.	Sentences	467	0	0.92
+1441968858.763	216367	41	5	187	l	l	I will be back Friday.	 67.33	  66.41	I will be back Friday.	Sentences	654	0	0.92
+1441968858.888	216367	41	6	125	l	l	I will be back Friday.	 67.33	  66.41	I will be back Friday.	Sentences	779	0	0.92
+1441968859.044	216367	41	7	156	_	space	I will be back Friday.	 67.33	  66.41	I will be back Friday.	Sentences	935	0	0.92
+1441968859.294	216367	41	8	250	b	b	I will be back Friday.	 67.33	  66.41	I will be back Friday.	Sentences	1185	0	0.92
+1441968859.606	216367	41	9	312	e	e	I will be back Friday.	 67.33	  66.41	I will be back Friday.	Sentences	1497	0	0.92
+1441968859.793	216367	41	10	187	_	space	I will be back Friday.	 67.33	  66.41	I will be back Friday.	Sentences	1684	0	0.92
+1441968859.918	216367	41	11	125	b	b	I will be back Friday.	 67.33	  66.41	I will be back Friday.	Sentences	1809	0	0.92
+1441968860.136	216367	41	12	218	a	a	I will be back Friday.	 67.33	  66.41	I will be back Friday.	Sentences	2027	0	0.92
+1441968860.323	216367	41	13	187	c	c	I will be back Friday.	 67.33	  66.41	I will be back Friday.	Sentences	2214	0	0.92
+1441968860.51	216367	41	14	187	k	k	I will be back Friday.	 67.33	  66.41	I will be back Friday.	Sentences	2401	0	0.92
+1441968860.666	216367	41	15	156	_	space	I will be back Friday.	 67.33	  66.41	I will be back Friday.	Sentences	2557	0	0.92
+1441968860.729	216367	41	16	64	Shift_L	Shift_L	I will be back Friday.	 67.33	  66.41	I will be back Friday.	Sentences	2621	0	0.92
+1441968860.854	216367	41	17	125	F	F	I will be back Friday.	 67.33	  66.41	I will be back Friday.	Sentences	2746	0	0.92
+1441968861.041	216367	41	18	186	r	r	I will be back Friday.	 67.33	  66.41	I will be back Friday.	Sentences	2932	0	0.92
+1441968861.166	216367	41	19	125	i	i	I will be back Friday.	 67.33	  66.41	I will be back Friday.	Sentences	3057	0	0.92
+1441968861.322	216367	41	20	156	d	d	I will be back Friday.	 67.33	  66.41	I will be back Friday.	Sentences	3213	0	0.92
+1441968861.509	216367	41	21	188	a	a	I will be back Friday.	 67.33	  66.41	I will be back Friday.	Sentences	3401	0	0.92
+1441968861.571	216367	41	22	62	y	y	I will be back Friday.	 67.33	  66.41	I will be back Friday.	Sentences	3463	0	0.92
+1441968861.852	216367	41	23	280	.	period	I will be back Friday.	 67.33	  66.41	I will be back Friday.	Sentences	3743	0	0.92
+1441968862.601	216367	42	0	0	Shift_L	Shift_L	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	0	0	0.77
+1441968862.726	216367	42	1	125	W	W	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	125	0	0.77
+1441968863.1	216367	42	2	373	e	e	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	498	0	0.77
+1441968863.318	216367	42	3	219	_	space	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	717	0	0.77
+1441968863.443	216367	42	4	125	c	c	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	842	0	0.77
+1441968863.942	216367	42	5	498	a	a	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	1340	0	0.77
+1441968864.098	216367	42	6	156	n	n	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	1496	0	0.77
+1441968864.286	216367	42	7	188	_	space	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	1684	0	0.77
+1441968864.442	216367	42	8	156	h	h	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	1840	0	0.77
+1441968864.535	216367	42	9	94	a	a	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	1934	0	0.77
+1441968864.816	216367	42	10	280	v	v	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	2214	0	0.77
+1441968865.003	216367	42	11	187	e	e	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	2401	0	0.77
+1441968865.097	216367	42	12	94	_	space	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	2495	0	0.77
+1441968865.284	216367	42	13	187	w	w	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	2682	0	0.77
+1441968865.409	216367	42	14	125	i	i	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	2807	0	0.77
+1441968865.627	216367	42	15	219	n	n	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	3026	0	0.77
+1441968865.69	216367	42	16	62	e	e	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	3088	0	0.77
+1441968865.846	216367	42	17	156	_	space	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	3244	0	0.77
+1441968865.939	216367	42	18	93	a	a	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	3337	0	0.77
+1441968866.033	216367	42	19	94	n	n	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	3431	0	0.77
+1441968866.189	216367	42	20	156	d	d	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	3587	0	0.77
+1441968866.22	216367	42	21	31	_	space	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	3618	0	0.77
+1441968866.563	216367	42	22	343	a	a	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	3961	0	0.77
+1441968867	216367	42	23	437		BackSpace	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	4398	0	0.77
+1441968867.25	216367	42	24	250	c	c	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	4648	0	0.77
+1441968867.437	216367	42	25	187	a	a	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	4835	0	0.77
+1441968867.655	216367	42	26	218	t	t	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	5053	0	0.77
+1441968867.936	216367	42	27	282	c	c	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	5335	0	0.77
+1441968868.03	216367	42	28	93	h	h	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	5428	0	0.77
+1441968868.217	216367	42	29	187	_	space	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	5615	0	0.77
+1441968868.279	216367	42	30	62	u	u	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	5677	0	0.77
+1441968868.529	216367	42	31	250	o	o	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	5927	0	0.77
+1441968868.529	216367	42	32	0	p	p	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	5927	0	0.77
+1441968869.278	216367	42	33	750		BackSpace	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	6677	0	0.77
+1441968869	216367	42	34	155		BackSpace	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	6832	0	0.77
+1441968870	216367	42	35	312	p	p	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	7144	0	0.77
+1441968870	216367	42	36	686	-	minus	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	7830	0	0.77
+1441968871	216367	42	37	719		BackSpace	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	8549	0	0.77
+1441968871	216367	42	38	342	.	period	We can have wine and catch up.	 39.14	 178.41	We can have wine and catch up.	Sentences	8891	0	0.77
+1441968872	216367	43	0	0	Shift_L	Shift_L	This looks fine.	 54.41	  79.74	This looks fine.	Sentences	0	0	0.76
+1441968873	216367	43	1	187	W	W	This looks fine.	 54.41	  79.74	This looks fine.	Sentences	187	0	0.76
+1441968873	216367	43	2	344		BackSpace	This looks fine.	 54.41	  79.74	This looks fine.	Sentences	531	0	0.76
+1441968873	216367	43	3	156	T	T	This looks fine.	 54.41	  79.74	This looks fine.	Sentences	687	0	0.76
+1441968873	216367	43	4	156	h	h	This looks fine.	 54.41	  79.74	This looks fine.	Sentences	843	0	0.76
+1441968873	216367	43	5	125	i	i	This looks fine.	 54.41	  79.74	This looks fine.	Sentences	968	0	0.76
+1441968873	216367	43	6	93	s	s	This looks fine.	 54.41	  79.74	This looks fine.	Sentences	1061	0	0.76
+1441968874	216367	43	7	156	_	space	This looks fine.	 54.41	  79.74	This looks fine.	Sentences	1217	0	0.76
+1441968874	216367	43	8	125	w	w	This looks fine.	 54.41	  79.74	This looks fine.	Sentences	1342	0	0.76
+1441968874	216367	43	9	374		BackSpace	This looks fine.	 54.41	  79.74	This looks fine.	Sentences	1716	0	0.76
+1441968874	216367	43	10	280	l	l	This looks fine.	 54.41	  79.74	This looks fine.	Sentences	1996	0	0.76
+1441968875	216367	43	11	188	o	o	This looks fine.	 54.41	  79.74	This looks fine.	Sentences	2184	0	0.76
+1441968875	216367	43	12	156	o	o	This looks fine.	 54.41	  79.74	This looks fine.	Sentences	2340	0	0.76
+1441968875	216367	43	13	125	k	k	This looks fine.	 54.41	  79.74	This looks fine.	Sentences	2465	0	0.76
+1441968875	216367	43	14	156	s	s	This looks fine.	 54.41	  79.74	This looks fine.	Sentences	2621	0	0.76
+1441968875	216367	43	15	125	_	space	This looks fine.	 54.41	  79.74	This looks fine.	Sentences	2746	0	0.76
+1441968875	216367	43	16	94	f	f	This looks fine.	 54.41	  79.74	This looks fine.	Sentences	2840	0	0.76
+1441968875	216367	43	17	123	i	i	This looks fine.	 54.41	  79.74	This looks fine.	Sentences	2963	0	0.76
+1441968875	216367	43	18	125	n	n	This looks fine.	 54.41	  79.74	This looks fine.	Sentences	3088	0	0.76
+1441968876	216367	43	19	63	e	e	This looks fine.	 54.41	  79.74	This looks fine.	Sentences	3151	0	0.76
+1441968876	216367	43	20	157	.	period	This looks fine.	 54.41	  79.74	This looks fine.	Sentences	3308	0	0.76
+1441968876	216367	44	0	0	Shift_L	Shift_L	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	0	0	0.87
+1441968877	216367	44	1	187	W	W	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	187	0	0.87
+1441968877	216367	44	2	157	e	e	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	344	0	0.87
+1441968877	216367	44	3	156	_	space	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	500	0	0.87
+1441968877	216367	44	4	124	n	n	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	624	0	0.87
+1441968877	216367	44	5	94	e	e	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	718	0	0.87
+1441968877	216367	44	6	156	e	e	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	874	0	0.87
+1441968878	216367	44	7	218	d	d	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	1092	0	0.87
+1441968878	216367	44	8	94	_	space	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	1186	0	0.87
+1441968878	216367	44	9	93	t	t	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	1279	0	0.87
+1441968878	216367	44	10	125	o	o	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	1404	0	0.87
+1441968878	216367	44	11	94	_	space	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	1498	0	0.87
+1441968878	216367	44	12	62	t	t	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	1560	0	0.87
+1441968878	216367	44	13	156	a	a	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	1716	0	0.87
+1441968878	216367	44	14	125	l	l	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	1841	0	0.87
+1441968878	216367	44	15	125	k	k	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	1966	0	0.87
+1441968878	216367	44	16	94	_	space	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	2060	0	0.87
+1441968879	216367	44	17	61	a	a	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	2121	0	0.87
+1441968879	216367	44	18	188	b	b	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	2309	0	0.87
+1441968879	216367	44	19	125	o	o	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	2434	0	0.87
+1441968879	216367	44	20	62	u	u	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	2496	0	0.87
+1441968879	216367	44	21	155	t	t	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	2651	0	0.87
+1441968879	216367	44	22	125	_	space	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	2776	0	0.87
+1441968879	216367	44	23	157	h	h	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	2933	0	0.87
+1441968879	216367	44	24	125	i	i	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	3058	0	0.87
+1441968880	216367	44	25	655		BackSpace	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	3713	0	0.87
+1441968880	216367	44	26	155		BackSpace	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	3868	0	0.87
+1441968880	216367	44	27	95	t	t	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	3963	0	0.87
+1441968881	216367	44	28	155	h	h	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	4118	0	0.87
+1441968881	216367	44	29	94	i	i	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	4212	0	0.87
+1441968881	216367	44	30	188	s	s	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	4400	0	0.87
+1441968881	216367	44	31	124	_	space	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	4524	0	0.87
+1441968881	216367	44	32	188	m	m	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	4712	0	0.87
+1441968881	216367	44	33	123	o	o	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	4835	0	0.87
+1441968881	216367	44	34	189	n	n	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	5024	0	0.87
+1441968882	216367	44	35	93	t	t	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	5117	0	0.87
+1441968882	216367	44	36	93	h	h	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	5210	0	0.87
+1441968882	216367	44	37	219	.	period	We need to talk about this month.	 70.73	  95.63	We need to talk about this month.	Sentences	5429	0	0.87
+1441968883	216367	45	0	0	Shift_L	Shift_L	Where are you?	 66.70	  71.68	Where are you?	Sentences	0	0	0.88
+1441968883	216367	45	1	217	W	W	Where are you?	 66.70	  71.68	Where are you?	Sentences	217	0	0.88
+1441968883	216367	45	2	187	h	h	Where are you?	 66.70	  71.68	Where are you?	Sentences	404	0	0.88
+1441968883	216367	45	3	125	e	e	Where are you?	 66.70	  71.68	Where are you?	Sentences	529	0	0.88
+1441968883	216367	45	4	95	r	r	Where are you?	 66.70	  71.68	Where are you?	Sentences	624	0	0.88
+1441968883	216367	45	5	125	e	e	Where are you?	 66.70	  71.68	Where are you?	Sentences	749	0	0.88
+1441968884	216367	45	6	280	_	space	Where are you?	 66.70	  71.68	Where are you?	Sentences	1029	0	0.88
+1441968884	216367	45	7	93	a	a	Where are you?	 66.70	  71.68	Where are you?	Sentences	1122	0	0.88
+1441968884	216367	45	8	95	r	r	Where are you?	 66.70	  71.68	Where are you?	Sentences	1217	0	0.88
+1441968884	216367	45	9	92	e	e	Where are you?	 66.70	  71.68	Where are you?	Sentences	1309	0	0.88
+1441968884	216367	45	10	187	_	space	Where are you?	 66.70	  71.68	Where are you?	Sentences	1496	0	0.88
+1441968884	216367	45	11	188	y	y	Where are you?	 66.70	  71.68	Where are you?	Sentences	1684	0	0.88
+1441968884	216367	45	12	93	o	o	Where are you?	 66.70	  71.68	Where are you?	Sentences	1777	0	0.88
+1441968884	216367	45	13	94	u	u	Where are you?	 66.70	  71.68	Where are you?	Sentences	1871	0	0.88
+1441968885	216367	45	14	313	Shift_L	Shift_L	Where are you?	 66.70	  71.68	Where are you?	Sentences	2184	0	0.88
+1441968885	216367	45	15	155	?	question	Where are you?	 66.70	  71.68	Where are you?	Sentences	2339	0	0.88
+1441968886	216367	46	0	0	Shift_L	Shift_L	What is wrong?	 82.02	  60.62	What is wrong?	Sentences	0	0	0.88
+1441968886	216367	46	1	125	W	W	What is wrong?	 82.02	  60.62	What is wrong?	Sentences	125	0	0.88
+1441968886	216367	46	2	155	h	h	What is wrong?	 82.02	  60.62	What is wrong?	Sentences	280	0	0.88
+1441968886	216367	46	3	125	a	a	What is wrong?	 82.02	  60.62	What is wrong?	Sentences	405	0	0.88
+1441968886	216367	46	4	124	t	t	What is wrong?	 82.02	  60.62	What is wrong?	Sentences	529	0	0.88
+1441968886	216367	46	5	125	_	space	What is wrong?	 82.02	  60.62	What is wrong?	Sentences	654	0	0.88
+1441968886	216367	46	6	63	i	i	What is wrong?	 82.02	  60.62	What is wrong?	Sentences	717	0	0.88
+1441968886	216367	46	7	62	s	s	What is wrong?	 82.02	  60.62	What is wrong?	Sentences	779	0	0.88
+1441968887	216367	46	8	125	_	space	What is wrong?	 82.02	  60.62	What is wrong?	Sentences	904	0	0.88
+1441968887	216367	46	9	93	w	w	What is wrong?	 82.02	  60.62	What is wrong?	Sentences	997	0	0.88
+1441968887	216367	46	10	125	r	r	What is wrong?	 82.02	  60.62	What is wrong?	Sentences	1122	0	0.88
+1441968887	216367	46	11	157	o	o	What is wrong?	 82.02	  60.62	What is wrong?	Sentences	1279	0	0.88
+1441968887	216367	46	12	155	n	n	What is wrong?	 82.02	  60.62	What is wrong?	Sentences	1434	0	0.88
+1441968887	216367	46	13	63	g	g	What is wrong?	 82.02	  60.62	What is wrong?	Sentences	1497	0	0.88
+1441968888	216367	46	14	312	Shift_L	Shift_L	What is wrong?	 82.02	  60.62	What is wrong?	Sentences	1809	0	0.88
+1441968888	216367	46	15	93	?	question	What is wrong?	 82.02	  60.62	What is wrong?	Sentences	1902	0	0.88
+1441968888	216367	47	0	0	Shift_L	Shift_L	see you on the third.	 61.07	 118.93	see you on the third.	Sentences	0	0	0.88
+1441968889	216367	47	1	279	s	s	see you on the third.	 61.07	 118.93	see you on the third.	Sentences	279	0	0.88
+1441968889	216367	47	2	468	e	e	see you on the third.	 61.07	 118.93	see you on the third.	Sentences	747	0	0.88
+1441968889	216367	47	3	281	e	e	see you on the third.	 61.07	 118.93	see you on the third.	Sentences	1028	0	0.88
+1441968890	216367	47	4	250	_	space	see you on the third.	 61.07	 118.93	see you on the third.	Sentences	1278	0	0.88
+1441968890	216367	47	5	156	y	y	see you on the third.	 61.07	 118.93	see you on the third.	Sentences	1434	0	0.88
+1441968890	216367	47	6	125	o	o	see you on the third.	 61.07	 118.93	see you on the third.	Sentences	1559	0	0.88
+1441968890	216367	47	7	93	u	u	see you on the third.	 61.07	 118.93	see you on the third.	Sentences	1652	0	0.88
+1441968890	216367	47	8	94	_	space	see you on the third.	 61.07	 118.93	see you on the third.	Sentences	1746	0	0.88
+1441968890	216367	47	9	156	o	o	see you on the third.	 61.07	 118.93	see you on the third.	Sentences	1902	0	0.88
+1441968891	216367	47	10	157	n	n	see you on the third.	 61.07	 118.93	see you on the third.	Sentences	2059	0	0.88
+1441968891	216367	47	11	155	_	space	see you on the third.	 61.07	 118.93	see you on the third.	Sentences	2214	0	0.88
+1441968891	216367	47	12	31	t	t	see you on the third.	 61.07	 118.93	see you on the third.	Sentences	2245	0	0.88
+1441968891	216367	47	13	125	h	h	see you on the third.	 61.07	 118.93	see you on the third.	Sentences	2370	0	0.88
+1441968891	216367	47	14	62	e	e	see you on the third.	 61.07	 118.93	see you on the third.	Sentences	2432	0	0.88
+1441968891	216367	47	15	125	_	space	see you on the third.	 61.07	 118.93	see you on the third.	Sentences	2557	0	0.88
+1441968891	216367	47	16	62	t	t	see you on the third.	 61.07	 118.93	see you on the third.	Sentences	2619	0	0.88
+1441968891	216367	47	17	94	h	h	see you on the third.	 61.07	 118.93	see you on the third.	Sentences	2713	0	0.88
+1441968891	216367	47	18	94	i	i	see you on the third.	 61.07	 118.93	see you on the third.	Sentences	2807	0	0.88
+1441968891	216367	47	19	124	r	r	see you on the third.	 61.07	 118.93	see you on the third.	Sentences	2931	0	0.88
+1441968892	216367	47	20	188	s	s	see you on the third.	 61.07	 118.93	see you on the third.	Sentences	3119	0	0.88
+1441968892	216367	47	21	499		BackSpace	see you on the third.	 61.07	 118.93	see you on the third.	Sentences	3618	0	0.88
+1441968892	216367	47	22	93	d	d	see you on the third.	 61.07	 118.93	see you on the third.	Sentences	3711	0	0.88
+1441968892	216367	47	23	219	.	period	see you on the third.	 61.07	 118.93	see you on the third.	Sentences	3930	0	0.88
+1441968893	216367	48	0	0	Shift_L	Shift_L	Have a great trip.	 67.42	  89.70	Have a great trip.	Sentences	0	0	0.95
+1441968894	216367	48	1	125	H	H	Have a great trip.	 67.42	  89.70	Have a great trip.	Sentences	125	0	0.95
+1441968894	216367	48	2	125	a	a	Have a great trip.	 67.42	  89.70	Have a great trip.	Sentences	250	0	0.95
+1441968894	216367	48	3	186	v	v	Have a great trip.	 67.42	  89.70	Have a great trip.	Sentences	436	0	0.95
+1441968894	216367	48	4	156	e	e	Have a great trip.	 67.42	  89.70	Have a great trip.	Sentences	592	0	0.95
+1441968894	216367	48	5	125	_	space	Have a great trip.	 67.42	  89.70	Have a great trip.	Sentences	717	0	0.95
+1441968894	216367	48	6	94	a	a	Have a great trip.	 67.42	  89.70	Have a great trip.	Sentences	811	0	0.95
+1441968894	216367	48	7	93	_	space	Have a great trip.	 67.42	  89.70	Have a great trip.	Sentences	904	0	0.95
+1441968895	216367	48	8	312	g	g	Have a great trip.	 67.42	  89.70	Have a great trip.	Sentences	1216	0	0.95
+1441968895	216367	48	9	219	r	r	Have a great trip.	 67.42	  89.70	Have a great trip.	Sentences	1435	0	0.95
+1441968895	216367	48	10	156	e	e	Have a great trip.	 67.42	  89.70	Have a great trip.	Sentences	1591	0	0.95
+1441968895	216367	48	11	124	a	a	Have a great trip.	 67.42	  89.70	Have a great trip.	Sentences	1715	0	0.95
+1441968895	216367	48	12	94	t	t	Have a great trip.	 67.42	  89.70	Have a great trip.	Sentences	1809	0	0.95
+1441968895	216367	48	13	125	_	space	Have a great trip.	 67.42	  89.70	Have a great trip.	Sentences	1934	0	0.95
+1441968895	216367	48	14	93	t	t	Have a great trip.	 67.42	  89.70	Have a great trip.	Sentences	2027	0	0.95
+1441968896	216367	48	15	125	r	r	Have a great trip.	 67.42	  89.70	Have a great trip.	Sentences	2152	0	0.95
+1441968896	216367	48	16	187	i	i	Have a great trip.	 67.42	  89.70	Have a great trip.	Sentences	2339	0	0.95
+1441968896	216367	48	17	437	p	p	Have a great trip.	 67.42	  89.70	Have a great trip.	Sentences	2776	0	0.95
+1441968896	216367	48	18	250	.	period	Have a great trip.	 67.42	  89.70	Have a great trip.	Sentences	3026	0	0.95
+1441968897	216367	49	0	0	Shift_L	Shift_L	I am walking in now.	 84.04	  61.82	I am walking in now.	Sentences	0	0	0.95
+1441968897	216367	49	1	156	I	I	I am walking in now.	 84.04	  61.82	I am walking in now.	Sentences	156	0	0.95
+1441968898	216367	49	2	156	_	space	I am walking in now.	 84.04	  61.82	I am walking in now.	Sentences	312	0	0.95
+1441968898	216367	49	3	94	a	a	I am walking in now.	 84.04	  61.82	I am walking in now.	Sentences	406	0	0.95
+1441968898	216367	49	4	156	m	m	I am walking in now.	 84.04	  61.82	I am walking in now.	Sentences	562	0	0.95
+1441968898	216367	49	5	124	_	space	I am walking in now.	 84.04	  61.82	I am walking in now.	Sentences	686	0	0.95
+1441968898	216367	49	6	343	w	w	I am walking in now.	 84.04	  61.82	I am walking in now.	Sentences	1029	0	0.95
+1441968898	216367	49	7	157	a	a	I am walking in now.	 84.04	  61.82	I am walking in now.	Sentences	1186	0	0.95
+1441968899	216367	49	8	93	l	l	I am walking in now.	 84.04	  61.82	I am walking in now.	Sentences	1279	0	0.95
+1441968899	216367	49	9	94	k	k	I am walking in now.	 84.04	  61.82	I am walking in now.	Sentences	1373	0	0.95
+1441968899	216367	49	10	218	i	i	I am walking in now.	 84.04	  61.82	I am walking in now.	Sentences	1591	0	0.95
+1441968899	216367	49	11	125	n	n	I am walking in now.	 84.04	  61.82	I am walking in now.	Sentences	1716	0	0.95
+1441968899	216367	49	12	125	g	g	I am walking in now.	 84.04	  61.82	I am walking in now.	Sentences	1841	0	0.95
+1441968899	216367	49	13	93	_	space	I am walking in now.	 84.04	  61.82	I am walking in now.	Sentences	1934	0	0.95
+1441968899	216367	49	14	62	i	i	I am walking in now.	 84.04	  61.82	I am walking in now.	Sentences	1996	0	0.95
+1441968899	216367	49	15	125	n	n	I am walking in now.	 84.04	  61.82	I am walking in now.	Sentences	2121	0	0.95
+1441968899	216367	49	16	94	_	space	I am walking in now.	 84.04	  61.82	I am walking in now.	Sentences	2215	0	0.95
+1441968900	216367	49	17	125	n	n	I am walking in now.	 84.04	  61.82	I am walking in now.	Sentences	2340	0	0.95
+1441968900	216367	49	18	94	o	o	I am walking in now.	 84.04	  61.82	I am walking in now.	Sentences	2434	0	0.95
+1441968900	216367	49	19	92	w	w	I am walking in now.	 84.04	  61.82	I am walking in now.	Sentences	2526	0	0.95
+1441968900	216367	49	20	187	.	period	I am walking in now.	 84.04	  61.82	I am walking in now.	Sentences	2713	0	0.95

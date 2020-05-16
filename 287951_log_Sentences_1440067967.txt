@@ -1,0 +1,1203 @@
+input_time	user_id	stimulus_id	input_index	iki	input	key_symbol	current_input	wpm	sd_iki	stimulus	condition	input_time_ms	uer	ke
+1440067966.574	287951	0	0	0	Shift_L	Shift_L	Kuinka pian tarviotset sen?	 46.95	 130.74	Kuinka pian tarviotset sen?	Sentences	0	0	0.93
+1440067966.762	287951	0	1	188	K	K	Kuinka pian tarviotset sen?	 46.95	 130.74	Kuinka pian tarviotset sen?	Sentences	188	0	0.93
+1440067966.949	287951	0	2	187	u	u	Kuinka pian tarviotset sen?	 46.95	 130.74	Kuinka pian tarviotset sen?	Sentences	375	0	0.93
+1440067967.105	287951	0	3	156	i	i	Kuinka pian tarviotset sen?	 46.95	 130.74	Kuinka pian tarviotset sen?	Sentences	531	0	0.93
+1440067967.292	287951	0	4	187	n	n	Kuinka pian tarviotset sen?	 46.95	 130.74	Kuinka pian tarviotset sen?	Sentences	718	0	0.93
+1440067967.479	287951	0	5	187	k	k	Kuinka pian tarviotset sen?	 46.95	 130.74	Kuinka pian tarviotset sen?	Sentences	905	0	0.93
+1440067967.635	287951	0	6	156	a	a	Kuinka pian tarviotset sen?	 46.95	 130.74	Kuinka pian tarviotset sen?	Sentences	1061	0	0.93
+1440067967.791	287951	0	7	156	_	space	Kuinka pian tarviotset sen?	 46.95	 130.74	Kuinka pian tarviotset sen?	Sentences	1217	0	0.93
+1440067968.072	287951	0	8	281	p	p	Kuinka pian tarviotset sen?	 46.95	 130.74	Kuinka pian tarviotset sen?	Sentences	1498	0	0.93
+1440067968.322	287951	0	9	250	i	i	Kuinka pian tarviotset sen?	 46.95	 130.74	Kuinka pian tarviotset sen?	Sentences	1748	0	0.93
+1440067968.446	287951	0	10	124	a	a	Kuinka pian tarviotset sen?	 46.95	 130.74	Kuinka pian tarviotset sen?	Sentences	1872	0	0.93
+1440067968.634	287951	0	11	188	n	n	Kuinka pian tarviotset sen?	 46.95	 130.74	Kuinka pian tarviotset sen?	Sentences	2060	0	0.93
+1440067968.79	287951	0	12	156	_	space	Kuinka pian tarviotset sen?	 46.95	 130.74	Kuinka pian tarviotset sen?	Sentences	2216	0	0.93
+1440067969.164	287951	0	13	374	t	t	Kuinka pian tarviotset sen?	 46.95	 130.74	Kuinka pian tarviotset sen?	Sentences	2590	0	0.93
+1440067969.351	287951	0	14	187	a	a	Kuinka pian tarviotset sen?	 46.95	 130.74	Kuinka pian tarviotset sen?	Sentences	2777	0	0.93
+1440067969.57	287951	0	15	219	r	r	Kuinka pian tarviotset sen?	 46.95	 130.74	Kuinka pian tarviotset sen?	Sentences	2996	0	0.93
+1440067969.819	287951	0	16	249	v	v	Kuinka pian tarviotset sen?	 46.95	 130.74	Kuinka pian tarviotset sen?	Sentences	3245	0	0.93
+1440067970.1	287951	0	17	281	i	i	Kuinka pian tarviotset sen?	 46.95	 130.74	Kuinka pian tarviotset sen?	Sentences	3526	0	0.93
+1440067970.1	287951	0	18	0	o	o	Kuinka pian tarviotset sen?	 46.95	 130.74	Kuinka pian tarviotset sen?	Sentences	3526	0	0.93
+1440067970.474	287951	0	19	374	t	t	Kuinka pian tarviotset sen?	 46.95	 130.74	Kuinka pian tarviotset sen?	Sentences	3900	0	0.93
+1440067970.63	287951	0	20	156	s	s	Kuinka pian tarviotset sen?	 46.95	 130.74	Kuinka pian tarviotset sen?	Sentences	4056	0	0.93
+1440067970.849	287951	0	21	219	e	e	Kuinka pian tarviotset sen?	 46.95	 130.74	Kuinka pian tarviotset sen?	Sentences	4275	0	0.93
+1440067971.098	287951	0	22	249	t	t	Kuinka pian tarviotset sen?	 46.95	 130.74	Kuinka pian tarviotset sen?	Sentences	4524	0	0.93
+1440067971.379	287951	0	23	281	_	space	Kuinka pian tarviotset sen?	 46.95	 130.74	Kuinka pian tarviotset sen?	Sentences	4805	0	0.93
+1440067971.535	287951	0	24	156	s	s	Kuinka pian tarviotset sen?	 46.95	 130.74	Kuinka pian tarviotset sen?	Sentences	4961	0	0.93
+1440067971.754	287951	0	25	219	e	e	Kuinka pian tarviotset sen?	 46.95	 130.74	Kuinka pian tarviotset sen?	Sentences	5180	0	0.93
+1440067972.003	287951	0	26	249	n	n	Kuinka pian tarviotset sen?	 46.95	 130.74	Kuinka pian tarviotset sen?	Sentences	5429	0	0.93
+1440067972.783	287951	0	27	780	Shift_L	Shift_L	Kuinka pian tarviotset sen?	 46.95	 130.74	Kuinka pian tarviotset sen?	Sentences	6209	0	0.93
+1440067973.22	287951	0	28	437	?	question	Kuinka pian tarviotset sen?	 46.95	 130.74	Kuinka pian tarviotset sen?	Sentences	6646	0	0.93
+1440067975.092	287951	1	0	0	Shift_L	Shift_L	Onko hän valmis vielä?	 25.80	 232.87	Onko hän valmis vielä?	Sentences	0	0	0.71
+1440067975.248	287951	1	1	155	O	O	Onko hän valmis vielä?	 25.80	 232.87	Onko hän valmis vielä?	Sentences	155	0	0.71
+1440067975.529	287951	1	2	282	n	n	Onko hän valmis vielä?	 25.80	 232.87	Onko hän valmis vielä?	Sentences	437	0	0.71
+1440067975.716	287951	1	3	187	k	k	Onko hän valmis vielä?	 25.80	 232.87	Onko hän valmis vielä?	Sentences	624	0	0.71
+1440067975.903	287951	1	4	187	o	o	Onko hän valmis vielä?	 25.80	 232.87	Onko hän valmis vielä?	Sentences	811	0	0.71
+1440067976.184	287951	1	5	281	_	space	Onko hän valmis vielä?	 25.80	 232.87	Onko hän valmis vielä?	Sentences	1092	0	0.71
+1440067976.434	287951	1	6	250	h	h	Onko hän valmis vielä?	 25.80	 232.87	Onko hän valmis vielä?	Sentences	1342	0	0.71
+1440067976.746	287951	1	7	312	ä	adiaeresis	Onko hän valmis vielä?	 25.80	 232.87	Onko hän valmis vielä?	Sentences	1654	0	0.71
+1440067977.089	287951	1	8	342	n	n	Onko hän valmis vielä?	 25.80	 232.87	Onko hän valmis vielä?	Sentences	1996	0	0.71
+1440067977.245	287951	1	9	156	_	space	Onko hän valmis vielä?	 25.80	 232.87	Onko hän valmis vielä?	Sentences	2152	0	0.71
+1440067977.494	287951	1	10	249	v	v	Onko hän valmis vielä?	 25.80	 232.87	Onko hän valmis vielä?	Sentences	2401	0	0.71
+1440067977.619	287951	1	11	125	a	a	Onko hän valmis vielä?	 25.80	 232.87	Onko hän valmis vielä?	Sentences	2526	0	0.71
+1440067977.9	287951	1	12	282	l	l	Onko hän valmis vielä?	 25.80	 232.87	Onko hän valmis vielä?	Sentences	2808	0	0.71
+1440067978.15	287951	1	13	250	m	m	Onko hän valmis vielä?	 25.80	 232.87	Onko hän valmis vielä?	Sentences	3058	0	0.71
+1440067978.337	287951	1	14	186	i	i	Onko hän valmis vielä?	 25.80	 232.87	Onko hän valmis vielä?	Sentences	3244	0	0.71
+1440067978.462	287951	1	15	125	s	s	Onko hän valmis vielä?	 25.80	 232.87	Onko hän valmis vielä?	Sentences	3369	0	0.71
+1440067978.68	287951	1	16	219	_	space	Onko hän valmis vielä?	 25.80	 232.87	Onko hän valmis vielä?	Sentences	3588	0	0.71
+1440067978.961	287951	1	17	280	v	v	Onko hän valmis vielä?	 25.80	 232.87	Onko hän valmis vielä?	Sentences	3868	0	0.71
+1440067979.242	287951	1	18	282	i	i	Onko hän valmis vielä?	 25.80	 232.87	Onko hän valmis vielä?	Sentences	4150	0	0.71
+1440067979.242	287951	1	19	0	o	o	Onko hän valmis vielä?	 25.80	 232.87	Onko hän valmis vielä?	Sentences	4150	0	0.71
+1440067979.398	287951	1	20	155	e	e	Onko hän valmis vielä?	 25.80	 232.87	Onko hän valmis vielä?	Sentences	4305	0	0.71
+1440067980.053	287951	1	21	655	l	l	Onko hän valmis vielä?	 25.80	 232.87	Onko hän valmis vielä?	Sentences	4960	0	0.71
+1440067980.708	287951	1	22	655	Shift_L	Shift_L	Onko hän valmis vielä?	 25.80	 232.87	Onko hän valmis vielä?	Sentences	5615	0	0.71
+1440067981.706	287951	1	23	999		BackSpace	Onko hän valmis vielä?	 25.80	 232.87	Onko hän valmis vielä?	Sentences	6614	0	0.71
+1440067981.862	287951	1	24	155		BackSpace	Onko hän valmis vielä?	 25.80	 232.87	Onko hän valmis vielä?	Sentences	6769	0	0.71
+1440067982.33	287951	1	25	468		BackSpace	Onko hän valmis vielä?	 25.80	 232.87	Onko hän valmis vielä?	Sentences	7237	0	0.71
+1440067983.266	287951	1	26	937	e	e	Onko hän valmis vielä?	 25.80	 232.87	Onko hän valmis vielä?	Sentences	8174	0	0.71
+1440067983.547	287951	1	27	280	l	l	Onko hän valmis vielä?	 25.80	 232.87	Onko hän valmis vielä?	Sentences	8454	0	0.71
+1440067983.984	287951	1	28	437	ä	adiaeresis	Onko hän valmis vielä?	 25.80	 232.87	Onko hän valmis vielä?	Sentences	8891	0	0.71
+1440067984.67	287951	1	29	687	Shift_L	Shift_L	Onko hän valmis vielä?	 25.80	 232.87	Onko hän valmis vielä?	Sentences	9578	0	0.71
+1440067984.858	287951	1	30	188	?	question	Onko hän valmis vielä?	 25.80	 232.87	Onko hän valmis vielä?	Sentences	9766	0	0.71
+1440067986.917	287951	2	0	0	Shift_L	Shift_L	Mikä on vialla?	 32.44	 160.49	Mikä on vialla?	Sentences	0	0	0.79
+1440067987.104	287951	2	1	187	M	M	Mikä on vialla?	 32.44	 160.49	Mikä on vialla?	Sentences	187	0	0.79
+1440067987.322	287951	2	2	217	i	i	Mikä on vialla?	 32.44	 160.49	Mikä on vialla?	Sentences	404	0	0.79
+1440067987.478	287951	2	3	156	k	k	Mikä on vialla?	 32.44	 160.49	Mikä on vialla?	Sentences	560	0	0.79
+1440067988.102	287951	2	4	624	ö	odiaeresis	Mikä on vialla?	 32.44	 160.49	Mikä on vialla?	Sentences	1184	0	0.79
+1440067988.602	287951	2	5	500		BackSpace	Mikä on vialla?	 32.44	 160.49	Mikä on vialla?	Sentences	1684	0	0.79
+1440067988.851	287951	2	6	250	ä	adiaeresis	Mikä on vialla?	 32.44	 160.49	Mikä on vialla?	Sentences	1934	0	0.79
+1440067989.132	287951	2	7	280	_	space	Mikä on vialla?	 32.44	 160.49	Mikä on vialla?	Sentences	2214	0	0.79
+1440067989.413	287951	2	8	282	o	o	Mikä on vialla?	 32.44	 160.49	Mikä on vialla?	Sentences	2496	0	0.79
+1440067989.631	287951	2	9	217	n	n	Mikä on vialla?	 32.44	 160.49	Mikä on vialla?	Sentences	2713	0	0.79
+1440067989.818	287951	2	10	188	_	space	Mikä on vialla?	 32.44	 160.49	Mikä on vialla?	Sentences	2901	0	0.79
+1440067990.099	287951	2	11	280	v	v	Mikä on vialla?	 32.44	 160.49	Mikä on vialla?	Sentences	3181	0	0.79
+1440067990.38	287951	2	12	282	i	i	Mikä on vialla?	 32.44	 160.49	Mikä on vialla?	Sentences	3463	0	0.79
+1440067990.942	287951	2	13	561	a	a	Mikä on vialla?	 32.44	 160.49	Mikä on vialla?	Sentences	4024	0	0.79
+1440067991.098	287951	2	14	156	l	l	Mikä on vialla?	 32.44	 160.49	Mikä on vialla?	Sentences	4180	0	0.79
+1440067991.222	287951	2	15	124	l	l	Mikä on vialla?	 32.44	 160.49	Mikä on vialla?	Sentences	4304	0	0.79
+1440067991.347	287951	2	16	125	a	a	Mikä on vialla?	 32.44	 160.49	Mikä on vialla?	Sentences	4429	0	0.79
+1440067991.909	287951	2	17	562	Shift_L	Shift_L	Mikä on vialla?	 32.44	 160.49	Mikä on vialla?	Sentences	4991	0	0.79
+1440067992.096	287951	2	18	187	?	question	Mikä on vialla?	 32.44	 160.49	Mikä on vialla?	Sentences	5178	0	0.79
+1440067993.718	287951	3	0	0	Shift_L	Shift_L	Missä olet?	 43.23	  97.26	Missä olet?	Sentences	0	0	0.85
+1440067993.968	287951	3	1	250	M	M	Missä olet?	 43.23	  97.26	Missä olet?	Sentences	250	0	0.85
+1440067994.155	287951	3	2	187	i	i	Missä olet?	 43.23	  97.26	Missä olet?	Sentences	437	0	0.85
+1440067994.374	287951	3	3	219	s	s	Missä olet?	 43.23	  97.26	Missä olet?	Sentences	656	0	0.85
+1440067994.561	287951	3	4	187	s	s	Missä olet?	 43.23	  97.26	Missä olet?	Sentences	843	0	0.85
+1440067994.717	287951	3	5	156	ä	adiaeresis	Missä olet?	 43.23	  97.26	Missä olet?	Sentences	999	0	0.85
+1440067995.029	287951	3	6	312	_	space	Missä olet?	 43.23	  97.26	Missä olet?	Sentences	1311	0	0.85
+1440067995.278	287951	3	7	249	o	o	Missä olet?	 43.23	  97.26	Missä olet?	Sentences	1560	0	0.85
+1440067995.466	287951	3	8	188	l	l	Missä olet?	 43.23	  97.26	Missä olet?	Sentences	1748	0	0.85
+1440067995.59	287951	3	9	123	e	e	Missä olet?	 43.23	  97.26	Missä olet?	Sentences	1871	0	0.85
+1440067995.902	287951	3	10	313	t	t	Missä olet?	 43.23	  97.26	Missä olet?	Sentences	2184	0	0.85
+1440067996.37	287951	3	11	467	Shift_L	Shift_L	Missä olet?	 43.23	  97.26	Missä olet?	Sentences	2651	0	0.85
+1440067996.495	287951	3	12	125	?	question	Missä olet?	 43.23	  97.26	Missä olet?	Sentences	2776	0	0.85
+1440067998.398	287951	4	0	0	Shift_L	Shift_L	Tarvitsetko sen tänään?	 38.81	 122.39	Tarvitsetko sen tänään?	Sentences	0	0	0.92
+1440067998.679	287951	4	1	280	T	T	Tarvitsetko sen tänään?	 38.81	 122.39	Tarvitsetko sen tänään?	Sentences	280	0	0.92
+1440067999.085	287951	4	2	407	a	a	Tarvitsetko sen tänään?	 38.81	 122.39	Tarvitsetko sen tänään?	Sentences	687	0	0.92
+1440067999.303	287951	4	3	217	r	r	Tarvitsetko sen tänään?	 38.81	 122.39	Tarvitsetko sen tänään?	Sentences	904	0	0.92
+1440067999.553	287951	4	4	250	v	v	Tarvitsetko sen tänään?	 38.81	 122.39	Tarvitsetko sen tänään?	Sentences	1154	0	0.92
+1440067999.99	287951	4	5	438	i	i	Tarvitsetko sen tänään?	 38.81	 122.39	Tarvitsetko sen tänään?	Sentences	1592	0	0.92
+1440068000.27	287951	4	6	279	t	t	Tarvitsetko sen tänään?	 38.81	 122.39	Tarvitsetko sen tänään?	Sentences	1871	0	0.92
+1440068000.458	287951	4	7	188	s	s	Tarvitsetko sen tänään?	 38.81	 122.39	Tarvitsetko sen tänään?	Sentences	2059	0	0.92
+1440068000.676	287951	4	8	219	e	e	Tarvitsetko sen tänään?	 38.81	 122.39	Tarvitsetko sen tänään?	Sentences	2278	0	0.92
+1440068000.988	287951	4	9	311	t	t	Tarvitsetko sen tänään?	 38.81	 122.39	Tarvitsetko sen tänään?	Sentences	2589	0	0.92
+1440068001.269	287951	4	10	282	k	k	Tarvitsetko sen tänään?	 38.81	 122.39	Tarvitsetko sen tänään?	Sentences	2871	0	0.92
+1440068001.487	287951	4	11	217	o	o	Tarvitsetko sen tänään?	 38.81	 122.39	Tarvitsetko sen tänään?	Sentences	3088	0	0.92
+1440068001.768	287951	4	12	281	_	space	Tarvitsetko sen tänään?	 38.81	 122.39	Tarvitsetko sen tänään?	Sentences	3369	0	0.92
+1440068001.893	287951	4	13	125	s	s	Tarvitsetko sen tänään?	 38.81	 122.39	Tarvitsetko sen tänään?	Sentences	3494	0	0.92
+1440068002.08	287951	4	14	187	e	e	Tarvitsetko sen tänään?	 38.81	 122.39	Tarvitsetko sen tänään?	Sentences	3681	0	0.92
+1440068002.267	287951	4	15	187	n	n	Tarvitsetko sen tänään?	 38.81	 122.39	Tarvitsetko sen tänään?	Sentences	3868	0	0.92
+1440068002.454	287951	4	16	187	_	space	Tarvitsetko sen tänään?	 38.81	 122.39	Tarvitsetko sen tänään?	Sentences	4055	0	0.92
+1440068002.61	287951	4	17	156	t	t	Tarvitsetko sen tänään?	 38.81	 122.39	Tarvitsetko sen tänään?	Sentences	4211	0	0.92
+1440068002.922	287951	4	18	312	ä	adiaeresis	Tarvitsetko sen tänään?	 38.81	 122.39	Tarvitsetko sen tänään?	Sentences	4523	0	0.92
+1440068003.578	287951	4	19	657	n	n	Tarvitsetko sen tänään?	 38.81	 122.39	Tarvitsetko sen tänään?	Sentences	5180	0	0.92
+1440068003.952	287951	4	20	373	ä	adiaeresis	Tarvitsetko sen tänään?	 38.81	 122.39	Tarvitsetko sen tänään?	Sentences	5553	0	0.92
+1440068004.108	287951	4	21	157	ä	adiaeresis	Tarvitsetko sen tänään?	 38.81	 122.39	Tarvitsetko sen tänään?	Sentences	5710	0	0.92
+1440068004.389	287951	4	22	280	n	n	Tarvitsetko sen tänään?	 38.81	 122.39	Tarvitsetko sen tänään?	Sentences	5990	0	0.92
+1440068004.888	287951	4	23	500	Shift_L	Shift_L	Tarvitsetko sen tänään?	 38.81	 122.39	Tarvitsetko sen tänään?	Sentences	6490	0	0.92
+1440068005.2	287951	4	24	312	?	question	Tarvitsetko sen tänään?	 38.81	 122.39	Tarvitsetko sen tänään?	Sentences	6802	0	0.92
+1440068006.978	287951	5	0	0	Shift_L	Shift_L	Pitääkö meidän jutella?	 26.12	 351.19	Pitääkö meidän jutella?	Sentences	0	0	0.85
+1440068007.571	287951	5	1	593	P	P	Pitääkö meidän jutella?	 26.12	 351.19	Pitääkö meidän jutella?	Sentences	593	0	0.85
+1440068007.821	287951	5	2	250	i	i	Pitääkö meidän jutella?	 26.12	 351.19	Pitääkö meidän jutella?	Sentences	843	0	0.85
+1440068008.102	287951	5	3	281	t	t	Pitääkö meidän jutella?	 26.12	 351.19	Pitääkö meidän jutella?	Sentences	1124	0	0.85
+1440068008.819	287951	5	4	717	ä	adiaeresis	Pitääkö meidän jutella?	 26.12	 351.19	Pitääkö meidän jutella?	Sentences	1841	0	0.85
+1440068008.944	287951	5	5	125	ä	adiaeresis	Pitääkö meidän jutella?	 26.12	 351.19	Pitääkö meidän jutella?	Sentences	1966	0	0.85
+1440068009.194	287951	5	6	250	k	k	Pitääkö meidän jutella?	 26.12	 351.19	Pitääkö meidän jutella?	Sentences	2216	0	0.85
+1440068009.412	287951	5	7	218	ö	odiaeresis	Pitääkö meidän jutella?	 26.12	 351.19	Pitääkö meidän jutella?	Sentences	2434	0	0.85
+1440068009.693	287951	5	8	281	_	space	Pitääkö meidän jutella?	 26.12	 351.19	Pitääkö meidän jutella?	Sentences	2715	0	0.85
+1440068009.911	287951	5	9	218	m	m	Pitääkö meidän jutella?	 26.12	 351.19	Pitääkö meidän jutella?	Sentences	2933	0	0.85
+1440068010.254	287951	5	10	343	e	e	Pitääkö meidän jutella?	 26.12	 351.19	Pitääkö meidän jutella?	Sentences	3276	0	0.85
+1440068010.442	287951	5	11	187	i	i	Pitääkö meidän jutella?	 26.12	 351.19	Pitääkö meidän jutella?	Sentences	3463	0	0.85
+1440068010.442	287951	5	12	0	o	o	Pitääkö meidän jutella?	 26.12	 351.19	Pitääkö meidän jutella?	Sentences	3463	0	0.85
+1440068012.126	287951	5	13	1685		BackSpace	Pitääkö meidän jutella?	 26.12	 351.19	Pitääkö meidän jutella?	Sentences	5148	0	0.85
+1440068013.031	287951	5	14	904	d	d	Pitääkö meidän jutella?	 26.12	 351.19	Pitääkö meidän jutella?	Sentences	6052	0	0.85
+1440068013.374	287951	5	15	344	ä	adiaeresis	Pitääkö meidän jutella?	 26.12	 351.19	Pitääkö meidän jutella?	Sentences	6396	0	0.85
+1440068013.686	287951	5	16	312	n	n	Pitääkö meidän jutella?	 26.12	 351.19	Pitääkö meidän jutella?	Sentences	6708	0	0.85
+1440068013.874	287951	5	17	188	_	space	Pitääkö meidän jutella?	 26.12	 351.19	Pitääkö meidän jutella?	Sentences	6896	0	0.85
+1440068014.061	287951	5	18	187	j	j	Pitääkö meidän jutella?	 26.12	 351.19	Pitääkö meidän jutella?	Sentences	7083	0	0.85
+1440068014.248	287951	5	19	186	u	u	Pitääkö meidän jutella?	 26.12	 351.19	Pitääkö meidän jutella?	Sentences	7269	0	0.85
+1440068014.498	287951	5	20	250	t	t	Pitääkö meidän jutella?	 26.12	 351.19	Pitääkö meidän jutella?	Sentences	7519	0	0.85
+1440068014.654	287951	5	21	157	e	e	Pitääkö meidän jutella?	 26.12	 351.19	Pitääkö meidän jutella?	Sentences	7676	0	0.85
+1440068015.122	287951	5	22	468	l	l	Pitääkö meidän jutella?	 26.12	 351.19	Pitääkö meidän jutella?	Sentences	8144	0	0.85
+1440068015.278	287951	5	23	156	l	l	Pitääkö meidän jutella?	 26.12	 351.19	Pitääkö meidän jutella?	Sentences	8300	0	0.85
+1440068016.245	287951	5	24	966	a	a	Pitääkö meidän jutella?	 26.12	 351.19	Pitääkö meidän jutella?	Sentences	9266	0	0.85
+1440068016.806	287951	5	25	562	Shift_L	Shift_L	Pitääkö meidän jutella?	 26.12	 351.19	Pitääkö meidän jutella?	Sentences	9828	0	0.85
+1440068017.087	287951	5	26	280	?	question	Pitääkö meidän jutella?	 26.12	 351.19	Pitääkö meidän jutella?	Sentences	10108	0	0.85
+1440068019.302	287951	6	0	0	Shift_L	Shift_L	Tuo lienee oikea vastaus.	 43.34	 171.49	Tuo lienee oikea vastaus.	Sentences	0	0	0.96
+1440068019.646	287951	6	1	343	T	T	Tuo lienee oikea vastaus.	 43.34	 171.49	Tuo lienee oikea vastaus.	Sentences	343	0	0.96
+1440068019.864	287951	6	2	219	u	u	Tuo lienee oikea vastaus.	 43.34	 171.49	Tuo lienee oikea vastaus.	Sentences	562	0	0.96
+1440068020.238	287951	6	3	373	o	o	Tuo lienee oikea vastaus.	 43.34	 171.49	Tuo lienee oikea vastaus.	Sentences	935	0	0.96
+1440068020.519	287951	6	4	282	_	space	Tuo lienee oikea vastaus.	 43.34	 171.49	Tuo lienee oikea vastaus.	Sentences	1217	0	0.96
+1440068020.738	287951	6	5	218	l	l	Tuo lienee oikea vastaus.	 43.34	 171.49	Tuo lienee oikea vastaus.	Sentences	1435	0	0.96
+1440068020.987	287951	6	6	249	i	i	Tuo lienee oikea vastaus.	 43.34	 171.49	Tuo lienee oikea vastaus.	Sentences	1684	0	0.96
+1440068021.206	287951	6	7	220	e	e	Tuo lienee oikea vastaus.	 43.34	 171.49	Tuo lienee oikea vastaus.	Sentences	1904	0	0.96
+1440068021.393	287951	6	8	186	n	n	Tuo lienee oikea vastaus.	 43.34	 171.49	Tuo lienee oikea vastaus.	Sentences	2090	0	0.96
+1440068021.549	287951	6	9	156	e	e	Tuo lienee oikea vastaus.	 43.34	 171.49	Tuo lienee oikea vastaus.	Sentences	2246	0	0.96
+1440068021.705	287951	6	10	156	e	e	Tuo lienee oikea vastaus.	 43.34	 171.49	Tuo lienee oikea vastaus.	Sentences	2402	0	0.96
+1440068021.892	287951	6	11	187	_	space	Tuo lienee oikea vastaus.	 43.34	 171.49	Tuo lienee oikea vastaus.	Sentences	2589	0	0.96
+1440068022.298	287951	6	12	407	o	o	Tuo lienee oikea vastaus.	 43.34	 171.49	Tuo lienee oikea vastaus.	Sentences	2996	0	0.96
+1440068022.454	287951	6	13	155	i	i	Tuo lienee oikea vastaus.	 43.34	 171.49	Tuo lienee oikea vastaus.	Sentences	3151	0	0.96
+1440068022.641	287951	6	14	187	k	k	Tuo lienee oikea vastaus.	 43.34	 171.49	Tuo lienee oikea vastaus.	Sentences	3338	0	0.96
+1440068022.797	287951	6	15	156	e	e	Tuo lienee oikea vastaus.	 43.34	 171.49	Tuo lienee oikea vastaus.	Sentences	3494	0	0.96
+1440068023.171	287951	6	16	374	a	a	Tuo lienee oikea vastaus.	 43.34	 171.49	Tuo lienee oikea vastaus.	Sentences	3868	0	0.96
+1440068023.39	287951	6	17	220	_	space	Tuo lienee oikea vastaus.	 43.34	 171.49	Tuo lienee oikea vastaus.	Sentences	4088	0	0.96
+1440068023.826	287951	6	18	435	v	v	Tuo lienee oikea vastaus.	 43.34	 171.49	Tuo lienee oikea vastaus.	Sentences	4523	0	0.96
+1440068023.982	287951	6	19	157	a	a	Tuo lienee oikea vastaus.	 43.34	 171.49	Tuo lienee oikea vastaus.	Sentences	4680	0	0.96
+1440068024.17	287951	6	20	188	s	s	Tuo lienee oikea vastaus.	 43.34	 171.49	Tuo lienee oikea vastaus.	Sentences	4868	0	0.96
+1440068024.419	287951	6	21	248	t	t	Tuo lienee oikea vastaus.	 43.34	 171.49	Tuo lienee oikea vastaus.	Sentences	5116	0	0.96
+1440068024.544	287951	6	22	125	a	a	Tuo lienee oikea vastaus.	 43.34	 171.49	Tuo lienee oikea vastaus.	Sentences	5241	0	0.96
+1440068024.856	287951	6	23	312	u	u	Tuo lienee oikea vastaus.	 43.34	 171.49	Tuo lienee oikea vastaus.	Sentences	5553	0	0.96
+1440068024.981	287951	6	24	125	s	s	Tuo lienee oikea vastaus.	 43.34	 171.49	Tuo lienee oikea vastaus.	Sentences	5678	0	0.96
+1440068025.948	287951	6	25	967	.	period	Tuo lienee oikea vastaus.	 43.34	 171.49	Tuo lienee oikea vastaus.	Sentences	6645	0	0.96
+1440068027.82	287951	7	0	0	Shift_L	Shift_L	Kokeilen uudestaan.	 32.20	 211.67	Kokeilen uudestaan.	Sentences	0	0	0.86
+1440068028.132	287951	7	1	312	K	K	Kokeilen uudestaan.	 32.20	 211.67	Kokeilen uudestaan.	Sentences	312	0	0.86
+1440068028.818	287951	7	2	686	o	o	Kokeilen uudestaan.	 32.20	 211.67	Kokeilen uudestaan.	Sentences	998	0	0.86
+1440068029.037	287951	7	3	219	k	k	Kokeilen uudestaan.	 32.20	 211.67	Kokeilen uudestaan.	Sentences	1217	0	0.86
+1440068029.193	287951	7	4	156	i	i	Kokeilen uudestaan.	 32.20	 211.67	Kokeilen uudestaan.	Sentences	1373	0	0.86
+1440068029.817	287951	7	5	623		BackSpace	Kokeilen uudestaan.	 32.20	 211.67	Kokeilen uudestaan.	Sentences	1996	0	0.86
+1440068030.16	287951	7	6	344	e	e	Kokeilen uudestaan.	 32.20	 211.67	Kokeilen uudestaan.	Sentences	2340	0	0.86
+1440068031.096	287951	7	7	936	i	i	Kokeilen uudestaan.	 32.20	 211.67	Kokeilen uudestaan.	Sentences	3276	0	0.86
+1440068031.283	287951	7	8	187	l	l	Kokeilen uudestaan.	 32.20	 211.67	Kokeilen uudestaan.	Sentences	3463	0	0.86
+1440068031.408	287951	7	9	125	e	e	Kokeilen uudestaan.	 32.20	 211.67	Kokeilen uudestaan.	Sentences	3588	0	0.86
+1440068031.658	287951	7	10	250	n	n	Kokeilen uudestaan.	 32.20	 211.67	Kokeilen uudestaan.	Sentences	3838	0	0.86
+1440068031.845	287951	7	11	187	_	space	Kokeilen uudestaan.	 32.20	 211.67	Kokeilen uudestaan.	Sentences	4025	0	0.86
+1440068032.126	287951	7	12	280	u	u	Kokeilen uudestaan.	 32.20	 211.67	Kokeilen uudestaan.	Sentences	4305	0	0.86
+1440068032.25	287951	7	13	125	u	u	Kokeilen uudestaan.	 32.20	 211.67	Kokeilen uudestaan.	Sentences	4430	0	0.86
+1440068032.531	287951	7	14	280	d	d	Kokeilen uudestaan.	 32.20	 211.67	Kokeilen uudestaan.	Sentences	4710	0	0.86
+1440068032.718	287951	7	15	188	e	e	Kokeilen uudestaan.	 32.20	 211.67	Kokeilen uudestaan.	Sentences	4898	0	0.86
+1440068032.968	287951	7	16	250	s	s	Kokeilen uudestaan.	 32.20	 211.67	Kokeilen uudestaan.	Sentences	5148	0	0.86
+1440068033.218	287951	7	17	250	t	t	Kokeilen uudestaan.	 32.20	 211.67	Kokeilen uudestaan.	Sentences	5398	0	0.86
+1440068033.342	287951	7	18	124	a	a	Kokeilen uudestaan.	 32.20	 211.67	Kokeilen uudestaan.	Sentences	5522	0	0.86
+1440068033.561	287951	7	19	219	a	a	Kokeilen uudestaan.	 32.20	 211.67	Kokeilen uudestaan.	Sentences	5741	0	0.86
+1440068034.091	287951	7	20	530	n	n	Kokeilen uudestaan.	 32.20	 211.67	Kokeilen uudestaan.	Sentences	6271	0	0.86
+1440068034.528	287951	7	21	437	.	period	Kokeilen uudestaan.	 32.20	 211.67	Kokeilen uudestaan.	Sentences	6708	0	0.86
+1440068036.431	287951	8	0	0	Shift_L	Shift_L	Tuletko kanssamme lounaalle?	 44.76	 119.88	Tuletko kanssamme lounaalle?	Sentences	0	0	0.93
+1440068036.65	287951	8	1	219	T	T	Tuletko kanssamme lounaalle?	 44.76	 119.88	Tuletko kanssamme lounaalle?	Sentences	219	0	0.93
+1440068037.055	287951	8	2	405	u	u	Tuletko kanssamme lounaalle?	 44.76	 119.88	Tuletko kanssamme lounaalle?	Sentences	624	0	0.93
+1440068037.461	287951	8	3	405	l	l	Tuletko kanssamme lounaalle?	 44.76	 119.88	Tuletko kanssamme lounaalle?	Sentences	1029	0	0.93
+1440068037.648	287951	8	4	188	e	e	Tuletko kanssamme lounaalle?	 44.76	 119.88	Tuletko kanssamme lounaalle?	Sentences	1217	0	0.93
+1440068037.96	287951	8	5	312	t	t	Tuletko kanssamme lounaalle?	 44.76	 119.88	Tuletko kanssamme lounaalle?	Sentences	1529	0	0.93
+1440068038.272	287951	8	6	312	k	k	Tuletko kanssamme lounaalle?	 44.76	 119.88	Tuletko kanssamme lounaalle?	Sentences	1841	0	0.93
+1440068038.459	287951	8	7	187	o	o	Tuletko kanssamme lounaalle?	 44.76	 119.88	Tuletko kanssamme lounaalle?	Sentences	2028	0	0.93
+1440068038.74	287951	8	8	281	_	space	Tuletko kanssamme lounaalle?	 44.76	 119.88	Tuletko kanssamme lounaalle?	Sentences	2309	0	0.93
+1440068038.99	287951	8	9	250	k	k	Tuletko kanssamme lounaalle?	 44.76	 119.88	Tuletko kanssamme lounaalle?	Sentences	2559	0	0.93
+1440068039.146	287951	8	10	155	a	a	Tuletko kanssamme lounaalle?	 44.76	 119.88	Tuletko kanssamme lounaalle?	Sentences	2714	0	0.93
+1440068039.333	287951	8	11	187	n	n	Tuletko kanssamme lounaalle?	 44.76	 119.88	Tuletko kanssamme lounaalle?	Sentences	2901	0	0.93
+1440068039.676	287951	8	12	344	s	s	Tuletko kanssamme lounaalle?	 44.76	 119.88	Tuletko kanssamme lounaalle?	Sentences	3245	0	0.93
+1440068039.863	287951	8	13	186	s	s	Tuletko kanssamme lounaalle?	 44.76	 119.88	Tuletko kanssamme lounaalle?	Sentences	3431	0	0.93
+1440068040.05	287951	8	14	187	a	a	Tuletko kanssamme lounaalle?	 44.76	 119.88	Tuletko kanssamme lounaalle?	Sentences	3618	0	0.93
+1440068040.425	287951	8	15	375	m	m	Tuletko kanssamme lounaalle?	 44.76	 119.88	Tuletko kanssamme lounaalle?	Sentences	3993	0	0.93
+1440068040.581	287951	8	16	157	m	m	Tuletko kanssamme lounaalle?	 44.76	 119.88	Tuletko kanssamme lounaalle?	Sentences	4150	0	0.93
+1440068040.706	287951	8	17	125	e	e	Tuletko kanssamme lounaalle?	 44.76	 119.88	Tuletko kanssamme lounaalle?	Sentences	4275	0	0.93
+1440068040.893	287951	8	18	186	_	space	Tuletko kanssamme lounaalle?	 44.76	 119.88	Tuletko kanssamme lounaalle?	Sentences	4461	0	0.93
+1440068041.174	287951	8	19	282	l	l	Tuletko kanssamme lounaalle?	 44.76	 119.88	Tuletko kanssamme lounaalle?	Sentences	4743	0	0.93
+1440068041.361	287951	8	20	187	o	o	Tuletko kanssamme lounaalle?	 44.76	 119.88	Tuletko kanssamme lounaalle?	Sentences	4930	0	0.93
+1440068041.611	287951	8	21	250	u	u	Tuletko kanssamme lounaalle?	 44.76	 119.88	Tuletko kanssamme lounaalle?	Sentences	5180	0	0.93
+1440068041.891	287951	8	22	280	n	n	Tuletko kanssamme lounaalle?	 44.76	 119.88	Tuletko kanssamme lounaalle?	Sentences	5460	0	0.93
+1440068042.11	287951	8	23	218	a	a	Tuletko kanssamme lounaalle?	 44.76	 119.88	Tuletko kanssamme lounaalle?	Sentences	5678	0	0.93
+1440068042.328	287951	8	24	219	a	a	Tuletko kanssamme lounaalle?	 44.76	 119.88	Tuletko kanssamme lounaalle?	Sentences	5897	0	0.93
+1440068042.515	287951	8	25	187	l	l	Tuletko kanssamme lounaalle?	 44.76	 119.88	Tuletko kanssamme lounaalle?	Sentences	6084	0	0.93
+1440068042.671	287951	8	26	156	l	l	Tuletko kanssamme lounaalle?	 44.76	 119.88	Tuletko kanssamme lounaalle?	Sentences	6240	0	0.93
+1440068042.796	287951	8	27	125	e	e	Tuletko kanssamme lounaalle?	 44.76	 119.88	Tuletko kanssamme lounaalle?	Sentences	6365	0	0.93
+1440068043.514	287951	8	28	717	Shift_L	Shift_L	Tuletko kanssamme lounaalle?	 44.76	 119.88	Tuletko kanssamme lounaalle?	Sentences	7082	0	0.93
+1440068043.67	287951	8	29	157	?	question	Tuletko kanssamme lounaalle?	 44.76	 119.88	Tuletko kanssamme lounaalle?	Sentences	7239	0	0.93
+1440068045.011	287951	9	0	0	Shift_L	Shift_L	Voitko auttaa?	 40.65	  93.08	Voitko auttaa?	Sentences	0	0	0.88
+1440068045.323	287951	9	1	312	V	V	Voitko auttaa?	 40.65	  93.08	Voitko auttaa?	Sentences	312	0	0.88
+1440068045.635	287951	9	2	312	o	o	Voitko auttaa?	 40.65	  93.08	Voitko auttaa?	Sentences	624	0	0.88
+1440068045.823	287951	9	3	188	i	i	Voitko auttaa?	 40.65	  93.08	Voitko auttaa?	Sentences	812	0	0.88
+1440068046.103	287951	9	4	280	t	t	Voitko auttaa?	 40.65	  93.08	Voitko auttaa?	Sentences	1092	0	0.88
+1440068046.291	287951	9	5	187	k	k	Voitko auttaa?	 40.65	  93.08	Voitko auttaa?	Sentences	1279	0	0.88
+1440068046.696	287951	9	6	406	o	o	Voitko auttaa?	 40.65	  93.08	Voitko auttaa?	Sentences	1685	0	0.88
+1440068046.977	287951	9	7	281	_	space	Voitko auttaa?	 40.65	  93.08	Voitko auttaa?	Sentences	1966	0	0.88
+1440068047.133	287951	9	8	155	a	a	Voitko auttaa?	 40.65	  93.08	Voitko auttaa?	Sentences	2121	0	0.88
+1440068047.383	287951	9	9	250	u	u	Voitko auttaa?	 40.65	  93.08	Voitko auttaa?	Sentences	2371	0	0.88
+1440068047.632	287951	9	10	250	t	t	Voitko auttaa?	 40.65	  93.08	Voitko auttaa?	Sentences	2621	0	0.88
+1440068047.757	287951	9	11	125	t	t	Voitko auttaa?	 40.65	  93.08	Voitko auttaa?	Sentences	2746	0	0.88
+1440068047.944	287951	9	12	187	a	a	Voitko auttaa?	 40.65	  93.08	Voitko auttaa?	Sentences	2933	0	0.88
+1440068048.194	287951	9	13	250	a	a	Voitko auttaa?	 40.65	  93.08	Voitko auttaa?	Sentences	3183	0	0.88
+1440068048.662	287951	9	14	468	Shift_L	Shift_L	Voitko auttaa?	 40.65	  93.08	Voitko auttaa?	Sentences	3651	0	0.88
+1440068048.849	287951	9	15	187	?	question	Voitko auttaa?	 40.65	  93.08	Voitko auttaa?	Sentences	3838	0	0.88
+1440068050.347	287951	10	0	0	Shift_L	Shift_L	Tapahtuiko tuo?	 25.77	 651.78	Tapahtuiko tuo?	Sentences	0	0	0.88
+1440068050.659	287951	10	1	312	T	T	Tapahtuiko tuo?	 25.77	 651.78	Tapahtuiko tuo?	Sentences	312	0	0.88
+1440068050.877	287951	10	2	218	a	a	Tapahtuiko tuo?	 25.77	 651.78	Tapahtuiko tuo?	Sentences	530	0	0.88
+1440068051.22	287951	10	3	343	p	p	Tapahtuiko tuo?	 25.77	 651.78	Tapahtuiko tuo?	Sentences	873	0	0.88
+1440068051.376	287951	10	4	156	a	a	Tapahtuiko tuo?	 25.77	 651.78	Tapahtuiko tuo?	Sentences	1029	0	0.88
+1440068051.657	287951	10	5	281	h	h	Tapahtuiko tuo?	 25.77	 651.78	Tapahtuiko tuo?	Sentences	1310	0	0.88
+1440068051.969	287951	10	6	312	t	t	Tapahtuiko tuo?	 25.77	 651.78	Tapahtuiko tuo?	Sentences	1622	0	0.88
+1440068052.219	287951	10	7	250	u	u	Tapahtuiko tuo?	 25.77	 651.78	Tapahtuiko tuo?	Sentences	1872	0	0.88
+1440068055.058	287951	10	8	2839	i	i	Tapahtuiko tuo?	 25.77	 651.78	Tapahtuiko tuo?	Sentences	4711	0	0.88
+1440068055.245	287951	10	9	187	k	k	Tapahtuiko tuo?	 25.77	 651.78	Tapahtuiko tuo?	Sentences	4898	0	0.88
+1440068055.401	287951	10	10	156	o	o	Tapahtuiko tuo?	 25.77	 651.78	Tapahtuiko tuo?	Sentences	5054	0	0.88
+1440068055.682	287951	10	11	281	_	space	Tapahtuiko tuo?	 25.77	 651.78	Tapahtuiko tuo?	Sentences	5335	0	0.88
+1440068055.807	287951	10	12	125	t	t	Tapahtuiko tuo?	 25.77	 651.78	Tapahtuiko tuo?	Sentences	5460	0	0.88
+1440068056.056	287951	10	13	249	u	u	Tapahtuiko tuo?	 25.77	 651.78	Tapahtuiko tuo?	Sentences	5709	0	0.88
+1440068056.275	287951	10	14	219	o	o	Tapahtuiko tuo?	 25.77	 651.78	Tapahtuiko tuo?	Sentences	5928	0	0.88
+1440068056.618	287951	10	15	343	Shift_L	Shift_L	Tapahtuiko tuo?	 25.77	 651.78	Tapahtuiko tuo?	Sentences	6271	0	0.88
+1440068056.867	287951	10	16	249	?	question	Tapahtuiko tuo?	 25.77	 651.78	Tapahtuiko tuo?	Sentences	6520	0	0.88
+1440068058.739	287951	11	0	0	Shift_L	Shift_L	Toivon että voit jo paremmin.	 40.04	 143.31	Toivon että voit jo paremmin.	Sentences	0	0	0.97
+1440068059.145	287951	11	1	405	T	T	Toivon että voit jo paremmin.	 40.04	 143.31	Toivon että voit jo paremmin.	Sentences	405	0	0.97
+1440068059.613	287951	11	2	468	o	o	Toivon että voit jo paremmin.	 40.04	 143.31	Toivon että voit jo paremmin.	Sentences	873	0	0.97
+1440068059.8	287951	11	3	187	i	i	Toivon että voit jo paremmin.	 40.04	 143.31	Toivon että voit jo paremmin.	Sentences	1060	0	0.97
+1440068060.081	287951	11	4	282	v	v	Toivon että voit jo paremmin.	 40.04	 143.31	Toivon että voit jo paremmin.	Sentences	1342	0	0.97
+1440068060.518	287951	11	5	436	o	o	Toivon että voit jo paremmin.	 40.04	 143.31	Toivon että voit jo paremmin.	Sentences	1778	0	0.97
+1440068060.767	287951	11	6	249	n	n	Toivon että voit jo paremmin.	 40.04	 143.31	Toivon että voit jo paremmin.	Sentences	2027	0	0.97
+1440068060.986	287951	11	7	219	_	space	Toivon että voit jo paremmin.	 40.04	 143.31	Toivon että voit jo paremmin.	Sentences	2246	0	0.97
+1440068061.173	287951	11	8	188	e	e	Toivon että voit jo paremmin.	 40.04	 143.31	Toivon että voit jo paremmin.	Sentences	2434	0	0.97
+1440068061.423	287951	11	9	250	t	t	Toivon että voit jo paremmin.	 40.04	 143.31	Toivon että voit jo paremmin.	Sentences	2684	0	0.97
+1440068061.61	287951	11	10	186	t	t	Toivon että voit jo paremmin.	 40.04	 143.31	Toivon että voit jo paremmin.	Sentences	2870	0	0.97
+1440068061.797	287951	11	11	187	ä	adiaeresis	Toivon että voit jo paremmin.	 40.04	 143.31	Toivon että voit jo paremmin.	Sentences	3057	0	0.97
+1440068062.078	287951	11	12	281	_	space	Toivon että voit jo paremmin.	 40.04	 143.31	Toivon että voit jo paremmin.	Sentences	3338	0	0.97
+1440068062.39	287951	11	13	313	v	v	Toivon että voit jo paremmin.	 40.04	 143.31	Toivon että voit jo paremmin.	Sentences	3651	0	0.97
+1440068062.671	287951	11	14	280	o	o	Toivon että voit jo paremmin.	 40.04	 143.31	Toivon että voit jo paremmin.	Sentences	3931	0	0.97
+1440068062.858	287951	11	15	187	i	i	Toivon että voit jo paremmin.	 40.04	 143.31	Toivon että voit jo paremmin.	Sentences	4118	0	0.97
+1440068063.107	287951	11	16	250	t	t	Toivon että voit jo paremmin.	 40.04	 143.31	Toivon että voit jo paremmin.	Sentences	4368	0	0.97
+1440068063.388	287951	11	17	280	_	space	Toivon että voit jo paremmin.	 40.04	 143.31	Toivon että voit jo paremmin.	Sentences	4648	0	0.97
+1440068063.638	287951	11	18	250	j	j	Toivon että voit jo paremmin.	 40.04	 143.31	Toivon että voit jo paremmin.	Sentences	4898	0	0.97
+1440068063.825	287951	11	19	187	o	o	Toivon että voit jo paremmin.	 40.04	 143.31	Toivon että voit jo paremmin.	Sentences	5085	0	0.97
+1440068064.106	287951	11	20	281	_	space	Toivon että voit jo paremmin.	 40.04	 143.31	Toivon että voit jo paremmin.	Sentences	5366	0	0.97
+1440068064.511	287951	11	21	405	p	p	Toivon että voit jo paremmin.	 40.04	 143.31	Toivon että voit jo paremmin.	Sentences	5771	0	0.97
+1440068064.667	287951	11	22	156	a	a	Toivon että voit jo paremmin.	 40.04	 143.31	Toivon että voit jo paremmin.	Sentences	5927	0	0.97
+1440068065.323	287951	11	23	656	r	r	Toivon että voit jo paremmin.	 40.04	 143.31	Toivon että voit jo paremmin.	Sentences	6583	0	0.97
+1440068065.447	287951	11	24	124	e	e	Toivon että voit jo paremmin.	 40.04	 143.31	Toivon että voit jo paremmin.	Sentences	6707	0	0.97
+1440068065.791	287951	11	25	344	m	m	Toivon että voit jo paremmin.	 40.04	 143.31	Toivon että voit jo paremmin.	Sentences	7051	0	0.97
+1440068065.978	287951	11	26	187	m	m	Toivon että voit jo paremmin.	 40.04	 143.31	Toivon että voit jo paremmin.	Sentences	7238	0	0.97
+1440068066.165	287951	11	27	187	i	i	Toivon että voit jo paremmin.	 40.04	 143.31	Toivon että voit jo paremmin.	Sentences	7425	0	0.97
+1440068066.383	287951	11	28	218	n	n	Toivon että voit jo paremmin.	 40.04	 143.31	Toivon että voit jo paremmin.	Sentences	7643	0	0.97
+1440068067.132	287951	11	29	749	.	period	Toivon että voit jo paremmin.	 40.04	 143.31	Toivon että voit jo paremmin.	Sentences	8392	0	0.97
+1440068068.505	287951	12	0	0	Shift_L	Shift_L	Tuo näyttää hyvältä.	 25.47	 352.50	Tuo näyttää hyvältä.	Sentences	0	0	0.87
+1440068068.817	287951	12	1	311	T	T	Tuo näyttää hyvältä.	 25.47	 352.50	Tuo näyttää hyvältä.	Sentences	311	0	0.87
+1440068069.035	287951	12	2	218	u	u	Tuo näyttää hyvältä.	 25.47	 352.50	Tuo näyttää hyvältä.	Sentences	529	0	0.87
+1440068069.441	287951	12	3	406	o	o	Tuo näyttää hyvältä.	 25.47	 352.50	Tuo näyttää hyvältä.	Sentences	935	0	0.87
+1440068069.691	287951	12	4	250	_	space	Tuo näyttää hyvältä.	 25.47	 352.50	Tuo näyttää hyvältä.	Sentences	1185	0	0.87
+1440068069.909	287951	12	5	218	n	n	Tuo näyttää hyvältä.	 25.47	 352.50	Tuo näyttää hyvältä.	Sentences	1403	0	0.87
+1440068070.283	287951	12	6	374	ä	adiaeresis	Tuo näyttää hyvältä.	 25.47	 352.50	Tuo näyttää hyvältä.	Sentences	1777	0	0.87
+1440068071.843	287951	12	7	1560	y	y	Tuo näyttää hyvältä.	 25.47	 352.50	Tuo näyttää hyvältä.	Sentences	3337	0	0.87
+1440068072.062	287951	12	8	219	t	t	Tuo näyttää hyvältä.	 25.47	 352.50	Tuo näyttää hyvältä.	Sentences	3556	0	0.87
+1440068072.218	287951	12	9	156	t	t	Tuo näyttää hyvältä.	 25.47	 352.50	Tuo näyttää hyvältä.	Sentences	3712	0	0.87
+1440068072.561	287951	12	10	343	ä	adiaeresis	Tuo näyttää hyvältä.	 25.47	 352.50	Tuo näyttää hyvältä.	Sentences	4055	0	0.87
+1440068072.717	287951	12	11	156	ä	adiaeresis	Tuo näyttää hyvältä.	 25.47	 352.50	Tuo näyttää hyvältä.	Sentences	4211	0	0.87
+1440068072.967	287951	12	12	250	_	space	Tuo näyttää hyvältä.	 25.47	 352.50	Tuo näyttää hyvältä.	Sentences	4461	0	0.87
+1440068073.247	287951	12	13	280	h	h	Tuo näyttää hyvältä.	 25.47	 352.50	Tuo näyttää hyvältä.	Sentences	4741	0	0.87
+1440068073.466	287951	12	14	219	y	y	Tuo näyttää hyvältä.	 25.47	 352.50	Tuo näyttää hyvältä.	Sentences	4960	0	0.87
+1440068074.183	287951	12	15	717	v	v	Tuo näyttää hyvältä.	 25.47	 352.50	Tuo näyttää hyvältä.	Sentences	5677	0	0.87
+1440068074.183	287951	12	16	0	b	b	Tuo näyttää hyvältä.	 25.47	 352.50	Tuo näyttää hyvältä.	Sentences	5677	0	0.87
+1440068075.119	287951	12	17	936		BackSpace	Tuo näyttää hyvältä.	 25.47	 352.50	Tuo näyttää hyvältä.	Sentences	6613	0	0.87
+1440068076.149	287951	12	18	1030	ä	adiaeresis	Tuo näyttää hyvältä.	 25.47	 352.50	Tuo näyttää hyvältä.	Sentences	7643	0	0.87
+1440068076.43	287951	12	19	281	l	l	Tuo näyttää hyvältä.	 25.47	 352.50	Tuo näyttää hyvältä.	Sentences	7924	0	0.87
+1440068076.711	287951	12	20	281	t	t	Tuo näyttää hyvältä.	 25.47	 352.50	Tuo näyttää hyvältä.	Sentences	8205	0	0.87
+1440068076.991	287951	12	21	280	ä	adiaeresis	Tuo näyttää hyvältä.	 25.47	 352.50	Tuo näyttää hyvältä.	Sentences	8485	0	0.87
+1440068077.459	287951	12	22	468	.	period	Tuo näyttää hyvältä.	 25.47	 352.50	Tuo näyttää hyvältä.	Sentences	8953	0	0.87
+1440068078.863	287951	13	0	0	Shift_L	Shift_L	Kiitos huolenpidostasi.	 42.09	  81.22	Kiitos huolenpidostasi.	Sentences	0	0	0.96
+1440068079.144	287951	13	1	281	K	K	Kiitos huolenpidostasi.	 42.09	  81.22	Kiitos huolenpidostasi.	Sentences	281	0	0.96
+1440068079.55	287951	13	2	406	i	i	Kiitos huolenpidostasi.	 42.09	  81.22	Kiitos huolenpidostasi.	Sentences	687	0	0.96
+1440068079.706	287951	13	3	156	i	i	Kiitos huolenpidostasi.	 42.09	  81.22	Kiitos huolenpidostasi.	Sentences	843	0	0.96
+1440068080.018	287951	13	4	311	t	t	Kiitos huolenpidostasi.	 42.09	  81.22	Kiitos huolenpidostasi.	Sentences	1154	0	0.96
+1440068080.236	287951	13	5	219	o	o	Kiitos huolenpidostasi.	 42.09	  81.22	Kiitos huolenpidostasi.	Sentences	1373	0	0.96
+1440068080.486	287951	13	6	250	s	s	Kiitos huolenpidostasi.	 42.09	  81.22	Kiitos huolenpidostasi.	Sentences	1623	0	0.96
+1440068080.704	287951	13	7	218	_	space	Kiitos huolenpidostasi.	 42.09	  81.22	Kiitos huolenpidostasi.	Sentences	1841	0	0.96
+1440068081.11	287951	13	8	405	h	h	Kiitos huolenpidostasi.	 42.09	  81.22	Kiitos huolenpidostasi.	Sentences	2246	0	0.96
+1440068081.297	287951	13	9	188	u	u	Kiitos huolenpidostasi.	 42.09	  81.22	Kiitos huolenpidostasi.	Sentences	2434	0	0.96
+1440068081.64	287951	13	10	343	o	o	Kiitos huolenpidostasi.	 42.09	  81.22	Kiitos huolenpidostasi.	Sentences	2777	0	0.96
+1440068081.859	287951	13	11	219	l	l	Kiitos huolenpidostasi.	 42.09	  81.22	Kiitos huolenpidostasi.	Sentences	2996	0	0.96
+1440068082.077	287951	13	12	217	e	e	Kiitos huolenpidostasi.	 42.09	  81.22	Kiitos huolenpidostasi.	Sentences	3213	0	0.96
+1440068082.327	287951	13	13	250	n	n	Kiitos huolenpidostasi.	 42.09	  81.22	Kiitos huolenpidostasi.	Sentences	3463	0	0.96
+1440068082.639	287951	13	14	313	p	p	Kiitos huolenpidostasi.	 42.09	  81.22	Kiitos huolenpidostasi.	Sentences	3776	0	0.96
+1440068082.919	287951	13	15	279	i	i	Kiitos huolenpidostasi.	 42.09	  81.22	Kiitos huolenpidostasi.	Sentences	4055	0	0.96
+1440068083.356	287951	13	16	438	d	d	Kiitos huolenpidostasi.	 42.09	  81.22	Kiitos huolenpidostasi.	Sentences	4493	0	0.96
+1440068083.637	287951	13	17	281	o	o	Kiitos huolenpidostasi.	 42.09	  81.22	Kiitos huolenpidostasi.	Sentences	4774	0	0.96
+1440068083.824	287951	13	18	186	s	s	Kiitos huolenpidostasi.	 42.09	  81.22	Kiitos huolenpidostasi.	Sentences	4960	0	0.96
+1440068084.136	287951	13	19	313	t	t	Kiitos huolenpidostasi.	 42.09	  81.22	Kiitos huolenpidostasi.	Sentences	5273	0	0.96
+1440068084.261	287951	13	20	125	a	a	Kiitos huolenpidostasi.	 42.09	  81.22	Kiitos huolenpidostasi.	Sentences	5398	0	0.96
+1440068084.479	287951	13	21	218	s	s	Kiitos huolenpidostasi.	 42.09	  81.22	Kiitos huolenpidostasi.	Sentences	5616	0	0.96
+1440068084.791	287951	13	22	311	i	i	Kiitos huolenpidostasi.	 42.09	  81.22	Kiitos huolenpidostasi.	Sentences	5927	0	0.96
+1440068085.135	287951	13	23	345	.	period	Kiitos huolenpidostasi.	 42.09	  81.22	Kiitos huolenpidostasi.	Sentences	6272	0	0.96
+1440068087.038	287951	14	0	0	Shift_L	Shift_L	Torstai sopii minulle paremmin.	 42.90	 143.08	Torstai sopii minulle paremmin.	Sentences	0	0	0.97
+1440068087.225	287951	14	1	186	T	T	Torstai sopii minulle paremmin.	 42.90	 143.08	Torstai sopii minulle paremmin.	Sentences	186	0	0.97
+1440068087.755	287951	14	2	531	o	o	Torstai sopii minulle paremmin.	 42.90	 143.08	Torstai sopii minulle paremmin.	Sentences	717	0	0.97
+1440068088.067	287951	14	3	311	r	r	Torstai sopii minulle paremmin.	 42.90	 143.08	Torstai sopii minulle paremmin.	Sentences	1028	0	0.97
+1440068088.411	287951	14	4	344	s	s	Torstai sopii minulle paremmin.	 42.90	 143.08	Torstai sopii minulle paremmin.	Sentences	1372	0	0.97
+1440068088.691	287951	14	5	280	t	t	Torstai sopii minulle paremmin.	 42.90	 143.08	Torstai sopii minulle paremmin.	Sentences	1652	0	0.97
+1440068088.816	287951	14	6	125	a	a	Torstai sopii minulle paremmin.	 42.90	 143.08	Torstai sopii minulle paremmin.	Sentences	1777	0	0.97
+1440068089.159	287951	14	7	343	i	i	Torstai sopii minulle paremmin.	 42.90	 143.08	Torstai sopii minulle paremmin.	Sentences	2120	0	0.97
+1440068089.44	287951	14	8	281	_	space	Torstai sopii minulle paremmin.	 42.90	 143.08	Torstai sopii minulle paremmin.	Sentences	2401	0	0.97
+1440068089.565	287951	14	9	125	s	s	Torstai sopii minulle paremmin.	 42.90	 143.08	Torstai sopii minulle paremmin.	Sentences	2526	0	0.97
+1440068090.064	287951	14	10	499	o	o	Torstai sopii minulle paremmin.	 42.90	 143.08	Torstai sopii minulle paremmin.	Sentences	3025	0	0.97
+1440068090.283	287951	14	11	219	p	p	Torstai sopii minulle paremmin.	 42.90	 143.08	Torstai sopii minulle paremmin.	Sentences	3244	0	0.97
+1440068090.501	287951	14	12	218	i	i	Torstai sopii minulle paremmin.	 42.90	 143.08	Torstai sopii minulle paremmin.	Sentences	3462	0	0.97
+1440068090.626	287951	14	13	125	i	i	Torstai sopii minulle paremmin.	 42.90	 143.08	Torstai sopii minulle paremmin.	Sentences	3587	0	0.97
+1440068090.938	287951	14	14	312	_	space	Torstai sopii minulle paremmin.	 42.90	 143.08	Torstai sopii minulle paremmin.	Sentences	3899	0	0.97
+1440068091.281	287951	14	15	343	m	m	Torstai sopii minulle paremmin.	 42.90	 143.08	Torstai sopii minulle paremmin.	Sentences	4242	0	0.97
+1440068091.468	287951	14	16	187	i	i	Torstai sopii minulle paremmin.	 42.90	 143.08	Torstai sopii minulle paremmin.	Sentences	4429	0	0.97
+1440068091.687	287951	14	17	219	n	n	Torstai sopii minulle paremmin.	 42.90	 143.08	Torstai sopii minulle paremmin.	Sentences	4648	0	0.97
+1440068091.874	287951	14	18	187	u	u	Torstai sopii minulle paremmin.	 42.90	 143.08	Torstai sopii minulle paremmin.	Sentences	4835	0	0.97
+1440068092.56	287951	14	19	686	l	l	Torstai sopii minulle paremmin.	 42.90	 143.08	Torstai sopii minulle paremmin.	Sentences	5521	0	0.97
+1440068092.716	287951	14	20	156	l	l	Torstai sopii minulle paremmin.	 42.90	 143.08	Torstai sopii minulle paremmin.	Sentences	5677	0	0.97
+1440068092.81	287951	14	21	94	e	e	Torstai sopii minulle paremmin.	 42.90	 143.08	Torstai sopii minulle paremmin.	Sentences	5771	0	0.97
+1440068092.997	287951	14	22	187	_	space	Torstai sopii minulle paremmin.	 42.90	 143.08	Torstai sopii minulle paremmin.	Sentences	5958	0	0.97
+1440068093.278	287951	14	23	282	p	p	Torstai sopii minulle paremmin.	 42.90	 143.08	Torstai sopii minulle paremmin.	Sentences	6240	0	0.97
+1440068093.434	287951	14	24	155	a	a	Torstai sopii minulle paremmin.	 42.90	 143.08	Torstai sopii minulle paremmin.	Sentences	6395	0	0.97
+1440068093.777	287951	14	25	343	r	r	Torstai sopii minulle paremmin.	 42.90	 143.08	Torstai sopii minulle paremmin.	Sentences	6738	0	0.97
+1440068093.933	287951	14	26	156	e	e	Torstai sopii minulle paremmin.	 42.90	 143.08	Torstai sopii minulle paremmin.	Sentences	6894	0	0.97
+1440068094.245	287951	14	27	312	m	m	Torstai sopii minulle paremmin.	 42.90	 143.08	Torstai sopii minulle paremmin.	Sentences	7206	0	0.97
+1440068094.401	287951	14	28	156	m	m	Torstai sopii minulle paremmin.	 42.90	 143.08	Torstai sopii minulle paremmin.	Sentences	7362	0	0.97
+1440068094.588	287951	14	29	187	i	i	Torstai sopii minulle paremmin.	 42.90	 143.08	Torstai sopii minulle paremmin.	Sentences	7549	0	0.97
+1440068094.838	287951	14	30	250	n	n	Torstai sopii minulle paremmin.	 42.90	 143.08	Torstai sopii minulle paremmin.	Sentences	7799	0	0.97
+1440068095.431	287951	14	31	593	.	period	Torstai sopii minulle paremmin.	 42.90	 143.08	Torstai sopii minulle paremmin.	Sentences	8392	0	0.97
+1440068098.02	287951	15	0	0	Shift_L	Shift_L	Nähdään pian!	 31.39	 186.10	Nähdään pian!	Sentences	0	0	0.87
+1440068098.207	287951	15	1	187	N	N	Nähdään pian!	 31.39	 186.10	Nähdään pian!	Sentences	187	0	0.87
+1440068098.551	287951	15	2	344	ä	adiaeresis	Nähdään pian!	 31.39	 186.10	Nähdään pian!	Sentences	531	0	0.87
+1440068098.925	287951	15	3	373	h	h	Nähdään pian!	 31.39	 186.10	Nähdään pian!	Sentences	904	0	0.87
+1440068099.455	287951	15	4	530	d	d	Nähdään pian!	 31.39	 186.10	Nähdään pian!	Sentences	1434	0	0.87
+1440068099.767	287951	15	5	312	ä	adiaeresis	Nähdään pian!	 31.39	 186.10	Nähdään pian!	Sentences	1746	0	0.87
+1440068099.923	287951	15	6	157	ä	adiaeresis	Nähdään pian!	 31.39	 186.10	Nähdään pian!	Sentences	1903	0	0.87
+1440068100.204	287951	15	7	281	n	n	Nähdään pian!	 31.39	 186.10	Nähdään pian!	Sentences	2184	0	0.87
+1440068100.391	287951	15	8	187	_	space	Nähdään pian!	 31.39	 186.10	Nähdään pian!	Sentences	2371	0	0.87
+1440068100.703	287951	15	9	312	p	p	Nähdään pian!	 31.39	 186.10	Nähdään pian!	Sentences	2683	0	0.87
+1440068100.953	287951	15	10	250	i	i	Nähdään pian!	 31.39	 186.10	Nähdään pian!	Sentences	2933	0	0.87
+1440068101.109	287951	15	11	155	a	a	Nähdään pian!	 31.39	 186.10	Nähdään pian!	Sentences	3088	0	0.87
+1440068101.39	287951	15	12	282	n	n	Nähdään pian!	 31.39	 186.10	Nähdään pian!	Sentences	3370	0	0.87
+1440068102.263	287951	15	13	873	Shift_L	Shift_L	Nähdään pian!	 31.39	 186.10	Nähdään pian!	Sentences	4243	0	0.87
+1440068102.607	287951	15	14	344	!	exclam	Nähdään pian!	 31.39	 186.10	Nähdään pian!	Sentences	4587	0	0.87
+1440068105.539	287951	16	0	0	Shift_L	Shift_L	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	0	0	0.93
+1440068105.976	287951	16	1	437	V	V	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	437	0	0.93
+1440068106.288	287951	16	2	312	o	o	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	749	0	0.93
+1440068106.475	287951	16	3	186	i	i	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	935	0	0.93
+1440068106.725	287951	16	4	250	m	m	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	1185	0	0.93
+1440068106.881	287951	16	5	157	m	m	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	1342	0	0.93
+1440068106.975	287951	16	6	93	e	e	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	1435	0	0.93
+1440068107.131	287951	16	7	157	_	space	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	1592	0	0.93
+1440068107.349	287951	16	8	217	j	j	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	1809	0	0.93
+1440068107.505	287951	16	9	157	u	u	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	1966	0	0.93
+1440068107.817	287951	16	10	311	o	o	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	2277	0	0.93
+1440068108.035	287951	16	11	219	d	d	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	2496	0	0.93
+1440068108.347	287951	16	12	311	a	a	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	2807	0	0.93
+1440068108.503	287951	16	13	156	_	space	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	2963	0	0.93
+1440068108.847	287951	16	14	344	v	v	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	3307	0	0.93
+1440068109.127	287951	16	15	281	i	i	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	3588	0	0.93
+1440068109.283	287951	16	16	155	i	i	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	3743	0	0.93
+1440068109.502	287951	16	17	220	n	n	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	3963	0	0.93
+1440068109.689	287951	16	18	186	i	i	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	4149	0	0.93
+1440068109.939	287951	16	19	250	a	a	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	4399	0	0.93
+1440068110.781	287951	16	20	842		BackSpace	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	5241	0	0.93
+1440068111.093	287951	16	21	312	ä	adiaeresis	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	5553	0	0.93
+1440068111.374	287951	16	22	282	_	space	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	5835	0	0.93
+1440068111.686	287951	16	23	312	j	j	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	6147	0	0.93
+1440068111.811	287951	16	24	125	a	a	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	6272	0	0.93
+1440068111.998	287951	16	25	186	_	space	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	6458	0	0.93
+1440068112.279	287951	16	26	282	j	j	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	6740	0	0.93
+1440068112.435	287951	16	27	155	a	a	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	6895	0	0.93
+1440068112.528	287951	16	28	94	k	k	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	6989	0	0.93
+1440068112.684	287951	16	29	155	a	a	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	7144	0	0.93
+1440068112.871	287951	16	30	188	a	a	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	7332	0	0.93
+1440068112.965	287951	16	31	93	_	space	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	7425	0	0.93
+1440068113.215	287951	16	32	250	k	k	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	7675	0	0.93
+1440068113.433	287951	16	33	219	u	u	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	7894	0	0.93
+1440068113.62	287951	16	34	186	u	u	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	8080	0	0.93
+1440068113.87	287951	16	35	250	l	l	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	8330	0	0.93
+1440068114.182	287951	16	36	312	u	u	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	8642	0	0.93
+1440068114.4	287951	16	37	219	m	m	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	8861	0	0.93
+1440068114.619	287951	16	38	218	i	i	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	9079	0	0.93
+1440068114.775	287951	16	39	157	s	s	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	9236	0	0.93
+1440068114.931	287951	16	40	155	i	i	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	9391	0	0.93
+1440068115.087	287951	16	41	156	a	a	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	9547	0	0.93
+1440068116.834	287951	16	42	1748	.	period	Voimme juoda viiniä ja jakaa kuulumisia.	 41.43	 263.78	Voimme juoda viiniä ja jakaa kuulumisia.	Sentences	11295	0	0.93
+1440068118.487	287951	17	0	0	Shift_L	Shift_L	Pletko paikalla tänään?	 40.68	 146.04	Pletko paikalla tänään?	Sentences	0	0	0.92
+1440068118.799	287951	17	1	312	P	P	Pletko paikalla tänään?	 40.68	 146.04	Pletko paikalla tänään?	Sentences	312	0	0.92
+1440068119.049	287951	17	2	250	l	l	Pletko paikalla tänään?	 40.68	 146.04	Pletko paikalla tänään?	Sentences	562	0	0.92
+1440068119.299	287951	17	3	250	e	e	Pletko paikalla tänään?	 40.68	 146.04	Pletko paikalla tänään?	Sentences	812	0	0.92
+1440068119.642	287951	17	4	342	t	t	Pletko paikalla tänään?	 40.68	 146.04	Pletko paikalla tänään?	Sentences	1154	0	0.92
+1440068119.923	287951	17	5	282	k	k	Pletko paikalla tänään?	 40.68	 146.04	Pletko paikalla tänään?	Sentences	1436	0	0.92
+1440068120.079	287951	17	6	156	o	o	Pletko paikalla tänään?	 40.68	 146.04	Pletko paikalla tänään?	Sentences	1592	0	0.92
+1440068120.328	287951	17	7	249	_	space	Pletko paikalla tänään?	 40.68	 146.04	Pletko paikalla tänään?	Sentences	1841	0	0.92
+1440068120.609	287951	17	8	280	p	p	Pletko paikalla tänään?	 40.68	 146.04	Pletko paikalla tänään?	Sentences	2121	0	0.92
+1440068120.796	287951	17	9	188	a	a	Pletko paikalla tänään?	 40.68	 146.04	Pletko paikalla tänään?	Sentences	2309	0	0.92
+1440068121.015	287951	17	10	219	i	i	Pletko paikalla tänään?	 40.68	 146.04	Pletko paikalla tänään?	Sentences	2528	0	0.92
+1440068121.202	287951	17	11	186	k	k	Pletko paikalla tänään?	 40.68	 146.04	Pletko paikalla tänään?	Sentences	2714	0	0.92
+1440068121.358	287951	17	12	157	a	a	Pletko paikalla tänään?	 40.68	 146.04	Pletko paikalla tänään?	Sentences	2871	0	0.92
+1440068121.483	287951	17	13	125	l	l	Pletko paikalla tänään?	 40.68	 146.04	Pletko paikalla tänään?	Sentences	2996	0	0.92
+1440068121.639	287951	17	14	155	l	l	Pletko paikalla tänään?	 40.68	 146.04	Pletko paikalla tänään?	Sentences	3151	0	0.92
+1440068121.763	287951	17	15	125	a	a	Pletko paikalla tänään?	 40.68	 146.04	Pletko paikalla tänään?	Sentences	3276	0	0.92
+1440068121.951	287951	17	16	187	_	space	Pletko paikalla tänään?	 40.68	 146.04	Pletko paikalla tänään?	Sentences	3463	0	0.92
+1440068122.45	287951	17	17	500	t	t	Pletko paikalla tänään?	 40.68	 146.04	Pletko paikalla tänään?	Sentences	3963	0	0.92
+1440068122.699	287951	17	18	248	ä	adiaeresis	Pletko paikalla tänään?	 40.68	 146.04	Pletko paikalla tänään?	Sentences	4211	0	0.92
+1440068123.043	287951	17	19	344	n	n	Pletko paikalla tänään?	 40.68	 146.04	Pletko paikalla tänään?	Sentences	4555	0	0.92
+1440068123.417	287951	17	20	375	ä	adiaeresis	Pletko paikalla tänään?	 40.68	 146.04	Pletko paikalla tänään?	Sentences	4930	0	0.92
+1440068123.573	287951	17	21	155	ä	adiaeresis	Pletko paikalla tänään?	 40.68	 146.04	Pletko paikalla tänään?	Sentences	5085	0	0.92
+1440068124.353	287951	17	22	780	n	n	Pletko paikalla tänään?	 40.68	 146.04	Pletko paikalla tänään?	Sentences	5865	0	0.92
+1440068124.79	287951	17	23	437	Shift_L	Shift_L	Pletko paikalla tänään?	 40.68	 146.04	Pletko paikalla tänään?	Sentences	6302	0	0.92
+1440068124.977	287951	17	24	188	?	question	Pletko paikalla tänään?	 40.68	 146.04	Pletko paikalla tänään?	Sentences	6490	0	0.92
+1440068126.693	287951	18	0	0	Shift_L	Shift_L	Voitko auttaa minua?	 37.87	 162.23	Voitko auttaa minua?	Sentences	0	0	0.91
+1440068126.974	287951	18	1	280	V	V	Voitko auttaa minua?	 37.87	 162.23	Voitko auttaa minua?	Sentences	280	0	0.91
+1440068127.286	287951	18	2	312	o	o	Voitko auttaa minua?	 37.87	 162.23	Voitko auttaa minua?	Sentences	592	0	0.91
+1440068127.473	287951	18	3	187	i	i	Voitko auttaa minua?	 37.87	 162.23	Voitko auttaa minua?	Sentences	779	0	0.91
+1440068127.723	287951	18	4	250	t	t	Voitko auttaa minua?	 37.87	 162.23	Voitko auttaa minua?	Sentences	1029	0	0.91
+1440068128.128	287951	18	5	405	k	k	Voitko auttaa minua?	 37.87	 162.23	Voitko auttaa minua?	Sentences	1434	0	0.91
+1440068128.315	287951	18	6	187	o	o	Voitko auttaa minua?	 37.87	 162.23	Voitko auttaa minua?	Sentences	1621	0	0.91
+1440068128.565	287951	18	7	250	_	space	Voitko auttaa minua?	 37.87	 162.23	Voitko auttaa minua?	Sentences	1871	0	0.91
+1440068128.752	287951	18	8	188	a	a	Voitko auttaa minua?	 37.87	 162.23	Voitko auttaa minua?	Sentences	2059	0	0.91
+1440068128.939	287951	18	9	186	u	u	Voitko auttaa minua?	 37.87	 162.23	Voitko auttaa minua?	Sentences	2245	0	0.91
+1440068129.158	287951	18	10	219	t	t	Voitko auttaa minua?	 37.87	 162.23	Voitko auttaa minua?	Sentences	2464	0	0.91
+1440068129.314	287951	18	11	156	t	t	Voitko auttaa minua?	 37.87	 162.23	Voitko auttaa minua?	Sentences	2620	0	0.91
+1440068129.439	287951	18	12	125	a	a	Voitko auttaa minua?	 37.87	 162.23	Voitko auttaa minua?	Sentences	2745	0	0.91
+1440068129.657	287951	18	13	218	a	a	Voitko auttaa minua?	 37.87	 162.23	Voitko auttaa minua?	Sentences	2963	0	0.91
+1440068129.938	287951	18	14	281	_	space	Voitko auttaa minua?	 37.87	 162.23	Voitko auttaa minua?	Sentences	3244	0	0.91
+1440068130.281	287951	18	15	343	m	m	Voitko auttaa minua?	 37.87	 162.23	Voitko auttaa minua?	Sentences	3587	0	0.91
+1440068130.874	287951	18	16	593	i	i	Voitko auttaa minua?	 37.87	 162.23	Voitko auttaa minua?	Sentences	4180	0	0.91
+1440068131.155	287951	18	17	281	n	n	Voitko auttaa minua?	 37.87	 162.23	Voitko auttaa minua?	Sentences	4461	0	0.91
+1440068131.342	287951	18	18	187	u	u	Voitko auttaa minua?	 37.87	 162.23	Voitko auttaa minua?	Sentences	4648	0	0.91
+1440068131.623	287951	18	19	281	a	a	Voitko auttaa minua?	 37.87	 162.23	Voitko auttaa minua?	Sentences	4929	0	0.91
+1440068132.465	287951	18	20	842	Shift_L	Shift_L	Voitko auttaa minua?	 37.87	 162.23	Voitko auttaa minua?	Sentences	5771	0	0.91
+1440068132.715	287951	18	21	250	?	question	Voitko auttaa minua?	 37.87	 162.23	Voitko auttaa minua?	Sentences	6021	0	0.91
+1440068134.212	287951	19	0	0	Shift_L	Shift_L	Pidä minut ajan tasalla!	 39.14	 129.15	Pidä minut ajan tasalla!	Sentences	0	0	0.92
+1440068134.649	287951	19	1	437	P	P	Pidä minut ajan tasalla!	 39.14	 129.15	Pidä minut ajan tasalla!	Sentences	437	0	0.92
+1440068134.961	287951	19	2	312	i	i	Pidä minut ajan tasalla!	 39.14	 129.15	Pidä minut ajan tasalla!	Sentences	749	0	0.92
+1440068135.273	287951	19	3	312	d	d	Pidä minut ajan tasalla!	 39.14	 129.15	Pidä minut ajan tasalla!	Sentences	1061	0	0.92
+1440068135.523	287951	19	4	250	ä	adiaeresis	Pidä minut ajan tasalla!	 39.14	 129.15	Pidä minut ajan tasalla!	Sentences	1311	0	0.92
+1440068135.835	287951	19	5	312	_	space	Pidä minut ajan tasalla!	 39.14	 129.15	Pidä minut ajan tasalla!	Sentences	1623	0	0.92
+1440068136.053	287951	19	6	218	m	m	Pidä minut ajan tasalla!	 39.14	 129.15	Pidä minut ajan tasalla!	Sentences	1841	0	0.92
+1440068136.24	287951	19	7	187	i	i	Pidä minut ajan tasalla!	 39.14	 129.15	Pidä minut ajan tasalla!	Sentences	2028	0	0.92
+1440068136.49	287951	19	8	250	n	n	Pidä minut ajan tasalla!	 39.14	 129.15	Pidä minut ajan tasalla!	Sentences	2278	0	0.92
+1440068136.646	287951	19	9	156	u	u	Pidä minut ajan tasalla!	 39.14	 129.15	Pidä minut ajan tasalla!	Sentences	2434	0	0.92
+1440068136.864	287951	19	10	218	t	t	Pidä minut ajan tasalla!	 39.14	 129.15	Pidä minut ajan tasalla!	Sentences	2652	0	0.92
+1440068137.145	287951	19	11	281	_	space	Pidä minut ajan tasalla!	 39.14	 129.15	Pidä minut ajan tasalla!	Sentences	2933	0	0.92
+1440068137.519	287951	19	12	374	a	a	Pidä minut ajan tasalla!	 39.14	 129.15	Pidä minut ajan tasalla!	Sentences	3307	0	0.92
+1440068137.707	287951	19	13	188	j	j	Pidä minut ajan tasalla!	 39.14	 129.15	Pidä minut ajan tasalla!	Sentences	3495	0	0.92
+1440068137.863	287951	19	14	156	a	a	Pidä minut ajan tasalla!	 39.14	 129.15	Pidä minut ajan tasalla!	Sentences	3651	0	0.92
+1440068138.237	287951	19	15	374	n	n	Pidä minut ajan tasalla!	 39.14	 129.15	Pidä minut ajan tasalla!	Sentences	4025	0	0.92
+1440068138.861	287951	19	16	624	_	space	Pidä minut ajan tasalla!	 39.14	 129.15	Pidä minut ajan tasalla!	Sentences	4649	0	0.92
+1440068139.329	287951	19	17	468	t	t	Pidä minut ajan tasalla!	 39.14	 129.15	Pidä minut ajan tasalla!	Sentences	5117	0	0.92
+1440068139.454	287951	19	18	125	a	a	Pidä minut ajan tasalla!	 39.14	 129.15	Pidä minut ajan tasalla!	Sentences	5242	0	0.92
+1440068139.672	287951	19	19	218	s	s	Pidä minut ajan tasalla!	 39.14	 129.15	Pidä minut ajan tasalla!	Sentences	5460	0	0.92
+1440068140.015	287951	19	20	343	a	a	Pidä minut ajan tasalla!	 39.14	 129.15	Pidä minut ajan tasalla!	Sentences	5803	0	0.92
+1440068140.203	287951	19	21	188	l	l	Pidä minut ajan tasalla!	 39.14	 129.15	Pidä minut ajan tasalla!	Sentences	5991	0	0.92
+1440068140.359	287951	19	22	156	l	l	Pidä minut ajan tasalla!	 39.14	 129.15	Pidä minut ajan tasalla!	Sentences	6147	0	0.92
+1440068140.483	287951	19	23	124	a	a	Pidä minut ajan tasalla!	 39.14	 129.15	Pidä minut ajan tasalla!	Sentences	6271	0	0.92
+1440068141.014	287951	19	24	531	Shift_L	Shift_L	Pidä minut ajan tasalla!	 39.14	 129.15	Pidä minut ajan tasalla!	Sentences	6802	0	0.92
+1440068141.263	287951	19	25	249	!	exclam	Pidä minut ajan tasalla!	 39.14	 129.15	Pidä minut ajan tasalla!	Sentences	7051	0	0.92
+1440068143.011	287951	20	0	0	Shift_L	Shift_L	Kävelen juuri sisään.	 33.59	 249.50	Kävelen juuri sisään.	Sentences	0	0	0.95
+1440068143.26	287951	20	1	249	K	K	Kävelen juuri sisään.	 33.59	 249.50	Kävelen juuri sisään.	Sentences	249	0	0.95
+1440068143.697	287951	20	2	437	ä	adiaeresis	Kävelen juuri sisään.	 33.59	 249.50	Kävelen juuri sisään.	Sentences	686	0	0.95
+1440068144.165	287951	20	3	468	v	v	Kävelen juuri sisään.	 33.59	 249.50	Kävelen juuri sisään.	Sentences	1154	0	0.95
+1440068144.352	287951	20	4	187	e	e	Kävelen juuri sisään.	 33.59	 249.50	Kävelen juuri sisään.	Sentences	1341	0	0.95
+1440068144.914	287951	20	5	562	l	l	Kävelen juuri sisään.	 33.59	 249.50	Kävelen juuri sisään.	Sentences	1903	0	0.95
+1440068145.039	287951	20	6	125	e	e	Kävelen juuri sisään.	 33.59	 249.50	Kävelen juuri sisään.	Sentences	2028	0	0.95
+1440068145.226	287951	20	7	187	n	n	Kävelen juuri sisään.	 33.59	 249.50	Kävelen juuri sisään.	Sentences	2215	0	0.95
+1440068145.413	287951	20	8	187	_	space	Kävelen juuri sisään.	 33.59	 249.50	Kävelen juuri sisään.	Sentences	2402	0	0.95
+1440068145.631	287951	20	9	218	j	j	Kävelen juuri sisään.	 33.59	 249.50	Kävelen juuri sisään.	Sentences	2620	0	0.95
+1440068145.85	287951	20	10	218	u	u	Kävelen juuri sisään.	 33.59	 249.50	Kävelen juuri sisään.	Sentences	2838	0	0.95
+1440068146.006	287951	20	11	157	u	u	Kävelen juuri sisään.	 33.59	 249.50	Kävelen juuri sisään.	Sentences	2995	0	0.95
+1440068146.193	287951	20	12	187	r	r	Kävelen juuri sisään.	 33.59	 249.50	Kävelen juuri sisään.	Sentences	3182	0	0.95
+1440068146.474	287951	20	13	281	i	i	Kävelen juuri sisään.	 33.59	 249.50	Kävelen juuri sisään.	Sentences	3463	0	0.95
+1440068146.723	287951	20	14	249	_	space	Kävelen juuri sisään.	 33.59	 249.50	Kävelen juuri sisään.	Sentences	3712	0	0.95
+1440068147.254	287951	20	15	531	s	s	Kävelen juuri sisään.	 33.59	 249.50	Kävelen juuri sisään.	Sentences	4243	0	0.95
+1440068147.472	287951	20	16	217	i	i	Kävelen juuri sisään.	 33.59	 249.50	Kävelen juuri sisään.	Sentences	4460	0	0.95
+1440068147.628	287951	20	17	157	s	s	Kävelen juuri sisään.	 33.59	 249.50	Kävelen juuri sisään.	Sentences	4617	0	0.95
+1440068148.814	287951	20	18	1185	ä	adiaeresis	Kävelen juuri sisään.	 33.59	 249.50	Kävelen juuri sisään.	Sentences	5802	0	0.95
+1440068149.001	287951	20	19	188	ä	adiaeresis	Kävelen juuri sisään.	 33.59	 249.50	Kävelen juuri sisään.	Sentences	5990	0	0.95
+1440068149.5	287951	20	20	499	n	n	Kävelen juuri sisään.	 33.59	 249.50	Kävelen juuri sisään.	Sentences	6489	0	0.95
+1440068150.155	287951	20	21	655	.	period	Kävelen juuri sisään.	 33.59	 249.50	Kävelen juuri sisään.	Sentences	7144	0	0.95
+1440068151.528	287951	21	0	0	Shift_L	Shift_L	Olen tulossa.	 53.67	  45.25	Olen tulossa.	Sentences	0	0	0.93
+1440068151.778	287951	21	1	250	O	O	Olen tulossa.	 53.67	  45.25	Olen tulossa.	Sentences	250	0	0.93
+1440068151.934	287951	21	2	155	l	l	Olen tulossa.	 53.67	  45.25	Olen tulossa.	Sentences	405	0	0.93
+1440068152.152	287951	21	3	218	e	e	Olen tulossa.	 53.67	  45.25	Olen tulossa.	Sentences	623	0	0.93
+1440068152.371	287951	21	4	219	n	n	Olen tulossa.	 53.67	  45.25	Olen tulossa.	Sentences	842	0	0.93
+1440068152.527	287951	21	5	156	_	space	Olen tulossa.	 53.67	  45.25	Olen tulossa.	Sentences	998	0	0.93
+1440068152.683	287951	21	6	156	t	t	Olen tulossa.	 53.67	  45.25	Olen tulossa.	Sentences	1154	0	0.93
+1440068152.901	287951	21	7	218	u	u	Olen tulossa.	 53.67	  45.25	Olen tulossa.	Sentences	1372	0	0.93
+1440068153.182	287951	21	8	281	l	l	Olen tulossa.	 53.67	  45.25	Olen tulossa.	Sentences	1653	0	0.93
+1440068153.4	287951	21	9	218	o	o	Olen tulossa.	 53.67	  45.25	Olen tulossa.	Sentences	1871	0	0.93
+1440068153.587	287951	21	10	187	s	s	Olen tulossa.	 53.67	  45.25	Olen tulossa.	Sentences	2058	0	0.93
+1440068153.775	287951	21	11	188	s	s	Olen tulossa.	 53.67	  45.25	Olen tulossa.	Sentences	2246	0	0.93
+1440068153.931	287951	21	12	156	a	a	Olen tulossa.	 53.67	  45.25	Olen tulossa.	Sentences	2402	0	0.93
+1440068154.212	287951	21	13	281	.	period	Olen tulossa.	 53.67	  45.25	Olen tulossa.	Sentences	2683	0	0.93
+1440068156.24	287951	22	0	0	Shift_L	Shift_L	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	0	0	0.87
+1440068156.333	287951	22	1	92	T	T	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	92	0	0.87
+1440068156.708	287951	22	2	375	o	o	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	467	0	0.87
+1440068156.895	287951	22	3	187	i	i	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	654	0	0.87
+1440068157.176	287951	22	4	282	v	v	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	936	0	0.87
+1440068157.488	287951	22	5	311	o	o	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	1247	0	0.87
+1440068157.8	287951	22	6	312	t	t	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	1559	0	0.87
+1440068157.924	287951	22	7	125	t	t	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	1684	0	0.87
+1440068158.08	287951	22	8	155	a	a	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	1839	0	0.87
+1440068158.268	287951	22	9	188	c	c	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	2027	0	0.87
+1440068158.923	287951	22	10	656		BackSpace	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	2683	0	0.87
+1440068159.266	287951	22	11	343	v	v	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	3026	0	0.87
+1440068159.36	287951	22	12	93	a	a	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	3119	0	0.87
+1440068159.578	287951	22	13	219	s	s	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	3338	0	0.87
+1440068159.734	287951	22	14	155	t	t	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	3493	0	0.87
+1440068160.14	287951	22	15	407	i	i	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	3900	0	0.87
+1440068160.389	287951	22	16	248	_	space	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	4148	0	0.87
+1440068160.701	287951	22	17	312	t	t	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	4460	0	0.87
+1440068160.857	287951	22	18	157	e	e	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	4617	0	0.87
+1440068161.107	287951	22	19	250	i	i	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	4867	0	0.87
+1440068161.419	287951	22	20	311	l	l	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	5178	0	0.87
+1440068161.544	287951	22	21	125	l	l	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	5303	0	0.87
+1440068161.668	287951	22	22	124	e	e	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	5427	0	0.87
+1440068161.824	287951	22	23	156	_	space	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	5583	0	0.87
+1440068162.043	287951	22	24	219	k	k	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	5802	0	0.87
+1440068162.261	287951	22	25	218	u	u	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	6020	0	0.87
+1440068162.573	287951	22	26	312	u	u	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	6332	0	0.87
+1440068162.979	287951	22	27	407	l	l	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	6739	0	0.87
+1440068163.291	287951	22	28	311	u	u	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	7050	0	0.87
+1440068163.416	287951	22	29	125	u	u	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	7175	0	0.87
+1440068163.728	287951	22	30	312	_	space	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	7487	0	0.87
+1440068163.977	287951	22	31	249	h	h	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	7736	0	0.87
+1440068164.133	287951	22	32	156	y	y	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	7892	0	0.87
+1440068164.632	287951	22	33	499	v	v	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	8391	0	0.87
+1440068165.756	287951	22	34	1125	ä	adiaeresis	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	9516	0	0.87
+1440068165.912	287951	22	35	155	ä	adiaeresis	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	9671	0	0.87
+1440068166.629	287951	22	36	717	,	comma	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	10388	0	0.87
+1440068167.16	287951	22	37	532		BackSpace	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	10920	0	0.87
+1440068167.44	287951	22	38	280	.	period	Toivottavasti teille kuuluu hyvää.	 35.36	 200.85	Toivottavasti teille kuuluu hyvää.	Sentences	11200	0	0.87
+1440068169.078	287951	23	0	0	Shift_L	Shift_L	Se olisi hienoa.	 48.09	  80.47	Se olisi hienoa.	Sentences	0	0	0.94
+1440068169.234	287951	23	1	155	S	S	Se olisi hienoa.	 48.09	  80.47	Se olisi hienoa.	Sentences	155	0	0.94
+1440068169.422	287951	23	2	188	e	e	Se olisi hienoa.	 48.09	  80.47	Se olisi hienoa.	Sentences	343	0	0.94
+1440068169.734	287951	23	3	312	_	space	Se olisi hienoa.	 48.09	  80.47	Se olisi hienoa.	Sentences	655	0	0.94
+1440068170.077	287951	23	4	343	o	o	Se olisi hienoa.	 48.09	  80.47	Se olisi hienoa.	Sentences	998	0	0.94
+1440068170.264	287951	23	5	187	l	l	Se olisi hienoa.	 48.09	  80.47	Se olisi hienoa.	Sentences	1185	0	0.94
+1440068170.451	287951	23	6	187	i	i	Se olisi hienoa.	 48.09	  80.47	Se olisi hienoa.	Sentences	1372	0	0.94
+1440068170.607	287951	23	7	157	s	s	Se olisi hienoa.	 48.09	  80.47	Se olisi hienoa.	Sentences	1529	0	0.94
+1440068170.763	287951	23	8	155	i	i	Se olisi hienoa.	 48.09	  80.47	Se olisi hienoa.	Sentences	1684	0	0.94
+1440068171.044	287951	23	9	281	_	space	Se olisi hienoa.	 48.09	  80.47	Se olisi hienoa.	Sentences	1965	0	0.94
+1440068171.356	287951	23	10	312	h	h	Se olisi hienoa.	 48.09	  80.47	Se olisi hienoa.	Sentences	2277	0	0.94
+1440068171.543	287951	23	11	187	i	i	Se olisi hienoa.	 48.09	  80.47	Se olisi hienoa.	Sentences	2464	0	0.94
+1440068171.73	287951	23	12	187	e	e	Se olisi hienoa.	 48.09	  80.47	Se olisi hienoa.	Sentences	2651	0	0.94
+1440068171.949	287951	23	13	219	n	n	Se olisi hienoa.	 48.09	  80.47	Se olisi hienoa.	Sentences	2870	0	0.94
+1440068172.167	287951	23	14	218	o	o	Se olisi hienoa.	 48.09	  80.47	Se olisi hienoa.	Sentences	3088	0	0.94
+1440068172.386	287951	23	15	219	a	a	Se olisi hienoa.	 48.09	  80.47	Se olisi hienoa.	Sentences	3307	0	0.94
+1440068172.822	287951	23	16	436	.	period	Se olisi hienoa.	 48.09	  80.47	Se olisi hienoa.	Sentences	3743	0	0.94
+1440068174.57	287951	24	0	0	Shift_L	Shift_L	Luulen tämän olevan hyvä.	 45.48	  81.06	Luulen tämän olevan hyvä.	Sentences	0	0	0.96
+1440068174.85	287951	24	1	279	L	L	Luulen tämän olevan hyvä.	 45.48	  81.06	Luulen tämän olevan hyvä.	Sentences	279	0	0.96
+1440068175.256	287951	24	2	407	u	u	Luulen tämän olevan hyvä.	 45.48	  81.06	Luulen tämän olevan hyvä.	Sentences	686	0	0.96
+1440068175.412	287951	24	3	156	u	u	Luulen tämän olevan hyvä.	 45.48	  81.06	Luulen tämän olevan hyvä.	Sentences	842	0	0.96
+1440068175.755	287951	24	4	343	l	l	Luulen tämän olevan hyvä.	 45.48	  81.06	Luulen tämän olevan hyvä.	Sentences	1185	0	0.96
+1440068176.036	287951	24	5	281	e	e	Luulen tämän olevan hyvä.	 45.48	  81.06	Luulen tämän olevan hyvä.	Sentences	1466	0	0.96
+1440068176.254	287951	24	6	218	n	n	Luulen tämän olevan hyvä.	 45.48	  81.06	Luulen tämän olevan hyvä.	Sentences	1684	0	0.96
+1440068176.442	287951	24	7	187	_	space	Luulen tämän olevan hyvä.	 45.48	  81.06	Luulen tämän olevan hyvä.	Sentences	1871	0	0.96
+1440068176.598	287951	24	8	157	t	t	Luulen tämän olevan hyvä.	 45.48	  81.06	Luulen tämän olevan hyvä.	Sentences	2028	0	0.96
+1440068176.972	287951	24	9	373	ä	adiaeresis	Luulen tämän olevan hyvä.	 45.48	  81.06	Luulen tämän olevan hyvä.	Sentences	2401	0	0.96
+1440068177.253	287951	24	10	282	m	m	Luulen tämän olevan hyvä.	 45.48	  81.06	Luulen tämän olevan hyvä.	Sentences	2683	0	0.96
+1440068177.658	287951	24	11	405	ä	adiaeresis	Luulen tämän olevan hyvä.	 45.48	  81.06	Luulen tämän olevan hyvä.	Sentences	3088	0	0.96
+1440068177.939	287951	24	12	280	n	n	Luulen tämän olevan hyvä.	 45.48	  81.06	Luulen tämän olevan hyvä.	Sentences	3368	0	0.96
+1440068178.126	287951	24	13	187	_	space	Luulen tämän olevan hyvä.	 45.48	  81.06	Luulen tämän olevan hyvä.	Sentences	3555	0	0.96
+1440068178.376	287951	24	14	250	o	o	Luulen tämän olevan hyvä.	 45.48	  81.06	Luulen tämän olevan hyvä.	Sentences	3805	0	0.96
+1440068178.563	287951	24	15	188	l	l	Luulen tämän olevan hyvä.	 45.48	  81.06	Luulen tämän olevan hyvä.	Sentences	3993	0	0.96
+1440068178.719	287951	24	16	156	e	e	Luulen tämän olevan hyvä.	 45.48	  81.06	Luulen tämän olevan hyvä.	Sentences	4149	0	0.96
+1440068178.969	287951	24	17	250	v	v	Luulen tämän olevan hyvä.	 45.48	  81.06	Luulen tämän olevan hyvä.	Sentences	4399	0	0.96
+1440068179.187	287951	24	18	218	a	a	Luulen tämän olevan hyvä.	 45.48	  81.06	Luulen tämän olevan hyvä.	Sentences	4617	0	0.96
+1440068179.406	287951	24	19	218	n	n	Luulen tämän olevan hyvä.	 45.48	  81.06	Luulen tämän olevan hyvä.	Sentences	4835	0	0.96
+1440068179.593	287951	24	20	188	_	space	Luulen tämän olevan hyvä.	 45.48	  81.06	Luulen tämän olevan hyvä.	Sentences	5023	0	0.96
+1440068179.78	287951	24	21	187	h	h	Luulen tämän olevan hyvä.	 45.48	  81.06	Luulen tämän olevan hyvä.	Sentences	5210	0	0.96
+1440068179.967	287951	24	22	187	y	y	Luulen tämän olevan hyvä.	 45.48	  81.06	Luulen tämän olevan hyvä.	Sentences	5397	0	0.96
+1440068180.186	287951	24	23	219	v	v	Luulen tämän olevan hyvä.	 45.48	  81.06	Luulen tämän olevan hyvä.	Sentences	5616	0	0.96
+1440068180.591	287951	24	24	405	ä	adiaeresis	Luulen tämän olevan hyvä.	 45.48	  81.06	Luulen tämän olevan hyvä.	Sentences	6021	0	0.96
+1440068180.903	287951	24	25	312	.	period	Luulen tämän olevan hyvä.	 45.48	  81.06	Luulen tämän olevan hyvä.	Sentences	6333	0	0.96
+1440068183.274	287951	25	0	0	Shift_L	Shift_L	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	0	0	0.89
+1440068183.43	287951	25	1	156	M	M	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	156	0	0.89
+1440068183.742	287951	25	2	312	e	e	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	468	0	0.89
+1440068184.023	287951	25	3	281	i	i	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	749	0	0.89
+1440068184.304	287951	25	4	280	d	d	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	1029	0	0.89
+1440068184.678	287951	25	5	375	ä	adiaeresis	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	1404	0	0.89
+1440068184.99	287951	25	6	312	n	n	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	1716	0	0.89
+1440068185.146	287951	25	7	155	_	space	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	1871	0	0.89
+1440068185.427	287951	25	8	282	t	t	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	2153	0	0.89
+1440068186.238	287951	25	9	810	ä	adiaeresis	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	2963	0	0.89
+1440068186.644	287951	25	10	407	y	y	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	3370	0	0.89
+1440068186.862	287951	25	11	218	t	t	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	3588	0	0.89
+1440068187.081	287951	25	12	219	y	y	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	3807	0	0.89
+1440068187.206	287951	25	13	125	y	y	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	3932	0	0.89
+1440068187.549	287951	25	14	343	_	space	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	4275	0	0.89
+1440068187.798	287951	25	15	249	j	j	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	4524	0	0.89
+1440068187.954	287951	25	16	156	u	u	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	4680	0	0.89
+1440068188.204	287951	25	17	250	t	t	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	4930	0	0.89
+1440068188.422	287951	25	18	218	w	w	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	5148	0	0.89
+1440068188.422	287951	25	19	0	e	e	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	5148	0	0.89
+1440068189.826	287951	25	20	1404		BackSpace	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	6552	0	0.89
+1440068189.982	287951	25	21	156		BackSpace	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	6708	0	0.89
+1440068190.856	287951	25	22	874	e	e	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	7582	0	0.89
+1440068191.137	287951	25	23	281	l	l	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	7863	0	0.89
+1440068191.293	287951	25	24	156	l	l	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	8019	0	0.89
+1440068191.605	287951	25	25	312	a	a	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	8331	0	0.89
+1440068191.792	287951	25	26	187	_	space	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	8518	0	0.89
+1440068192.198	287951	25	27	406	t	t	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	8924	0	0.89
+1440068192.603	287951	25	28	404	ä	adiaeresis	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	9328	0	0.89
+1440068192.79	287951	25	29	188	s	s	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	9516	0	0.89
+1440068193.165	287951	25	30	375	t	t	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	9891	0	0.89
+1440068193.446	287951	25	31	281	ä	adiaeresis	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	10172	0	0.89
+1440068193.726	287951	25	32	280	_	space	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	10452	0	0.89
+1440068193.976	287951	25	33	250	k	k	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	10702	0	0.89
+1440068194.226	287951	25	34	250	u	u	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	10952	0	0.89
+1440068194.382	287951	25	35	156	u	u	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	11108	0	0.89
+1440068194.6	287951	25	36	217	k	k	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	11325	0	0.89
+1440068194.756	287951	25	37	157	a	a	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	11482	0	0.89
+1440068194.943	287951	25	38	187	u	u	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	11669	0	0.89
+1440068195.505	287951	25	39	562	d	d	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	12231	0	0.89
+1440068195.723	287951	25	40	218	e	e	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	12449	0	0.89
+1440068195.973	287951	25	41	250	s	s	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	12699	0	0.89
+1440068196.285	287951	25	42	312	t	t	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	13011	0	0.89
+1440068196.41	287951	25	43	125	a	a	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	13136	0	0.89
+1440068197.47	287951	25	44	1060	.	period	Meidän täytyy jutella tästä kuukaudesta.	 32.97	 256.15	Meidän täytyy jutella tästä kuukaudesta.	Sentences	14196	0	0.89
+1440068200.497	287951	26	0	0	Shift_L	Shift_L	Saimmeko omamme takaisin?	 35.37	 303.99	Saimmeko omamme takaisin?	Sentences	0	0	0.93
+1440068200.715	287951	26	1	217	S	S	Saimmeko omamme takaisin?	 35.37	 303.99	Saimmeko omamme takaisin?	Sentences	217	0	0.93
+1440068201.058	287951	26	2	344	a	a	Saimmeko omamme takaisin?	 35.37	 303.99	Saimmeko omamme takaisin?	Sentences	561	0	0.93
+1440068201.994	287951	26	3	935	i	i	Saimmeko omamme takaisin?	 35.37	 303.99	Saimmeko omamme takaisin?	Sentences	1496	0	0.93
+1440068202.275	287951	26	4	282	m	m	Saimmeko omamme takaisin?	 35.37	 303.99	Saimmeko omamme takaisin?	Sentences	1778	0	0.93
+1440068202.4	287951	26	5	125	m	m	Saimmeko omamme takaisin?	 35.37	 303.99	Saimmeko omamme takaisin?	Sentences	1903	0	0.93
+1440068202.556	287951	26	6	156	e	e	Saimmeko omamme takaisin?	 35.37	 303.99	Saimmeko omamme takaisin?	Sentences	2059	0	0.93
+1440068202.743	287951	26	7	187	k	k	Saimmeko omamme takaisin?	 35.37	 303.99	Saimmeko omamme takaisin?	Sentences	2246	0	0.93
+1440068202.899	287951	26	8	155	o	o	Saimmeko omamme takaisin?	 35.37	 303.99	Saimmeko omamme takaisin?	Sentences	2401	0	0.93
+1440068203.149	287951	26	9	250	_	space	Saimmeko omamme takaisin?	 35.37	 303.99	Saimmeko omamme takaisin?	Sentences	2651	0	0.93
+1440068203.461	287951	26	10	312	o	o	Saimmeko omamme takaisin?	 35.37	 303.99	Saimmeko omamme takaisin?	Sentences	2963	0	0.93
+1440068203.71	287951	26	11	250	m	m	Saimmeko omamme takaisin?	 35.37	 303.99	Saimmeko omamme takaisin?	Sentences	3213	0	0.93
+1440068203.898	287951	26	12	188	a	a	Saimmeko omamme takaisin?	 35.37	 303.99	Saimmeko omamme takaisin?	Sentences	3401	0	0.93
+1440068204.054	287951	26	13	155	m	m	Saimmeko omamme takaisin?	 35.37	 303.99	Saimmeko omamme takaisin?	Sentences	3556	0	0.93
+1440068204.241	287951	26	14	187	m	m	Saimmeko omamme takaisin?	 35.37	 303.99	Saimmeko omamme takaisin?	Sentences	3743	0	0.93
+1440068205.77	287951	26	15	1530	e	e	Saimmeko omamme takaisin?	 35.37	 303.99	Saimmeko omamme takaisin?	Sentences	5273	0	0.93
+1440068206.082	287951	26	16	312	_	space	Saimmeko omamme takaisin?	 35.37	 303.99	Saimmeko omamme takaisin?	Sentences	5585	0	0.93
+1440068206.737	287951	26	17	655	t	t	Saimmeko omamme takaisin?	 35.37	 303.99	Saimmeko omamme takaisin?	Sentences	6240	0	0.93
+1440068206.893	287951	26	18	155	a	a	Saimmeko omamme takaisin?	 35.37	 303.99	Saimmeko omamme takaisin?	Sentences	6395	0	0.93
+1440068207.142	287951	26	19	249	k	k	Saimmeko omamme takaisin?	 35.37	 303.99	Saimmeko omamme takaisin?	Sentences	6644	0	0.93
+1440068207.267	287951	26	20	125	a	a	Saimmeko omamme takaisin?	 35.37	 303.99	Saimmeko omamme takaisin?	Sentences	6769	0	0.93
+1440068207.454	287951	26	21	188	i	i	Saimmeko omamme takaisin?	 35.37	 303.99	Saimmeko omamme takaisin?	Sentences	6957	0	0.93
+1440068207.579	287951	26	22	125	s	s	Saimmeko omamme takaisin?	 35.37	 303.99	Saimmeko omamme takaisin?	Sentences	7082	0	0.93
+1440068207.735	287951	26	23	155	i	i	Saimmeko omamme takaisin?	 35.37	 303.99	Saimmeko omamme takaisin?	Sentences	7237	0	0.93
+1440068208.016	287951	26	24	282	n	n	Saimmeko omamme takaisin?	 35.37	 303.99	Saimmeko omamme takaisin?	Sentences	7519	0	0.93
+1440068208.39	287951	26	25	374	Shift_L	Shift_L	Saimmeko omamme takaisin?	 35.37	 303.99	Saimmeko omamme takaisin?	Sentences	7893	0	0.93
+1440068208.64	287951	26	26	250	?	question	Saimmeko omamme takaisin?	 35.37	 303.99	Saimmeko omamme takaisin?	Sentences	8143	0	0.93
+1440068210.138	287951	27	0	0	Shift_L	Shift_L	Kunhan pelleilen ikanssasi!	 42.55	 129.48	Kunhan pelleilen ikanssasi!	Sentences	0	0	0.93
+1440068210.356	287951	27	1	217	K	K	Kunhan pelleilen ikanssasi!	 42.55	 129.48	Kunhan pelleilen ikanssasi!	Sentences	217	0	0.93
+1440068210.606	287951	27	2	250	u	u	Kunhan pelleilen ikanssasi!	 42.55	 129.48	Kunhan pelleilen ikanssasi!	Sentences	467	0	0.93
+1440068210.855	287951	27	3	250	n	n	Kunhan pelleilen ikanssasi!	 42.55	 129.48	Kunhan pelleilen ikanssasi!	Sentences	717	0	0.93
+1440068211.198	287951	27	4	342	h	h	Kunhan pelleilen ikanssasi!	 42.55	 129.48	Kunhan pelleilen ikanssasi!	Sentences	1059	0	0.93
+1440068211.354	287951	27	5	157	a	a	Kunhan pelleilen ikanssasi!	 42.55	 129.48	Kunhan pelleilen ikanssasi!	Sentences	1216	0	0.93
+1440068211.573	287951	27	6	218	n	n	Kunhan pelleilen ikanssasi!	 42.55	 129.48	Kunhan pelleilen ikanssasi!	Sentences	1434	0	0.93
+1440068211.729	287951	27	7	157	_	space	Kunhan pelleilen ikanssasi!	 42.55	 129.48	Kunhan pelleilen ikanssasi!	Sentences	1591	0	0.93
+1440068212.041	287951	27	8	311	p	p	Kunhan pelleilen ikanssasi!	 42.55	 129.48	Kunhan pelleilen ikanssasi!	Sentences	1902	0	0.93
+1440068212.29	287951	27	9	249	e	e	Kunhan pelleilen ikanssasi!	 42.55	 129.48	Kunhan pelleilen ikanssasi!	Sentences	2151	0	0.93
+1440068212.79	287951	27	10	500	l	l	Kunhan pelleilen ikanssasi!	 42.55	 129.48	Kunhan pelleilen ikanssasi!	Sentences	2651	0	0.93
+1440068212.946	287951	27	11	157	l	l	Kunhan pelleilen ikanssasi!	 42.55	 129.48	Kunhan pelleilen ikanssasi!	Sentences	2808	0	0.93
+1440068213.632	287951	27	12	685	e	e	Kunhan pelleilen ikanssasi!	 42.55	 129.48	Kunhan pelleilen ikanssasi!	Sentences	3493	0	0.93
+1440068213.819	287951	27	13	187	i	i	Kunhan pelleilen ikanssasi!	 42.55	 129.48	Kunhan pelleilen ikanssasi!	Sentences	3680	0	0.93
+1440068214.038	287951	27	14	220	l	l	Kunhan pelleilen ikanssasi!	 42.55	 129.48	Kunhan pelleilen ikanssasi!	Sentences	3900	0	0.93
+1440068214.194	287951	27	15	155	e	e	Kunhan pelleilen ikanssasi!	 42.55	 129.48	Kunhan pelleilen ikanssasi!	Sentences	4055	0	0.93
+1440068214.381	287951	27	16	188	n	n	Kunhan pelleilen ikanssasi!	 42.55	 129.48	Kunhan pelleilen ikanssasi!	Sentences	4243	0	0.93
+1440068214.599	287951	27	17	217	_	space	Kunhan pelleilen ikanssasi!	 42.55	 129.48	Kunhan pelleilen ikanssasi!	Sentences	4460	0	0.93
+1440068214.818	287951	27	18	220	i	i	Kunhan pelleilen ikanssasi!	 42.55	 129.48	Kunhan pelleilen ikanssasi!	Sentences	4680	0	0.93
+1440068214.818	287951	27	19	0	k	k	Kunhan pelleilen ikanssasi!	 42.55	 129.48	Kunhan pelleilen ikanssasi!	Sentences	4680	0	0.93
+1440068214.942	287951	27	20	123	a	a	Kunhan pelleilen ikanssasi!	 42.55	 129.48	Kunhan pelleilen ikanssasi!	Sentences	4803	0	0.93
+1440068215.379	287951	27	21	437	n	n	Kunhan pelleilen ikanssasi!	 42.55	 129.48	Kunhan pelleilen ikanssasi!	Sentences	5240	0	0.93
+1440068215.629	287951	27	22	250	s	s	Kunhan pelleilen ikanssasi!	 42.55	 129.48	Kunhan pelleilen ikanssasi!	Sentences	5490	0	0.93
+1440068215.816	287951	27	23	187	s	s	Kunhan pelleilen ikanssasi!	 42.55	 129.48	Kunhan pelleilen ikanssasi!	Sentences	5677	0	0.93
+1440068216.159	287951	27	24	343	a	a	Kunhan pelleilen ikanssasi!	 42.55	 129.48	Kunhan pelleilen ikanssasi!	Sentences	6020	0	0.93
+1440068216.378	287951	27	25	220	s	s	Kunhan pelleilen ikanssasi!	 42.55	 129.48	Kunhan pelleilen ikanssasi!	Sentences	6240	0	0.93
+1440068216.783	287951	27	26	404	i	i	Kunhan pelleilen ikanssasi!	 42.55	 129.48	Kunhan pelleilen ikanssasi!	Sentences	6644	0	0.93
+1440068217.251	287951	27	27	468	Shift_L	Shift_L	Kunhan pelleilen ikanssasi!	 42.55	 129.48	Kunhan pelleilen ikanssasi!	Sentences	7112	0	0.93
+1440068217.47	287951	27	28	220	!	exclam	Kunhan pelleilen ikanssasi!	 42.55	 129.48	Kunhan pelleilen ikanssasi!	Sentences	7332	0	0.93
+1440068219.56	287951	28	0	0	Shift_L	Shift_L	Kuinka niin?	 49.79	  45.27	Kuinka niin?	Sentences	0	0	0.86
+1440068219.81	287951	28	1	250	K	K	Kuinka niin?	 49.79	  45.27	Kuinka niin?	Sentences	250	0	0.86
+1440068220.059	287951	28	2	249	u	u	Kuinka niin?	 49.79	  45.27	Kuinka niin?	Sentences	499	0	0.86
+1440068220.215	287951	28	3	155	i	i	Kuinka niin?	 49.79	  45.27	Kuinka niin?	Sentences	654	0	0.86
+1440068220.402	287951	28	4	188	n	n	Kuinka niin?	 49.79	  45.27	Kuinka niin?	Sentences	842	0	0.86
+1440068220.59	287951	28	5	187	k	k	Kuinka niin?	 49.79	  45.27	Kuinka niin?	Sentences	1029	0	0.86
+1440068220.746	287951	28	6	157	a	a	Kuinka niin?	 49.79	  45.27	Kuinka niin?	Sentences	1186	0	0.86
+1440068220.933	287951	28	7	187	_	space	Kuinka niin?	 49.79	  45.27	Kuinka niin?	Sentences	1373	0	0.86
+1440068221.214	287951	28	8	281	n	n	Kuinka niin?	 49.79	  45.27	Kuinka niin?	Sentences	1654	0	0.86
+1440068221.432	287951	28	9	217	i	i	Kuinka niin?	 49.79	  45.27	Kuinka niin?	Sentences	1871	0	0.86
+1440068221.557	287951	28	10	125	i	i	Kuinka niin?	 49.79	  45.27	Kuinka niin?	Sentences	1996	0	0.86
+1440068221.806	287951	28	11	250	n	n	Kuinka niin?	 49.79	  45.27	Kuinka niin?	Sentences	2246	0	0.86
+1440068222.025	287951	28	12	219	Shift_L	Shift_L	Kuinka niin?	 49.79	  45.27	Kuinka niin?	Sentences	2465	0	0.86
+1440068222.212	287951	28	13	186	?	question	Kuinka niin?	 49.79	  45.27	Kuinka niin?	Sentences	2651	0	0.86
+1440068223.71	287951	29	0	0	Shift_L	Shift_L	Oikein hyvää matkaa!	 30.58	 279.13	Oikein hyvää matkaa!	Sentences	0	0	0.91
+1440068224.115	287951	29	1	404	O	O	Oikein hyvää matkaa!	 30.58	 279.13	Oikein hyvää matkaa!	Sentences	404	0	0.91
+1440068224.334	287951	29	2	220	i	i	Oikein hyvää matkaa!	 30.58	 279.13	Oikein hyvää matkaa!	Sentences	624	0	0.91
+1440068224.521	287951	29	3	186	k	k	Oikein hyvää matkaa!	 30.58	 279.13	Oikein hyvää matkaa!	Sentences	810	0	0.91
+1440068225.114	287951	29	4	594	e	e	Oikein hyvää matkaa!	 30.58	 279.13	Oikein hyvää matkaa!	Sentences	1404	0	0.91
+1440068225.363	287951	29	5	248	i	i	Oikein hyvää matkaa!	 30.58	 279.13	Oikein hyvää matkaa!	Sentences	1652	0	0.91
+1440068225.613	287951	29	6	250	n	n	Oikein hyvää matkaa!	 30.58	 279.13	Oikein hyvää matkaa!	Sentences	1902	0	0.91
+1440068225.831	287951	29	7	219	_	space	Oikein hyvää matkaa!	 30.58	 279.13	Oikein hyvää matkaa!	Sentences	2121	0	0.91
+1440068226.081	287951	29	8	250	h	h	Oikein hyvää matkaa!	 30.58	 279.13	Oikein hyvää matkaa!	Sentences	2371	0	0.91
+1440068226.237	287951	29	9	155	y	y	Oikein hyvää matkaa!	 30.58	 279.13	Oikein hyvää matkaa!	Sentences	2526	0	0.91
+1440068226.455	287951	29	10	218	v	v	Oikein hyvää matkaa!	 30.58	 279.13	Oikein hyvää matkaa!	Sentences	2744	0	0.91
+1440068226.798	287951	29	11	344	ä	adiaeresis	Oikein hyvää matkaa!	 30.58	 279.13	Oikein hyvää matkaa!	Sentences	3088	0	0.91
+1440068226.954	287951	29	12	155	ä	adiaeresis	Oikein hyvää matkaa!	 30.58	 279.13	Oikein hyvää matkaa!	Sentences	3243	0	0.91
+1440068227.235	287951	29	13	281	_	space	Oikein hyvää matkaa!	 30.58	 279.13	Oikein hyvää matkaa!	Sentences	3524	0	0.91
+1440068227.485	287951	29	14	250	m	m	Oikein hyvää matkaa!	 30.58	 279.13	Oikein hyvää matkaa!	Sentences	3774	0	0.91
+1440068228.296	287951	29	15	811	a	a	Oikein hyvää matkaa!	 30.58	 279.13	Oikein hyvää matkaa!	Sentences	4585	0	0.91
+1440068228.452	287951	29	16	156	t	t	Oikein hyvää matkaa!	 30.58	 279.13	Oikein hyvää matkaa!	Sentences	4741	0	0.91
+1440068228.92	287951	29	17	469	k	k	Oikein hyvää matkaa!	 30.58	 279.13	Oikein hyvää matkaa!	Sentences	5210	0	0.91
+1440068229.045	287951	29	18	125	a	a	Oikein hyvää matkaa!	 30.58	 279.13	Oikein hyvää matkaa!	Sentences	5335	0	0.91
+1440068230.324	287951	29	19	1278	a	a	Oikein hyvää matkaa!	 30.58	 279.13	Oikein hyvää matkaa!	Sentences	6613	0	0.91
+1440068230.979	287951	29	20	656	Shift_L	Shift_L	Oikein hyvää matkaa!	 30.58	 279.13	Oikein hyvää matkaa!	Sentences	7269	0	0.91
+1440068231.166	287951	29	21	186	!	exclam	Oikein hyvää matkaa!	 30.58	 279.13	Oikein hyvää matkaa!	Sentences	7455	0	0.91
+1440068232.789	287951	30	0	0	Shift_L	Shift_L	Hyvää lomaa sinullekin.	 29.18	 328.57	Hyvää lomaa sinullekin.	Sentences	0	0	0.77
+1440068233.101	287951	30	1	312	H	H	Hyvää lomaa sinullekin.	 29.18	 328.57	Hyvää lomaa sinullekin.	Sentences	312	0	0.77
+1440068233.35	287951	30	2	248	y	y	Hyvää lomaa sinullekin.	 29.18	 328.57	Hyvää lomaa sinullekin.	Sentences	560	0	0.77
+1440068233.6	287951	30	3	250	v	v	Hyvää lomaa sinullekin.	 29.18	 328.57	Hyvää lomaa sinullekin.	Sentences	810	0	0.77
+1440068233.943	287951	30	4	344	ä	adiaeresis	Hyvää lomaa sinullekin.	 29.18	 328.57	Hyvää lomaa sinullekin.	Sentences	1154	0	0.77
+1440068234.099	287951	30	5	155	ä	adiaeresis	Hyvää lomaa sinullekin.	 29.18	 328.57	Hyvää lomaa sinullekin.	Sentences	1309	0	0.77
+1440068234.349	287951	30	6	250	_	space	Hyvää lomaa sinullekin.	 29.18	 328.57	Hyvää lomaa sinullekin.	Sentences	1559	0	0.77
+1440068234.661	287951	30	7	312	o	o	Hyvää lomaa sinullekin.	 29.18	 328.57	Hyvää lomaa sinullekin.	Sentences	1871	0	0.77
+1440068234.661	287951	30	8	0	l	l	Hyvää lomaa sinullekin.	 29.18	 328.57	Hyvää lomaa sinullekin.	Sentences	1871	0	0.77
+1440068236.096	287951	30	9	1435		BackSpace	Hyvää lomaa sinullekin.	 29.18	 328.57	Hyvää lomaa sinullekin.	Sentences	3306	0	0.77
+1440068236.283	287951	30	10	187		BackSpace	Hyvää lomaa sinullekin.	 29.18	 328.57	Hyvää lomaa sinullekin.	Sentences	3493	0	0.77
+1440068236.876	287951	30	11	593	l	l	Hyvää lomaa sinullekin.	 29.18	 328.57	Hyvää lomaa sinullekin.	Sentences	4086	0	0.77
+1440068237.063	287951	30	12	187	o	o	Hyvää lomaa sinullekin.	 29.18	 328.57	Hyvää lomaa sinullekin.	Sentences	4273	0	0.77
+1440068237.282	287951	30	13	220	m	m	Hyvää lomaa sinullekin.	 29.18	 328.57	Hyvää lomaa sinullekin.	Sentences	4493	0	0.77
+1440068237.438	287951	30	14	155	a	a	Hyvää lomaa sinullekin.	 29.18	 328.57	Hyvää lomaa sinullekin.	Sentences	4648	0	0.77
+1440068237.625	287951	30	15	187	a	a	Hyvää lomaa sinullekin.	 29.18	 328.57	Hyvää lomaa sinullekin.	Sentences	4835	0	0.77
+1440068237.75	287951	30	16	125	_	space	Hyvää lomaa sinullekin.	 29.18	 328.57	Hyvää lomaa sinullekin.	Sentences	4960	0	0.77
+1440068237.906	287951	30	17	156	s	s	Hyvää lomaa sinullekin.	 29.18	 328.57	Hyvää lomaa sinullekin.	Sentences	5116	0	0.77
+1440068238.155	287951	30	18	249	i	i	Hyvää lomaa sinullekin.	 29.18	 328.57	Hyvää lomaa sinullekin.	Sentences	5365	0	0.77
+1440068238.436	287951	30	19	282	n	n	Hyvää lomaa sinullekin.	 29.18	 328.57	Hyvää lomaa sinullekin.	Sentences	5647	0	0.77
+1440068238.686	287951	30	20	250	u	u	Hyvää lomaa sinullekin.	 29.18	 328.57	Hyvää lomaa sinullekin.	Sentences	5897	0	0.77
+1440068239.091	287951	30	21	405	l	l	Hyvää lomaa sinullekin.	 29.18	 328.57	Hyvää lomaa sinullekin.	Sentences	6302	0	0.77
+1440068239.247	287951	30	22	155	l	l	Hyvää lomaa sinullekin.	 29.18	 328.57	Hyvää lomaa sinullekin.	Sentences	6457	0	0.77
+1440068239.372	287951	30	23	125	e	e	Hyvää lomaa sinullekin.	 29.18	 328.57	Hyvää lomaa sinullekin.	Sentences	6582	0	0.77
+1440068239.559	287951	30	24	187	k	k	Hyvää lomaa sinullekin.	 29.18	 328.57	Hyvää lomaa sinullekin.	Sentences	6769	0	0.77
+1440068239.746	287951	30	25	188	i	i	Hyvää lomaa sinullekin.	 29.18	 328.57	Hyvää lomaa sinullekin.	Sentences	6957	0	0.77
+1440068240.121	287951	30	26	375	n	n	Hyvää lomaa sinullekin.	 29.18	 328.57	Hyvää lomaa sinullekin.	Sentences	7332	0	0.77
+1440068240.121	287951	30	27	0	_	space	Hyvää lomaa sinullekin.	 29.18	 328.57	Hyvää lomaa sinullekin.	Sentences	7332	0	0.77
+1440068241.525	287951	30	28	1404		BackSpace	Hyvää lomaa sinullekin.	 29.18	 328.57	Hyvää lomaa sinullekin.	Sentences	8736	0	0.77
+1440068241.837	287951	30	29	311	.	period	Hyvää lomaa sinullekin.	 29.18	 328.57	Hyvää lomaa sinullekin.	Sentences	9047	0	0.77
+1440068243.21	287951	31	0	0	Shift_L	Shift_L	Kuinka voit?	 42.32	 103.04	Kuinka voit?	Sentences	0	0	0.86
+1440068243.397	287951	31	1	187	K	K	Kuinka voit?	 42.32	 103.04	Kuinka voit?	Sentences	187	0	0.86
+1440068243.646	287951	31	2	248	u	u	Kuinka voit?	 42.32	 103.04	Kuinka voit?	Sentences	435	0	0.86
+1440068243.834	287951	31	3	189	i	i	Kuinka voit?	 42.32	 103.04	Kuinka voit?	Sentences	624	0	0.86
+1440068244.021	287951	31	4	186	n	n	Kuinka voit?	 42.32	 103.04	Kuinka voit?	Sentences	810	0	0.86
+1440068244.208	287951	31	5	187	k	k	Kuinka voit?	 42.32	 103.04	Kuinka voit?	Sentences	997	0	0.86
+1440068244.395	287951	31	6	187	a	a	Kuinka voit?	 42.32	 103.04	Kuinka voit?	Sentences	1184	0	0.86
+1440068244.52	287951	31	7	125	_	space	Kuinka voit?	 42.32	 103.04	Kuinka voit?	Sentences	1309	0	0.86
+1440068244.801	287951	31	8	282	v	v	Kuinka voit?	 42.32	 103.04	Kuinka voit?	Sentences	1591	0	0.86
+1440068244.988	287951	31	9	186	o	o	Kuinka voit?	 42.32	 103.04	Kuinka voit?	Sentences	1777	0	0.86
+1440068245.144	287951	31	10	157	i	i	Kuinka voit?	 42.32	 103.04	Kuinka voit?	Sentences	1934	0	0.86
+1440068245.487	287951	31	11	342	t	t	Kuinka voit?	 42.32	 103.04	Kuinka voit?	Sentences	2276	0	0.86
+1440068245.986	287951	31	12	500	Shift_L	Shift_L	Kuinka voit?	 42.32	 103.04	Kuinka voit?	Sentences	2776	0	0.86
+1440068246.33	287951	31	13	343	?	question	Kuinka voit?	 42.32	 103.04	Kuinka voit?	Sentences	3119	0	0.86
+1440068248.295	287951	32	0	0	Shift_L	Shift_L	Voitko jo paremmin?	 37.83	 114.44	Voitko jo paremmin?	Sentences	0	0	0.90
+1440068248.919	287951	32	1	623	V	V	Voitko jo paremmin?	 37.83	 114.44	Voitko jo paremmin?	Sentences	623	0	0.90
+1440068249.262	287951	32	2	344	o	o	Voitko jo paremmin?	 37.83	 114.44	Voitko jo paremmin?	Sentences	967	0	0.90
+1440068249.45	287951	32	3	187	i	i	Voitko jo paremmin?	 37.83	 114.44	Voitko jo paremmin?	Sentences	1154	0	0.90
+1440068249.699	287951	32	4	249	t	t	Voitko jo paremmin?	 37.83	 114.44	Voitko jo paremmin?	Sentences	1403	0	0.90
+1440068250.136	287951	32	5	437	k	k	Voitko jo paremmin?	 37.83	 114.44	Voitko jo paremmin?	Sentences	1840	0	0.90
+1440068250.323	287951	32	6	187	o	o	Voitko jo paremmin?	 37.83	 114.44	Voitko jo paremmin?	Sentences	2027	0	0.90
+1440068250.542	287951	32	7	219	_	space	Voitko jo paremmin?	 37.83	 114.44	Voitko jo paremmin?	Sentences	2246	0	0.90
+1440068250.791	287951	32	8	249	j	j	Voitko jo paremmin?	 37.83	 114.44	Voitko jo paremmin?	Sentences	2495	0	0.90
+1440068251.01	287951	32	9	219	o	o	Voitko jo paremmin?	 37.83	 114.44	Voitko jo paremmin?	Sentences	2714	0	0.90
+1440068251.29	287951	32	10	280	_	space	Voitko jo paremmin?	 37.83	 114.44	Voitko jo paremmin?	Sentences	2994	0	0.90
+1440068251.54	287951	32	11	250	p	p	Voitko jo paremmin?	 37.83	 114.44	Voitko jo paremmin?	Sentences	3244	0	0.90
+1440068251.883	287951	32	12	343	a	a	Voitko jo paremmin?	 37.83	 114.44	Voitko jo paremmin?	Sentences	3587	0	0.90
+1440068252.226	287951	32	13	343	r	r	Voitko jo paremmin?	 37.83	 114.44	Voitko jo paremmin?	Sentences	3930	0	0.90
+1440068252.382	287951	32	14	156	e	e	Voitko jo paremmin?	 37.83	 114.44	Voitko jo paremmin?	Sentences	4086	0	0.90
+1440068252.726	287951	32	15	344	m	m	Voitko jo paremmin?	 37.83	 114.44	Voitko jo paremmin?	Sentences	4430	0	0.90
+1440068252.882	287951	32	16	156	m	m	Voitko jo paremmin?	 37.83	 114.44	Voitko jo paremmin?	Sentences	4586	0	0.90
+1440068253.1	287951	32	17	218	i	i	Voitko jo paremmin?	 37.83	 114.44	Voitko jo paremmin?	Sentences	4804	0	0.90
+1440068253.35	287951	32	18	250	n	n	Voitko jo paremmin?	 37.83	 114.44	Voitko jo paremmin?	Sentences	5054	0	0.90
+1440068253.786	287951	32	19	436	Shift_L	Shift_L	Voitko jo paremmin?	 37.83	 114.44	Voitko jo paremmin?	Sentences	5490	0	0.90
+1440068254.005	287951	32	20	220	?	question	Voitko jo paremmin?	 37.83	 114.44	Voitko jo paremmin?	Sentences	5710	0	0.90
+1440068255.596	287951	33	0	0	Shift_L	Shift_L	Aion osallistua	 41.74	  92.68	Aion osallistua	Sentences	0	0	0.94
+1440068255.877	287951	33	1	281	A	A	Aion osallistua	 41.74	  92.68	Aion osallistua	Sentences	281	0	0.94
+1440068256.376	287951	33	2	498	i	i	Aion osallistua	 41.74	  92.68	Aion osallistua	Sentences	779	0	0.94
+1440068256.594	287951	33	3	219	o	o	Aion osallistua	 41.74	  92.68	Aion osallistua	Sentences	998	0	0.94
+1440068256.875	287951	33	4	281	n	n	Aion osallistua	 41.74	  92.68	Aion osallistua	Sentences	1279	0	0.94
+1440068257.062	287951	33	5	187	_	space	Aion osallistua	 41.74	  92.68	Aion osallistua	Sentences	1466	0	0.94
+1440068257.437	287951	33	6	375	o	o	Aion osallistua	 41.74	  92.68	Aion osallistua	Sentences	1841	0	0.94
+1440068257.78	287951	33	7	343	s	s	Aion osallistua	 41.74	  92.68	Aion osallistua	Sentences	2184	0	0.94
+1440068257.998	287951	33	8	217	a	a	Aion osallistua	 41.74	  92.68	Aion osallistua	Sentences	2401	0	0.94
+1440068258.342	287951	33	9	345	l	l	Aion osallistua	 41.74	  92.68	Aion osallistua	Sentences	2746	0	0.94
+1440068258.498	287951	33	10	155	l	l	Aion osallistua	 41.74	  92.68	Aion osallistua	Sentences	2901	0	0.94
+1440068258.747	287951	33	11	250	i	i	Aion osallistua	 41.74	  92.68	Aion osallistua	Sentences	3151	0	0.94
+1440068258.934	287951	33	12	187	s	s	Aion osallistua	 41.74	  92.68	Aion osallistua	Sentences	3338	0	0.94
+1440068259.184	287951	33	13	250	t	t	Aion osallistua	 41.74	  92.68	Aion osallistua	Sentences	3588	0	0.94
+1440068259.465	287951	33	14	280	u	u	Aion osallistua	 41.74	  92.68	Aion osallistua	Sentences	3868	0	0.94
+1440068259.621	287951	33	15	157	a	a	Aion osallistua	 41.74	  92.68	Aion osallistua	Sentences	4025	0	0.94
+1440068261.649	287951	34	0	0	Shift_L	Shift_L	Lähetin sen hänelle.	 29.83	 340.24	Lähetin sen hänelle.	Sentences	0	0	0.87
+1440068261.836	287951	34	1	187	L	L	Lähetin sen hänelle.	 29.83	 340.24	Lähetin sen hänelle.	Sentences	187	0	0.87
+1440068262.554	287951	34	2	717	ä	adiaeresis	Lähetin sen hänelle.	 29.83	 340.24	Lähetin sen hänelle.	Sentences	904	0	0.87
+1440068262.897	287951	34	3	344	h	h	Lähetin sen hänelle.	 29.83	 340.24	Lähetin sen hänelle.	Sentences	1248	0	0.87
+1440068263.646	287951	34	4	748	t	t	Lähetin sen hänelle.	 29.83	 340.24	Lähetin sen hänelle.	Sentences	1996	0	0.87
+1440068265.33	287951	34	5	1684		BackSpace	Lähetin sen hänelle.	 29.83	 340.24	Lähetin sen hänelle.	Sentences	3680	0	0.87
+1440068265.518	287951	34	6	188	e	e	Lähetin sen hänelle.	 29.83	 340.24	Lähetin sen hänelle.	Sentences	3868	0	0.87
+1440068265.83	287951	34	7	312	t	t	Lähetin sen hänelle.	 29.83	 340.24	Lähetin sen hänelle.	Sentences	4180	0	0.87
+1440068266.079	287951	34	8	250	i	i	Lähetin sen hänelle.	 29.83	 340.24	Lähetin sen hänelle.	Sentences	4430	0	0.87
+1440068266.329	287951	34	9	250	n	n	Lähetin sen hänelle.	 29.83	 340.24	Lähetin sen hänelle.	Sentences	4680	0	0.87
+1440068266.516	287951	34	10	187	_	space	Lähetin sen hänelle.	 29.83	 340.24	Lähetin sen hänelle.	Sentences	4867	0	0.87
+1440068266.672	287951	34	11	156	s	s	Lähetin sen hänelle.	 29.83	 340.24	Lähetin sen hänelle.	Sentences	5023	0	0.87
+1440068266.89	287951	34	12	218	e	e	Lähetin sen hänelle.	 29.83	 340.24	Lähetin sen hänelle.	Sentences	5241	0	0.87
+1440068267.046	287951	34	13	156	n	n	Lähetin sen hänelle.	 29.83	 340.24	Lähetin sen hänelle.	Sentences	5397	0	0.87
+1440068267.234	287951	34	14	188	_	space	Lähetin sen hänelle.	 29.83	 340.24	Lähetin sen hänelle.	Sentences	5585	0	0.87
+1440068267.577	287951	34	15	342	h	h	Lähetin sen hänelle.	 29.83	 340.24	Lähetin sen hänelle.	Sentences	5927	0	0.87
+1440068267.889	287951	34	16	313	ä	adiaeresis	Lähetin sen hänelle.	 29.83	 340.24	Lähetin sen hänelle.	Sentences	6240	0	0.87
+1440068268.263	287951	34	17	374	n	n	Lähetin sen hänelle.	 29.83	 340.24	Lähetin sen hänelle.	Sentences	6614	0	0.87
+1440068268.419	287951	34	18	155	e	e	Lähetin sen hänelle.	 29.83	 340.24	Lähetin sen hänelle.	Sentences	6769	0	0.87
+1440068268.763	287951	34	19	345	l	l	Lähetin sen hänelle.	 29.83	 340.24	Lähetin sen hänelle.	Sentences	7114	0	0.87
+1440068268.887	287951	34	20	124	l	l	Lähetin sen hänelle.	 29.83	 340.24	Lähetin sen hänelle.	Sentences	7238	0	0.87
+1440068269.043	287951	34	21	156	e	e	Lähetin sen hänelle.	 29.83	 340.24	Lähetin sen hänelle.	Sentences	7394	0	0.87
+1440068269.293	287951	34	22	250	.	period	Lähetin sen hänelle.	 29.83	 340.24	Lähetin sen hänelle.	Sentences	7644	0	0.87
+1440068271.477	287951	35	0	0	Shift_L	Shift_L	Ymmärsitkö sinä tämän?	 22.25	 453.13	Ymmärsitkö sinä tämän?	Sentences	0	0	0.92
+1440068273.474	287951	35	1	1996	Y	Y	Ymmärsitkö sinä tämän?	 22.25	 453.13	Ymmärsitkö sinä tämän?	Sentences	1996	0	0.92
+1440068273.848	287951	35	2	375	m	m	Ymmärsitkö sinä tämän?	 22.25	 453.13	Ymmärsitkö sinä tämän?	Sentences	2371	0	0.92
+1440068274.004	287951	35	3	155	m	m	Ymmärsitkö sinä tämän?	 22.25	 453.13	Ymmärsitkö sinä tämän?	Sentences	2526	0	0.92
+1440068274.472	287951	35	4	468	ä	adiaeresis	Ymmärsitkö sinä tämän?	 22.25	 453.13	Ymmärsitkö sinä tämän?	Sentences	2994	0	0.92
+1440068274.847	287951	35	5	375	r	r	Ymmärsitkö sinä tämän?	 22.25	 453.13	Ymmärsitkö sinä tämän?	Sentences	3369	0	0.92
+1440068275.533	287951	35	6	686	s	s	Ymmärsitkö sinä tämän?	 22.25	 453.13	Ymmärsitkö sinä tämän?	Sentences	4055	0	0.92
+1440068276.313	287951	35	7	780	i	i	Ymmärsitkö sinä tämän?	 22.25	 453.13	Ymmärsitkö sinä tämän?	Sentences	4835	0	0.92
+1440068276.563	287951	35	8	250	t	t	Ymmärsitkö sinä tämän?	 22.25	 453.13	Ymmärsitkö sinä tämän?	Sentences	5085	0	0.92
+1440068277.967	287951	35	9	1405	k	k	Ymmärsitkö sinä tämän?	 22.25	 453.13	Ymmärsitkö sinä tämän?	Sentences	6490	0	0.92
+1440068278.341	287951	35	10	374	ö	odiaeresis	Ymmärsitkö sinä tämän?	 22.25	 453.13	Ymmärsitkö sinä tämän?	Sentences	6864	0	0.92
+1440068279.527	287951	35	11	1185	_	space	Ymmärsitkö sinä tämän?	 22.25	 453.13	Ymmärsitkö sinä tämän?	Sentences	8049	0	0.92
+1440068279.807	287951	35	12	280	s	s	Ymmärsitkö sinä tämän?	 22.25	 453.13	Ymmärsitkö sinä tämän?	Sentences	8329	0	0.92
+1440068280.026	287951	35	13	220	i	i	Ymmärsitkö sinä tämän?	 22.25	 453.13	Ymmärsitkö sinä tämän?	Sentences	8549	0	0.92
+1440068280.244	287951	35	14	217	n	n	Ymmärsitkö sinä tämän?	 22.25	 453.13	Ymmärsitkö sinä tämän?	Sentences	8766	0	0.92
+1440068280.525	287951	35	15	282	ä	adiaeresis	Ymmärsitkö sinä tämän?	 22.25	 453.13	Ymmärsitkö sinä tämän?	Sentences	9048	0	0.92
+1440068280.806	287951	35	16	280	_	space	Ymmärsitkö sinä tämän?	 22.25	 453.13	Ymmärsitkö sinä tämän?	Sentences	9328	0	0.92
+1440068281.055	287951	35	17	250	t	t	Ymmärsitkö sinä tämän?	 22.25	 453.13	Ymmärsitkö sinä tämän?	Sentences	9578	0	0.92
+1440068281.305	287951	35	18	250	ä	adiaeresis	Ymmärsitkö sinä tämän?	 22.25	 453.13	Ymmärsitkö sinä tämän?	Sentences	9828	0	0.92
+1440068281.617	287951	35	19	312	m	m	Ymmärsitkö sinä tämän?	 22.25	 453.13	Ymmärsitkö sinä tämän?	Sentences	10140	0	0.92
+1440068281.898	287951	35	20	281	ä	adiaeresis	Ymmärsitkö sinä tämän?	 22.25	 453.13	Ymmärsitkö sinä tämän?	Sentences	10421	0	0.92
+1440068282.241	287951	35	21	342	n	n	Ymmärsitkö sinä tämän?	 22.25	 453.13	Ymmärsitkö sinä tämän?	Sentences	10763	0	0.92
+1440068282.615	287951	35	22	375	Shift_L	Shift_L	Ymmärsitkö sinä tämän?	 22.25	 453.13	Ymmärsitkö sinä tämän?	Sentences	11138	0	0.92
+1440068282.803	287951	35	23	187	?	question	Ymmärsitkö sinä tämän?	 22.25	 453.13	Ymmärsitkö sinä tämän?	Sentences	11325	0	0.92
+1440068284.238	287951	36	0	0	Shift_L	Shift_L	Minkälainen tunnelma?	 40.07	 238.77	Minkälainen tunnelma?	Sentences	0	0	0.91
+1440068284.456	287951	36	1	218	M	M	Minkälainen tunnelma?	 40.07	 238.77	Minkälainen tunnelma?	Sentences	218	0	0.91
+1440068284.675	287951	36	2	219	i	i	Minkälainen tunnelma?	 40.07	 238.77	Minkälainen tunnelma?	Sentences	437	0	0.91
+1440068284.862	287951	36	3	187	n	n	Minkälainen tunnelma?	 40.07	 238.77	Minkälainen tunnelma?	Sentences	624	0	0.91
+1440068285.049	287951	36	4	187	k	k	Minkälainen tunnelma?	 40.07	 238.77	Minkälainen tunnelma?	Sentences	811	0	0.91
+1440068285.517	287951	36	5	468	ä	adiaeresis	Minkälainen tunnelma?	 40.07	 238.77	Minkälainen tunnelma?	Sentences	1279	0	0.91
+1440068285.767	287951	36	6	250	l	l	Minkälainen tunnelma?	 40.07	 238.77	Minkälainen tunnelma?	Sentences	1529	0	0.91
+1440068285.891	287951	36	7	124	a	a	Minkälainen tunnelma?	 40.07	 238.77	Minkälainen tunnelma?	Sentences	1653	0	0.91
+1440068286.141	287951	36	8	250	i	i	Minkälainen tunnelma?	 40.07	 238.77	Minkälainen tunnelma?	Sentences	1903	0	0.91
+1440068286.453	287951	36	9	312	n	n	Minkälainen tunnelma?	 40.07	 238.77	Minkälainen tunnelma?	Sentences	2215	0	0.91
+1440068286.578	287951	36	10	125	e	e	Minkälainen tunnelma?	 40.07	 238.77	Minkälainen tunnelma?	Sentences	2340	0	0.91
+1440068286.734	287951	36	11	156	n	n	Minkälainen tunnelma?	 40.07	 238.77	Minkälainen tunnelma?	Sentences	2496	0	0.91
+1440068286.952	287951	36	12	217	_	space	Minkälainen tunnelma?	 40.07	 238.77	Minkälainen tunnelma?	Sentences	2713	0	0.91
+1440068287.202	287951	36	13	250	t	t	Minkälainen tunnelma?	 40.07	 238.77	Minkälainen tunnelma?	Sentences	2963	0	0.91
+1440068287.42	287951	36	14	219	u	u	Minkälainen tunnelma?	 40.07	 238.77	Minkälainen tunnelma?	Sentences	3182	0	0.91
+1440068287.701	287951	36	15	281	n	n	Minkälainen tunnelma?	 40.07	 238.77	Minkälainen tunnelma?	Sentences	3463	0	0.91
+1440068287.826	287951	36	16	125	n	n	Minkälainen tunnelma?	 40.07	 238.77	Minkälainen tunnelma?	Sentences	3588	0	0.91
+1440068287.982	287951	36	17	156	e	e	Minkälainen tunnelma?	 40.07	 238.77	Minkälainen tunnelma?	Sentences	3744	0	0.91
+1440068288.263	287951	36	18	281	l	l	Minkälainen tunnelma?	 40.07	 238.77	Minkälainen tunnelma?	Sentences	4025	0	0.91
+1440068288.606	287951	36	19	343	m	m	Minkälainen tunnelma?	 40.07	 238.77	Minkälainen tunnelma?	Sentences	4368	0	0.91
+1440068288.762	287951	36	20	156	a	a	Minkälainen tunnelma?	 40.07	 238.77	Minkälainen tunnelma?	Sentences	4524	0	0.91
+1440068290.041	287951	36	21	1278	Shift_L	Shift_L	Minkälainen tunnelma?	 40.07	 238.77	Minkälainen tunnelma?	Sentences	5802	0	0.91
+1440068290.228	287951	36	22	188	?	question	Minkälainen tunnelma?	 40.07	 238.77	Minkälainen tunnelma?	Sentences	5990	0	0.91
+1440068291.632	287951	37	0	0	Shift_L	Shift_L	Onneksi olkoon.	 45.25	 100.10	Onneksi olkoon.	Sentences	0	0	0.94
+1440068292.007	287951	37	1	375	O	O	Onneksi olkoon.	 45.25	 100.10	Onneksi olkoon.	Sentences	375	0	0.94
+1440068292.319	287951	37	2	312	n	n	Onneksi olkoon.	 45.25	 100.10	Onneksi olkoon.	Sentences	687	0	0.94
+1440068292.443	287951	37	3	124	n	n	Onneksi olkoon.	 45.25	 100.10	Onneksi olkoon.	Sentences	811	0	0.94
+1440068292.662	287951	37	4	218	e	e	Onneksi olkoon.	 45.25	 100.10	Onneksi olkoon.	Sentences	1029	0	0.94
+1440068292.88	287951	37	5	219	k	k	Onneksi olkoon.	 45.25	 100.10	Onneksi olkoon.	Sentences	1248	0	0.94
+1440068293.036	287951	37	6	156	s	s	Onneksi olkoon.	 45.25	 100.10	Onneksi olkoon.	Sentences	1404	0	0.94
+1440068293.192	287951	37	7	155	i	i	Onneksi olkoon.	 45.25	 100.10	Onneksi olkoon.	Sentences	1559	0	0.94
+1440068293.473	287951	37	8	282	_	space	Onneksi olkoon.	 45.25	 100.10	Onneksi olkoon.	Sentences	1841	0	0.94
+1440068293.91	287951	37	9	437	o	o	Onneksi olkoon.	 45.25	 100.10	Onneksi olkoon.	Sentences	2278	0	0.94
+1440068294.191	287951	37	10	281	l	l	Onneksi olkoon.	 45.25	 100.10	Onneksi olkoon.	Sentences	2559	0	0.94
+1440068294.378	287951	37	11	187	k	k	Onneksi olkoon.	 45.25	 100.10	Onneksi olkoon.	Sentences	2746	0	0.94
+1440068294.565	287951	37	12	187	o	o	Onneksi olkoon.	 45.25	 100.10	Onneksi olkoon.	Sentences	2933	0	0.94
+1440068294.69	287951	37	13	125	o	o	Onneksi olkoon.	 45.25	 100.10	Onneksi olkoon.	Sentences	3058	0	0.94
+1440068294.939	287951	37	14	248	n	n	Onneksi olkoon.	 45.25	 100.10	Onneksi olkoon.	Sentences	3306	0	0.94
+1440068295.345	287951	37	15	407	.	period	Onneksi olkoon.	 45.25	 100.10	Onneksi olkoon.	Sentences	3713	0	0.94
+1440068297.03	287951	38	0	0	Shift_L	Shift_L	Nähdään kolmannella.	 41.76	 143.19	Nähdään kolmannella.	Sentences	0	0	0.95
+1440068297.217	287951	38	1	187	N	N	Nähdään kolmannella.	 41.76	 143.19	Nähdään kolmannella.	Sentences	187	0	0.95
+1440068297.529	287951	38	2	312	ä	adiaeresis	Nähdään kolmannella.	 41.76	 143.19	Nähdään kolmannella.	Sentences	499	0	0.95
+1440068298.122	287951	38	3	593	h	h	Nähdään kolmannella.	 41.76	 143.19	Nähdään kolmannella.	Sentences	1092	0	0.95
+1440068298.559	287951	38	4	437	d	d	Nähdään kolmannella.	 41.76	 143.19	Nähdään kolmannella.	Sentences	1529	0	0.95
+1440068298.808	287951	38	5	249	ä	adiaeresis	Nähdään kolmannella.	 41.76	 143.19	Nähdään kolmannella.	Sentences	1778	0	0.95
+1440068298.933	287951	38	6	125	ä	adiaeresis	Nähdään kolmannella.	 41.76	 143.19	Nähdään kolmannella.	Sentences	1903	0	0.95
+1440068299.245	287951	38	7	311	n	n	Nähdään kolmannella.	 41.76	 143.19	Nähdään kolmannella.	Sentences	2214	0	0.95
+1440068299.463	287951	38	8	219	_	space	Nähdään kolmannella.	 41.76	 143.19	Nähdään kolmannella.	Sentences	2433	0	0.95
+1440068299.682	287951	38	9	218	k	k	Nähdään kolmannella.	 41.76	 143.19	Nähdään kolmannella.	Sentences	2651	0	0.95
+1440068299.838	287951	38	10	157	o	o	Nähdään kolmannella.	 41.76	 143.19	Nähdään kolmannella.	Sentences	2808	0	0.95
+1440068300.025	287951	38	11	187	l	l	Nähdään kolmannella.	 41.76	 143.19	Nähdään kolmannella.	Sentences	2995	0	0.95
+1440068300.275	287951	38	12	250	m	m	Nähdään kolmannella.	 41.76	 143.19	Nähdään kolmannella.	Sentences	3245	0	0.95
+1440068300.493	287951	38	13	218	a	a	Nähdään kolmannella.	 41.76	 143.19	Nähdään kolmannella.	Sentences	3463	0	0.95
+1440068300.711	287951	38	14	217	n	n	Nähdään kolmannella.	 41.76	 143.19	Nähdään kolmannella.	Sentences	3680	0	0.95
+1440068300.867	287951	38	15	157	n	n	Nähdään kolmannella.	 41.76	 143.19	Nähdään kolmannella.	Sentences	3837	0	0.95
+1440068301.023	287951	38	16	156	e	e	Nähdään kolmannella.	 41.76	 143.19	Nähdään kolmannella.	Sentences	3993	0	0.95
+1440068301.585	287951	38	17	562	l	l	Nähdään kolmannella.	 41.76	 143.19	Nähdään kolmannella.	Sentences	4555	0	0.95
+1440068301.803	287951	38	18	218	l	l	Nähdään kolmannella.	 41.76	 143.19	Nähdään kolmannella.	Sentences	4773	0	0.95
+1440068301.959	287951	38	19	156	a	a	Nähdään kolmannella.	 41.76	 143.19	Nähdään kolmannella.	Sentences	4929	0	0.95
+1440068302.49	287951	38	20	531	.	period	Nähdään kolmannella.	 41.76	 143.19	Nähdään kolmannella.	Sentences	5460	0	0.95
+1440068304.923	287951	39	0	0	Shift_L	Shift_L	Onko se ohi?	 37.12	 140.74	Onko se ohi?	Sentences	0	0	0.86
+1440068305.173	287951	39	1	250	O	O	Onko se ohi?	 37.12	 140.74	Onko se ohi?	Sentences	250	0	0.86
+1440068305.485	287951	39	2	311	n	n	Onko se ohi?	 37.12	 140.74	Onko se ohi?	Sentences	561	0	0.86
+1440068305.641	287951	39	3	156	k	k	Onko se ohi?	 37.12	 140.74	Onko se ohi?	Sentences	717	0	0.86
+1440068305.859	287951	39	4	218	o	o	Onko se ohi?	 37.12	 140.74	Onko se ohi?	Sentences	935	0	0.86
+1440068306.109	287951	39	5	250	_	space	Onko se ohi?	 37.12	 140.74	Onko se ohi?	Sentences	1185	0	0.86
+1440068306.234	287951	39	6	125	s	s	Onko se ohi?	 37.12	 140.74	Onko se ohi?	Sentences	1310	0	0.86
+1440068306.421	287951	39	7	187	e	e	Onko se ohi?	 37.12	 140.74	Onko se ohi?	Sentences	1497	0	0.86
+1440068306.702	287951	39	8	281	_	space	Onko se ohi?	 37.12	 140.74	Onko se ohi?	Sentences	1778	0	0.86
+1440068307.014	287951	39	9	312	o	o	Onko se ohi?	 37.12	 140.74	Onko se ohi?	Sentences	2090	0	0.86
+1440068307.451	287951	39	10	437	h	h	Onko se ohi?	 37.12	 140.74	Onko se ohi?	Sentences	2527	0	0.86
+1440068307.638	287951	39	11	187	i	i	Onko se ohi?	 37.12	 140.74	Onko se ohi?	Sentences	2714	0	0.86
+1440068308.293	287951	39	12	655	Shift_L	Shift_L	Onko se ohi?	 37.12	 140.74	Onko se ohi?	Sentences	3369	0	0.86
+1440068308.48	287951	39	13	187	?	question	Onko se ohi?	 37.12	 140.74	Onko se ohi?	Sentences	3556	0	0.86
+1440068310.29	287951	40	0	0	Shift_L	Shift_L	Voin palata aikaisemmin.	 30.40	 272.69	Voin palata aikaisemmin.	Sentences	0	0	0.89
+1440068310.695	287951	40	1	404	V	V	Voin palata aikaisemmin.	 30.40	 272.69	Voin palata aikaisemmin.	Sentences	404	0	0.89
+1440068311.07	287951	40	2	375	o	o	Voin palata aikaisemmin.	 30.40	 272.69	Voin palata aikaisemmin.	Sentences	779	0	0.89
+1440068311.382	287951	40	3	313	i	i	Voin palata aikaisemmin.	 30.40	 272.69	Voin palata aikaisemmin.	Sentences	1092	0	0.89
+1440068311.6	287951	40	4	217	n	n	Voin palata aikaisemmin.	 30.40	 272.69	Voin palata aikaisemmin.	Sentences	1309	0	0.89
+1440068311.819	287951	40	5	220	_	space	Voin palata aikaisemmin.	 30.40	 272.69	Voin palata aikaisemmin.	Sentences	1529	0	0.89
+1440068312.224	287951	40	6	405	p	p	Voin palata aikaisemmin.	 30.40	 272.69	Voin palata aikaisemmin.	Sentences	1934	0	0.89
+1440068312.411	287951	40	7	187	a	a	Voin palata aikaisemmin.	 30.40	 272.69	Voin palata aikaisemmin.	Sentences	2121	0	0.89
+1440068312.567	287951	40	8	155	l	l	Voin palata aikaisemmin.	 30.40	 272.69	Voin palata aikaisemmin.	Sentences	2276	0	0.89
+1440068313.784	287951	40	9	1217	a	a	Voin palata aikaisemmin.	 30.40	 272.69	Voin palata aikaisemmin.	Sentences	3493	0	0.89
+1440068314.627	287951	40	10	844	r	r	Voin palata aikaisemmin.	 30.40	 272.69	Voin palata aikaisemmin.	Sentences	4337	0	0.89
+1440068315.219	287951	40	11	592		BackSpace	Voin palata aikaisemmin.	 30.40	 272.69	Voin palata aikaisemmin.	Sentences	4929	0	0.89
+1440068315.594	287951	40	12	375	t	t	Voin palata aikaisemmin.	 30.40	 272.69	Voin palata aikaisemmin.	Sentences	5304	0	0.89
+1440068315.719	287951	40	13	125	a	a	Voin palata aikaisemmin.	 30.40	 272.69	Voin palata aikaisemmin.	Sentences	5429	0	0.89
+1440068315.937	287951	40	14	218	_	space	Voin palata aikaisemmin.	 30.40	 272.69	Voin palata aikaisemmin.	Sentences	5647	0	0.89
+1440068316.124	287951	40	15	187	a	a	Voin palata aikaisemmin.	 30.40	 272.69	Voin palata aikaisemmin.	Sentences	5834	0	0.89
+1440068316.467	287951	40	16	343	i	i	Voin palata aikaisemmin.	 30.40	 272.69	Voin palata aikaisemmin.	Sentences	6177	0	0.89
+1440068316.686	287951	40	17	219	k	k	Voin palata aikaisemmin.	 30.40	 272.69	Voin palata aikaisemmin.	Sentences	6396	0	0.89
+1440068316.842	287951	40	18	156	a	a	Voin palata aikaisemmin.	 30.40	 272.69	Voin palata aikaisemmin.	Sentences	6552	0	0.89
+1440068317.091	287951	40	19	249	i	i	Voin palata aikaisemmin.	 30.40	 272.69	Voin palata aikaisemmin.	Sentences	6801	0	0.89
+1440068317.279	287951	40	20	188	s	s	Voin palata aikaisemmin.	 30.40	 272.69	Voin palata aikaisemmin.	Sentences	6989	0	0.89
+1440068317.497	287951	40	21	218	e	e	Voin palata aikaisemmin.	 30.40	 272.69	Voin palata aikaisemmin.	Sentences	7207	0	0.89
+1440068317.747	287951	40	22	250	m	m	Voin palata aikaisemmin.	 30.40	 272.69	Voin palata aikaisemmin.	Sentences	7457	0	0.89
+1440068317.903	287951	40	23	156	m	m	Voin palata aikaisemmin.	 30.40	 272.69	Voin palata aikaisemmin.	Sentences	7613	0	0.89
+1440068318.121	287951	40	24	218	i	i	Voin palata aikaisemmin.	 30.40	 272.69	Voin palata aikaisemmin.	Sentences	7831	0	0.89
+1440068318.371	287951	40	25	250	n	n	Voin palata aikaisemmin.	 30.40	 272.69	Voin palata aikaisemmin.	Sentences	8081	0	0.89
+1440068319.369	287951	40	26	997	.	period	Voin palata aikaisemmin.	 30.40	 272.69	Voin palata aikaisemmin.	Sentences	9078	0	0.89
+1440068321.662	287951	41	0	0	Shift_L	Shift_L	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	0	0	0.94
+1440068321.912	287951	41	1	250	L	L	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	250	0	0.94
+1440068322.349	287951	41	2	437	ä	adiaeresis	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	687	0	0.94
+1440068322.692	287951	41	3	342	h	h	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	1029	0	0.94
+1440068323.628	287951	41	4	937	e	e	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	1966	0	0.94
+1440068324.501	287951	41	5	872	t	t	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	2838	0	0.94
+1440068324.657	287951	41	6	157	t	t	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	2995	0	0.94
+1440068324.876	287951	41	7	218	ä	adiaeresis	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	3213	0	0.94
+1440068325.219	287951	41	8	344	i	i	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	3557	0	0.94
+1440068325.406	287951	41	9	186	s	s	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	3743	0	0.94
+1440068325.562	287951	41	10	157	i	i	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	3900	0	0.94
+1440068325.905	287951	41	11	343	t	t	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	4243	0	0.94
+1440068326.748	287951	41	12	842	k	k	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	5085	0	0.94
+1440068326.935	287951	41	13	188	ö	odiaeresis	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	5273	0	0.94
+1440068327.216	287951	41	14	281	_	space	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	5554	0	0.94
+1440068327.434	287951	41	15	218	m	m	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	5772	0	0.94
+1440068327.653	287951	41	16	219	i	i	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	5991	0	0.94
+1440068327.871	287951	41	17	218	n	n	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	6209	0	0.94
+1440068328.058	287951	41	18	187	u	u	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	6396	0	0.94
+1440068328.433	287951	41	19	375	l	l	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	6771	0	0.94
+1440068328.589	287951	41	20	156	l	l	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	6927	0	0.94
+1440068328.682	287951	41	21	92	e	e	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	7019	0	0.94
+1440068328.901	287951	41	22	220	_	space	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	7239	0	0.94
+1440068329.369	287951	41	23	468	s	s	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	7707	0	0.94
+1440068329.587	287951	41	24	217	ä	adiaeresis	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	7924	0	0.94
+1440068330.336	287951	41	25	750	h	h	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	8674	0	0.94
+1440068330.679	287951	41	26	342	k	k	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	9016	0	0.94
+1440068331.116	287951	41	27	437	ö	odiaeresis	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	9453	0	0.94
+1440068331.365	287951	41	28	250	p	p	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	9703	0	0.94
+1440068331.553	287951	41	29	188	o	o	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	9891	0	0.94
+1440068331.927	287951	41	30	374	s	s	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	10265	0	0.94
+1440068332.239	287951	41	31	312	t	t	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	10577	0	0.94
+1440068332.707	287951	41	32	468	i	i	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	11045	0	0.94
+1440068332.925	287951	41	33	218	a	a	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	11263	0	0.94
+1440068334.329	287951	41	34	1404	Shift_L	Shift_L	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	12667	0	0.94
+1440068334.797	287951	41	35	467	?	question	Lähettäisitkö minulle sähköpostia?	 30.15	 276.43	Lähettäisitkö minulle sähköpostia?	Sentences	13134	0	0.94
+1440068337.013	287951	42	0	0	Shift_L	Shift_L	Ei ollut edes lähellä.	 28.34	 312.64	Ei ollut edes lähellä.	Sentences	0	0	0.88
+1440068337.356	287951	42	1	342	E	E	Ei ollut edes lähellä.	 28.34	 312.64	Ei ollut edes lähellä.	Sentences	342	0	0.88
+1440068337.699	287951	42	2	343	i	i	Ei ollut edes lähellä.	 28.34	 312.64	Ei ollut edes lähellä.	Sentences	685	0	0.88
+1440068337.98	287951	42	3	282	_	space	Ei ollut edes lähellä.	 28.34	 312.64	Ei ollut edes lähellä.	Sentences	967	0	0.88
+1440068338.229	287951	42	4	249	o	o	Ei ollut edes lähellä.	 28.34	 312.64	Ei ollut edes lähellä.	Sentences	1216	0	0.88
+1440068338.479	287951	42	5	250	l	l	Ei ollut edes lähellä.	 28.34	 312.64	Ei ollut edes lähellä.	Sentences	1466	0	0.88
+1440068338.604	287951	42	6	125	l	l	Ei ollut edes lähellä.	 28.34	 312.64	Ei ollut edes lähellä.	Sentences	1591	0	0.88
+1440068338.822	287951	42	7	218	u	u	Ei ollut edes lähellä.	 28.34	 312.64	Ei ollut edes lähellä.	Sentences	1809	0	0.88
+1440068339.072	287951	42	8	250	t	t	Ei ollut edes lähellä.	 28.34	 312.64	Ei ollut edes lähellä.	Sentences	2059	0	0.88
+1440068339.353	287951	42	9	280	_	space	Ei ollut edes lähellä.	 28.34	 312.64	Ei ollut edes lähellä.	Sentences	2339	0	0.88
+1440068339.602	287951	42	10	249	e	e	Ei ollut edes lähellä.	 28.34	 312.64	Ei ollut edes lähellä.	Sentences	2588	0	0.88
+1440068339.821	287951	42	11	220	d	d	Ei ollut edes lähellä.	 28.34	 312.64	Ei ollut edes lähellä.	Sentences	2808	0	0.88
+1440068340.008	287951	42	12	186	e	e	Ei ollut edes lähellä.	 28.34	 312.64	Ei ollut edes lähellä.	Sentences	2994	0	0.88
+1440068340.413	287951	42	13	406	s	s	Ei ollut edes lähellä.	 28.34	 312.64	Ei ollut edes lähellä.	Sentences	3400	0	0.88
+1440068340.632	287951	42	14	218	_	space	Ei ollut edes lähellä.	 28.34	 312.64	Ei ollut edes lähellä.	Sentences	3618	0	0.88
+1440068341.1	287951	42	15	468	l	l	Ei ollut edes lähellä.	 28.34	 312.64	Ei ollut edes lähellä.	Sentences	4086	0	0.88
+1440068341.1	287951	42	16	0	ö	odiaeresis	Ei ollut edes lähellä.	 28.34	 312.64	Ei ollut edes lähellä.	Sentences	4086	0	0.88
+1440068342.722	287951	42	17	1622		BackSpace	Ei ollut edes lähellä.	 28.34	 312.64	Ei ollut edes lähellä.	Sentences	5708	0	0.88
+1440068343.471	287951	42	18	749	ä	adiaeresis	Ei ollut edes lähellä.	 28.34	 312.64	Ei ollut edes lähellä.	Sentences	6457	0	0.88
+1440068343.97	287951	42	19	500	h	h	Ei ollut edes lähellä.	 28.34	 312.64	Ei ollut edes lähellä.	Sentences	6957	0	0.88
+1440068344.157	287951	42	20	187	e	e	Ei ollut edes lähellä.	 28.34	 312.64	Ei ollut edes lähellä.	Sentences	7144	0	0.88
+1440068344.625	287951	42	21	467	l	l	Ei ollut edes lähellä.	 28.34	 312.64	Ei ollut edes lähellä.	Sentences	7611	0	0.88
+1440068344.781	287951	42	22	156	l	l	Ei ollut edes lähellä.	 28.34	 312.64	Ei ollut edes lähellä.	Sentences	7767	0	0.88
+1440068345.249	287951	42	23	469	ä	adiaeresis	Ei ollut edes lähellä.	 28.34	 312.64	Ei ollut edes lähellä.	Sentences	8236	0	0.88
+1440068345.905	287951	42	24	655	.	period	Ei ollut edes lähellä.	 28.34	 312.64	Ei ollut edes lähellä.	Sentences	8891	0	0.88
+1440068347.901	287951	43	0	0	Shift_L	Shift_L	Kiitos, hyvää työtä.	 40.15	 133.26	Kiitos, hyvää työtä.	Sentences	0	0	0.95
+1440068348.151	287951	43	1	250	K	K	Kiitos, hyvää työtä.	 40.15	 133.26	Kiitos, hyvää työtä.	Sentences	250	0	0.95
+1440068348.401	287951	43	2	250	i	i	Kiitos, hyvää työtä.	 40.15	 133.26	Kiitos, hyvää työtä.	Sentences	500	0	0.95
+1440068348.525	287951	43	3	124	i	i	Kiitos, hyvää työtä.	 40.15	 133.26	Kiitos, hyvää työtä.	Sentences	624	0	0.95
+1440068348.806	287951	43	4	280	t	t	Kiitos, hyvää työtä.	 40.15	 133.26	Kiitos, hyvää työtä.	Sentences	904	0	0.95
+1440068349.056	287951	43	5	250	o	o	Kiitos, hyvää työtä.	 40.15	 133.26	Kiitos, hyvää työtä.	Sentences	1154	0	0.95
+1440068349.337	287951	43	6	281	s	s	Kiitos, hyvää työtä.	 40.15	 133.26	Kiitos, hyvää työtä.	Sentences	1435	0	0.95
+1440068349.649	287951	43	7	312	,	comma	Kiitos, hyvää työtä.	 40.15	 133.26	Kiitos, hyvää työtä.	Sentences	1747	0	0.95
+1440068349.836	287951	43	8	187	_	space	Kiitos, hyvää työtä.	 40.15	 133.26	Kiitos, hyvää työtä.	Sentences	1934	0	0.95
+1440068350.148	287951	43	9	312	h	h	Kiitos, hyvää työtä.	 40.15	 133.26	Kiitos, hyvää työtä.	Sentences	2246	0	0.95
+1440068350.335	287951	43	10	188	y	y	Kiitos, hyvää työtä.	 40.15	 133.26	Kiitos, hyvää työtä.	Sentences	2434	0	0.95
+1440068350.585	287951	43	11	250	v	v	Kiitos, hyvää työtä.	 40.15	 133.26	Kiitos, hyvää työtä.	Sentences	2684	0	0.95
+1440068350.959	287951	43	12	374	ä	adiaeresis	Kiitos, hyvää työtä.	 40.15	 133.26	Kiitos, hyvää työtä.	Sentences	3058	0	0.95
+1440068351.115	287951	43	13	155	ä	adiaeresis	Kiitos, hyvää työtä.	 40.15	 133.26	Kiitos, hyvää työtä.	Sentences	3213	0	0.95
+1440068351.396	287951	43	14	281	_	space	Kiitos, hyvää työtä.	 40.15	 133.26	Kiitos, hyvää työtä.	Sentences	3494	0	0.95
+1440068351.521	287951	43	15	125	t	t	Kiitos, hyvää työtä.	 40.15	 133.26	Kiitos, hyvää työtä.	Sentences	3619	0	0.95
+1440068351.801	287951	43	16	281	y	y	Kiitos, hyvää työtä.	 40.15	 133.26	Kiitos, hyvää työtä.	Sentences	3900	0	0.95
+1440068352.051	287951	43	17	250	ö	odiaeresis	Kiitos, hyvää työtä.	 40.15	 133.26	Kiitos, hyvää työtä.	Sentences	4150	0	0.95
+1440068352.363	287951	43	18	311	t	t	Kiitos, hyvää työtä.	 40.15	 133.26	Kiitos, hyvää työtä.	Sentences	4461	0	0.95
+1440068353.081	287951	43	19	719	ä	adiaeresis	Kiitos, hyvää työtä.	 40.15	 133.26	Kiitos, hyvää työtä.	Sentences	5180	0	0.95
+1440068353.58	287951	43	20	498	.	period	Kiitos, hyvää työtä.	 40.15	 133.26	Kiitos, hyvää työtä.	Sentences	5678	0	0.95
+1440068355.077	287951	44	0	0	Shift_L	Shift_L	Mitä sinä kuulet?	 32.56	 197.51	Mitä sinä kuulet?	Sentences	0	0	0.89
+1440068356.076	287951	44	1	999	M	M	Mitä sinä kuulet?	 32.56	 197.51	Mitä sinä kuulet?	Sentences	999	0	0.89
+1440068356.325	287951	44	2	249	i	i	Mitä sinä kuulet?	 32.56	 197.51	Mitä sinä kuulet?	Sentences	1248	0	0.89
+1440068356.606	287951	44	3	281	t	t	Mitä sinä kuulet?	 32.56	 197.51	Mitä sinä kuulet?	Sentences	1529	0	0.89
+1440068356.981	287951	44	4	375	ä	adiaeresis	Mitä sinä kuulet?	 32.56	 197.51	Mitä sinä kuulet?	Sentences	1904	0	0.89
+1440068357.23	287951	44	5	249	_	space	Mitä sinä kuulet?	 32.56	 197.51	Mitä sinä kuulet?	Sentences	2153	0	0.89
+1440068357.386	287951	44	6	156	s	s	Mitä sinä kuulet?	 32.56	 197.51	Mitä sinä kuulet?	Sentences	2309	0	0.89
+1440068357.605	287951	44	7	219	i	i	Mitä sinä kuulet?	 32.56	 197.51	Mitä sinä kuulet?	Sentences	2528	0	0.89
+1440068357.823	287951	44	8	218	n	n	Mitä sinä kuulet?	 32.56	 197.51	Mitä sinä kuulet?	Sentences	2746	0	0.89
+1440068358.135	287951	44	9	312	ä	adiaeresis	Mitä sinä kuulet?	 32.56	 197.51	Mitä sinä kuulet?	Sentences	3058	0	0.89
+1440068358.416	287951	44	10	280	_	space	Mitä sinä kuulet?	 32.56	 197.51	Mitä sinä kuulet?	Sentences	3338	0	0.89
+1440068358.665	287951	44	11	250	k	k	Mitä sinä kuulet?	 32.56	 197.51	Mitä sinä kuulet?	Sentences	3588	0	0.89
+1440068358.915	287951	44	12	250	u	u	Mitä sinä kuulet?	 32.56	 197.51	Mitä sinä kuulet?	Sentences	3838	0	0.89
+1440068359.071	287951	44	13	156	u	u	Mitä sinä kuulet?	 32.56	 197.51	Mitä sinä kuulet?	Sentences	3994	0	0.89
+1440068359.383	287951	44	14	311	l	l	Mitä sinä kuulet?	 32.56	 197.51	Mitä sinä kuulet?	Sentences	4305	0	0.89
+1440068359.633	287951	44	15	250	e	e	Mitä sinä kuulet?	 32.56	 197.51	Mitä sinä kuulet?	Sentences	4555	0	0.89
+1440068360.101	287951	44	16	469	t	t	Mitä sinä kuulet?	 32.56	 197.51	Mitä sinä kuulet?	Sentences	5024	0	0.89
+1440068360.693	287951	44	17	592	Shift_L	Shift_L	Mitä sinä kuulet?	 32.56	 197.51	Mitä sinä kuulet?	Sentences	5616	0	0.89
+1440068360.974	287951	44	18	281	?	question	Mitä sinä kuulet?	 32.56	 197.51	Mitä sinä kuulet?	Sentences	5897	0	0.89
+1440068363.033	287951	45	0	0	Shift_L	Shift_L	Ota mitä vain voit.	 38.47	 133.16	Ota mitä vain voit.	Sentences	0	0	0.95
+1440068363.314	287951	45	1	280	O	O	Ota mitä vain voit.	 38.47	 133.16	Ota mitä vain voit.	Sentences	280	0	0.95
+1440068363.751	287951	45	2	437	t	t	Ota mitä vain voit.	 38.47	 133.16	Ota mitä vain voit.	Sentences	717	0	0.95
+1440068363.938	287951	45	3	187	a	a	Ota mitä vain voit.	 38.47	 133.16	Ota mitä vain voit.	Sentences	904	0	0.95
+1440068364.219	287951	45	4	282	_	space	Ota mitä vain voit.	 38.47	 133.16	Ota mitä vain voit.	Sentences	1186	0	0.95
+1440068364.968	287951	45	5	748	m	m	Ota mitä vain voit.	 38.47	 133.16	Ota mitä vain voit.	Sentences	1934	0	0.95
+1440068365.155	287951	45	6	187	i	i	Ota mitä vain voit.	 38.47	 133.16	Ota mitä vain voit.	Sentences	2121	0	0.95
+1440068365.405	287951	45	7	250	t	t	Ota mitä vain voit.	 38.47	 133.16	Ota mitä vain voit.	Sentences	2371	0	0.95
+1440068365.748	287951	45	8	343	ä	adiaeresis	Ota mitä vain voit.	 38.47	 133.16	Ota mitä vain voit.	Sentences	2714	0	0.95
+1440068366.06	287951	45	9	312	_	space	Ota mitä vain voit.	 38.47	 133.16	Ota mitä vain voit.	Sentences	3026	0	0.95
+1440068366.309	287951	45	10	250	v	v	Ota mitä vain voit.	 38.47	 133.16	Ota mitä vain voit.	Sentences	3276	0	0.95
+1440068366.434	287951	45	11	125	a	a	Ota mitä vain voit.	 38.47	 133.16	Ota mitä vain voit.	Sentences	3401	0	0.95
+1440068366.653	287951	45	12	219	i	i	Ota mitä vain voit.	 38.47	 133.16	Ota mitä vain voit.	Sentences	3620	0	0.95
+1440068366.902	287951	45	13	248	n	n	Ota mitä vain voit.	 38.47	 133.16	Ota mitä vain voit.	Sentences	3868	0	0.95
+1440068367.214	287951	45	14	312	_	space	Ota mitä vain voit.	 38.47	 133.16	Ota mitä vain voit.	Sentences	4180	0	0.95
+1440068367.495	287951	45	15	281	v	v	Ota mitä vain voit.	 38.47	 133.16	Ota mitä vain voit.	Sentences	4461	0	0.95
+1440068367.807	287951	45	16	312	o	o	Ota mitä vain voit.	 38.47	 133.16	Ota mitä vain voit.	Sentences	4773	0	0.95
+1440068367.994	287951	45	17	187	i	i	Ota mitä vain voit.	 38.47	 133.16	Ota mitä vain voit.	Sentences	4960	0	0.95
+1440068368.244	287951	45	18	250	t	t	Ota mitä vain voit.	 38.47	 133.16	Ota mitä vain voit.	Sentences	5210	0	0.95
+1440068368.649	287951	45	19	405	.	period	Ota mitä vain voit.	 38.47	 133.16	Ota mitä vain voit.	Sentences	5615	0	0.95
+1440068370.521	287951	46	0	0	Shift_L	Shift_L	Soita huomenna, jos pystyt.	 29.07	 235.92	Soita huomenna, jos pystyt.	Sentences	0	0	0.90
+1440068370.771	287951	46	1	250	S	S	Soita huomenna, jos pystyt.	 29.07	 235.92	Soita huomenna, jos pystyt.	Sentences	250	0	0.90
+1440068371.145	287951	46	2	374	o	o	Soita huomenna, jos pystyt.	 29.07	 235.92	Soita huomenna, jos pystyt.	Sentences	624	0	0.90
+1440068371.301	287951	46	3	156	i	i	Soita huomenna, jos pystyt.	 29.07	 235.92	Soita huomenna, jos pystyt.	Sentences	780	0	0.90
+1440068371.551	287951	46	4	250	t	t	Soita huomenna, jos pystyt.	 29.07	 235.92	Soita huomenna, jos pystyt.	Sentences	1030	0	0.90
+1440068371.676	287951	46	5	125	a	a	Soita huomenna, jos pystyt.	 29.07	 235.92	Soita huomenna, jos pystyt.	Sentences	1155	0	0.90
+1440068371.894	287951	46	6	218	_	space	Soita huomenna, jos pystyt.	 29.07	 235.92	Soita huomenna, jos pystyt.	Sentences	1373	0	0.90
+1440068372.175	287951	46	7	281	h	h	Soita huomenna, jos pystyt.	 29.07	 235.92	Soita huomenna, jos pystyt.	Sentences	1654	0	0.90
+1440068372.362	287951	46	8	187	u	u	Soita huomenna, jos pystyt.	 29.07	 235.92	Soita huomenna, jos pystyt.	Sentences	1841	0	0.90
+1440068372.643	287951	46	9	280	o	o	Soita huomenna, jos pystyt.	 29.07	 235.92	Soita huomenna, jos pystyt.	Sentences	2121	0	0.90
+1440068372.986	287951	46	10	344	n	n	Soita huomenna, jos pystyt.	 29.07	 235.92	Soita huomenna, jos pystyt.	Sentences	2465	0	0.90
+1440068373.673	287951	46	11	687		BackSpace	Soita huomenna, jos pystyt.	 29.07	 235.92	Soita huomenna, jos pystyt.	Sentences	3152	0	0.90
+1440068374.421	287951	46	12	748	m	m	Soita huomenna, jos pystyt.	 29.07	 235.92	Soita huomenna, jos pystyt.	Sentences	3900	0	0.90
+1440068374.733	287951	46	13	312	e	e	Soita huomenna, jos pystyt.	 29.07	 235.92	Soita huomenna, jos pystyt.	Sentences	4212	0	0.90
+1440068375.17	287951	46	14	437	n	n	Soita huomenna, jos pystyt.	 29.07	 235.92	Soita huomenna, jos pystyt.	Sentences	4649	0	0.90
+1440068375.326	287951	46	15	156	n	n	Soita huomenna, jos pystyt.	 29.07	 235.92	Soita huomenna, jos pystyt.	Sentences	4805	0	0.90
+1440068375.482	287951	46	16	156	a	a	Soita huomenna, jos pystyt.	 29.07	 235.92	Soita huomenna, jos pystyt.	Sentences	4961	0	0.90
+1440068376.449	287951	46	17	966	,	comma	Soita huomenna, jos pystyt.	 29.07	 235.92	Soita huomenna, jos pystyt.	Sentences	5927	0	0.90
+1440068376.699	287951	46	18	250	_	space	Soita huomenna, jos pystyt.	 29.07	 235.92	Soita huomenna, jos pystyt.	Sentences	6177	0	0.90
+1440068377.541	287951	46	19	842	j	j	Soita huomenna, jos pystyt.	 29.07	 235.92	Soita huomenna, jos pystyt.	Sentences	7019	0	0.90
+1440068377.791	287951	46	20	250	o	o	Soita huomenna, jos pystyt.	 29.07	 235.92	Soita huomenna, jos pystyt.	Sentences	7269	0	0.90
+1440068378.009	287951	46	21	219	s	s	Soita huomenna, jos pystyt.	 29.07	 235.92	Soita huomenna, jos pystyt.	Sentences	7488	0	0.90
+1440068378.228	287951	46	22	219	_	space	Soita huomenna, jos pystyt.	 29.07	 235.92	Soita huomenna, jos pystyt.	Sentences	7707	0	0.90
+1440068378.571	287951	46	23	343	p	p	Soita huomenna, jos pystyt.	 29.07	 235.92	Soita huomenna, jos pystyt.	Sentences	8050	0	0.90
+1440068379.07	287951	46	24	499	y	y	Soita huomenna, jos pystyt.	 29.07	 235.92	Soita huomenna, jos pystyt.	Sentences	8549	0	0.90
+1440068379.413	287951	46	25	343	s	s	Soita huomenna, jos pystyt.	 29.07	 235.92	Soita huomenna, jos pystyt.	Sentences	8892	0	0.90
+1440068379.694	287951	46	26	281	t	t	Soita huomenna, jos pystyt.	 29.07	 235.92	Soita huomenna, jos pystyt.	Sentences	9173	0	0.90
+1440068379.881	287951	46	27	187	y	y	Soita huomenna, jos pystyt.	 29.07	 235.92	Soita huomenna, jos pystyt.	Sentences	9360	0	0.90
+1440068380.349	287951	46	28	468	t	t	Soita huomenna, jos pystyt.	 29.07	 235.92	Soita huomenna, jos pystyt.	Sentences	9828	0	0.90
+1440068381.254	287951	46	29	905	.	period	Soita huomenna, jos pystyt.	 29.07	 235.92	Soita huomenna, jos pystyt.	Sentences	10733	0	0.90
+1440068382.939	287951	47	0	0	Shift_L	Shift_L	Tulen takaisin perjantaina.	 45.25	 124.27	Tulen takaisin perjantaina.	Sentences	0	0	0.96
+1440068383.189	287951	47	1	250	T	T	Tulen takaisin perjantaina.	 45.25	 124.27	Tulen takaisin perjantaina.	Sentences	250	0	0.96
+1440068383.563	287951	47	2	374	u	u	Tulen takaisin perjantaina.	 45.25	 124.27	Tulen takaisin perjantaina.	Sentences	624	0	0.96
+1440068383.969	287951	47	3	406	l	l	Tulen takaisin perjantaina.	 45.25	 124.27	Tulen takaisin perjantaina.	Sentences	1030	0	0.96
+1440068384.156	287951	47	4	187	e	e	Tulen takaisin perjantaina.	 45.25	 124.27	Tulen takaisin perjantaina.	Sentences	1217	0	0.96
+1440068384.437	287951	47	5	281	n	n	Tulen takaisin perjantaina.	 45.25	 124.27	Tulen takaisin perjantaina.	Sentences	1498	0	0.96
+1440068384.624	287951	47	6	187	_	space	Tulen takaisin perjantaina.	 45.25	 124.27	Tulen takaisin perjantaina.	Sentences	1685	0	0.96
+1440068384.936	287951	47	7	312	t	t	Tulen takaisin perjantaina.	 45.25	 124.27	Tulen takaisin perjantaina.	Sentences	1997	0	0.96
+1440068385.092	287951	47	8	156	a	a	Tulen takaisin perjantaina.	 45.25	 124.27	Tulen takaisin perjantaina.	Sentences	2153	0	0.96
+1440068385.404	287951	47	9	312	k	k	Tulen takaisin perjantaina.	 45.25	 124.27	Tulen takaisin perjantaina.	Sentences	2465	0	0.96
+1440068385.498	287951	47	10	94	a	a	Tulen takaisin perjantaina.	 45.25	 124.27	Tulen takaisin perjantaina.	Sentences	2559	0	0.96
+1440068385.685	287951	47	11	187	i	i	Tulen takaisin perjantaina.	 45.25	 124.27	Tulen takaisin perjantaina.	Sentences	2746	0	0.96
+1440068385.81	287951	47	12	125	s	s	Tulen takaisin perjantaina.	 45.25	 124.27	Tulen takaisin perjantaina.	Sentences	2871	0	0.96
+1440068386.059	287951	47	13	249	i	i	Tulen takaisin perjantaina.	 45.25	 124.27	Tulen takaisin perjantaina.	Sentences	3120	0	0.96
+1440068386.309	287951	47	14	250	n	n	Tulen takaisin perjantaina.	 45.25	 124.27	Tulen takaisin perjantaina.	Sentences	3370	0	0.96
+1440068386.496	287951	47	15	187	_	space	Tulen takaisin perjantaina.	 45.25	 124.27	Tulen takaisin perjantaina.	Sentences	3557	0	0.96
+1440068386.964	287951	47	16	468	p	p	Tulen takaisin perjantaina.	 45.25	 124.27	Tulen takaisin perjantaina.	Sentences	4025	0	0.96
+1440068387.089	287951	47	17	125	e	e	Tulen takaisin perjantaina.	 45.25	 124.27	Tulen takaisin perjantaina.	Sentences	4150	0	0.96
+1440068387.338	287951	47	18	249	r	r	Tulen takaisin perjantaina.	 45.25	 124.27	Tulen takaisin perjantaina.	Sentences	4399	0	0.96
+1440068388.025	287951	47	19	687	j	j	Tulen takaisin perjantaina.	 45.25	 124.27	Tulen takaisin perjantaina.	Sentences	5086	0	0.96
+1440068388.212	287951	47	20	187	a	a	Tulen takaisin perjantaina.	 45.25	 124.27	Tulen takaisin perjantaina.	Sentences	5273	0	0.96
+1440068388.368	287951	47	21	156	n	n	Tulen takaisin perjantaina.	 45.25	 124.27	Tulen takaisin perjantaina.	Sentences	5429	0	0.96
+1440068388.68	287951	47	22	312	t	t	Tulen takaisin perjantaina.	 45.25	 124.27	Tulen takaisin perjantaina.	Sentences	5741	0	0.96
+1440068388.867	287951	47	23	187	a	a	Tulen takaisin perjantaina.	 45.25	 124.27	Tulen takaisin perjantaina.	Sentences	5928	0	0.96
+1440068389.086	287951	47	24	219	i	i	Tulen takaisin perjantaina.	 45.25	 124.27	Tulen takaisin perjantaina.	Sentences	6147	0	0.96
+1440068389.366	287951	47	25	280	n	n	Tulen takaisin perjantaina.	 45.25	 124.27	Tulen takaisin perjantaina.	Sentences	6427	0	0.96
+1440068389.522	287951	47	26	156	a	a	Tulen takaisin perjantaina.	 45.25	 124.27	Tulen takaisin perjantaina.	Sentences	6583	0	0.96
+1440068389.834	287951	47	27	312	.	period	Tulen takaisin perjantaina.	 45.25	 124.27	Tulen takaisin perjantaina.	Sentences	6895	0	0.96
+1440068392.034	287951	48	0	0	Shift_L	Shift_L	Käyttäydytkö lapsellisesti?	 33.01	 230.67	Käyttäydytkö lapsellisesti?	Sentences	0	0	0.93
+1440068392.315	287951	48	1	281	K	K	Käyttäydytkö lapsellisesti?	 33.01	 230.67	Käyttäydytkö lapsellisesti?	Sentences	281	0	0.93
+1440068392.814	287951	48	2	498	ä	adiaeresis	Käyttäydytkö lapsellisesti?	 33.01	 230.67	Käyttäydytkö lapsellisesti?	Sentences	779	0	0.93
+1440068393.22	287951	48	3	407	y	y	Käyttäydytkö lapsellisesti?	 33.01	 230.67	Käyttäydytkö lapsellisesti?	Sentences	1186	0	0.93
+1440068393.407	287951	48	4	187	t	t	Käyttäydytkö lapsellisesti?	 33.01	 230.67	Käyttäydytkö lapsellisesti?	Sentences	1373	0	0.93
+1440068393.563	287951	48	5	156	t	t	Käyttäydytkö lapsellisesti?	 33.01	 230.67	Käyttäydytkö lapsellisesti?	Sentences	1529	0	0.93
+1440068393.937	287951	48	6	374	ä	adiaeresis	Käyttäydytkö lapsellisesti?	 33.01	 230.67	Käyttäydytkö lapsellisesti?	Sentences	1903	0	0.93
+1440068394.343	287951	48	7	406	y	y	Käyttäydytkö lapsellisesti?	 33.01	 230.67	Käyttäydytkö lapsellisesti?	Sentences	2309	0	0.93
+1440068395.185	287951	48	8	842	d	d	Käyttäydytkö lapsellisesti?	 33.01	 230.67	Käyttäydytkö lapsellisesti?	Sentences	3151	0	0.93
+1440068395.435	287951	48	9	250	y	y	Käyttäydytkö lapsellisesti?	 33.01	 230.67	Käyttäydytkö lapsellisesti?	Sentences	3401	0	0.93
+1440068395.622	287951	48	10	187	t	t	Käyttäydytkö lapsellisesti?	 33.01	 230.67	Käyttäydytkö lapsellisesti?	Sentences	3588	0	0.93
+1440068396.745	287951	48	11	1122	k	k	Käyttäydytkö lapsellisesti?	 33.01	 230.67	Käyttäydytkö lapsellisesti?	Sentences	4710	0	0.93
+1440068396.964	287951	48	12	220	ö	odiaeresis	Käyttäydytkö lapsellisesti?	 33.01	 230.67	Käyttäydytkö lapsellisesti?	Sentences	4930	0	0.93
+1440068397.182	287951	48	13	218	_	space	Käyttäydytkö lapsellisesti?	 33.01	 230.67	Käyttäydytkö lapsellisesti?	Sentences	5148	0	0.93
+1440068397.619	287951	48	14	437	l	l	Käyttäydytkö lapsellisesti?	 33.01	 230.67	Käyttäydytkö lapsellisesti?	Sentences	5585	0	0.93
+1440068397.806	287951	48	15	187	a	a	Käyttäydytkö lapsellisesti?	 33.01	 230.67	Käyttäydytkö lapsellisesti?	Sentences	5772	0	0.93
+1440068398.087	287951	48	16	280	p	p	Käyttäydytkö lapsellisesti?	 33.01	 230.67	Käyttäydytkö lapsellisesti?	Sentences	6052	0	0.93
+1440068398.212	287951	48	17	125	s	s	Käyttäydytkö lapsellisesti?	 33.01	 230.67	Käyttäydytkö lapsellisesti?	Sentences	6177	0	0.93
+1440068398.43	287951	48	18	219	e	e	Käyttäydytkö lapsellisesti?	 33.01	 230.67	Käyttäydytkö lapsellisesti?	Sentences	6396	0	0.93
+1440068398.804	287951	48	19	373	l	l	Käyttäydytkö lapsellisesti?	 33.01	 230.67	Käyttäydytkö lapsellisesti?	Sentences	6769	0	0.93
+1440068398.96	287951	48	20	157	l	l	Käyttäydytkö lapsellisesti?	 33.01	 230.67	Käyttäydytkö lapsellisesti?	Sentences	6926	0	0.93
+1440068399.21	287951	48	21	250	i	i	Käyttäydytkö lapsellisesti?	 33.01	 230.67	Käyttäydytkö lapsellisesti?	Sentences	7176	0	0.93
+1440068399.366	287951	48	22	156	s	s	Käyttäydytkö lapsellisesti?	 33.01	 230.67	Käyttäydytkö lapsellisesti?	Sentences	7332	0	0.93
+1440068399.584	287951	48	23	218	e	e	Käyttäydytkö lapsellisesti?	 33.01	 230.67	Käyttäydytkö lapsellisesti?	Sentences	7550	0	0.93
+1440068399.803	287951	48	24	219	s	s	Käyttäydytkö lapsellisesti?	 33.01	 230.67	Käyttäydytkö lapsellisesti?	Sentences	7769	0	0.93
+1440068400.052	287951	48	25	249	t	t	Käyttäydytkö lapsellisesti?	 33.01	 230.67	Käyttäydytkö lapsellisesti?	Sentences	8018	0	0.93
+1440068400.458	287951	48	26	406	i	i	Käyttäydytkö lapsellisesti?	 33.01	 230.67	Käyttäydytkö lapsellisesti?	Sentences	8424	0	0.93
+1440068401.238	287951	48	27	779	Shift_L	Shift_L	Käyttäydytkö lapsellisesti?	 33.01	 230.67	Käyttäydytkö lapsellisesti?	Sentences	9203	0	0.93
+1440068401.488	287951	48	28	250	?	question	Käyttäydytkö lapsellisesti?	 33.01	 230.67	Käyttäydytkö lapsellisesti?	Sentences	9453	0	0.93
+1440068402.829	287951	49	0	0	Shift_L	Shift_L	Mikä tämä on?	 40.49	  63.39	Mikä tämä on?	Sentences	0	0	0.87
+1440068403.11	287951	49	1	280	M	M	Mikä tämä on?	 40.49	  63.39	Mikä tämä on?	Sentences	280	0	0.87
+1440068403.36	287951	49	2	250	i	i	Mikä tämä on?	 40.49	  63.39	Mikä tämä on?	Sentences	530	0	0.87
+1440068403.547	287951	49	3	187	k	k	Mikä tämä on?	 40.49	  63.39	Mikä tämä on?	Sentences	717	0	0.87
+1440068403.921	287951	49	4	375	ä	adiaeresis	Mikä tämä on?	 40.49	  63.39	Mikä tämä on?	Sentences	1092	0	0.87
+1440068404.202	287951	49	5	280	_	space	Mikä tämä on?	 40.49	  63.39	Mikä tämä on?	Sentences	1372	0	0.87
+1440068404.358	287951	49	6	157	t	t	Mikä tämä on?	 40.49	  63.39	Mikä tämä on?	Sentences	1529	0	0.87
+1440068404.576	287951	49	7	217	ä	adiaeresis	Mikä tämä on?	 40.49	  63.39	Mikä tämä on?	Sentences	1746	0	0.87
+1440068404.857	287951	49	8	282	m	m	Mikä tämä on?	 40.49	  63.39	Mikä tämä on?	Sentences	2028	0	0.87
+1440068405.138	287951	49	9	281	ä	adiaeresis	Mikä tämä on?	 40.49	  63.39	Mikä tämä on?	Sentences	2309	0	0.87
+1440068405.419	287951	49	10	280	_	space	Mikä tämä on?	 40.49	  63.39	Mikä tämä on?	Sentences	2589	0	0.87
+1440068405.7	287951	49	11	282	o	o	Mikä tämä on?	 40.49	  63.39	Mikä tämä on?	Sentences	2871	0	0.87
+1440068405.98	287951	49	12	280	n	n	Mikä tämä on?	 40.49	  63.39	Mikä tämä on?	Sentences	3151	0	0.87
+1440068406.105	287951	49	13	125	Shift_L	Shift_L	Mikä tämä on?	 40.49	  63.39	Mikä tämä on?	Sentences	3276	0	0.87
+1440068406.386	287951	49	14	280	?	question	Mikä tämä on?	 40.49	  63.39	Mikä tämä on?	Sentences	3556	0	0.87
