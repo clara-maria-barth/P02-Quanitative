@@ -1,0 +1,18 @@
+---
+title: "Analysis of QuantHCI 2020 data"
+output: html_notebook
+---
+
+```{r setup, include = FALSE}
+library(tidyverse)
+import::from(jsonlite, fromJSON) # for JSON parsing. You may need to install jsonlite package
+source("R/commons.R") # load functions that are shared across notebooks
+```
+
+The code below gives an example of how to load JSON file
+
+```{r}
+json_data <- fromJSON(read_file("data/QuantHCI2020/_test_data.json"))
+
+```
+
