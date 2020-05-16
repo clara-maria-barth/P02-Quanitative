@@ -1,0 +1,86 @@
+---
+title: "Re-analysis of Feit et al. (2016)"
+output: html_notebook
+---
+
+```{r setup, include = FALSE}
+library(tidyverse)
+source("R/commons.R") # load functions that are shared across notebooks
+library("readxl")
+library("openxlsx")
+```
+
+Use Markdown to explain your analysis. Your code goes into each chunk like below.
+
+```{r}
+#data_file_paths <- list.files("data", full.names = TRUE)
+mixed =list.files("data",pattern="[^(a-zA-Z)]*(Mix)[^(a-zA-Z)]*", full.names = TRUE)
+random =list.files("data",pattern="[^(a-zA-Z)]*(Random)[^(a-zA-Z)]*", full.names = TRUE)
+sentence =list.files("data",pattern="[^(a-zA-Z)]*(Sentence)[^(a-zA-Z)]*", full.names = TRUE)
+
+# 2 x 1 touch typist
+read_xls <- read.xlsx("Background.xlsx")
+
+
+touch_typist <- which(read_xls$`Do.you.use.the.touch.typing.system.with.all.10.fingers?.If.so,.how.many.years.of.experience.do.you.have?`>= 1)
+non_touch_typist <- which(read_xls$`Do.you.use.the.touch.typing.system.with.all.10.fingers?.If.so,.how.many.years.of.experience.do.you.have?`< 1)
+
+touch_typist_id <- read_xls[c(touch_typist),1]
+non_touch_typist_id <- read_xls[c(non_touch_typist),1]
+
+
+
+#non_touch_typist <- which(read_xls[13] <= 1)
+#n <- subset(read_xls, select = c(touch_typist) )
+
+```
+
+Extract data:
+```{r}
+i = 0
+
+for (path in mixed){
+  if (i == 0){
+    modtab <- read.table(file=path, sep="\t", quote="", comment.char="")
+    colnames(modtab) <- lapply(modtab[1, ], as.character)
+    modtab <- modtab[-1,]
+  }
+  else{
+    newtab <- read.table(file=path, sep="\t", quote="", comment.char="")
+    colnames(newtab) <- lapply(newtab[1, ], as.character)
+    newtab <- newtab[-1,]
+    modtab <- rbind(newtab, modtab)
+  }
+  i <- i + 1
+}
+
+```
+##Linear Model for WMP:
+```{r}
+# typeist/nontypist = response var ahand vo wmp ist wkeit in gruppe von ty or nty so höcht.
+modtab <- as.data.frame.matrix(modtab)
+
+#xx <- aggregate(current_input~user_id, modtab, aggregate())
+
+tt <- modtab %>% group_by(user_id, current_input) %>% summarise(m = mean(as.numeric(wpm)))
+
+t2 <- tt %>% group_by(user_id) %>% summarise(mean_person = mean(as.numeric(m)))
+filtertt <- t2[t2$user_id %in% c(touch_typist_id),]
+filterntt <- t2[t2$user_id %in% c(non_touch_typist_id),]
+
+#mean(tt$m)
+
+# wmpdata <- data.frame()
+# time_input <- aggregate(input_time~current_input, P1, sum )
+# 
+# # WPM calculation
+# for (i in nrow(time_input)){
+#   line = time_input[i,]
+# word_count <- (str_length(line$current_input) - 1) / 5
+# word_count
+# time <-line$input_time 
+# time_minute <- time / 1000 / 60 
+# wpm <- word_count / time_minute   }
+# wpm
+  
+```
