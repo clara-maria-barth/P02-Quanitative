@@ -48,9 +48,7 @@ for (var in vars){
     colnames(tabcurr) <- lapply(tabcurr[1, ], as.character)
     tabcurr <- tabcurr[-1,]
     assign(nam, tabcurr)
-    
-    #colnames(nam) <- lapply(nam[1, ], as.character)
-    #nam <- nam[-1,]
+
     }
     else{
     newtab <- read.table(file=path, sep="\t", quote="", comment.char="")
@@ -71,21 +69,6 @@ for (var in vars){
   }
   }
 
-# for (path in mixed){
-#   if (i == 0){
-#     modtab <- read.table(file=path, sep="\t", quote="", comment.char="")
-#     colnames(modtab) <- lapply(modtab[1, ], as.character)
-#     modtab <- modtab[-1,]
-#   }
-#   else{
-#     newtab <- read.table(file=path, sep="\t", quote="", comment.char="")
-#     colnames(newtab) <- lapply(newtab[1, ], as.character)
-#     newtab <- newtab[-1,]
-#     modtab <- rbind(newtab, modtab)
-#   }
-#   i <- i + 1
-# }
-
 ```
 ##Linear Model for WMP:
 ```{r}
@@ -97,7 +80,6 @@ condition_list <- list(sentence_mod, mixed_mod, random_mod)
 names_of_dataframes <- list("sentence_mod", "mixed_mod", "random_mod")
 i = 1
 for (df in condition_list){
-  print(names_of_dataframes[i], i)
   new_nam <- paste(names_of_dataframes[i] , "wmp", sep="_")
   
   assign(new_nam, df %>% group_by(user_id, current_input) %>% summarise(m = mean(as.numeric(wpm)))%>% group_by(user_id) %>% summarise(mean_person = mean(as.numeric(m))))
@@ -108,36 +90,9 @@ tt <- paste("TouchTypist" , names_of_dataframes[i], sep="_")
 ntt <- paste("NonTouchTypist" , names_of_dataframes[i], sep="_")
 
 assign(tt, currnam[currnam$user_id %in% c(touch_typist_id),])
- assign(ntt, filterntt <- currnam[currnam$user_id %in% c(non_touch_typist_id),]) 
-filtertt <- t2[t2$user_id %in% c(touch_typist_id),]
+ assign(ntt, currnam[currnam$user_id %in% c(non_touch_typist_id),]) 
+#filtertt <- t2[t2$user_id %in% c(touch_typist_id),]
   i <- i + 1
   
 }
-
-#new_nam <- paste(x, "one", sep="_")
-  #assign(new_nam, x %>% group_by(user_id, current_input) %>% summarise(m = mean(as.numeric(wpm))))
-
-# 
-# tt <- modtab %>% group_by(user_id, current_input) %>% summarise(m = mean(as.numeric(wpm)))
-# 
-# t2 <- tt %>% group_by(user_id) %>% summarise(mean_person = mean(as.numeric(m)))
-# filtertt <- t2[t2$user_id %in% c(touch_typist_id),]
-# filterntt <- t2[t2$user_id %in% c(non_touch_typist_id),]
-
-#mean(tt$m)
-
-# wmpdata <- data.frame()
-# time_input <- aggregate(input_time~current_input, P1, sum )
-# 
-# # WPM calculation
-# for (i in nrow(time_input)){
-#   line = time_input[i,]
-# word_count <- (str_length(line$current_input) - 1) / 5
-# word_count
-# time <-line$input_time 
-# time_minute <- time / 1000 / 60 
-# wpm <- word_count / time_minute   }
-# wpm
-#hello
-  
 ```
