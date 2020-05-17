@@ -80,17 +80,65 @@ condition_list <- list(sentence_mod, mixed_mod, random_mod)
 names_of_dataframes <- list("sentence_mod", "mixed_mod", "random_mod")
 i = 1
 for (df in condition_list){
-  new_nam <- paste(names_of_dataframes[i] , "wmp", sep="_")
-  
-  assign(new_nam, df %>% group_by(user_id, current_input) %>% summarise(m = mean(as.numeric(wpm)))%>% group_by(user_id) %>% summarise(mean_person = mean(as.numeric(m))))
-  
-currnam <-  df %>% group_by(user_id, current_input) %>% summarise(m = mean(as.numeric(wpm)))%>% group_by(user_id) %>% summarise(mean_person = mean(as.numeric(m)))
+  wmp_nam <- paste(names_of_dataframes[i] , "wmp", sep="_")
+  sd_iki_nam <- paste(names_of_dataframes[i] , "sd_iki", sep="_")
+  uer_nam <- paste(names_of_dataframes[i] , "uer", sep="_")
+    ke_nam <- paste(names_of_dataframes[i] , "ke", sep="_")
 
+  #create one sd_iki per input per person  
+  assign(sd_iki_nam, df %>% group_by(user_id, current_input) %>% summarise(mean_iki = mean(as.numeric(sd_iki)))%>% group_by(user_id) %>% summarise(mean_sd_iki= mean(as.numeric(mean_iki))))
+
+#create one wmp per input per person  
+  assign(wmp_nam, df %>% group_by(user_id, current_input) %>% summarise(m_wmp = mean(as.numeric(wpm)))%>% group_by(user_id) %>% summarise(mean_wmp= mean(as.numeric(m_wmp))))
+
+  #create one uer per input per person  
+  assign(uer_nam, df %>% group_by(user_id, current_input) %>% summarise(m_uer = mean(as.numeric(uer)))%>% group_by(user_id) %>% summarise(mean_uer= mean(as.numeric(m_uer))))
+
+    #create one ke per input per person  
+  assign(ke_nam, df %>% group_by(user_id, current_input) %>% summarise(m_ke = mean(as.numeric(ke)))%>% group_by(user_id) %>% summarise(mean_ke= mean(as.numeric(m_ke))))
+  
+#mean wmp per person  
+  print(df)
+currnam_wmp <-  df %>% group_by(user_id, current_input) %>% summarise(m = mean(as.numeric(wpm)))%>% group_by(user_id) %>% summarise(mean_wmp_per_person = mean(as.numeric(m)))
+
+#mean sd_iki per person  to use var below
+currnam_sd_iki <-  df %>% group_by(user_id, current_input) %>% summarise(m = mean(as.numeric(sd_iki)))%>% group_by(user_id) %>% summarise(mean_sd_iki_per_person = mean(as.numeric(m)))
+
+#mean uer per person to use var below
+currnam_uer <-  df %>% group_by(user_id, current_input) %>% summarise(m = mean(as.numeric(uer)))%>% group_by(user_id) %>% summarise(mean_uer_per_person = mean(as.numeric(m)))
+
+#mean ke per person to use var below
+currnam_ke <-  df %>% group_by(user_id, current_input) %>% summarise(m = mean(as.numeric(ke)))%>% group_by(user_id) %>% summarise(mean_ke_per_person = mean(as.numeric(m)))
+
+#Separate data set in Touch typist and nontouch typist
 tt <- paste("TouchTypist" , names_of_dataframes[i], sep="_")
 ntt <- paste("NonTouchTypist" , names_of_dataframes[i], sep="_")
 
-assign(tt, currnam[currnam$user_id %in% c(touch_typist_id),])
- assign(ntt, currnam[currnam$user_id %in% c(non_touch_typist_id),]) 
+#Assign parts of dataset containing the mean wmp to either touch-typist or non-touch typist
+tt_wmp <- currnam_wmp[currnam_wmp$user_id %in% c(touch_typist_id),]
+ttsd_iki <- currnam_sd_iki[currnam_sd_iki$user_id %in% c(touch_typist_id),]
+tt_uer <-currnam_uer[currnam_uer$user_id %in% c(touch_typist_id),]
+tt_ke <-currnam_ke[currnam_ke$user_id %in% c(touch_typist_id),]
+ttlist <- list(tt_wmp, ttsd_iki, tt_uer, tt_ke)
+
+#can be extended for the additional attributes
+assign(tt, Reduce(
+  function(x, y, z, a) merge(x, y, z, a), 
+  ttlist
+))
+
+#Assign parts of dataset containing the mean sd_iki to either touch-typist or non-touch typist
+nttwmp <- currnam_wmp[currnam_wmp$user_id %in% c(non_touch_typist_id),]
+nttsd_iki <- currnam_sd_iki[currnam_sd_iki$user_id %in% c(non_touch_typist_id),]
+ntt_uer <-currnam_uer[currnam_uer$user_id %in% c(non_touch_typist_id),]
+ntt_ke <-currnam_ke[currnam_ke$user_id %in% c(non_touch_typist_id),]
+nttlist <- list(ntt_wmp, nttsd_iki, ntt_uer, ntt_ke)
+
+
+ assign(ntt, Reduce(
+  function(x, y, z, a) merge(x, y, z, a), 
+  nttlist
+)) 
 #filtertt <- t2[t2$user_id %in% c(touch_typist_id),]
   i <- i + 1
   
