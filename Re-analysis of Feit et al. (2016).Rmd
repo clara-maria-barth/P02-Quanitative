@@ -10,7 +10,20 @@ library("readxl")
 library("openxlsx")
 ```
 
-Use Markdown to explain your analysis. Your code goes into each chunk like below.
+## Separate text fils into different conditions and extract data from questionnaire
+- parse the file names to differentiate between mixed, sentence and random conditions.
+
+*OUTPUT*
+mixed: list of file names that contain the mixed codition
+sentence: list of file names that contain the sentence codition
+random: list of file names that contain the random codition
+
+- Assign touch typit and non-touch-typist according to the answer in the questionnaire:
+
+*OUTPUT*
+touch_typist_id: a list of user_id strings that are touch typist
+non_touch_typist_id: a list of user_id strings that are non-touch typist
+
 
 ```{r}
 #data_file_paths <- list.files("data", full.names = TRUE)
@@ -34,8 +47,7 @@ non_touch_typist_id <- read_xls[c(non_touch_typist),1]
 #n <- subset(read_xls, select = c(touch_typist) )
 
 ```
-
-Extract data:
+##Extract data:
 ```{r}
 i = 0
 vars <- c("mixed", "random", "sentence")
@@ -70,7 +82,21 @@ for (var in vars){
   }
 
 ```
-##Linear Model for WMP:
+##Creating a Dataset with the needed attributes for comparison:
+
+OUTPUT:
+Dataframes with the following names:
+
+NonTouchTypist_mixed_mode
+NonTouchTypist_sentence_mode
+NonTouchTypist_random_mode
+
+TouchTypist_mixed_mode
+TouchTypist_sentence_mode
+TouchTypist_random_mode
+
+Including:
+user_id, mean_wmp_per_person, mean_sd_iki_per_person, mean_uer_per_person, mean_ke_per_person
 ```{r}
 # typeist/nontypist = response var ahand vo wmp ist wkeit in gruppe von ty or nty so höcht.
 sentence_mod <- as.data.frame.matrix(sentence_mod)
@@ -123,20 +149,21 @@ ttlist <- list(tt_wmp, ttsd_iki, tt_uer, tt_ke)
 
 #can be extended for the additional attributes
 assign(tt, Reduce(
-  function(x, y, z, a) merge(x, y, z, a), 
+  function(x, y, ...) merge(x, y, ...),
   ttlist
 ))
 
-#Assign parts of dataset containing the mean sd_iki to either touch-typist or non-touch typist
-nttwmp <- currnam_wmp[currnam_wmp$user_id %in% c(non_touch_typist_id),]
+#Assign parts of dataset containing the mean of the different measures to either touch-typist or non-touch typist
+ntt_wmp <- currnam_wmp[currnam_wmp$user_id %in% c(non_touch_typist_id),]
 nttsd_iki <- currnam_sd_iki[currnam_sd_iki$user_id %in% c(non_touch_typist_id),]
 ntt_uer <-currnam_uer[currnam_uer$user_id %in% c(non_touch_typist_id),]
 ntt_ke <-currnam_ke[currnam_ke$user_id %in% c(non_touch_typist_id),]
+
 nttlist <- list(ntt_wmp, nttsd_iki, ntt_uer, ntt_ke)
 
 
  assign(ntt, Reduce(
-  function(x, y, z, a) merge(x, y, z, a), 
+  function(x, y, ...) merge(x, y, ...), 
   nttlist
 )) 
 #filtertt <- t2[t2$user_id %in% c(touch_typist_id),]
