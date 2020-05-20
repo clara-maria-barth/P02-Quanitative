@@ -84,7 +84,7 @@ for (var in vars){
 ```
 ##Creating a Dataset with the needed attributes for comparison:
 
-OUTPUT:
+*OUTPUT*
 Dataframes with the following names:
 
 NonTouchTypist_mixed_mode
@@ -97,6 +97,7 @@ TouchTypist_random_mode
 
 Including:
 user_id, mean_wmp_per_person, mean_sd_iki_per_person, mean_uer_per_person, mean_ke_per_person
+
 ```{r}
 # typeist/nontypist = response var ahand vo wmp ist wkeit in gruppe von ty or nty so höcht.
 sentence_mod <- as.data.frame.matrix(sentence_mod)
