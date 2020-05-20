@@ -4,7 +4,11 @@ output: html_notebook
 ---
 
 ```{r setup, include = FALSE}
-library(tidyverse)
+#Install and load the following packages with the commands in this block.
+install.packages("readxl")
+install.packages("openxlsx")
+install.packages("tidyverse")
+library("tidyverse")
 source("R/commons.R") # load functions that are shared across notebooks
 library("readxl")
 library("openxlsx")
@@ -14,9 +18,9 @@ library("openxlsx")
 - parse the file names to differentiate between mixed, sentence and random conditions.
 
 *OUTPUT*
-mixed: list of file names that contain the mixed codition
-sentence: list of file names that contain the sentence codition
-random: list of file names that contain the random codition
+mixed: list of file names that contain the mixed condition
+sentence: list of file names that contain the sentence condition
+random: list of file names that contain the random condition
 
 - Assign touch typit and non-touch-typist according to the answer in the questionnaire:
 
