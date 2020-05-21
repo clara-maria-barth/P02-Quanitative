@@ -5,10 +5,13 @@ output: html_notebook
 
 ```{r setup, include = FALSE}
 #Install and load the following packages with the commands in this block.
+install.packages("tidyverse")
+install.packages("ggplot2")
 install.packages("readxl")
 install.packages("openxlsx")
-install.packages("tidyverse")
+
 library("tidyverse")
+library("ggplot2")
 source("R/commons.R") # load functions that are shared across notebooks
 library("readxl")
 library("openxlsx")
@@ -166,13 +169,24 @@ ntt_ke <-currnam_ke[currnam_ke$user_id %in% c(non_touch_typist_id),]
 
 nttlist <- list(ntt_wmp, nttsd_iki, ntt_uer, ntt_ke)
 
-
- assign(ntt, Reduce(
-  function(x, y, ...) merge(x, y, ...), 
-  nttlist
-)) 
-#filtertt <- t2[t2$user_id %in% c(touch_typist_id),]
+  final_df <- assign(ntt, Reduce(
+    function(x, y, ...) merge(x, y, ...), 
+    nttlist
+  )) 
+  print(final_df)
+  #filtertt <- t2[t2$user_id %in% c(touch_typist_id),]
   i <- i + 1
   
 }
+
+```
+The bar plots generated from the three data frames - to compare to Figure 3 in the paper
+```{r}
+# generate bar plots for all 3 dfs
+# for mixed
+ggplot(condition_list[[1]], aes(as.numeric(wpm))) + geom_bar()
+# for random
+ggplot(condition_list[[2]], aes(as.numeric(wpm))) + geom_bar()
+# for sentence
+ggplot(condition_list[[3]], aes(as.numeric(wpm))) + geom_bar()
 ```
