@@ -144,9 +144,9 @@ UER_PP <- lapply(seq_len(length(json_file)), function (z) {
 # average words per minute per person
 wpm_PP <- lapply(seq_len(length(json_file)), function (z) {
   dfs_json <- fromJSON(json_file[[z]])
-  # get total words count per person per entry
+  # get total words count per person per entry (division by five converts chars to words)
   wpm_PE <- lapply(seq_len(length(dfs_json$C)), function (x) {
-    words <- dfs_json$C[[x]]
+    words <- dfs_json$C[[x]]/5
     # get time and convert in minutes
     time <- (dfs_json$Time[[x]])/(1000*60)
     wpm <- words/time
@@ -155,7 +155,7 @@ wpm_PP <- lapply(seq_len(length(json_file)), function (z) {
   wpm_avg <- round(mean(unlist(wpm_PE)))
 })
 
-# data frame with general averages for all 4 variable
+# data frame with general averages for all 4 variables
 data.frame("Mean wpm" = mean(unlist(wpm_PP)),
            "Mean UER" = mean(unlist(UER_PP)),
            "MEAN KE" = mean(unlist(KE_PP)),
@@ -256,9 +256,9 @@ UER_PP <- lapply(seq_len(length(json_file)), function (z) {
 # average words per minute per person
 wpm_PP <- lapply(seq_len(length(json_file)), function (z) {
   dfs_json <- fromJSON(json_file[[z]])
-  # get total words count per person per entry
+  # get total words count per person per entry (division by five converts chars to words)
   wpm_PE <- lapply(seq_len(length(dfs_json$C)), function (x) {
-    words <- dfs_json$C[[x]]
+    words <- dfs_json$C[[x]]/5
     # get time and convert in minutes
     time <- (dfs_json$Time[[x]])/(1000*60)
     wpm <- words/time
