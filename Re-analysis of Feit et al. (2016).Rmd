@@ -4,12 +4,18 @@ output: html_notebook
 ---
 
 ```{r setup, include = FALSE}
-#Install and load the following packages with the commands in this block.
+#Install the following packages. Ensure R version >= 4.00. 
 install.packages("tidyverse")
 install.packages("ggplot2")
 install.packages("readxl")
 install.packages("openxlsx")
 install.packages("Hmisc")
+install.packages("modelr")
+install.packages("qqplotr")
+```
+
+```{r setup, include = FALSE}
+#Load the following packages with the commands in this block
 
 library("Hmisc")
 library("tidyverse")
@@ -17,20 +23,21 @@ library("ggplot2")
 source("R/commons.R") # load functions that are shared across notebooks
 library("readxl")
 library("openxlsx")
-Sys.getenv("PATH")
-
-Sys.setenv(PATH = paste(Sys.getenv("PATH"), 
-                        "C:\\RTools40",
-                        "C:\\RTools40\\mingw64\\bin", 
-                        sep = ";"))
-# Did it work (look at the end)?
-Sys.getenv("PATH")
-```
-
-```{r setup, include = FALSE}
 library("modelr")
 library("qqplotr")
+
+##WINDOWS STUFF BELOW!
+# Sys.getenv("PATH")
+# 
+# Sys.setenv(PATH = paste(Sys.getenv("PATH"), 
+#                         "C:\\RTools40",
+#                         "C:\\RTools40\\mingw64\\bin", 
+#                         sep = ";"))
+# # Did it work (look at the end)?
+# Sys.getenv("PATH")
 ```
+
+
 ## Separate text files into different conditions and extract data from questionnaire
 - Parse the file names to differentiate between mixed, sentence and random conditions.
 
