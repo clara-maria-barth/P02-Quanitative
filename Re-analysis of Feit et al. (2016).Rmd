@@ -27,6 +27,10 @@ Sys.setenv(PATH = paste(Sys.getenv("PATH"),
 Sys.getenv("PATH")
 ```
 
+```{r setup, include = FALSE}
+library("modelr")
+library("qqplotr")
+```
 ## Separate text files into different conditions and extract data from questionnaire
 - Parse the file names to differentiate between mixed, sentence and random conditions.
 
@@ -207,7 +211,7 @@ both <- function(dfNames){
   }))
 }
 conds <- function(dfNames){
-  do.call(rbind, lapply(dfNames, function(x){
+  do.call(rbind, lapply(list(dfNames), function(x){
     currnam <- substr(x,1, nchar(x)-5)
     cbind(get(x), cond = currnam)
   }))
@@ -215,14 +219,55 @@ conds <- function(dfNames){
 mixed_both <- both(c("TouchTypist_mixed_mod", "NonTouchTypist_mixed_mod"))
 sentence_both <- both(c("TouchTypist_sentence_mod", "NonTouchTypist_sentence_mod"))
 random_both <- both(c("TouchTypist_random_mod", "NonTouchTypist_random_mod"))
-new <- conds(c("sentence_both", "mixed_both"))
+new <- conds(c("sentence_both", "mixed_both", "random_both"))
+
+```
+other:
+```{r multi_dataset_input, echo = TRUE}
+all_full <- lm(mean_wmp_per_person~ source*cond, data= new)
+data_aug <- new %>%
+  add_residuals(all_full)
+
+data_aug %>%
+  ggplot(aes(sample = resid)) +
+  stat_qq_band() +
+  stat_qq_line() +
+  stat_qq_point(size = 0.5)
+
+
+```
+
+WMP for sentence plot
+```{r multi_dataset_input, echo = TRUE}
 sentence_lm <- lm(mean_wmp_per_person ~ source, data= sentence_both)
 print(summary(sentence_lm))
 
 p <- ggplot(data = sentence_both, aes(x = source, y = mean_wmp_per_person)) + 
   geom_point(color='blue')
+p + stat_summary(fun.data=mean_sdl, fun.args = list(mult=1), 
+        geom="errorbar", color="red", width=0.2) +
+  stat_summary(fun.y=mean, geom="point", color="red")
+
 ```
+random
 ```{r multi_dataset_input, echo = TRUE}
+random_lm <- lm(mean_wmp_per_person ~ source, data= random_both)
+print(summary(random_lm))
+
+p <- ggplot(data = random_both, aes(x = source, y = mean_wmp_per_person)) + 
+  geom_point(color='blue')
+p + stat_summary(fun.data=mean_sdl, fun.args = list(mult=1), 
+        geom="errorbar", color="red", width=0.2) +
+  stat_summary(fun.y=mean, geom="point", color="red")
+
+```
+mixed:
+```{r multi_dataset_input, echo = TRUE}
+mixed_lm <- lm(mean_wmp_per_person ~ source, data= mixed_both)
+print(summary(mixed_lm))
+
+p <- ggplot(data = mixed_both, aes(x = source, y = mean_wmp_per_person)) + 
+  geom_point(color='blue')
 p + stat_summary(fun.data=mean_sdl, fun.args = list(mult=1), 
         geom="errorbar", color="red", width=0.2) +
   stat_summary(fun.y=mean, geom="point", color="red")
