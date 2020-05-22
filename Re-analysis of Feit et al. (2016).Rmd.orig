@@ -1,0 +1,496 @@
+<<<<<<< HEAD
+---
+title: "Re-analysis of Feit et al. (2016)"
+output: html_notebook
+---
+
+```{r setup, include = FALSE}
+#Install and load the following packages with the commands in this block.
+install.packages("tidyverse")
+install.packages("ggplot2")
+install.packages("readxl")
+install.packages("openxlsx")
+
+library("tidyverse")
+library("ggplot2")
+source("R/commons.R") # load functions that are shared across notebooks
+library("readxl")
+library("openxlsx")
+```
+
+## Separate text files into different conditions and extract data from questionnaire
+- Parse the file names to differentiate between mixed, sentence and random conditions.
+
+*OUTPUT:*
+Mixed: list of file names that contain the mixed condition.
+Sentence: list of file names that contain the sentence condition.
+Random: list of file names that contain the random condition.
+
+- Assign touch typit and non-touch-typist according to the answer in the questionnaire.
+
+*OUTPUT:*
+touch_typist_id: a list of user_id strings that are touch typist.
+non_touch_typist_id: a list of user_id strings that are non-touch typist.
+
+
+```{r}
+#data_file_paths <- list.files("data", full.names = TRUE)
+mixed =list.files("data",pattern="[^(a-zA-Z)]*(Mix)[^(a-zA-Z)]*", full.names = TRUE)
+random =list.files("data",pattern="[^(a-zA-Z)]*(Random)[^(a-zA-Z)]*", full.names = TRUE)
+sentence =list.files("data",pattern="[^(a-zA-Z)]*(Sentence)[^(a-zA-Z)]*", full.names = TRUE)
+
+# 2 x 1 touch typist
+read_xls <- read.xlsx("Background.xlsx")
+
+
+touch_typist <- which(read_xls$`Do.you.use.the.touch.typing.system.with.all.10.fingers?.If.so,.how.many.years.of.experience.do.you.have?`>= 1)
+non_touch_typist <- which(read_xls$`Do.you.use.the.touch.typing.system.with.all.10.fingers?.If.so,.how.many.years.of.experience.do.you.have?`< 1)
+
+touch_typist_id <- read_xls[c(touch_typist),1]
+non_touch_typist_id <- read_xls[c(non_touch_typist),1]
+
+
+
+#non_touch_typist <- which(read_xls[13] <= 1)
+#n <- subset(read_xls, select = c(touch_typist) )
+
+```
+##Extract data:
+```{r}
+i = 0
+vars <- c("mixed", "random", "sentence")
+for (var in vars){
+  i = 0
+  for (path in eval(parse(text=var))){
+    if (i == 0){
+    nam <- paste(var, "mod", sep="_")
+    tabcurr <- read.table(file=path, sep="\t", quote="", comment.char="")
+    colnames(tabcurr) <- lapply(tabcurr[1, ], as.character)
+    tabcurr <- tabcurr[-1,]
+    assign(nam, tabcurr)
+
+    }
+    else{
+    newtab <- read.table(file=path, sep="\t", quote="", comment.char="")
+    colnames(newtab) <- lapply(newtab[1, ], as.character)
+    newtab <- newtab[-1,]
+    chars <- as.character("mixed_mod")
+
+   if (nam[[1]] == as.character("mixed_mod")){
+     mixed_mod <- rbind(newtab, mixed_mod)
+   } else if (nam[[1]] == as.character("random_mod")){
+     random_mod <- rbind(newtab, random_mod)
+   } else if (nam[[1]] == as.character("sentence_mod")){
+     sentence_mod <- rbind(newtab, sentence_mod)
+   }
+    
+  }
+  i <- i + 1
+  }
+  }
+
+```
+##Creating a Dataset with the needed attributes for comparison:
+
+*OUTPUT*
+Dataframes with the following names:
+
+NonTouchTypist_mixed_mode
+NonTouchTypist_sentence_mode
+NonTouchTypist_random_mode
+
+TouchTypist_mixed_mode
+TouchTypist_sentence_mode
+TouchTypist_random_mode
+
+Including:
+user_id, mean_wmp_per_person, mean_sd_iki_per_person, mean_uer_per_person, mean_ke_per_person
+
+```{r}
+# typeist/nontypist = response var ahand vo wmp ist wkeit in gruppe von ty or nty so höcht.
+sentence_mod <- as.data.frame.matrix(sentence_mod)
+mixed_mod <- as.data.frame.matrix(mixed_mod)
+random_mod <- as.data.frame.matrix(random_mod)
+condition_list <- list(sentence_mod, mixed_mod, random_mod)
+names_of_dataframes <- list("sentence_mod", "mixed_mod", "random_mod")
+i = 1
+for (df in condition_list){
+  wmp_nam <- paste(names_of_dataframes[i] , "wmp", sep="_")
+  sd_iki_nam <- paste(names_of_dataframes[i] , "sd_iki", sep="_")
+  uer_nam <- paste(names_of_dataframes[i] , "uer", sep="_")
+    ke_nam <- paste(names_of_dataframes[i] , "ke", sep="_")
+
+  #create one sd_iki per input per person  
+  assign(sd_iki_nam, df %>% group_by(user_id, current_input) %>% summarise(mean_iki = mean(as.numeric(sd_iki)))%>% group_by(user_id) %>% summarise(mean_sd_iki= mean(as.numeric(mean_iki))))
+
+#create one wmp per input per person  
+  assign(wmp_nam, df %>% group_by(user_id, current_input) %>% summarise(m_wmp = mean(as.numeric(wpm)))%>% group_by(user_id) %>% summarise(mean_wmp= mean(as.numeric(m_wmp))))
+
+  #create one uer per input per person  
+  assign(uer_nam, df %>% group_by(user_id, current_input) %>% summarise(m_uer = mean(as.numeric(uer)))%>% group_by(user_id) %>% summarise(mean_uer= mean(as.numeric(m_uer))))
+
+    #create one ke per input per person  
+  assign(ke_nam, df %>% group_by(user_id, current_input) %>% summarise(m_ke = mean(as.numeric(ke)))%>% group_by(user_id) %>% summarise(mean_ke= mean(as.numeric(m_ke))))
+  
+#mean wmp per person  
+  print(df)
+currnam_wmp <-  df %>% group_by(user_id, current_input) %>% summarise(m = mean(as.numeric(wpm)))%>% group_by(user_id) %>% summarise(mean_wmp_per_person = mean(as.numeric(m)))
+
+#mean sd_iki per person  to use var below
+currnam_sd_iki <-  df %>% group_by(user_id, current_input) %>% summarise(m = mean(as.numeric(sd_iki)))%>% group_by(user_id) %>% summarise(mean_sd_iki_per_person = mean(as.numeric(m)))
+
+#mean uer per person to use var below
+currnam_uer <-  df %>% group_by(user_id, current_input) %>% summarise(m = mean(as.numeric(uer)))%>% group_by(user_id) %>% summarise(mean_uer_per_person = mean(as.numeric(m)))
+
+#mean ke per person to use var below
+currnam_ke <-  df %>% group_by(user_id, current_input) %>% summarise(m = mean(as.numeric(ke)))%>% group_by(user_id) %>% summarise(mean_ke_per_person = mean(as.numeric(m)))
+
+#Separate data set in Touch typist and nontouch typist
+tt <- paste("TouchTypist" , names_of_dataframes[i], sep="_")
+ntt <- paste("NonTouchTypist" , names_of_dataframes[i], sep="_")
+
+#Assign parts of dataset containing the mean wmp to either touch-typist or non-touch typist
+tt_wmp <- currnam_wmp[currnam_wmp$user_id %in% c(touch_typist_id),]
+ttsd_iki <- currnam_sd_iki[currnam_sd_iki$user_id %in% c(touch_typist_id),]
+tt_uer <-currnam_uer[currnam_uer$user_id %in% c(touch_typist_id),]
+tt_ke <-currnam_ke[currnam_ke$user_id %in% c(touch_typist_id),]
+ttlist <- list(tt_wmp, ttsd_iki, tt_uer, tt_ke)
+
+#can be extended for the additional attributes
+assign(tt, Reduce(
+  function(x, y, ...) merge(x, y, ...),
+  ttlist
+))
+
+#Assign parts of dataset containing the mean of the different measures to either touch-typist or non-touch typist
+ntt_wmp <- currnam_wmp[currnam_wmp$user_id %in% c(non_touch_typist_id),]
+nttsd_iki <- currnam_sd_iki[currnam_sd_iki$user_id %in% c(non_touch_typist_id),]
+ntt_uer <-currnam_uer[currnam_uer$user_id %in% c(non_touch_typist_id),]
+ntt_ke <-currnam_ke[currnam_ke$user_id %in% c(non_touch_typist_id),]
+
+nttlist <- list(ntt_wmp, nttsd_iki, ntt_uer, ntt_ke)
+
+assign(ntt, Reduce(
+    function(x, y, ...) merge(x, y, ...), 
+    nttlist
+  )) 
+  i <- i + 1
+  
+}
+  # final_df <- assign(ntt, Reduce(
+  #   function(x, y, ...) merge(x, y, ...), 
+  #   nttlist
+  # )) 
+  # print(final_df)
+  # #filtertt <- t2[t2$user_id %in% c(touch_typist_id),]
+  # i <- i + 1
+  
+#}
+
+```
+The bar plots generated from the three data frames - to compare to Figure 3 in the paper
+```{r}
+#wmp = dv
+#variable changed
+both <- function(dfNames){
+  do.call(rbind, lapply(dfNames, function(x){
+    currnam <- substr(x,1, nchar(x)-16)
+    cbind(get(x), source = currnam)
+  }))
+}
+sentence_both <- both(c("TouchTypist_mixed_mod", "NonTouchTypist_mixed_mod"))
+sentence_both <- both(c("TouchTypist_sentence_mod", "NonTouchTypist_sentence_mod"))
+random_both <- both(c("TouchTypist_random_mod", "NonTouchTypist_random_mod"))
+
+sentence_lm <- lm(mean_wmp_per_person ~source, data= sentence_both)
+summary(sentence_lm)
+
+ggplot(data = sentence_both, aes(x = source, y = mean_wmp_per_person)) + 
+  geom_point(color='blue')
+```
+
+
+```{r}
+# generate bar plots for all 3 dfs
+# for mixed
+# ggplot(condition_list[[1]], aes(as.numeric(wpm))) + geom_bar()
+# # for random
+# ggplot(condition_list[[2]], aes(as.numeric(wpm))) + geom_bar()
+# # for sentence
+# ggplot(condition_list[[3]], aes(as.numeric(wpm))) + geom_bar()
+
+# generate bar plots for all 3 dfs for touch-typists
+# for mixed
+ggplot(condition_list[[1]] %>% filter(user_id %in% touch_typist_id), aes(as.numeric(wpm))) + geom_bar()
+# for random
+ggplot(condition_list[[2]] %>% filter(user_id %in% touch_typist_id), aes(as.numeric(wpm))) + geom_bar()
+# for sentence
+ggplot(condition_list[[3]] %>% filter(user_id %in% touch_typist_id), aes(as.numeric(wpm))) + geom_bar()
+
+# generate bar plots for all 3 dfs for non touch-typists
+# for mixed
+ggplot(condition_list[[1]] %>% filter(user_id %in% non_touch_typist_id), aes(as.numeric(wpm))) + geom_bar()
+# for random
+ggplot(condition_list[[2]] %>% filter(user_id %in% non_touch_typist_id), aes(as.numeric(wpm))) + geom_bar()
+# for sentence
+ggplot(condition_list[[3]] %>% filter(user_id %in% non_touch_typist_id), aes(as.numeric(wpm))) + geom_bar()
+=======
+---
+title: "Re-analysis of Feit et al. (2016)"
+output: html_notebook
+---
+
+```{r setup, include = FALSE}
+#Install and load the following packages with the commands in this block.
+install.packages("tidyverse")
+install.packages("ggplot2")
+install.packages("readxl")
+install.packages("openxlsx")
+install.packages("Hmisc")
+
+library("tidyverse")
+library("ggplot2")
+source("R/commons.R") # load functions that are shared across notebooks
+library("readxl")
+library("openxlsx")
+```
+
+## Separate text files into different conditions and extract data from questionnaire
+- Parse the file names to differentiate between mixed, sentence and random conditions.
+
+*OUTPUT:*
+Mixed: list of file names that contain the mixed condition.
+Sentence: list of file names that contain the sentence condition.
+Random: list of file names that contain the random condition.
+
+- Assign touch typit and non-touch-typist according to the answer in the questionnaire.
+
+*OUTPUT:*
+touch_typist_id: a list of user_id strings that are touch typist.
+non_touch_typist_id: a list of user_id strings that are non-touch typist.
+
+
+```{r}
+#data_file_paths <- list.files("data", full.names = TRUE)
+mixed =list.files("data",pattern="[^(a-zA-Z)]*(Mix)[^(a-zA-Z)]*", full.names = TRUE)
+random =list.files("data",pattern="[^(a-zA-Z)]*(Random)[^(a-zA-Z)]*", full.names = TRUE)
+sentence =list.files("data",pattern="[^(a-zA-Z)]*(Sentence)[^(a-zA-Z)]*", full.names = TRUE)
+
+# 2 x 1 touch typist
+read_xls <- read.xlsx("Background.xlsx")
+
+
+touch_typist <- which(read_xls$`Do.you.use.the.touch.typing.system.with.all.10.fingers?.If.so,.how.many.years.of.experience.do.you.have?`>= 1)
+non_touch_typist <- which(read_xls$`Do.you.use.the.touch.typing.system.with.all.10.fingers?.If.so,.how.many.years.of.experience.do.you.have?`< 1)
+
+touch_typist_id <- read_xls[c(touch_typist),1]
+non_touch_typist_id <- read_xls[c(non_touch_typist),1]
+
+
+
+#non_touch_typist <- which(read_xls[13] <= 1)
+#n <- subset(read_xls, select = c(touch_typist) )
+
+```
+##Extract data:
+```{r}
+i = 0
+vars <- c("mixed", "random", "sentence")
+for (var in vars){
+  i = 0
+  for (path in eval(parse(text=var))){
+    if (i == 0){
+    nam <- paste(var, "mod", sep="_")
+    tabcurr <- read.table(file=path, sep="\t", quote="", comment.char="")
+    colnames(tabcurr) <- lapply(tabcurr[1, ], as.character)
+    tabcurr <- tabcurr[-1,]
+    assign(nam, tabcurr)
+
+    }
+    else{
+    newtab <- read.table(file=path, sep="\t", quote="", comment.char="")
+    colnames(newtab) <- lapply(newtab[1, ], as.character)
+    newtab <- newtab[-1,]
+    chars <- as.character("mixed_mod")
+
+   if (nam[[1]] == as.character("mixed_mod")){
+     mixed_mod <- rbind(newtab, mixed_mod)
+   } else if (nam[[1]] == as.character("random_mod")){
+     random_mod <- rbind(newtab, random_mod)
+   } else if (nam[[1]] == as.character("sentence_mod")){
+     sentence_mod <- rbind(newtab, sentence_mod)
+   }
+    
+  }
+  i <- i + 1
+  }
+  }
+
+```
+##Creating a Dataset with the needed attributes for comparison:
+
+*OUTPUT*
+Dataframes with the following names:
+
+NonTouchTypist_mixed_mode
+NonTouchTypist_sentence_mode
+NonTouchTypist_random_mode
+
+TouchTypist_mixed_mode
+TouchTypist_sentence_mode
+TouchTypist_random_mode
+
+Including:
+user_id, mean_wmp_per_person, mean_sd_iki_per_person, mean_uer_per_person, mean_ke_per_person
+
+```{r}
+# typeist/nontypist = response var ahand vo wmp ist wkeit in gruppe von ty or nty so höcht.
+sentence_mod <- as.data.frame.matrix(sentence_mod)
+mixed_mod <- as.data.frame.matrix(mixed_mod)
+random_mod <- as.data.frame.matrix(random_mod)
+condition_list <- list(sentence_mod, mixed_mod, random_mod)
+names_of_dataframes <- list("sentence_mod", "mixed_mod", "random_mod")
+i = 1
+for (df in condition_list){
+  wmp_nam <- paste(names_of_dataframes[i] , "wmp", sep="_")
+  sd_iki_nam <- paste(names_of_dataframes[i] , "sd_iki", sep="_")
+  uer_nam <- paste(names_of_dataframes[i] , "uer", sep="_")
+    ke_nam <- paste(names_of_dataframes[i] , "ke", sep="_")
+
+  #create one sd_iki per input per person  
+  assign(sd_iki_nam, df %>% group_by(user_id, current_input) %>% summarise(mean_iki = mean(as.numeric(sd_iki)))%>% group_by(user_id) %>% summarise(mean_sd_iki= mean(as.numeric(mean_iki))))
+
+#create one wmp per input per person  
+  assign(wmp_nam, df %>% group_by(user_id, current_input) %>% summarise(m_wmp = mean(as.numeric(wpm)))%>% group_by(user_id) %>% summarise(mean_wmp= mean(as.numeric(m_wmp))))
+
+  #create one uer per input per person  
+  assign(uer_nam, df %>% group_by(user_id, current_input) %>% summarise(m_uer = mean(as.numeric(uer)))%>% group_by(user_id) %>% summarise(mean_uer= mean(as.numeric(m_uer))))
+
+    #create one ke per input per person  
+  assign(ke_nam, df %>% group_by(user_id, current_input) %>% summarise(m_ke = mean(as.numeric(ke)))%>% group_by(user_id) %>% summarise(mean_ke= mean(as.numeric(m_ke))))
+  
+#mean wmp per person  
+  print(df)
+currnam_wmp <-  df %>% group_by(user_id, current_input) %>% summarise(m = mean(as.numeric(wpm)))%>% group_by(user_id) %>% summarise(mean_wmp_per_person = mean(as.numeric(m)))
+
+#mean sd_iki per person  to use var below
+currnam_sd_iki <-  df %>% group_by(user_id, current_input) %>% summarise(m = mean(as.numeric(sd_iki)))%>% group_by(user_id) %>% summarise(mean_sd_iki_per_person = mean(as.numeric(m)))
+
+#mean uer per person to use var below
+currnam_uer <-  df %>% group_by(user_id, current_input) %>% summarise(m = mean(as.numeric(uer)))%>% group_by(user_id) %>% summarise(mean_uer_per_person = mean(as.numeric(m)))
+
+#mean ke per person to use var below
+currnam_ke <-  df %>% group_by(user_id, current_input) %>% summarise(m = mean(as.numeric(ke)))%>% group_by(user_id) %>% summarise(mean_ke_per_person = mean(as.numeric(m)))
+
+#Separate data set in Touch typist and nontouch typist
+tt <- paste("TouchTypist" , names_of_dataframes[i], sep="_")
+ntt <- paste("NonTouchTypist" , names_of_dataframes[i], sep="_")
+
+#Assign parts of dataset containing the mean wmp to either touch-typist or non-touch typist
+tt_wmp <- currnam_wmp[currnam_wmp$user_id %in% c(touch_typist_id),]
+ttsd_iki <- currnam_sd_iki[currnam_sd_iki$user_id %in% c(touch_typist_id),]
+tt_uer <-currnam_uer[currnam_uer$user_id %in% c(touch_typist_id),]
+tt_ke <-currnam_ke[currnam_ke$user_id %in% c(touch_typist_id),]
+ttlist <- list(tt_wmp, ttsd_iki, tt_uer, tt_ke)
+
+#can be extended for the additional attributes
+assign(tt, Reduce(
+  function(x, y, ...) merge(x, y, ...),
+  ttlist
+))
+
+#Assign parts of dataset containing the mean of the different measures to either touch-typist or non-touch typist
+ntt_wmp <- currnam_wmp[currnam_wmp$user_id %in% c(non_touch_typist_id),]
+nttsd_iki <- currnam_sd_iki[currnam_sd_iki$user_id %in% c(non_touch_typist_id),]
+ntt_uer <-currnam_uer[currnam_uer$user_id %in% c(non_touch_typist_id),]
+ntt_ke <-currnam_ke[currnam_ke$user_id %in% c(non_touch_typist_id),]
+
+nttlist <- list(ntt_wmp, nttsd_iki, ntt_uer, ntt_ke)
+
+assign(ntt, Reduce(
+    function(x, y, ...) merge(x, y, ...), 
+    nttlist
+  )) 
+  i <- i + 1
+  
+}
+  # final_df <- assign(ntt, Reduce(
+  #   function(x, y, ...) merge(x, y, ...), 
+  #   nttlist
+  # )) 
+  # print(final_df)
+  # #filtertt <- t2[t2$user_id %in% c(touch_typist_id),]
+  # i <- i + 1
+  
+#}
+
+```
+The bar plots generated from the three data frames - to compare to Figure 3 in the paper
+```{r}
+#wmp = dv
+#variable changed
+both <- function(dfNames){
+  do.call(rbind, lapply(dfNames, function(x){
+    currnam <- substr(x,1, nchar(x)-16)
+    cbind(get(x), source = currnam)
+  }))
+}
+sentence_both <- both(c("TouchTypist_mixed_mod", "NonTouchTypist_mixed_mod"))
+sentence_both <- both(c("TouchTypist_sentence_mod", "NonTouchTypist_sentence_mod"))
+random_both <- both(c("TouchTypist_random_mod", "NonTouchTypist_random_mod"))
+
+sentence_lm <- lm(mean_wmp_per_person ~ source, data= sentence_both)
+summary(sentence_lm)
+
+p <- ggplot(data = sentence_both, aes(x = source, y = mean_wmp_per_person)) + 
+  geom_point(color='blue')
+```
+```{r multi_dataset_input, echo = TRUE}
+p + stat_summary(fun.data=mean_sdl, fun.args = list(mult=1), 
+        geom="errorbar", color="red", width=0.2) +
+  stat_summary(fun.y=mean, geom="point", color="red")
+# install(rtools)
+# install.packages("beeswarm")
+# md_input <- 
+#   sentence_both %>% 
+#   ggplot(aes(x = source, y = mean_wmp_per_person)) +
+#   geom_beeswarm() +
+#   geom_pointrange(stat = "summary", fun.data = mean_cl_normal) 
+# md_input
+```
+
+__Answer:__
+```{r multi_dataset_answer, echo = TRUE}
+md_answer <- 
+  md_input +
+  geom_point(stat="summary", fun.y = "mean", color="red", shape="diamond", size=5, position=position_nudge(x = 0.18))+
+  geom_errorbar(stat="summary", fun.data="mean_se", fun.args=list(mult=1.96), color = "blue", position=position_nudge(x=0.18), width=0)
+md_answer
+```
+
+```{r}
+# generate bar plots for all 3 dfs
+# for mixed
+# ggplot(condition_list[[1]], aes(as.numeric(wpm))) + geom_bar()
+# # for random
+# ggplot(condition_list[[2]], aes(as.numeric(wpm))) + geom_bar()
+# # for sentence
+# ggplot(condition_list[[3]], aes(as.numeric(wpm))) + geom_bar()
+
+# generate bar plots for all 3 dfs for touch-typists
+# for mixed
+ggplot(condition_list[[1]] %>% filter(user_id %in% touch_typist_id), aes(as.numeric(wpm))) + geom_bar()
+# for random
+ggplot(condition_list[[2]] %>% filter(user_id %in% touch_typist_id), aes(as.numeric(wpm))) + geom_bar()
+# for sentence
+ggplot(condition_list[[3]] %>% filter(user_id %in% touch_typist_id), aes(as.numeric(wpm))) + geom_bar()
+
+# generate bar plots for all 3 dfs for non touch-typists
+# for mixed
+ggplot(condition_list[[1]] %>% filter(user_id %in% non_touch_typist_id), aes(as.numeric(wpm))) + geom_bar()
+# for random
+ggplot(condition_list[[2]] %>% filter(user_id %in% non_touch_typist_id), aes(as.numeric(wpm))) + geom_bar()
+# for sentence
+ggplot(condition_list[[3]] %>% filter(user_id %in% non_touch_typist_id), aes(as.numeric(wpm))) + geom_bar()
+>>>>>>> upstream/master
+```
