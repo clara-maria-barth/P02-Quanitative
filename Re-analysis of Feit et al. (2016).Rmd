@@ -251,72 +251,96 @@ print(models)
 
 WMP for sentence plot
 ```{r multi_dataset_input, echo = TRUE}
-sentence_lm <- lm(mean_wmp_per_person ~ source, data= sentence_both)
-print(summary(sentence_lm))
+datalist <- list(sentence_both, mixed_both, random_both)
+cond <- list("sentence_both", "mixed_both", "random_both")
+i = 1
+condition_model <- vector("list", 3)
+for (df in datalist){
+curr_mod <- paste("model", i, sep="_")
+print(i)
+condition_model[[curr_mod]] <- lapply(attributelist, function(x){
+curr_lm <- lm(substitute(i~ source, list(i = as.name(x))), data=df)
 
-p <- ggplot(data = sentence_both, aes(x = source, y = mean_wmp_per_person)) + 
-  geom_point(color='blue')
-p + stat_summary(fun.data=mean_sdl, fun.args = list(mult=1), 
+
+summary(curr_lm)
+#df.predict <- cbind(df, predict(attributelist[i], interval='confidence'))
+p <- ggplot(data = df, aes_string(x = "source", y = x)) + 
+  geom_point(color='blue')+
+  ggtitle(as.character(cond[[i]]))
+
+assign(curr_mod,p + stat_summary(fun.data=mean_sdl, fun.args = list(mult=1), 
         geom="errorbar", color="red", width=0.2) +
-  stat_summary(fun.y=mean, geom="point", color="red")
+  stat_summary(fun.y=mean, geom="point", color="red"))
+})
+i = i+1
+}
+print(condition_model)
+# sentence_lm <- lm(mean_wmp_per_person ~ source, data= sentence_both)
+# print(summary(sentence_lm))
+# 
+# p <- ggplot(data = sentence_both, aes(x = source, y = mean_wmp_per_person)) + 
+#   geom_point(color='blue')
+# p + stat_summary(fun.data=mean_sdl, fun.args = list(mult=1), 
+#         geom="errorbar", color="red", width=0.2) +
+#   stat_summary(fun.y=mean, geom="point", color="red")
 
 ```
 random
 ```{r multi_dataset_input, echo = TRUE}
-random_lm <- lm(mean_wmp_per_person ~ source, data= random_both)
-print(summary(random_lm))
-
-p <- ggplot(data = random_both, aes(x = source, y = mean_wmp_per_person)) + 
-  geom_point(color='blue')
-p + stat_summary(fun.data=mean_sdl, fun.args = list(mult=1), 
-        geom="errorbar", color="red", width=0.2) +
-  stat_summary(fun.y=mean, geom="point", color="red")
+# random_lm <- lm(mean_wmp_per_person ~ source, data= random_both)
+# print(summary(random_lm))
+# 
+# p <- ggplot(data = random_both, aes(x = source, y = mean_wmp_per_person)) + 
+#   geom_point(color='blue')
+# p + stat_summary(fun.data=mean_sdl, fun.args = list(mult=1), 
+#         geom="errorbar", color="red", width=0.2) +
+#   stat_summary(fun.y=mean, geom="point", color="red")
 
 ```
 mixed:
-```{r multi_dataset_input, echo = TRUE}
-mixed_lm <- lm(mean_wmp_per_person ~ source, data= mixed_both)
-print(summary(mixed_lm))
-
-p <- ggplot(data = mixed_both, aes(x = source, y = mean_wmp_per_person)) + 
-  geom_point(color='blue')
-p + stat_summary(fun.data=mean_sdl, fun.args = list(mult=1), 
-        geom="errorbar", color="red", width=0.2) +
-  stat_summary(fun.y=mean, geom="point", color="red")
+# ```{r multi_dataset_input, echo = TRUE}
+# mixed_lm <- lm(mean_wmp_per_person ~ source, data= mixed_both)
+# print(summary(mixed_lm))
+# 
+# p <- ggplot(data = mixed_both, aes(x = source, y = mean_wmp_per_person)) + 
+#   geom_point(color='blue')
+# p + stat_summary(fun.data=mean_sdl, fun.args = list(mult=1), 
+#         geom="errorbar", color="red", width=0.2) +
+#   stat_summary(fun.y=mean, geom="point", color="red")
 
 ```
 
 __Answer:__
-```{r multi_dataset_answer, echo = TRUE}
-md_answer <- 
-  md_input +
-  geom_point(stat="summary", fun.y = "mean", color="red", shape="diamond", size=5, position=position_nudge(x = 0.18))+
-  geom_errorbar(stat="summary", fun.data="mean_se", fun.args=list(mult=1.96), color = "blue", position=position_nudge(x=0.18), width=0)
-md_answer
-```
+<!-- ```{r multi_dataset_answer, echo = TRUE} -->
+<!-- md_answer <-  -->
+<!--   md_input + -->
+<!--   geom_point(stat="summary", fun.y = "mean", color="red", shape="diamond", size=5, position=position_nudge(x = 0.18))+ -->
+<!--   geom_errorbar(stat="summary", fun.data="mean_se", fun.args=list(mult=1.96), color = "blue", position=position_nudge(x=0.18), width=0) -->
+<!-- md_answer -->
+<!-- ``` -->
 
-```{r}
-# generate bar plots for all 3 dfs
-# for mixed
-# ggplot(condition_list[[1]], aes(as.numeric(wpm))) + geom_bar()
-# # for random
-# ggplot(condition_list[[2]], aes(as.numeric(wpm))) + geom_bar()
-# # for sentence
-# ggplot(condition_list[[3]], aes(as.numeric(wpm))) + geom_bar()
+<!-- ```{r} -->
+<!-- # generate bar plots for all 3 dfs -->
+<!-- # for mixed -->
+<!-- # ggplot(condition_list[[1]], aes(as.numeric(wpm))) + geom_bar() -->
+<!-- # # for random -->
+<!-- # ggplot(condition_list[[2]], aes(as.numeric(wpm))) + geom_bar() -->
+<!-- # # for sentence -->
+<!-- # ggplot(condition_list[[3]], aes(as.numeric(wpm))) + geom_bar() -->
 
-# generate bar plots for all 3 dfs for touch-typists
-# for mixed
-ggplot(condition_list[[1]] %>% filter(user_id %in% touch_typist_id), aes(as.numeric(wpm))) + geom_bar()
-# for random
-ggplot(condition_list[[2]] %>% filter(user_id %in% touch_typist_id), aes(as.numeric(wpm))) + geom_bar()
-# for sentence
-ggplot(condition_list[[3]] %>% filter(user_id %in% touch_typist_id), aes(as.numeric(wpm))) + geom_bar()
+<!-- # generate bar plots for all 3 dfs for touch-typists -->
+<!-- # for mixed -->
+<!-- ggplot(condition_list[[1]] %>% filter(user_id %in% touch_typist_id), aes(as.numeric(wpm))) + geom_bar() -->
+<!-- # for random -->
+<!-- ggplot(condition_list[[2]] %>% filter(user_id %in% touch_typist_id), aes(as.numeric(wpm))) + geom_bar() -->
+<!-- # for sentence -->
+<!-- ggplot(condition_list[[3]] %>% filter(user_id %in% touch_typist_id), aes(as.numeric(wpm))) + geom_bar() -->
 
-# generate bar plots for all 3 dfs for non touch-typists
-# for mixed
-ggplot(condition_list[[1]] %>% filter(user_id %in% non_touch_typist_id), aes(as.numeric(wpm))) + geom_bar()
-# for random
-ggplot(condition_list[[2]] %>% filter(user_id %in% non_touch_typist_id), aes(as.numeric(wpm))) + geom_bar()
-# for sentence
-ggplot(condition_list[[3]] %>% filter(user_id %in% non_touch_typist_id), aes(as.numeric(wpm))) + geom_bar()
-```
+<!-- # generate bar plots for all 3 dfs for non touch-typists -->
+<!-- # for mixed -->
+<!-- ggplot(condition_list[[1]] %>% filter(user_id %in% non_touch_typist_id), aes(as.numeric(wpm))) + geom_bar() -->
+<!-- # for random -->
+<!-- ggplot(condition_list[[2]] %>% filter(user_id %in% non_touch_typist_id), aes(as.numeric(wpm))) + geom_bar() -->
+<!-- # for sentence -->
+<!-- ggplot(condition_list[[3]] %>% filter(user_id %in% non_touch_typist_id), aes(as.numeric(wpm))) + geom_bar() -->
+<!-- ``` -->
