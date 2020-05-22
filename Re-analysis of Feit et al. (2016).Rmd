@@ -11,11 +11,20 @@ install.packages("readxl")
 install.packages("openxlsx")
 install.packages("Hmisc")
 
+library("Hmisc")
 library("tidyverse")
 library("ggplot2")
 source("R/commons.R") # load functions that are shared across notebooks
 library("readxl")
 library("openxlsx")
+Sys.getenv("PATH")
+
+Sys.setenv(PATH = paste(Sys.getenv("PATH"), 
+                        "C:\\RTools40",
+                        "C:\\RTools40\\mingw64\\bin", 
+                        sep = ";"))
+# Did it work (look at the end)?
+Sys.getenv("PATH")
 ```
 
 ## Separate text files into different conditions and extract data from questionnaire
@@ -31,7 +40,6 @@ Random: list of file names that contain the random condition.
 *OUTPUT:*
 touch_typist_id: a list of user_id strings that are touch typist.
 non_touch_typist_id: a list of user_id strings that are non-touch typist.
-
 
 ```{r}
 #data_file_paths <- list.files("data", full.names = TRUE)
@@ -198,12 +206,18 @@ both <- function(dfNames){
     cbind(get(x), source = currnam)
   }))
 }
-sentence_both <- both(c("TouchTypist_mixed_mod", "NonTouchTypist_mixed_mod"))
+conds <- function(dfNames){
+  do.call(rbind, lapply(dfNames, function(x){
+    currnam <- substr(x,1, nchar(x)-5)
+    cbind(get(x), cond = currnam)
+  }))
+}
+mixed_both <- both(c("TouchTypist_mixed_mod", "NonTouchTypist_mixed_mod"))
 sentence_both <- both(c("TouchTypist_sentence_mod", "NonTouchTypist_sentence_mod"))
 random_both <- both(c("TouchTypist_random_mod", "NonTouchTypist_random_mod"))
-
+new <- conds(c("sentence_both", "mixed_both"))
 sentence_lm <- lm(mean_wmp_per_person ~ source, data= sentence_both)
-summary(sentence_lm)
+print(summary(sentence_lm))
 
 p <- ggplot(data = sentence_both, aes(x = source, y = mean_wmp_per_person)) + 
   geom_point(color='blue')
@@ -212,14 +226,7 @@ p <- ggplot(data = sentence_both, aes(x = source, y = mean_wmp_per_person)) +
 p + stat_summary(fun.data=mean_sdl, fun.args = list(mult=1), 
         geom="errorbar", color="red", width=0.2) +
   stat_summary(fun.y=mean, geom="point", color="red")
-# install(rtools)
-# install.packages("beeswarm")
-# md_input <- 
-#   sentence_both %>% 
-#   ggplot(aes(x = source, y = mean_wmp_per_person)) +
-#   geom_beeswarm() +
-#   geom_pointrange(stat = "summary", fun.data = mean_cl_normal) 
-# md_input
+
 ```
 
 __Answer:__
