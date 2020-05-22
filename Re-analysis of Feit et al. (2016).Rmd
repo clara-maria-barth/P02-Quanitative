@@ -189,6 +189,27 @@ assign(ntt, Reduce(
 ```
 The bar plots generated from the three data frames - to compare to Figure 3 in the paper
 ```{r}
+#wmp = dv
+#variable changed
+both <- function(dfNames){
+  do.call(rbind, lapply(dfNames, function(x){
+    currnam <- substr(x,1, nchar(x)-16)
+    cbind(get(x), source = currnam)
+  }))
+}
+sentence_both <- both(c("TouchTypist_mixed_mod", "NonTouchTypist_mixed_mod"))
+sentence_both <- both(c("TouchTypist_sentence_mod", "NonTouchTypist_sentence_mod"))
+random_both <- both(c("TouchTypist_random_mod", "NonTouchTypist_random_mod"))
+
+sentence_lm <- lm(mean_wmp_per_person ~source, data= sentence_both)
+summary(sentence_lm)
+
+ggplot(data = sentence_both, aes(x = source, y = mean_wmp_per_person)) + 
+  geom_point(color='blue')
+```
+
+
+```{r}
 # generate bar plots for all 3 dfs
 # for mixed
 # ggplot(condition_list[[1]], aes(as.numeric(wpm))) + geom_bar()
