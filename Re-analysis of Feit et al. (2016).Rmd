@@ -169,15 +169,22 @@ ntt_ke <-currnam_ke[currnam_ke$user_id %in% c(non_touch_typist_id),]
 
 nttlist <- list(ntt_wmp, nttsd_iki, ntt_uer, ntt_ke)
 
-  final_df <- assign(ntt, Reduce(
+assign(ntt, Reduce(
     function(x, y, ...) merge(x, y, ...), 
     nttlist
   )) 
-  print(final_df)
-  #filtertt <- t2[t2$user_id %in% c(touch_typist_id),]
   i <- i + 1
   
 }
+  # final_df <- assign(ntt, Reduce(
+  #   function(x, y, ...) merge(x, y, ...), 
+  #   nttlist
+  # )) 
+  # print(final_df)
+  # #filtertt <- t2[t2$user_id %in% c(touch_typist_id),]
+  # i <- i + 1
+  
+#}
 
 ```
 The bar plots generated from the three data frames - to compare to Figure 3 in the paper
