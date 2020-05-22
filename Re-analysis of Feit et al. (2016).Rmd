@@ -17,19 +17,19 @@ library("readxl")
 library("openxlsx")
 ```
 
-## Separate text fils into different conditions and extract data from questionnaire
-- parse the file names to differentiate between mixed, sentence and random conditions.
+## Separate text files into different conditions and extract data from questionnaire
+- Parse the file names to differentiate between mixed, sentence and random conditions.
 
-*OUTPUT*
-mixed: list of file names that contain the mixed condition
-sentence: list of file names that contain the sentence condition
-random: list of file names that contain the random condition
+*OUTPUT:*
+Mixed: list of file names that contain the mixed condition.
+Sentence: list of file names that contain the sentence condition.
+Random: list of file names that contain the random condition.
 
-- Assign touch typit and non-touch-typist according to the answer in the questionnaire:
+- Assign touch typit and non-touch-typist according to the answer in the questionnaire.
 
-*OUTPUT*
-touch_typist_id: a list of user_id strings that are touch typist
-non_touch_typist_id: a list of user_id strings that are non-touch typist
+*OUTPUT:*
+touch_typist_id: a list of user_id strings that are touch typist.
+non_touch_typist_id: a list of user_id strings that are non-touch typist.
 
 
 ```{r}
@@ -191,9 +191,25 @@ The bar plots generated from the three data frames - to compare to Figure 3 in t
 ```{r}
 # generate bar plots for all 3 dfs
 # for mixed
-ggplot(condition_list[[1]], aes(as.numeric(wpm))) + geom_bar()
+# ggplot(condition_list[[1]], aes(as.numeric(wpm))) + geom_bar()
+# # for random
+# ggplot(condition_list[[2]], aes(as.numeric(wpm))) + geom_bar()
+# # for sentence
+# ggplot(condition_list[[3]], aes(as.numeric(wpm))) + geom_bar()
+
+# generate bar plots for all 3 dfs for touch-typists
+# for mixed
+ggplot(condition_list[[1]] %>% filter(user_id %in% touch_typist_id), aes(as.numeric(wpm))) + geom_bar()
 # for random
-ggplot(condition_list[[2]], aes(as.numeric(wpm))) + geom_bar()
+ggplot(condition_list[[2]] %>% filter(user_id %in% touch_typist_id), aes(as.numeric(wpm))) + geom_bar()
 # for sentence
-ggplot(condition_list[[3]], aes(as.numeric(wpm))) + geom_bar()
+ggplot(condition_list[[3]] %>% filter(user_id %in% touch_typist_id), aes(as.numeric(wpm))) + geom_bar()
+
+# generate bar plots for all 3 dfs for non touch-typists
+# for mixed
+ggplot(condition_list[[1]] %>% filter(user_id %in% non_touch_typist_id), aes(as.numeric(wpm))) + geom_bar()
+# for random
+ggplot(condition_list[[2]] %>% filter(user_id %in% non_touch_typist_id), aes(as.numeric(wpm))) + geom_bar()
+# for sentence
+ggplot(condition_list[[3]] %>% filter(user_id %in% non_touch_typist_id), aes(as.numeric(wpm))) + geom_bar()
 ```
