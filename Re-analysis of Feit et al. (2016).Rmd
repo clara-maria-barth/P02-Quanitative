@@ -2,6 +2,18 @@
 title: "Re-analysis of Feit et al. (2016)"
 output: html_notebook
 ---
+For windows
+```{r setup, include = FALSE}
+Sys.getenv("PATH")
+
+Sys.setenv(PATH = paste(Sys.getenv("PATH"), 
+                        "C:\\RTools40",
+                        "C:\\RTools40\\mingw64\\bin", 
+                        sep = ";"))
+# Did it work (look at the end)?
+Sys.getenv("PATH")
+```
+
 
 ```{r setup, include = FALSE}
 #Install and load the following packages with the commands in this block.
@@ -17,14 +29,7 @@ library("ggplot2")
 source("R/commons.R") # load functions that are shared across notebooks
 library("readxl")
 library("openxlsx")
-Sys.getenv("PATH")
 
-Sys.setenv(PATH = paste(Sys.getenv("PATH"), 
-                        "C:\\RTools40",
-                        "C:\\RTools40\\mingw64\\bin", 
-                        sep = ";"))
-# Did it work (look at the end)?
-Sys.getenv("PATH")
 ```
 
 ```{r setup, include = FALSE}
@@ -224,17 +229,24 @@ new <- conds(c("sentence_both", "mixed_both", "random_both"))
 ```
 other:
 ```{r multi_dataset_input, echo = TRUE}
-all_full <- lm(mean_wmp_per_person~ source*cond, data= new)
-data_aug <- new %>%
-  add_residuals(all_full)
+attributelist <- list("mean_wmp_per_person", "mean_sd_iki_per_person", "mean_uer_per_person", "mean_ke_per_person")
+models <- lapply(attributelist, function(x){
+  curr_plot <- paste("Plot" , x, sep="_")
+curr_p <- lm(substitute(i~ source*cond, list(i = as.name(x))), data= new)
 
-data_aug %>%
+
+curr_lm <- new %>%
+  add_residuals(curr_p)
+
+assign(curr_plot, curr_lm %>%
   ggplot(aes(sample = resid)) +
+    ggtitle(curr_plot)+
   stat_qq_band() +
   stat_qq_line() +
-  stat_qq_point(size = 0.5)
+  stat_qq_point(size = 0.5))
+})
 
-
+print(models)
 ```
 
 WMP for sentence plot
