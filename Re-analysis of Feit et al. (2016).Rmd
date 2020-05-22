@@ -9,6 +9,7 @@ install.packages("tidyverse")
 install.packages("ggplot2")
 install.packages("readxl")
 install.packages("openxlsx")
+install.packages("Hmisc")
 
 library("tidyverse")
 library("ggplot2")
@@ -201,13 +202,34 @@ sentence_both <- both(c("TouchTypist_mixed_mod", "NonTouchTypist_mixed_mod"))
 sentence_both <- both(c("TouchTypist_sentence_mod", "NonTouchTypist_sentence_mod"))
 random_both <- both(c("TouchTypist_random_mod", "NonTouchTypist_random_mod"))
 
-sentence_lm <- lm(mean_wmp_per_person ~source, data= sentence_both)
+sentence_lm <- lm(mean_wmp_per_person ~ source, data= sentence_both)
 summary(sentence_lm)
 
-ggplot(data = sentence_both, aes(x = source, y = mean_wmp_per_person)) + 
+p <- ggplot(data = sentence_both, aes(x = source, y = mean_wmp_per_person)) + 
   geom_point(color='blue')
 ```
+```{r multi_dataset_input, echo = TRUE}
+p + stat_summary(fun.data=mean_sdl, fun.args = list(mult=1), 
+        geom="errorbar", color="red", width=0.2) +
+  stat_summary(fun.y=mean, geom="point", color="red")
+# install(rtools)
+# install.packages("beeswarm")
+# md_input <- 
+#   sentence_both %>% 
+#   ggplot(aes(x = source, y = mean_wmp_per_person)) +
+#   geom_beeswarm() +
+#   geom_pointrange(stat = "summary", fun.data = mean_cl_normal) 
+# md_input
+```
 
+__Answer:__
+```{r multi_dataset_answer, echo = TRUE}
+md_answer <- 
+  md_input +
+  geom_point(stat="summary", fun.y = "mean", color="red", shape="diamond", size=5, position=position_nudge(x = 0.18))+
+  geom_errorbar(stat="summary", fun.data="mean_se", fun.args=list(mult=1.96), color = "blue", position=position_nudge(x=0.18), width=0)
+md_answer
+```
 
 ```{r}
 # generate bar plots for all 3 dfs
