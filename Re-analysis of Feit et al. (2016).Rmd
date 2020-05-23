@@ -2,21 +2,31 @@
 title: "Re-analysis of Feit et al. (2016)"
 output: html_notebook
 ---
-
+# ONLY FOR WINDOWS
 ```{r setup, include = FALSE}
-#Install the following packages. Ensure R version >= 4.00. 
-install.packages("tidyverse")
+Sys.getenv("PATH")
+
+Sys.setenv(PATH = paste(Sys.getenv("PATH"), 
+                        "C:\\RTools40",
+                        "C:\\RTools40\\mingw64\\bin", 
+                        sep = ";"))
+# Did it work (look at the end)?
+Sys.getenv("PATH")
+```
+
+# Install the following packages. Ensure R version >= 4.00. 
+```{r setup, include = FALSE}
+#Install the following packages. Ensure R version >= 4.00.install.packages("tidyverse")
 install.packages("ggplot2")
 install.packages("readxl")
 install.packages("openxlsx")
 install.packages("Hmisc")
-install.packages("modelr")
+install.pckages("modelr")
 install.packages("qqplotr")
 ```
 
+# Load the following packages with the commands in this block
 ```{r setup, include = FALSE}
-#Load the following packages with the commands in this block
-
 library("Hmisc")
 library("tidyverse")
 library("ggplot2")
@@ -25,19 +35,7 @@ library("readxl")
 library("openxlsx")
 library("modelr")
 library("qqplotr")
-
-##WINDOWS STUFF BELOW!
-# Sys.getenv("PATH")
-# 
-# Sys.setenv(PATH = paste(Sys.getenv("PATH"), 
-#                         "C:\\RTools40",
-#                         "C:\\RTools40\\mingw64\\bin", 
-#                         sep = ";"))
-# # Did it work (look at the end)?
-# Sys.getenv("PATH")
 ```
-
-
 ## Separate text files into different conditions and extract data from questionnaire
 - Parse the file names to differentiate between mixed, sentence and random conditions.
 
@@ -74,7 +72,7 @@ non_touch_typist_id <- read_xls[c(non_touch_typist),1]
 #n <- subset(read_xls, select = c(touch_typist) )
 
 ```
-##Extract data:
+# Extract data:
 ```{r}
 i = 0
 vars <- c("mixed", "random", "sentence")
@@ -109,7 +107,7 @@ for (var in vars){
   }
 
 ```
-##Creating a Dataset with the needed attributes for comparison:
+# Creating a Dataset with the needed attributes for comparison:
 
 *OUTPUT*
 Dataframes with the following names:
@@ -231,87 +229,118 @@ new <- conds(c("sentence_both", "mixed_both", "random_both"))
 ```
 other:
 ```{r multi_dataset_input, echo = TRUE}
-all_full <- lm(mean_wmp_per_person~ source*cond, data= new)
-data_aug <- new %>%
-  add_residuals(all_full)
+attributelist <- list("mean_wmp_per_person", "mean_sd_iki_per_person", "mean_uer_per_person", "mean_ke_per_person")
+models <- lapply(attributelist, function(x){
+  curr_plot <- paste("Plot" , x, sep="_")
+curr_p <- lm(substitute(i~ source*cond, list(i = as.name(x))), data= new)
 
-data_aug %>%
+
+curr_lm <- new %>%
+  add_residuals(curr_p)
+
+assign(curr_plot, curr_lm %>%
   ggplot(aes(sample = resid)) +
+    ggtitle(curr_plot)+
   stat_qq_band() +
   stat_qq_line() +
-  stat_qq_point(size = 0.5)
+  stat_qq_point(size = 0.5))
+})
 
-
+print(models)
 ```
 
 WMP for sentence plot
 ```{r multi_dataset_input, echo = TRUE}
-sentence_lm <- lm(mean_wmp_per_person ~ source, data= sentence_both)
-print(summary(sentence_lm))
+datalist <- list(sentence_both, mixed_both, random_both)
+cond <- list("sentence_both", "mixed_both", "random_both")
+i = 1
+condition_model <- vector("list", 3)
+for (df in datalist){
+curr_mod <- paste("model", i, sep="_")
+print(i)
+condition_model[[curr_mod]] <- lapply(attributelist, function(x){
+curr_lm <- lm(substitute(i~ source, list(i = as.name(x))), data=df)
 
-p <- ggplot(data = sentence_both, aes(x = source, y = mean_wmp_per_person)) + 
-  geom_point(color='blue')
-p + stat_summary(fun.data=mean_sdl, fun.args = list(mult=1), 
+
+summary(curr_lm)
+#df.predict <- cbind(df, predict(attributelist[i], interval='confidence'))
+p <- ggplot(data = df, aes_string(x = "source", y = x)) + 
+  geom_point(color='blue')+
+  ggtitle(as.character(cond[[i]]))
+
+assign(curr_mod,p + stat_summary(fun.data=mean_sdl, fun.args = list(mult=1), 
         geom="errorbar", color="red", width=0.2) +
-  stat_summary(fun.y=mean, geom="point", color="red")
+  stat_summary(fun.y=mean, geom="point", color="red"))
+})
+i = i+1
+}
+print(condition_model)
+# sentence_lm <- lm(mean_wmp_per_person ~ source, data= sentence_both)
+# print(summary(sentence_lm))
+# 
+# p <- ggplot(data = sentence_both, aes(x = source, y = mean_wmp_per_person)) + 
+#   geom_point(color='blue')
+# p + stat_summary(fun.data=mean_sdl, fun.args = list(mult=1), 
+#         geom="errorbar", color="red", width=0.2) +
+#   stat_summary(fun.y=mean, geom="point", color="red")
 
 ```
 random
 ```{r multi_dataset_input, echo = TRUE}
-random_lm <- lm(mean_wmp_per_person ~ source, data= random_both)
-print(summary(random_lm))
-
-p <- ggplot(data = random_both, aes(x = source, y = mean_wmp_per_person)) + 
-  geom_point(color='blue')
-p + stat_summary(fun.data=mean_sdl, fun.args = list(mult=1), 
-        geom="errorbar", color="red", width=0.2) +
-  stat_summary(fun.y=mean, geom="point", color="red")
+# random_lm <- lm(mean_wmp_per_person ~ source, data= random_both)
+# print(summary(random_lm))
+# 
+# p <- ggplot(data = random_both, aes(x = source, y = mean_wmp_per_person)) + 
+#   geom_point(color='blue')
+# p + stat_summary(fun.data=mean_sdl, fun.args = list(mult=1), 
+#         geom="errorbar", color="red", width=0.2) +
+#   stat_summary(fun.y=mean, geom="point", color="red")
 
 ```
 mixed:
-```{r multi_dataset_input, echo = TRUE}
-mixed_lm <- lm(mean_wmp_per_person ~ source, data= mixed_both)
-print(summary(mixed_lm))
-
-p <- ggplot(data = mixed_both, aes(x = source, y = mean_wmp_per_person)) + 
-  geom_point(color='blue')
-p + stat_summary(fun.data=mean_sdl, fun.args = list(mult=1), 
-        geom="errorbar", color="red", width=0.2) +
-  stat_summary(fun.y=mean, geom="point", color="red")
+# ```{r multi_dataset_input, echo = TRUE}
+# mixed_lm <- lm(mean_wmp_per_person ~ source, data= mixed_both)
+# print(summary(mixed_lm))
+# 
+# p <- ggplot(data = mixed_both, aes(x = source, y = mean_wmp_per_person)) + 
+#   geom_point(color='blue')
+# p + stat_summary(fun.data=mean_sdl, fun.args = list(mult=1), 
+#         geom="errorbar", color="red", width=0.2) +
+#   stat_summary(fun.y=mean, geom="point", color="red")
 
 ```
 
 __Answer:__
-```{r multi_dataset_answer, echo = TRUE}
-md_answer <- 
-  md_input +
-  geom_point(stat="summary", fun.y = "mean", color="red", shape="diamond", size=5, position=position_nudge(x = 0.18))+
-  geom_errorbar(stat="summary", fun.data="mean_se", fun.args=list(mult=1.96), color = "blue", position=position_nudge(x=0.18), width=0)
-md_answer
-```
+<!-- ```{r multi_dataset_answer, echo = TRUE} -->
+<!-- md_answer <-  -->
+<!--   md_input + -->
+<!--   geom_point(stat="summary", fun.y = "mean", color="red", shape="diamond", size=5, position=position_nudge(x = 0.18))+ -->
+<!--   geom_errorbar(stat="summary", fun.data="mean_se", fun.args=list(mult=1.96), color = "blue", position=position_nudge(x=0.18), width=0) -->
+<!-- md_answer -->
+<!-- ``` -->
 
-```{r}
-# generate bar plots for all 3 dfs
-# for mixed
-# ggplot(condition_list[[1]], aes(as.numeric(wpm))) + geom_bar()
-# # for random
-# ggplot(condition_list[[2]], aes(as.numeric(wpm))) + geom_bar()
-# # for sentence
-# ggplot(condition_list[[3]], aes(as.numeric(wpm))) + geom_bar()
+<!-- ```{r} -->
+<!-- # generate bar plots for all 3 dfs -->
+<!-- # for mixed -->
+<!-- # ggplot(condition_list[[1]], aes(as.numeric(wpm))) + geom_bar() -->
+<!-- # # for random -->
+<!-- # ggplot(condition_list[[2]], aes(as.numeric(wpm))) + geom_bar() -->
+<!-- # # for sentence -->
+<!-- # ggplot(condition_list[[3]], aes(as.numeric(wpm))) + geom_bar() -->
 
-# generate bar plots for all 3 dfs for touch-typists
-# for mixed
-ggplot(condition_list[[1]] %>% filter(user_id %in% touch_typist_id), aes(as.numeric(wpm))) + geom_bar()
-# for random
-ggplot(condition_list[[2]] %>% filter(user_id %in% touch_typist_id), aes(as.numeric(wpm))) + geom_bar()
-# for sentence
-ggplot(condition_list[[3]] %>% filter(user_id %in% touch_typist_id), aes(as.numeric(wpm))) + geom_bar()
+<!-- # generate bar plots for all 3 dfs for touch-typists -->
+<!-- # for mixed -->
+<!-- ggplot(condition_list[[1]] %>% filter(user_id %in% touch_typist_id), aes(as.numeric(wpm))) + geom_bar() -->
+<!-- # for random -->
+<!-- ggplot(condition_list[[2]] %>% filter(user_id %in% touch_typist_id), aes(as.numeric(wpm))) + geom_bar() -->
+<!-- # for sentence -->
+<!-- ggplot(condition_list[[3]] %>% filter(user_id %in% touch_typist_id), aes(as.numeric(wpm))) + geom_bar() -->
 
-# generate bar plots for all 3 dfs for non touch-typists
-# for mixed
-ggplot(condition_list[[1]] %>% filter(user_id %in% non_touch_typist_id), aes(as.numeric(wpm))) + geom_bar()
-# for random
-ggplot(condition_list[[2]] %>% filter(user_id %in% non_touch_typist_id), aes(as.numeric(wpm))) + geom_bar()
-# for sentence
-ggplot(condition_list[[3]] %>% filter(user_id %in% non_touch_typist_id), aes(as.numeric(wpm))) + geom_bar()
-```
+<!-- # generate bar plots for all 3 dfs for non touch-typists -->
+<!-- # for mixed -->
+<!-- ggplot(condition_list[[1]] %>% filter(user_id %in% non_touch_typist_id), aes(as.numeric(wpm))) + geom_bar() -->
+<!-- # for random -->
+<!-- ggplot(condition_list[[2]] %>% filter(user_id %in% non_touch_typist_id), aes(as.numeric(wpm))) + geom_bar() -->
+<!-- # for sentence -->
+<!-- ggplot(condition_list[[3]] %>% filter(user_id %in% non_touch_typist_id), aes(as.numeric(wpm))) + geom_bar() -->
+<!-- ``` -->
