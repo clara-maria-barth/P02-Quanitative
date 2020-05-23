@@ -5,13 +5,15 @@ output: html_notebook
 
 ```{r setup, include = FALSE}
 install.packages("jsonlite")
-install.packages("gdata")
+install.packages("dplyr")
 install.packages("ggplot2")
 install.packages("readr")
+install.packages("gdata")
 library(jsonlite)
 library(dplyr)
 library(ggplot2)
 library(readr)
+library(gdata)
 source("R/commons.R") # load functions that are shared across notebooks
 # import txt data for phrases in German and English 
 phrases_en <- read_tsv("./data/phrases_en.txt")[[1]]
