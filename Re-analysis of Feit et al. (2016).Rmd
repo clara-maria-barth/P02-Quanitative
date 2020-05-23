@@ -23,6 +23,7 @@ install.packages("openxlsx")
 install.packages("Hmisc")
 install.pckages("modelr")
 install.packages("qqplotr")
+install.packages("dplyr")
 ```
 
 # Load the following packages with the commands in this block
@@ -35,6 +36,8 @@ library("readxl")
 library("openxlsx")
 library("modelr")
 library("qqplotr")
+library("dplyr")
+
 ```
 ## Separate text files into different conditions and extract data from questionnaire
 - Parse the file names to differentiate between mixed, sentence and random conditions.
@@ -227,9 +230,10 @@ random_both <- both(c("TouchTypist_random_mod", "NonTouchTypist_random_mod"))
 new <- conds(c("sentence_both", "mixed_both", "random_both"))
 
 ```
-other:
+# Plot residuals with qqplot
+lm(attributes ~touchornontouch*condition)
 ```{r multi_dataset_input, echo = TRUE}
-attributelist <- list("mean_wmp_per_person", "mean_sd_iki_per_person", "mean_uer_per_person", "mean_ke_per_person")
+m <- function(attributlist, pl){
 models <- lapply(attributelist, function(x){
   curr_plot <- paste("Plot" , x, sep="_")
 curr_p <- lm(substitute(i~ source*cond, list(i = as.name(x))), data= new)
@@ -238,18 +242,35 @@ curr_p <- lm(substitute(i~ source*cond, list(i = as.name(x))), data= new)
 curr_lm <- new %>%
   add_residuals(curr_p)
 
+if(pl[1]== 1){
 assign(curr_plot, curr_lm %>%
   ggplot(aes(sample = resid)) +
-    ggtitle(curr_plot)+
+    ggtitle(str_replace_all(curr_plot, "([_])", " "))+
   stat_qq_band() +
   stat_qq_line() +
   stat_qq_point(size = 0.5))
-})
+  
+}else{
+assign(curr_plot, ggplot(new, aes(cond, eval(as.name(x)), color=source))
+       +stat_smooth(method="glm", formula=substitute(i~ cond, list(i = as.name(x))), alpha=0.2, size = 2, aes(fill=source))+
+         geom_point(position=position_jitter(height=0.03, width=0))+
+         ggtitle(str_replace_all(curr_plot, "([_])", " "))+
+         xlab("conditions")+ylab(substr(as.character(x), 6, nchar(as.character(x))-11)))}
 
-print(models)
+
+})
+}
+plots <- c("1", "2")
+attr <- list("mean_wmp_per_person", "mean_sd_iki_per_person", "mean_uer_per_person", "mean_ke_per_person")
+
+#
+print(m(attr, 1))
+print(m(attr, 2))
+
 ```
 
-WMP for sentence plot
+# Plots of all conditions per group
+for each condition a plot comparing touch and nontouch typist for all the different metrics.
 ```{r multi_dataset_input, echo = TRUE}
 datalist <- list(sentence_both, mixed_both, random_both)
 cond <- list("sentence_both", "mixed_both", "random_both")
