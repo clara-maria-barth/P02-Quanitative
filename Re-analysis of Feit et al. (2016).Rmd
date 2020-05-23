@@ -2,7 +2,7 @@
 title: "Re-analysis of Feit et al. (2016)"
 output: html_notebook
 ---
-For windows
+# ONLY FOR WINDOWS
 ```{r setup, include = FALSE}
 Sys.getenv("PATH")
 
@@ -14,25 +14,25 @@ Sys.setenv(PATH = paste(Sys.getenv("PATH"),
 Sys.getenv("PATH")
 ```
 
-
+# Install the following packages. Ensure R version >= 4.00. 
 ```{r setup, include = FALSE}
-#Install and load the following packages with the commands in this block.
-install.packages("tidyverse")
+#Install the following packages. Ensure R version >= 4.00.install.packages("tidyverse")
 install.packages("ggplot2")
 install.packages("readxl")
 install.packages("openxlsx")
 install.packages("Hmisc")
+install.pckages("modelr")
+install.packages("qqplotr")
+```
 
+# Load the following packages with the commands in this block
+```{r setup, include = FALSE}
 library("Hmisc")
 library("tidyverse")
 library("ggplot2")
 source("R/commons.R") # load functions that are shared across notebooks
 library("readxl")
 library("openxlsx")
-
-```
-
-```{r setup, include = FALSE}
 library("modelr")
 library("qqplotr")
 ```
@@ -72,7 +72,7 @@ non_touch_typist_id <- read_xls[c(non_touch_typist),1]
 #n <- subset(read_xls, select = c(touch_typist) )
 
 ```
-##Extract data:
+# Extract data:
 ```{r}
 i = 0
 vars <- c("mixed", "random", "sentence")
@@ -107,7 +107,7 @@ for (var in vars){
   }
 
 ```
-##Creating a Dataset with the needed attributes for comparison:
+# Creating a Dataset with the needed attributes for comparison:
 
 *OUTPUT*
 Dataframes with the following names:
