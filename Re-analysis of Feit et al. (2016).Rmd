@@ -85,6 +85,28 @@ non_touch_typist_id <- read_xls[c(non_touch_typist),1]
 
 ```
 # Extract data:
+OUTPUT:
+3 dataframes for the 3 conditions:
+mixed_mod 
+random_mod
+sentence_mod
+All containing
+	
+input_time
+user_id
+stimulus_id
+input_index
+iki
+input
+key_symbol
+current_input
+wpm
+sd_iki
+stimulus
+condition
+input_time_ms
+uer
+ke
 ```{r}
 i = 0
 vars <- c("mixed", "random", "sentence")
@@ -209,6 +231,20 @@ assign(ntt, Reduce(
 
 ```
 The bar plots generated from the three data frames - to compare to Figure 3 in the paper
+
+## Merge the values obtained for plotting
+OUTPUT:
+mixed_both
+sentence_both
+random_both
+
+Containing:
+user_id
+mean_wmp_per_person
+mean_sd_iki_per_person
+mean_uer_per_person
+mean_ke_per_person
+source (TouchT/NonTouchT)
 ```{r}
 #wmp = dv
 #variable changed
@@ -230,8 +266,7 @@ random_both <- both(c("TouchTypist_random_mod", "NonTouchTypist_random_mod"))
 new <- conds(c("sentence_both", "mixed_both", "random_both"))
 
 ```
-# Plot residuals with qqplot
-lm(attributes ~touchornontouch*condition)
+# Different GLM plots
 ```{r multi_dataset_input, echo = TRUE}
 
 
