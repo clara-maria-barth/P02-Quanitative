@@ -1,24 +1,23 @@
 ---
 title: "Re-analysis of Feit et al. (2016)"
-output:
+output: html_notebook
   html_document:
     df_print: paged
 ---
 
-```{r setupforwindows, include = FALSE}
+```{r setupforwindows, eval=FALSE, include = FALSE}
 # ONLY FOR WINDOWS
 Sys.getenv("PATH")
 
-Sys.setenv(PATH = paste(Sys.getenv("PATH"), 
-                        "C:\\RTools40",
-                        "C:\\RTools40\\mingw64\\bin", 
-                        sep = ";"))
-# Did it work (look at the end)?
-Sys.getenv("PATH")
+#Sys.setenv(PATH = paste(Sys.getenv("PATH"), 
+ #                       "C:\\RTools40",
+  #                      "C:\\RTools40\\mingw64\\bin", 
+   #                     sep = ";"))
+#Sys.getenv("PATH")
 ```
 
 ### Install the following packages. Ensure R version >= 4.00.
-```{r setupinstall, include = TRUE}
+```{r setupinstall, eval=FALSE, include = TRUE}
 #Install the following packages. Ensure R version >= 4.00.
 install.packages("tidyverse")
 install.packages("ggplot2")
@@ -34,7 +33,7 @@ install.packages("car")
 ```
 
 ```{r setupload, include = FALSE}
-# Load the following packages with the commands in this block
+# Load the following packages with the commands in this block.
 library("Hmisc")
 library("tidyverse")
 library("ggplot2")
@@ -56,11 +55,11 @@ Mixed: list of file names that contain the mixed condition.
 Sentence: list of file names that contain the sentence condition.
 Random: list of file names that contain the random condition.
 
-- Assign touch typit and non-touch-typist according to the answer in the questionnaire.
+- Assign touch typist and non-touch-typist according to the answer in the questionnaire.
 
 *OUTPUT:*
-touch_typist_id: a list of user_id strings that are touch typist.
-non_touch_typist_id: a list of user_id strings that are non-touch typist.
+touch_typist_id: a list of user_id strings that are from touch typists.
+non_touch_typist_id: a list of user_id strings that are from non-touch typists.
 
 ```{r}
 #data_file_paths <- list.files("data", full.names = TRUE)
@@ -158,7 +157,6 @@ Including:
 user_id, mean_wmp_per_person, mean_sd_iki_per_person, mean_uer_per_person, mean_ke_per_person
 
 ```{r}
-# typeist/nontypist = response var ahand vo wmp ist wkeit in gruppe von ty or nty so höcht.
 sentence_mod <- as.data.frame.matrix(sentence_mod)
 mixed_mod <- as.data.frame.matrix(mixed_mod)
 random_mod <- as.data.frame.matrix(random_mod)
@@ -171,29 +169,29 @@ for (df in condition_list){
   uer_nam <- paste(names_of_dataframes[i] , "uer", sep="_")
     ke_nam <- paste(names_of_dataframes[i] , "ke", sep="_")
 
-  #create one sd_iki per input per person  
+  #Create one sd_iki per input per person  
   assign(sd_iki_nam, df %>% group_by(user_id, current_input) %>% summarise(mean_iki = mean(as.numeric(sd_iki)))%>% group_by(user_id) %>% summarise(mean_sd_iki= mean(as.numeric(mean_iki))))
 
-#create one wmp per input per person  
+#Create one wmp per input per person  
   assign(wmp_nam, df %>% group_by(user_id, current_input) %>% summarise(m_wmp = mean(as.numeric(wpm)))%>% group_by(user_id) %>% summarise(mean_wmp= mean(as.numeric(m_wmp))))
 
-  #create one uer per input per person  
+  #Create one uer per input per person  
   assign(uer_nam, df %>% group_by(user_id, current_input) %>% summarise(m_uer = mean(as.numeric(uer)))%>% group_by(user_id) %>% summarise(mean_uer= mean(as.numeric(m_uer))))
 
-    #create one ke per input per person  
+    #Create one ke per input per person  
   assign(ke_nam, df %>% group_by(user_id, current_input) %>% summarise(m_ke = mean(as.numeric(ke)))%>% group_by(user_id) %>% summarise(mean_ke= mean(as.numeric(m_ke))))
   
-#mean wmp per person  
+#Mean wmp per person  
   print(df)
 currnam_wmp <-  df %>% group_by(user_id, current_input) %>% summarise(m = mean(as.numeric(wpm)))%>% group_by(user_id) %>% summarise(mean_wmp_per_person = mean(as.numeric(m)))
 
-#mean sd_iki per person  to use var below
+#Mean sd_iki per person  to use var below
 currnam_sd_iki <-  df %>% group_by(user_id, current_input) %>% summarise(m = mean(as.numeric(sd_iki)))%>% group_by(user_id) %>% summarise(mean_sd_iki_per_person = mean(as.numeric(m)))
 
-#mean uer per person to use var below
+#Mean uer per person to use var below
 currnam_uer <-  df %>% group_by(user_id, current_input) %>% summarise(m = mean(as.numeric(uer)))%>% group_by(user_id) %>% summarise(mean_uer_per_person = mean(as.numeric(m)))
 
-#mean ke per person to use var below
+#Mean ke per person to use var below
 currnam_ke <-  df %>% group_by(user_id, current_input) %>% summarise(m = mean(as.numeric(ke)))%>% group_by(user_id) %>% summarise(mean_ke_per_person = mean(as.numeric(m)))
 
 #Separate data set in Touch typist and nontouch typist
@@ -339,10 +337,9 @@ assign(curr_plot, ggplot(new, aes(cond, eval(as.name(x)), color=source))
 
 })
 }
-plots <- c("1", "2")
 attributelist <- list("mean_wmp_per_person", "mean_sd_iki_per_person", "mean_uer_per_person", "mean_ke_per_person")
 
-#
+# Call functions for different plotting options for each of the measurements.
 print(m(attributelist, 1))
 print(m(attributelist, 2))
 print(m(attributelist, 3))
@@ -353,7 +350,7 @@ print(m(attributelist, 4))
 
 
 # Plots of all conditions per group
-for each condition a plot comparing touch and nontouch typist for all the different metrics.
+For each condition a plot comparing touch- and non-touch-typist for all the different metrics.
 ```{r multi_dataset_input3, echo = TRUE}
 datalist <- list(sentence_both, mixed_both, random_both)
 cond <- list("sentence_both", "mixed_both", "random_both")
@@ -381,4 +378,3 @@ print(condition_model)
 
 
 ```
-

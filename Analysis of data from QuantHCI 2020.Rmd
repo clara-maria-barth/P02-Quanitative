@@ -14,8 +14,8 @@ library(dplyr)
 library(ggplot2)
 library(readr)
 library(gdata)
-source("R/commons.R") # load functions that are shared across notebooks
-# import txt data for phrases in German and English 
+source("R/commons.R") # Load functions that are shared across notebooks
+# Import txt data for phrases in German and English 
 phrases_en <- read_tsv("./data/phrases_en.txt")[[1]]
 phrases_de <- read_tsv("./data/phrases_de.txt")[[1]]
 
@@ -29,13 +29,12 @@ sentence_de <- phrases_de[1:50]
 ```
 
 The code below gives an example of how to load JSON file
-
 ```{r}
 path <-"./data/04 Collected data.zip"
-# unzip file and make it a list
+# Unzip file and make it a list
 unzip_file <- as.list(unzip(path))
 
-# read excel file from zip
+# Read excel file from zip
 file_excel <- gdata::read.xls(unzip_file[[1]])
 
 # Criteria to separate touch typist and non
@@ -46,17 +45,17 @@ criteria_1 <- which(file_excel[16] == "Yes")
 criteria_2 <- which(file_excel[17] == "Yes")
 touch_typist <- unique(c(criteria_1, criteria_2))
 
-# separate excel file from list of jsons
+# Separate excel file from list of jsons
 json_file <- unzip_file[-1]
 
-# separate touch typists and non-touch typists 
+# Separate touch typists and non-touch typists 
 json_type <- json_file[touch_typist] 
 json_non_type <- json_file[-touch_typist] 
 ```
 
-These are the results for touch typists
+These are the results for touch typists:
 ```{r}
-# get analysis for touch-typists
+# Get analysis for touch-typists
 json_file <- json_type
 
 ran_match <- lapply(seq_len(length(json_file)), function (z) {
@@ -166,7 +165,7 @@ data.frame("Mean wpm" = mean(unlist(wpm_PP)),
 
 ```
 
-These are the results for non-touch typists
+These are the results for non-touch typists:
 ```{r}
 # get analysis for touch-typists
 json_file <- json_non_type
@@ -279,9 +278,9 @@ data.frame("Mean wpm" = mean(unlist(wpm_PP)),
 ```
 
 
-
+Additional analysis (quantiles).
 ```{r}
-# function
+# Function
 .getQuantiles <- function(data) {
   quant <- quantile(unlist(data))
   quant_1 <- data[between(unlist(data), quant[1], quant[2])]
@@ -292,7 +291,7 @@ data.frame("Mean wpm" = mean(unlist(wpm_PP)),
              "frequency" = c(length(quant_1), length(quant_2), length(quant_3), length(quant_4)))
 }
 
-# additional analysis of the json data sets
+# Additional analysis of the json data sets
 # get quantiles
 wpm_quant <- .getQuantiles(wpm_PP)
 uer_quant <- .getQuantiles(UER_PP)
