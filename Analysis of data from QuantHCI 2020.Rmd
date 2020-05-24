@@ -62,10 +62,10 @@ json_file <- json_type
 ran_match <- lapply(seq_len(length(json_file)), function (z) {
   person_file <- fromJSON(json_file[[z]])
   # check if the person wrote in english or german and check how many of their entries match the entries in the txt files
-  if (length(which(random_en %in% person_file$Present)) == 0) {
-    length(which(random_de %in% person_file$Present))
+  if (length(which(random_en %in% person_file$Transcribed)) == 0) {
+    length(which(random_de %in% person_file$Transcribed))
   } else {
-    length(which(random_en %in% person_file$Present))
+    length(which(random_en %in% person_file$Transcribed))
   }
 })
 
@@ -74,10 +74,10 @@ random_mean <- mean(unlist(ran_match))
 mix_match <- lapply(seq_len(length(json_file)), function (z) {
   person_file <- fromJSON(json_file[[z]])
   # check if the person wrote in english or german and check how many of their entries match the entries in the txt files
-  if (length(which(random_en %in% person_file$Present)) == 0) {
-    length(which(mixed_de %in% person_file$Present))
+  if (length(which(random_en %in% person_file$Transcribed)) == 0) {
+    length(which(mixed_de %in% person_file$Transcribed))
   } else {
-    length(which(mixed_en %in% person_file$Present))
+    length(which(mixed_en %in% person_file$Transcribed))
   }
 })
 
@@ -86,10 +86,10 @@ mix_mean <- mean(unlist(mix_match))
 sen_match <- lapply(seq_len(length(json_file)), function (z) {
   person_file <- fromJSON(json_file[[z]])
   # check if the person wrote in english or german and check how many of their entries match the entries in the txt files
-  if (length(which(random_en %in% person_file$Present)) == 0) {
-    length(which(sentence_de %in% person_file$Present))
+  if (length(which(random_en %in% person_file$Transcribed)) == 0) {
+    length(which(sentence_de %in% person_file$Transcribed))
   } else {
-    length(which(sentence_en %in% person_file$Present))
+    length(which(sentence_en %in% person_file$Transcribed))
   }
 })
 
@@ -174,10 +174,10 @@ json_file <- json_non_type
 ran_match <- lapply(seq_len(length(json_file)), function (z) {
   person_file <- fromJSON(json_file[[z]])
   # check if the person wrote in english or german and check how many of their entries match the entries in the txt files
-  if (length(which(random_en %in% person_file$Present)) == 0) {
-    length(which(random_de %in% person_file$Present))
+  if (length(which(random_en %in% person_file$Transcribed)) == 0) {
+    length(which(random_de %in% person_file$Transcribed))
   } else {
-    length(which(random_en %in% person_file$Present))
+    length(which(random_en %in% person_file$Transcribed))
   }
 })
 
@@ -186,10 +186,10 @@ random_mean <- mean(unlist(ran_match))
 mix_match <- lapply(seq_len(length(json_file)), function (z) {
   person_file <- fromJSON(json_file[[z]])
   # check if the person wrote in english or german and check how many of their entries match the entries in the txt files
-  if (length(which(random_en %in% person_file$Present)) == 0) {
-    length(which(mixed_de %in% person_file$Present))
+  if (length(which(random_en %in% person_file$Transcribed)) == 0) {
+    length(which(mixed_de %in% person_file$Transcribed))
   } else {
-    length(which(mixed_en %in% person_file$Present))
+    length(which(mixed_en %in% person_file$Transcribed))
   }
 })
 
@@ -198,10 +198,10 @@ mix_mean <- mean(unlist(mix_match))
 sen_match <- lapply(seq_len(length(json_file)), function (z) {
   person_file <- fromJSON(json_file[[z]])
   # check if the person wrote in english or german and check how many of their entries match the entries in the txt files
-  if (length(which(random_en %in% person_file$Present)) == 0) {
-    length(which(sentence_de %in% person_file$Present))
+  if (length(which(random_en %in% person_file$Transcribed)) == 0) {
+    length(which(sentence_de %in% person_file$Transcribed))
   } else {
-    length(which(sentence_en %in% person_file$Present))
+    length(which(sentence_en %in% person_file$Transcribed))
   }
 })
 
