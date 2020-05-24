@@ -261,12 +261,18 @@ assign(curr_plot, curr_lm %>%
   stat_qq_point(size = 0.7))
   
 }else if(pl[1]== 2){
+  summary(curr_p)
   new %>%
     group_by(source) %>%
   mutate(dist_mdn = eval(as.name(x))-mean(eval(as.name(x)))) %>%
-    ggplot(aes(x=source, y =dist_mdn, group = source, colour=cond, alpha=0.7))+
-    geom_violin(alpha=0.4)+
-    geom_beeswarm(size = 2, cex=2, alpha= 0.5)
+    ggplot(aes(x=source, y =dist_mdn, group = source, colour=cond), alpha=0.9)+
+    geom_violin(aes(fill=source),colour = "white", alpha = 0.2)+
+    geom_beeswarm(size = 2, cex=2, alpha= 0.9)+
+    
+    stat_summary(fun.data=mean_sdl, fun.args = list(mult=1), 
+        geom="errorbar", color="black", width=0.2) +
+  stat_summary(fun.y=mean, geom="point", color="black")+
+    theme_minimal()
 }
 else{
 assign(curr_plot, ggplot(new, aes(cond, eval(as.name(x)), color=source))
@@ -282,9 +288,9 @@ plots <- c("1", "2")
 attributelist <- list("mean_wmp_per_person", "mean_sd_iki_per_person", "mean_uer_per_person", "mean_ke_per_person")
 
 #
-print(m(attr, 1))
-print(m(attr, 2))
-print(m(attr, 3))
+print(m(attributelist, 1))
+print(m(attributelist, 2))
+print(m(attributelist, 3))
 
 ```
 ```{r multi_dataset_input, echo = TRUE}
