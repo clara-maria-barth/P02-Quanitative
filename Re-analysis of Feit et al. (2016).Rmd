@@ -21,16 +21,16 @@ install.packages("ggplot2")
 install.packages("readxl")
 install.packages("openxlsx")
 install.packages("Hmisc")
-install.pckages("modelr")
+install.packages("modelr")
 install.packages("qqplotr")
 install.packages("dplyr")
 install.packages("ggbeeswarm")
 install.packages("broom")
+install.packages("car")
 ```
 
 # Load the following packages with the commands in this block
 ```{r setup, include = FALSE}
-install.packages("ggbeeswarm")
 library("Hmisc")
 library("tidyverse")
 library("ggplot2")
@@ -42,6 +42,7 @@ library("qqplotr")
 library("dplyr")
 library("ggbeeswarm")
 library("broom")
+library("car")
 ```
 ## Separate text files into different conditions and extract data from questionnaire
 - Parse the file names to differentiate between mixed, sentence and random conditions.
@@ -239,7 +240,7 @@ lm(attributes ~touchornontouch*condition)
 ```{r multi_dataset_input, echo = TRUE}
 
 
-m <- function(attributlist, pl){
+m <- function(attributelist, pl){
 models <- lapply(attributelist, function(x){
   curr_plot <- paste("Plot" , x, sep="_")
 curr_p <- lm(substitute(i~ source*cond, list(i = as.name(x))), data= new)
@@ -278,7 +279,7 @@ assign(curr_plot, ggplot(new, aes(cond, eval(as.name(x)), color=source))
 })
 }
 plots <- c("1", "2")
-attr <- list("mean_wmp_per_person", "mean_sd_iki_per_person", "mean_uer_per_person", "mean_ke_per_person")
+attributelist <- list("mean_wmp_per_person", "mean_sd_iki_per_person", "mean_uer_per_person", "mean_ke_per_person")
 
 #
 print(m(attr, 1))
@@ -296,7 +297,7 @@ bindf <- new %>%
   glm_tnt <- glm(s_fac~mean_wmp_per_person, data = bindf, family = binomial(link = "logit"))
   
   
-  anova_cont <- Anova(glm_tnt, type="II")
+anova_cont <- Anova(glm_tnt, type="II")
 coeff_cont <- tidy(glm_tnt, conf.int = TRUE, exponentiate = TRUE)
 
 
