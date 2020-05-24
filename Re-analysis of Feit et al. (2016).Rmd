@@ -395,29 +395,3 @@ __Answer:__
 <!--   geom_errorbar(stat="summary", fun.data="mean_se", fun.args=list(mult=1.96), color = "blue", position=position_nudge(x=0.18), width=0) -->
 <!-- md_answer -->
 <!-- ``` -->
-
-<!-- ```{r} -->
-<!-- # generate bar plots for all 3 dfs -->
-<!-- # for mixed -->
-<!-- # ggplot(condition_list[[1]], aes(as.numeric(wpm))) + geom_bar() -->
-<!-- # # for random -->
-<!-- # ggplot(condition_list[[2]], aes(as.numeric(wpm))) + geom_bar() -->
-<!-- # # for sentence -->
-<!-- # ggplot(condition_list[[3]], aes(as.numeric(wpm))) + geom_bar() -->
-
-<!-- # generate bar plots for all 3 dfs for touch-typists -->
-<!-- # for mixed -->
-<!-- ggplot(condition_list[[1]] %>% filter(user_id %in% touch_typist_id), aes(as.numeric(wpm))) + geom_bar() -->
-<!-- # for random -->
-<!-- ggplot(condition_list[[2]] %>% filter(user_id %in% touch_typist_id), aes(as.numeric(wpm))) + geom_bar() -->
-<!-- # for sentence -->
-<!-- ggplot(condition_list[[3]] %>% filter(user_id %in% touch_typist_id), aes(as.numeric(wpm))) + geom_bar() -->
-
-<!-- # generate bar plots for all 3 dfs for non touch-typists -->
-<!-- # for mixed -->
-<!-- ggplot(condition_list[[1]] %>% filter(user_id %in% non_touch_typist_id), aes(as.numeric(wpm))) + geom_bar() -->
-<!-- # for random -->
-<!-- ggplot(condition_list[[2]] %>% filter(user_id %in% non_touch_typist_id), aes(as.numeric(wpm))) + geom_bar() -->
-<!-- # for sentence -->
-<!-- ggplot(condition_list[[3]] %>% filter(user_id %in% non_touch_typist_id), aes(as.numeric(wpm))) + geom_bar() -->
-<!-- ``` -->
