@@ -24,10 +24,13 @@ install.packages("Hmisc")
 install.pckages("modelr")
 install.packages("qqplotr")
 install.packages("dplyr")
+install.packages("ggbeeswarm")
+install.packages("broom")
 ```
 
 # Load the following packages with the commands in this block
 ```{r setup, include = FALSE}
+install.packages("ggbeeswarm")
 library("Hmisc")
 library("tidyverse")
 library("ggplot2")
@@ -37,7 +40,8 @@ library("openxlsx")
 library("modelr")
 library("qqplotr")
 library("dplyr")
-
+library("ggbeeswarm")
+library("broom")
 ```
 ## Separate text files into different conditions and extract data from questionnaire
 - Parse the file names to differentiate between mixed, sentence and random conditions.
@@ -233,6 +237,8 @@ new <- conds(c("sentence_both", "mixed_both", "random_both"))
 # Plot residuals with qqplot
 lm(attributes ~touchornontouch*condition)
 ```{r multi_dataset_input, echo = TRUE}
+
+
 m <- function(attributlist, pl){
 models <- lapply(attributelist, function(x){
   curr_plot <- paste("Plot" , x, sep="_")
@@ -246,14 +252,25 @@ if(pl[1]== 1){
 assign(curr_plot, curr_lm %>%
   ggplot(aes(sample = resid)) +
     ggtitle(str_replace_all(curr_plot, "([_])", " "))+
-  stat_qq_band() +
-  stat_qq_line() +
-  stat_qq_point(size = 0.5))
+    geom_qq_band(bandType = "ks", mapping = aes(fill = "KS"), alpha = 0.2) +
+    geom_qq_band(bandType = "ts", mapping = aes(fill = "TS"), alpha = 0.2) +
+    geom_qq_band(bandType = "pointwise", mapping = aes(fill = "Normal"), alpha = 0.2)  +
+        geom_qq_band(bandType = "boot", mapping = aes(fill = "Bootstrap"), alpha = 0.2) +
+  stat_qq_line(size=.2) +
+  stat_qq_point(size = 0.7))
   
-}else{
+}else if(pl[1]== 2){
+  new %>%
+    group_by(source) %>%
+  mutate(dist_mdn = eval(as.name(x))-mean(eval(as.name(x)))) %>%
+    ggplot(aes(x=source, y =dist_mdn, group = source, colour=cond, alpha=0.7))+
+    geom_violin(alpha=0.4)+
+    geom_beeswarm(size = 2, cex=2, alpha= 0.5)
+}
+else{
 assign(curr_plot, ggplot(new, aes(cond, eval(as.name(x)), color=source))
-       +stat_smooth(method="glm", formula=substitute(i~ cond, list(i = as.name(x))), alpha=0.2, size = 2, aes(fill=source))+
-         geom_point(position=position_jitter(height=0.03, width=0))+
+       +stat_smooth(method="glm", formula=substitute(i~ cond, list(i = as.name(x))), alpha=0.2, size = 1, aes(fill=source))+
+         geom_point(position=position_jitter(height=0.03, width=0), alpha=0.5)+
          ggtitle(str_replace_all(curr_plot, "([_])", " "))+
          xlab("conditions")+ylab(substr(as.character(x), 6, nchar(as.character(x))-11)))}
 
@@ -266,8 +283,40 @@ attr <- list("mean_wmp_per_person", "mean_sd_iki_per_person", "mean_uer_per_pers
 #
 print(m(attr, 1))
 print(m(attr, 2))
+print(m(attr, 3))
 
 ```
+```{r multi_dataset_input, echo = TRUE}
+bindf <- new %>%
+    mutate(s_fac = factor(source, levels=c("TouchTyp", "NonTouchTyp")),
+           prob_t = as.numeric(s_fac)-1
+           )
+
+  print(bindf)
+  glm_tnt <- glm(s_fac~mean_wmp_per_person, data = bindf, family = binomial(link = "logit"))
+  
+  
+  anova_cont <- Anova(glm_tnt, type="II")
+coeff_cont <- tidy(glm_tnt, conf.int = TRUE, exponentiate = TRUE)
+
+
+
+p_prediction <-
+  bindf %>%
+  add_predictions(glm_tnt) %>%
+  mutate(Prob = plogis(pred)) %>%
+
+  # plotting function
+  ggplot(aes(x = mean_wmp_per_person, color = source)) +
+  geom_point(aes(y = prob_t)) +
+  geom_line(aes(y = Prob), color = "blue") +
+  xlab("words per minute")+
+  ylab("Probability of being a Touch Typist") +
+  theme(legend.position = "none")
+print(p_prediction)
+
+```
+
 
 # Plots of all conditions per group
 for each condition a plot comparing touch and nontouch typist for all the different metrics.
